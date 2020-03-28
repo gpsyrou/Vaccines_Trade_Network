@@ -1,0 +1,106 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,January 2019,6,1,3,Re-exports,268,Georgia,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,11097,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,268,Georgia,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,11097,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,11097,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,11097,,,0
+HS,2019,201910,October 2019,6,1,3,Re-exports,268,Georgia,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,306400,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,268,Georgia,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2726,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,91,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8147,,1243476,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,268,Georgia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,109,,12629,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1589,,216519,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,21795,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,9748,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168,,153997,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,533,,432721,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,58221,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,774,,90000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6507,,453257,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,268,Georgia,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,134200,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,134200,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,268,Georgia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,9816,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,558,,213378,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,268,Georgia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,3801,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,268,Georgia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,246,,216292,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,268,Georgia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,14167,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,268,Georgia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,63000,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,805,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2726,,,0
+HS,2019,201909,September 2019,6,1,3,Re-exports,268,Georgia,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,19290,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,268,Georgia,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,19290,,,0
+HS,2019,201909,September 2019,6,1,3,Re-exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,19290,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,19290,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,268,Georgia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,21,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,268,Georgia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,7903,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,268,Georgia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,23646,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,268,Georgia,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,983,,,0
+HS,2019,201905,May 2019,6,1,3,Re-exports,268,Georgia,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,983,,,0
+HS,2019,201905,May 2019,6,1,3,Re-exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,983,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,983,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,20046,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,965,,756906,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1363,,171649,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,268,Georgia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,472,,152130,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,268,Georgia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,44768,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,268,Georgia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,6664,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1844,,493064,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,268,Georgia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3395,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,268,Georgia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,510,,,0
+HS,2019,201903,March 2019,6,1,3,Re-exports,268,Georgia,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,1349,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,1988,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,43848,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,49741,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,268,Georgia,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,4818,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,268,Georgia,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,11886,,,0
+HS,2019,201903,March 2019,6,1,3,Re-exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,1349,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,16705,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,268,Georgia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,17927,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,268,Georgia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,299,,51795,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,268,Georgia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,23368,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,5058,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,47323,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,655,,145471,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,902,,2267737,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,268,Georgia,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,306400,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,238,,99139,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,587,,381951,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,268,Georgia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,4118,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,399,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1025,,489058,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,5942,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,268,Georgia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,19378,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,268,Georgia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,946,,459221,,,0
+HS,2019,201912,December 2019,6,1,3,Re-exports,268,Georgia,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,24721,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,268,Georgia,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,24721,,,0
+HS,2019,201912,December 2019,6,1,3,Re-exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,24721,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,24721,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,268,Georgia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,3160,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,268,Georgia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,5730,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,268,Georgia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1283,,150000,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,268,Georgia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,45000,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,268,Georgia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,19500,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,268,Georgia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1331,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,268,Georgia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,814,,659759,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,268,Georgia,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,55406,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,268,Georgia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,864,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,268,Georgia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,7860,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,11243,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,268,Georgia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2546,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,268,Georgia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1283,,150000,,,0
+HS,2019,201910,October 2019,6,1,3,Re-exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,306400,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,306400,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2163,,738398,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,268,Georgia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,15780,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,268,Georgia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,8000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,268,Georgia,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,211765,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,268,Georgia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,849,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,268,Georgia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,8940,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,268,Georgia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,8973,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,268,Georgia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,552,,1358177,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,1341280,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,268,Georgia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,39000,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,268,Georgia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,580,,1930671,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,268,Georgia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,28733,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,268,Georgia,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,1257,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,268,Georgia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,5733,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,268,Georgia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,281,,247089,,,0

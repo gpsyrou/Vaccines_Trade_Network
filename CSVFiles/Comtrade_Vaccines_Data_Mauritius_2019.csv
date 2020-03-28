@@ -1,0 +1,72 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201909,September 2019,6,1,1,Imports,480,Mauritius,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,28,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,480,Mauritius,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,369,,80379,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,13963,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,392,,94370,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,480,Mauritius,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,2214,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,480,Mauritius,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,174,,105349,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,480,Mauritius,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,1400,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,219,,34526,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,435,,143489,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,480,Mauritius,,174,Comoros,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,28145,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,480,Mauritius,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,820,,514184,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,480,Mauritius,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1423,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,347,,41789,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1193,,559566,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,480,Mauritius,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,215120,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,480,Mauritius,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,233,,468064,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,10796,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,480,Mauritius,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1302,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,485,,85903,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,496,,91214,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,480,Mauritius,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4009,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,480,Mauritius,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,16549,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,331,,338169,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,480,Mauritius,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,7613,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,389,,362332,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,480,Mauritius,,174,Comoros,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,79902,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,79902,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,918,,1268110,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,865,,765057,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4809,,1223978,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,480,Mauritius,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2376,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4770,,1217006,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,480,Mauritius,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,584,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,480,Mauritius,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1272,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,480,Mauritius,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,2739,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,480,Mauritius,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,9170,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,480,Mauritius,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,442,,57773,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,480,Mauritius,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1354,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,480,Mauritius,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,8341,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,480,Mauritius,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1849,,601900,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,480,Mauritius,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,13758,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,221,,43292,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,480,Mauritius,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,1978,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2137,,670623,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,480,Mauritius,,174,Comoros,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,29138,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,29138,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,28145,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,480,Mauritius,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,4133,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,480,Mauritius,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,2077,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,480,Mauritius,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,179,,18864,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,480,Mauritius,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1006,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,16180,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,572,,75635,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,480,Mauritius,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,225,,37508,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1792,,986648,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,884,,242176,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,480,Mauritius,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,868,,727985,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,480,Mauritius,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,16488,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,480,Mauritius,,174,Comoros,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,56287,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,56287,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,480,Mauritius,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,682,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,661,,790019,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,480,Mauritius,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,233,,476482,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,480,Mauritius,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,926,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,480,Mauritius,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,3326,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,480,Mauritius,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,2170,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,480,Mauritius,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,3918,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,480,Mauritius,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,19513,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,26757,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,480,Mauritius,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,30072,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,480,Mauritius,,174,Comoros,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,30072,,,0

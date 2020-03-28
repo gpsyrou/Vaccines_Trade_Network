@@ -1,0 +1,67 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201909,September 2019,6,1,1,Imports,246,Finland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6576,,2923770,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,831,,205237,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1190,,2151104,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8607,,5293745,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,153,,59947,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,378,,1915981,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,125634,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,882,,3726967,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,570,,3489649,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,246,Finland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,105693,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,246,Finland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5991,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,246,Finland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,186,,280085,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,559,,124451,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2192,,2177341,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,246,Finland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,4363,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,960,,2320663,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,246,Finland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,54078,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,246,Finland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,329,,290927,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1983,,2603953,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,246,Finland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,4021,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,222119,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,246,Finland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,372,,535534,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,246,Finland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,42983,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,751492,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2543,,2449267,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,246,Finland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,246969,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,246,Finland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,24063,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,385,,1425005,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3005,,2606260,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1879,,397179,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3455,,1498926,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,246,Finland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,492,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,246,Finland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,969,,493814,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,674,,129678,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,335136,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,246,Finland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,989,,104948,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,246,Finland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,14144,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,246,Finland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,641,,420713,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,407,,634327,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,246,Finland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1034,,1131320,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,246,Finland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,7158,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,246,Finland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,13634,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,246,Finland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,7576,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,246,Finland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1873,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,246,Finland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1265,,893657,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,246,Finland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,166,,170171,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1120,,152902,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1530,,938570,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,238,,604842,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,246,Finland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,10655,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,246,Finland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2043,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,246,Finland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,284371,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,246,Finland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1329,,928985,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1456,,1215398,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,989,,220828,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,104248,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,4230,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3033,,3147814,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1288,,143753,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8015,,9206559,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1336,,2200847,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,7249,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,246,Finland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1624,,1622490,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,246,Finland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,246,Finland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,637,,216153,,,0

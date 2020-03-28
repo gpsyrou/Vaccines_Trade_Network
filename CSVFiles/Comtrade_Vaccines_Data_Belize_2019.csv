@@ -1,0 +1,48 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201905,May 2019,6,1,1,Imports,84,Belize,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,5249,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,233,,52900,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,878,,34701,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,7373,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1151,,68042,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,472,,20378,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,767,,62689,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,7510,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,5566,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,862,,80868,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,226,,12194,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1051,,83634,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1297,,116185,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,84,Belize,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,459,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,84,Belize,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,6547,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,84,Belize,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,1548,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,84,Belize,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,3122,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,84,Belize,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,997,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,84,Belize,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,202,,50983,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,84,Belize,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,223,,24028,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,84,Belize,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,149,,2626,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,84,Belize,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,194,,3959,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,848,,34242,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211,,11224,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,2408,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,2540,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,418,,22059,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,573,,30931,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,473,,15259,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,1917,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92,,5427,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,559,,50942,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,4971,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,10833,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,5357,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,398,,49582,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,824,,100925,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,84,Belize,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,492,,21549,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,84,Belize,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,9122,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,84,Belize,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,2214,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,84,Belize,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,1579,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,84,Belize,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,5840,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,84,Belize,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,7373,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,84,Belize,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,143,,9892,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,84,Belize,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,4018,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,84,Belize,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,5816,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,84,Belize,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,36505,,,0

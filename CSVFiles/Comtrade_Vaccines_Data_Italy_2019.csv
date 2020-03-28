@@ -1,0 +1,406 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1455,,90473,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2367,,3791154,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,296,,96038,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,909,,2847296,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,856,,1133051,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6861,,8521114,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,599,,644066,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,870,,446231,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12325,,3151547,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,53593,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,633,,480155,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,900,,799233,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1932,,2148795,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5631,,7271760,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,726,,664037,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16728,,74303205,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,21763,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1015,,1849454,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51358,,106795518,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,163,,47299,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,569,,2128706,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,19137,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,7277,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1958,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,26325,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,11253,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4509,,9459006,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17793,,22949104,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2654,,1278187,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,518,,178911,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1710,,482052,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26681,,4788961,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53865,,39136220,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,408,,884020,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,210,,127906,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,814,,56568,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,22768,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2373,,1884937,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,885,,259758,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12235,,2157571,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55989,,85199315,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,298,,21224,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2527,,2713462,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4401,,2289331,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4334,,9777227,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7564,,16161519,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8216,,858166,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,653,,409381,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4181,,1079549,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,875,,960989,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,141,,64911,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,480,,266634,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10539,,11576667,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32569,,26469839,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,332,,796715,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,22584,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,21001,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1545,,1124971,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,393,,493867,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22481,,27027547,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1593,,2081614,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,514,,833427,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15701,,14940369,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,381,,25690,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,12762,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3088,,179296,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,229,,233089,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2318,,890893,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22012,,15606589,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1977,,7779744,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2086,,795819,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10451,,4970682,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,47378,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2760,,881145,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15132,,7426814,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95264,,145067363,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41714,,30972250,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,759,,491729,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,5816,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41364,,43841323,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2692,,4241150,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,42174,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,6053,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3836,,9855965,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10539,,2703298,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2535,,2943355,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,48450,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,75716,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112640,,13874056,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,76991,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,21272,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1770,,2287960,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,187,,449936,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2075,,2876199,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,188084,,101390912,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66886,,83599580,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2002,,481664,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11300,,13488383,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,24022,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9523,,11315110,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,969,,320477,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1457,,986196,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,9584,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1094,,709301,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,226,,496170,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1417,,2779589,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,406,,257238,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,52490,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,265,,2976652,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,16910,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2311,,2537982,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14416,,9221140,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4044,,13181309,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1946,,2633702,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,968,,268762,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7632,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,274,,88416,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10920,,1068879,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38407,,38362125,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,38536,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,39954,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,18771,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,82406,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,58580353,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,288,,100130,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,777,,607033,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,315,,117706,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,780,,2407251,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,431,,188551,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12939,,9270185,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,363,,181779,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,4188,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,85184,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1473,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,42199,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,551,,32111,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2779,,1483067,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2899,,61243,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2304,,2545440,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20271,,2238258,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,16119,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,24595,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,5264,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1151,,3981348,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,48628,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8788,,9708700,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5884,,1448006,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13082,,14453319,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11456,,265401,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2871,,1917125,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,7137,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14887,,3372246,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3573,,3960269,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,6280,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2426,,2113930,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,196,,103445,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95340,,50363895,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8990,,7857032,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1364,,407325,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,105,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,13548,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108338,,60859280,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,116,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7010,,15126881,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2097,,1256759,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1033,,799354,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12750,,483582,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2413,,2530022,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,568,,272597,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3868,,4771100,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,53982,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,272467,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1915,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,40979,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,15664,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24269,,88702756,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,30270,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,234,,381351,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,8787,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,734,,1956721,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6101,,6701402,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3472,,3283041,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,748,,821959,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,702,,785881,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,203474,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4791,,3312149,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,241,,15522,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,46827,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,381,Italy,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,587,,38365,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,381,Italy,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,122226,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16364,,9956236,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1999,,8504040,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7141,,12459079,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1025,,294703,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,5868,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56291,,37264387,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29702,,6044460,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,14523,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,680,,742017,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,43333,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,9042,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,13967,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1284,,4265697,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8231,,2141025,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,6886,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,834,,1193935,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2460,,4368161,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,758,,829096,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3149,,2823880,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,33326,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,179,,284827,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,627,,687605,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,881,,2944952,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,75845,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18382,,13339827,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43378,,38786101,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2047,,2643629,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,180251,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,585,,1295397,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,44921,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2734,,770502,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,381,Italy,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,33455,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9863,,11441074,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,8653,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,41581,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,83,,138252,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,287,,96332,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2982,,7695414,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16853,,13117518,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,420,,179751,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,942,,1023837,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,29050,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,405,,295613,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1369,,4165235,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11374,,2937872,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92,,1515799,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3527,,3834907,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18089,,21412831,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4616,,3616871,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,687,,227474,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,2581,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1891,,441712,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4689,,1385910,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5801,,2159571,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,381,Italy,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,580216,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30000,,27667595,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2820,,3129857,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12147,,13680781,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,868,,658456,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3540,,3153639,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2143,,2329989,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,220,,66107,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2922,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,35184,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,3371,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,49785,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3951,,4295720,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74206,,73926699,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3745,,3262748,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,381,Italy,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,4322,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,381,Italy,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,339711,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,331,,22201,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,39297,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9045,,6840260,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,182430,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1235,,2486828,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,24159,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8990,,17313930,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6643,,20544358,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,26554,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1801,,2553560,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,7370901,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22149,,16855462,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,383,,24363,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3216,,14551899,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,15091,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5448,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,457,,1580169,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,185,,86137,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2609,,3806759,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,10097,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,766,,494152,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4281,,7771872,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,23632,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,11120,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,4823,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5840,,24792645,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,16708,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13790,,25536952,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2789,,2977273,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,14457,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,592,,34140,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1086,,62684,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58399,,341184,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,247,,179694,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3735,,7586009,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,121,,170813,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1016,,1314610,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,115942,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,326,,22433,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,857,,1049237,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2132,,2911905,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,56541,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1161,,71657,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3469,,3395805,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2637,,5214854,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2713,,11455334,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,4531969,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5500,,9309208,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,709,,228530,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,2882,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28729,,10887308,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42140,,42159573,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1758,,523513,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,5975,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102625,,83254628,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1918,,9965035,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,39336,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,32810,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,399,,1395759,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,5827,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1605,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1811,,4355532,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,74310,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3621,,7177589,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,35942,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,132760,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,590,,6794750,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45417,,52512606,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,75391,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3353,,8346840,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2668,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,472,,1175942,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48677,,61469656,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,24830,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,32525,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,4246,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2567,,15333468,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10607,,9474797,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4992,,1262482,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2473,,3231170,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,143961,,49519825,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48560,,32956303,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,349,,120565,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91,,448638,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52016,,8469805,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4410,,2110032,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1098,,414455,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37437,,5000026,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,14497,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,159,,38859,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,37508,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3634,,4656858,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,55738,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15098,,10115810,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,559,,225890,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2323,,4710543,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,91262,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,239,,74657,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,261288,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,246236,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,170,,793317,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,503,,28796,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,422,,490106,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,381,Italy,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360,,663930,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74300,,143277134,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,13536,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,429,,4903310,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18463,,13887737,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,2456,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2539,,4258324,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1876,,4687670,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,50923,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4512,,6126171,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,297,,96000,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2439,,4902651,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,26043,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,474,,226936,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,7338,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,302,,86280,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1968,,2357603,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2601,,3816923,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15070,,22115521,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1806,,2650710,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,90463,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,6268,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,533,Aruba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,4736,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2835,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,789,,604038,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14512,,64864796,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,27774,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,30140,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,7350,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2675,,4649445,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,805,,375726,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,428,,6106794,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23014,,32017631,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1043,,276452,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7294,,10956545,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,787,,314594,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,579,,5232,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75656,,10785329,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,109648,,64395702,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,381,Italy,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,3557400,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,381,Italy,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1828,,2682682,,,0

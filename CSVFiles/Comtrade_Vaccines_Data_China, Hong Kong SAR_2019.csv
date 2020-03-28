@@ -1,0 +1,262 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201908,August 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,63831,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,343527,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2701468,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,162391,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2129327,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2387,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,183884,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13417,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,34555,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1392024,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1777003,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,153117,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,407200,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5586885,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,61763,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6210,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32372,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11442,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,674566,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16593,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17461612,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15738,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,274600,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17787,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,100888,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24667656,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11967089,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,63396,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3992765,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,187342,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,77093,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40939,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1109797,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11060,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,940191,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19475,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3290942,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,61447,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1958624,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,214018,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11087,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3159547,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1812131,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5300,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,142571,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,965126,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,76482,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,146845,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1431,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,88445,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,460592,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3098694,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2492033,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1028140,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,193418,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1259303,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11168,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6445,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,336414,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6624,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,188599,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,952628,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,88672,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,147388,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19203,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,369250,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11427,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,421576,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5467805,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,38723,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4853967,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,131911,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,443203,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,18570538,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22691,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,21839143,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1157948,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12426,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,184461,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36511,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,115235,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7692,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1731641,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11874,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2846765,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1145,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,242210,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2591533,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,27893,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20267,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,119602,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1648180,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,904328,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,27226230,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2271,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2510,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6620519,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,199812,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4480,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2260006,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15416361,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,35803,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,81474,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1120811,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,48717,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,203220,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13038618,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,587,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,295333,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10301590,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,18691,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,604514,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15912,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1468,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,298454,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12046,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2456742,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,511924,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,148560,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1595166,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24480,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15037,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,161571,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2749544,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26835,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1082246,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,817624,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,519940,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,190976,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,111923,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,273243,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19511287,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,747026,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,190852,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14668,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4199112,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,97100,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6192,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,108192,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12186,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,107426,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,147407,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12117971,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19913,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1457997,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12100406,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3098,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1968821,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,131382,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5618,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24126,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7190928,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26660,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,273334,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,106264,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,117986,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,66321,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,221205,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16962,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,807839,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8867,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,81581,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1049415,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,42728,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2960256,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,189875,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,458840,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,209969,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1869195,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,160389,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,29259,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13579123,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,807805,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,384074,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,854564,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3994,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,65290,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,997573,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8123427,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,120898,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,86937,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,28533,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,220636,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,875204,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,94275,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26447,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17588,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,871878,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,21131529,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5676,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1154642,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1045071,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,289404,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,113008,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,117924,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,37355,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,331252,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15523,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,998726,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36217,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12794120,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15747,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6251,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2832,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4860,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4041747,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,121173,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,112830,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,594756,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17232,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1224928,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,283740,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,85998,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2319485,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,84951,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2437843,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2658653,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,135856,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6295914,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,804836,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1617,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,801149,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32327,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1329094,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6968,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,184010,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4220,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40876,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,636342,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,49202,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2405273,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3848,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2334328,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,211303,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2112715,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3476,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2984,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24814894,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,808045,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,820903,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1285731,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,27986,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16655534,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,18521,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1755904,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,31155,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,44290,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1145551,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2120058,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4681,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,344,"China, Hong Kong SAR",,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,96535,,,0

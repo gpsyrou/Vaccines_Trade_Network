@@ -1,0 +1,39 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201912,December 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,290,,48060,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,392,,72065,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,470,Malta,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,24005,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5998,,1143060,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,470,Malta,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,2694,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,470,Malta,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,652,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,470,Malta,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,2854,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1923,,193424,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1536,,231187,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1677,,151997,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1236,,151183,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1179,,129774,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,470,Malta,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,21409,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2163,,263633,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,470,Malta,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,17914,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2193,,281547,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,470,Malta,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,50706,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1484,,565102,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,470,Malta,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,834,,8520,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,470,Malta,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,477,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,470,Malta,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92,,57550,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2427,,682355,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6033,,1149260,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2194,,341323,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2194,,341323,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1050,,405471,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1050,,405471,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1519,,222220,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1519,,222220,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1923,,193424,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,470,Malta,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,933,,206534,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,470,Malta,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,201,,22606,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,470,Malta,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,11126,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1178,,240266,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,470,Malta,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,14150,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1601,,245337,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,470,Malta,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1599,,453515,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,470,Malta,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3276,,605512,,,0

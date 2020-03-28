@@ -1,0 +1,247 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201907,July 2019,6,1,2,Exports,392,Japan,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,130293,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3904,,2127832,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,16129,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,114710,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4406,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15279,,8384683,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,87772,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,20898737,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,56813,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,11846,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,877,,340875,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,156,,60996,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19893,,11298559,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,392,Japan,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,5211,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,497518,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,238,,16787335,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,392,Japan,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,112495,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,392,Japan,,226,Equatorial Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,10123,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,31442,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4316,,3388252,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,392,Japan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,6113,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,392,Japan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4314,,3382139,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6762,,9369952,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8114,,4794633,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,9257508,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,14895,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,197512,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3712,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,29307,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,40379,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,4885,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,42035,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,20731,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3645,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8346,,14531001,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,4550,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,952,,4852122,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,392,Japan,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,21432,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8217,,34224800,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,123710,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14136,,7986727,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,23284,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,16813,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,993,,3770406,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,12823,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1888,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21250,,28293535,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,51639,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,58117,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,7172,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2462,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1879,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,19795,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,68760,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21146,,16680604,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2128,,7005863,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,468,,179028,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,487,,184724,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,268,,82883,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,45153,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,15081,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3712,,28549398,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,392,Japan,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,497,,2013401,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20407,,25473786,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3141,,685321,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4197,,893055,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,5107,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5968,,2578265,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,55674,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16813,,9402730,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,31582,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,114465,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10348,,5887254,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,149549,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,30506,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,8252,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,35239,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,392,Japan,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,6982,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,4272,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,212778,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,11017,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,10329,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,7675,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,62320,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,8446,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,8006,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3783,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8312,,34909185,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,392,Japan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,7437,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,10445,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2960,,2088831,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,93462,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,34263,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,190,,65506,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,11559,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,190,,966750,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2121,,1617346,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4924,,8703623,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,113641,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7287,,12360809,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4713,,8162949,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,3480,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,18180,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,123406,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,36274,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,1192009,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,207,,88560,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,123787,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,9379,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,211869,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,392,Japan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,6960,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,392,Japan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,8320,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,85177,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,392,Japan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,1571713,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,392,Japan,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,22254,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,8764,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,5958,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,11717,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,22429,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2827,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,10195,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23981,,50672486,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,392,Japan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2111,,454617,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,244,,16633135,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6045,,15484431,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,17815,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5958,,16015011,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,8755,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,13400,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,7137,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2085,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,5580,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2194,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,392,Japan,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,30475,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19313,,28519815,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2158,,497599,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13791,,26692280,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,20400,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,46672,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,56505,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,4940,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,90221,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2503,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4743,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,16609,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,501,,2613501,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,19163,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,67029,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,392,Japan,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,52443,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,392,Japan,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,31176,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,392,Japan,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,21348,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,392,Japan,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,16006,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,392,Japan,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,5225,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,392,Japan,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,194,,2470694,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,114220,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,54592,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,14927,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,440309,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,8509963,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,1701940,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119,,8028534,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,192945,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,206215,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,9403,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,30735,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,13541,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,392,Japan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2015,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,41959,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,71925,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,392,Japan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,262277,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3079,,8970407,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,392,Japan,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1155,,3787665,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1359,,4691586,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,161658,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,28677,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,185947,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15824,,9067182,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2416,,4208514,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,392,Japan,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,85033,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,392,Japan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,6541,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,392,Japan,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,7012,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,244,,18166783,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6047,,15899251,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,45343,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2079,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4019,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,18625,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24633,,47788079,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,484,,2341389,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,392,Japan,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,214,,93754,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,392,Japan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,10636,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,392,Japan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,266,,2236999,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,27052,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,115017,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8436,,4934185,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9195,,11715445,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,7941980,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,2016908,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1916,,9971938,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,31880,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,38660,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,5734,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,5272,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4116,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19761,,36808186,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2997,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,392,Japan,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,487,,186574,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,392,Japan,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,34441,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,392,Japan,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,44920,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,392,Japan,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,12225,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,392,Japan,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,207,,91026,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5459,,14215902,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,241,,17881150,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,428,,4926253,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2890,,1929923,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,272,,1758847,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4247,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1875,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,34763,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,44212,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,35517,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9318,,40832689,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,940,,372182,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2209,,1377035,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3639,,2018115,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,9977,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,179845,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,6853,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,5066,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2015,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,33356,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,34401,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,27676,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,731,,279612,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,561,,214741,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8531,,4919783,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2589,,4303814,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,5222,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,5955,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,392,Japan,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,30141,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2822,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,68820,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,123467,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,7192,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,79337,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,392,Japan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11472,,9699013,,,0

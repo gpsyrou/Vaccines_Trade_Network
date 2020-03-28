@@ -1,0 +1,74 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201902,February 2019,6,1,1,Imports,446,"China, Macao SAR",,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32568,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,446,"China, Macao SAR",,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22380,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3202002,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1575001,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,251110,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,625410,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1300842,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,994865,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1057,,3192191,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,321558,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1343829,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1346930,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1325721,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1988178,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,446,"China, Macao SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24771,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,446,"China, Macao SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,37264,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,446,"China, Macao SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24799,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,446,"China, Macao SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,49572,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,446,"China, Macao SAR",,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24812,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,446,"China, Macao SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,166936,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,446,"China, Macao SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36455,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,446,"China, Macao SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36475,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,446,"China, Macao SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36493,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,446,"China, Macao SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,167205,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,446,"China, Macao SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36438,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,446,"China, Macao SAR",,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,287987,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,138468,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,67899,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40047,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,363435,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,117916,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,28790,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,51546,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,100723,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,84771,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,884594,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,446,"China, Macao SAR",,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,101548,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,446,"China, Macao SAR",,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36433,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,446,"China, Macao SAR",,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36441,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,446,"China, Macao SAR",,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,21973,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3005843,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,935531,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,55469,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,123057,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16447,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,564242,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,778941,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1132058,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,771518,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,380558,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,446,"China, Macao SAR",,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,822757,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,446,"China, Macao SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,337434,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,446,"China, Macao SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,140196,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,446,"China, Macao SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,120037,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,446,"China, Macao SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,140743,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,446,"China, Macao SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,181339,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,446,"China, Macao SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,132362,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,446,"China, Macao SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14989,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,446,"China, Macao SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13859,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,446,"China, Macao SAR",,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,506859,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,446,"China, Macao SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3217,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,446,"China, Macao SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,563724,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,446,"China, Macao SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,57544,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,446,"China, Macao SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,331338,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,446,"China, Macao SAR",,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5106,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,446,"China, Macao SAR",,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1057,,3192191,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,446,"China, Macao SAR",,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,106,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,446,"China, Macao SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13338,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,446,"China, Macao SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9657,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,446,"China, Macao SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9953,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,446,"China, Macao SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8317,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,446,"China, Macao SAR",,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,38192,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,446,"China, Macao SAR",,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1979,,,0

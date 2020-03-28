@@ -1,0 +1,41 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201907,July 2019,6,1,1,Imports,28,Antigua and Barbuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,151,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,28,Antigua and Barbuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,1971,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,28,Antigua and Barbuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,568,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,28,Antigua and Barbuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,348,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,28,Antigua and Barbuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1173,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,28,Antigua and Barbuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,473,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,28,Antigua and Barbuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,1728,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,28,Antigua and Barbuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,2233,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,28,Antigua and Barbuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,680,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,28,Antigua and Barbuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,337,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,28,Antigua and Barbuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,769,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,28,Antigua and Barbuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,608,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,28,Antigua and Barbuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,2342,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,28,Antigua and Barbuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,3473,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,28,Antigua and Barbuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,2463,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,28,Antigua and Barbuda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,330,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,28,Antigua and Barbuda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,492,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,28,Antigua and Barbuda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,126,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,28,Antigua and Barbuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1895,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,28,Antigua and Barbuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,2920,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,28,Antigua and Barbuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,2791,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,28,Antigua and Barbuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,363,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,28,Antigua and Barbuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,318,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,28,Antigua and Barbuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,8013,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,28,Antigua and Barbuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,6888,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,28,Antigua and Barbuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1105,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,28,Antigua and Barbuda,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,345,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,28,Antigua and Barbuda,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,311,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,28,Antigua and Barbuda,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,3092,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,28,Antigua and Barbuda,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,1218,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,28,Antigua and Barbuda,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,1697,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,469,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,13089,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,5368,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104,,5677,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,5736,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,4002,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,3429,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,9595,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,3858,,,0

@@ -1,0 +1,108 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201902,February 2019,6,1,1,Imports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,634,,79642,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,52,Barbados,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,13170,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,52,Barbados,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,18048,,,0
+HS,2019,201902,February 2019,6,1,3,Re-exports,52,Barbados,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,6720,,,0
+HS,2019,201902,February 2019,6,1,3,Re-exports,52,Barbados,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1761,,,0
+HS,2019,201902,February 2019,6,1,3,Re-exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,8462,,,0
+HS,2019,201902,February 2019,6,1,3,Re-exports,52,Barbados,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,11255,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,255,,39106,,,0
+HS,2019,201902,February 2019,6,1,3,Re-exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,232,,35220,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,52,Barbados,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,247,,33331,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,8462,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,52,Barbados,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1305,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,52,Barbados,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,141,,13789,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,52,Barbados,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,2976,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,856,,106152,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,18652,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10931,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,52,Barbados,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,3600,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,52,Barbados,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2250,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,52,Barbados,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,6459,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,52,Barbados,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,2415,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,52,Barbados,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,2415,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,52,Barbados,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,4854,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,52,Barbados,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,4854,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,52,Barbados,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,15617,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1369,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1369,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,52,Barbados,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,3698,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,52,Barbados,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,361,,50400,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,52,Barbados,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,6371,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,43,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,43,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,52,Barbados,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,308,,29979,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,437,,81049,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,28802,,,0
+HS,2019,201903,March 2019,6,1,3,Re-exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,28802,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,52,Barbados,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1337,,,0
+HS,2019,201903,March 2019,6,1,3,Re-exports,52,Barbados,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1337,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,52,Barbados,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,13047,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,52,Barbados,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,5926,,,0
+HS,2019,201903,March 2019,6,1,3,Re-exports,52,Barbados,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,5926,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,52,Barbados,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,6567,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,52,Barbados,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,2184,,,0
+HS,2019,201903,March 2019,6,1,3,Re-exports,52,Barbados,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,2184,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,52,Barbados,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,5356,,,0
+HS,2019,201903,March 2019,6,1,3,Re-exports,52,Barbados,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,5356,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,52,Barbados,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,13688,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,6649,,,0
+HS,2019,201903,March 2019,6,1,3,Re-exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,6649,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,7351,,,0
+HS,2019,201903,March 2019,6,1,3,Re-exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,7351,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,52,Barbados,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,208,,47748,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,565,,108265,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,21395,,,0
+HS,2019,201906,June 2019,6,1,3,Re-exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,7809,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,2164,,,0
+HS,2019,201906,June 2019,6,1,3,Re-exports,52,Barbados,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,2164,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,945,,,0
+HS,2019,201906,June 2019,6,1,3,Re-exports,52,Barbados,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,945,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,52,Barbados,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,19528,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,52,Barbados,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2550,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,12024,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1319,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,52,Barbados,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,14084,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2813,,,0
+HS,2019,201906,June 2019,6,1,3,Re-exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2813,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,52,Barbados,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,3380,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,52,Barbados,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,43222,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,526,,,0
+HS,2019,201906,June 2019,6,1,3,Re-exports,52,Barbados,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,526,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,245,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,994,,,0
+HS,2019,201906,June 2019,6,1,3,Re-exports,52,Barbados,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,994,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,368,,,0
+HS,2019,201906,June 2019,6,1,3,Re-exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,368,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,52,Barbados,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,1439,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,52,Barbados,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,24063,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,702,,78195,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,387,,63065,,,0
+HS,2019,201904,April 2019,6,1,3,Re-exports,52,Barbados,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,349,,59944,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,2762,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,8439,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,52,Barbados,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1625,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,2182,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,52,Barbados,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1295,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,11383,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,418,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,7267,,,0
+HS,2019,201904,April 2019,6,1,3,Re-exports,52,Barbados,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,7267,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,2029,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,248,,33680,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,745,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,52,Barbados,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,15975,,,0
+HS,2019,201904,April 2019,6,1,3,Re-exports,52,Barbados,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,15975,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,52,Barbados,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,3360,,,0
+HS,2019,201904,April 2019,6,1,3,Re-exports,52,Barbados,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,3360,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,52,Barbados,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,232,,29692,,,0
+HS,2019,201904,April 2019,6,1,3,Re-exports,52,Barbados,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,209,,29490,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,829,,,0
+HS,2019,201904,April 2019,6,1,3,Re-exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,829,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,52,Barbados,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,16557,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,52,Barbados,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,3024,,,0
+HS,2019,201904,April 2019,6,1,3,Re-exports,52,Barbados,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,3024,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,9694,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,52,Barbados,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,6720,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,52,Barbados,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,11255,,,0
+HS,2019,201902,February 2019,6,1,3,Re-exports,52,Barbados,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,7023,,,0

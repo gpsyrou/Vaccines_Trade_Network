@@ -1,0 +1,100 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201903,March 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1657000,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,376,Israel,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,125000,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,128000,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1240000,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3155000,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1977000,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1558,,1248000,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2274000,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,376,Israel,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1400000,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,376,Israel,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7824000,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1558,,1248000,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,50000,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2947000,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14495000,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2847000,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1857000,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1003000,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,376,Israel,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,241000,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,218000,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,376,Israel,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5000,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,376,Israel,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,482000,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,903000,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1852000,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,376,Israel,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2000,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3705000,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3703000,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4558000,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,647000,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,376,Israel,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,52000,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,376,Israel,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,48000,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,250000,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,376,Israel,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,300000,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,376,Israel,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2781000,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1902000,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,528000,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1950000,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1888000,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8988000,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1888000,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,376,Israel,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3409000,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2536000,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,376,Israel,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,376000,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,428000,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2239000,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4430000,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,257000,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,347000,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,376,Israel,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,96000,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,376,Israel,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19000,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2210000,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,376,Israel,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1501000,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3730000,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3730000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5916000,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,376,Israel,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,35000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,836000,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,376,Israel,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,171000,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,376,Israel,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,376,Israel,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3128000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,376,Israel,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,640000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1106000,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4920000,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2131000,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9598000,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15166000,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,376,Israel,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,58000,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2036000,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,393000,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,376,Israel,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6058000,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6621000,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,376,Israel,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5000,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1977000,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3750000,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3750000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1054000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,376,Israel,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2178000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,376,Israel,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1023000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,319000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2957000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7531000,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1644000,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,423000,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,573000,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,376,Israel,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,142000,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,376,Israel,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,468000,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,38000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,376,Israel,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3231000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,376,Israel,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2558000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,376,Israel,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,297000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,376,Israel,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,483000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,376,Israel,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1200000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,376,Israel,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5348000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,709000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13826000,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,376,Israel,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1721000,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,376,Israel,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1721000,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,376,Israel,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2547000,,,0

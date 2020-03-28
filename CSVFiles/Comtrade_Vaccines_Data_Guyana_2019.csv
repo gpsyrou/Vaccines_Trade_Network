@@ -1,0 +1,33 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201904,April 2019,6,1,2,Exports,328,Guyana,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,4000,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,328,Guyana,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,17600,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,328,Guyana,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,49032,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,328,Guyana,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,11772,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,328,Guyana,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,3390,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,328,Guyana,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,313,,39316,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,328,Guyana,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,5942,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,328,Guyana,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,8000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,328,Guyana,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,28940,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,328,Guyana,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,27384,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,328,Guyana,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,420,,71312,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,17530,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,27115,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,21598,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,378,,59423,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,183,,40236,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,266,,16175,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,12157,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,49005,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10705,,176213,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,801,,110241,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,57960,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1378,,202628,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11205,,282515,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,485,,88842,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,12000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,328,Guyana,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,251,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,328,Guyana,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,1121,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,328,Guyana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,4456,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,328,Guyana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,31066,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,328,Guyana,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,12890,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,328,Guyana,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,18263,,,0

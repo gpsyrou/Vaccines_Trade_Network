@@ -1,0 +1,83 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201910,October 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,22282,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,233,Estonia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,75511,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,233,Estonia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,88421,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,245122,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,233,Estonia,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,4830,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,4830,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,58909,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,93503,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,10854,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,23272,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,521,,365343,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,36262,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,233,Estonia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,43592,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,233,Estonia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,157,,125955,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,333,,136263,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,24368,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,38131,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,233,Estonia,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,626,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,302,,133103,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,233,Estonia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,83962,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,146461,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,233,Estonia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,25914,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,233,Estonia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,16996,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,260854,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,11445,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,233,Estonia,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,606,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,233,Estonia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,43069,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,91004,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,71820,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,9872,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,233,Estonia,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,9872,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,199545,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,14903,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,233,Estonia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,7761,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,174959,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1921,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,233,Estonia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,493,,165698,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,534,,279680,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,9625,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,345118,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,19187,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,233,Estonia,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4333,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,13593,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,233,Estonia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,76412,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,233,Estonia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,774,,792952,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,233,Estonia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,983,,331341,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,233,Estonia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,4495,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1844,,1587432,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,233,Estonia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,370,,125221,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,439,,293914,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,233,Estonia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2259,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,10383,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,233,Estonia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,48843,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,233,Estonia,,352,Iceland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,25884,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,60781,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,20543,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,233,Estonia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,987,,990351,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,233,Estonia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,49313,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1651,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,44253,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,233,Estonia,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,14426,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,233,Estonia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,354161,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,130513,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,36661,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1389,,815831,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,233,Estonia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,143,,111840,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,233,Estonia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1200,,459291,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,233,Estonia,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,9724,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,9724,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,233,Estonia,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,551,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,9177,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,233,Estonia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,67799,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1480,,1573458,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,14426,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,233,Estonia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,30014,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,233,Estonia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,16576,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,233,Estonia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,93222,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,166,,185608,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,233,Estonia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,19326,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,233,Estonia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,9,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,233,Estonia,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,19317,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,233,Estonia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104,,45795,,,0

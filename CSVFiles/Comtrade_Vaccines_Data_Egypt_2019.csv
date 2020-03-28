@@ -1,0 +1,57 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201908,August 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1772222,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,818,Egypt,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,740406,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,422234,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,818,Egypt,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,140480,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,818,Egypt,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7560,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,818,Egypt,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,461542,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2889561,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,818,Egypt,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2430918,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,299359,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,818,Egypt,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2116,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,818,Egypt,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24235,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,818,Egypt,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,132933,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1092478,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7408711,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,818,Egypt,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,524283,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,818,Egypt,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8659,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,818,Egypt,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,260084,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,818,Egypt,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1479,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,818,Egypt,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4183155,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,818,Egypt,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,984170,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8919913,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,818,Egypt,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1121293,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1266161,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,818,Egypt,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,634746,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,818,Egypt,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1359373,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,818,Egypt,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,483552,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,818,Egypt,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3418716,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,818,Egypt,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,636072,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1384392,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1384392,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4723898,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,818,Egypt,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,308201,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,818,Egypt,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,111580,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,818,Egypt,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2909646,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,818,Egypt,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1394470,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,818,Egypt,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1148908,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1629371,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,818,Egypt,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,126443,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,818,Egypt,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,122384,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1118980,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,818,Egypt,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,955092,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,818,Egypt,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,200969,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,818,Egypt,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,81,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,818,Egypt,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,400,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,695219,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,818,Egypt,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,242930,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,818,Egypt,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,452289,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,977814,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,818,Egypt,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,394393,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,818,Egypt,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,50479,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1068183,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,319072,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,818,Egypt,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,749111,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,818,Egypt,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,130478,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,818,Egypt,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9519,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,818,Egypt,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1296539,,,0

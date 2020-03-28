@@ -1,0 +1,104 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201910,October 2019,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,365,,131546,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,320,Guatemala,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,164,,56513,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,906,,51450,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2951,,669651,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,320,Guatemala,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2916,,255678,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,170,,52685,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,187,,66012,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1522,,231388,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3512,,797950,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,246,,150518,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1341,,205434,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1168,,494398,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,5157,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5107,,600455,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,83,,11105,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13222,,2562417,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12312,,6867287,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,320,Guatemala,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,1663,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,353,,128708,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22661,,2974167,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,320,Guatemala,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1022,,205672,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37864,,10367252,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,320,Guatemala,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,96,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8023,,3033444,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1217,,243073,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,268,,119974,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,320,Guatemala,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,419,,251756,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4366,,2138912,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1234,,131807,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,320,Guatemala,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,278,,83026,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,320,Guatemala,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,241,,64896,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,320,Guatemala,,408,Dem. People's Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,19800,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,320,Guatemala,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,214,,26010,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2039,,187024,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,2886,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12665,,5182674,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,31083,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,510,,168213,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6290,,1403937,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3671,,836810,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,318,,91012,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1324,,389593,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,634,,30000,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,320,Guatemala,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,601,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,320,Guatemala,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,55921,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2606,,228734,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,320,Guatemala,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,27140,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,320,Guatemala,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,21210,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1393,,162519,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,320,Guatemala,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,385,,103475,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1330,,539409,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,927,,135341,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1474,,99561,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,393,,122599,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1840,,488826,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,320,Guatemala,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,9041,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,320,Guatemala,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,41100,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,320,Guatemala,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,251,,60610,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2880,,774861,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14023,,2460917,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22532,,4164471,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,749,,108581,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3873,,866787,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2766,,2835188,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,544,,30760,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2061,,931713,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,320,Guatemala,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,20439,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12711,,2911046,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,95584,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,256,,82458,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1302,,533799,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,320,Guatemala,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,19770,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,320,Guatemala,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2305,,1474119,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1197,,170466,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6842,,503110,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,320,Guatemala,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,31740,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9800,,3235268,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,320,Guatemala,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,590,,349839,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4308,,2014858,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3480,,621936,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19488,,9943882,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,9780,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8879,,6195514,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1770,,1859834,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1035,,594379,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,196,,6410,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,985,,603275,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,687,,78611,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5157,,414544,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,320,Guatemala,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,736,,181535,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,737,,71279,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13235,,2528698,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,13815,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4338,,960537,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,150509,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,565,,37000,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1882,,378837,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,1663,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4156,,426932,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1400,,441562,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,258,,30323,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,304,,84751,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,320,Guatemala,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,2769,,,0

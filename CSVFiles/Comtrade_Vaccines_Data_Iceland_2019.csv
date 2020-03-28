@@ -1,0 +1,61 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201905,May 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,152872,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211,,68798,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,64983,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,62266,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,2120,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,597,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,21,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,352,Iceland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,2525,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,155,,76479,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,32690,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,248,,111694,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,350,,150703,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,305,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,208,,75865,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,28,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,74838,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,278,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,319,,130997,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,352,Iceland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,403,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,69483,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,352,Iceland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,4519,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,38626,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,112628,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,409,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,352,Iceland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,352,Iceland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,4109,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,352,Iceland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,11,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,11,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,187,,70612,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,352,Iceland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,675,,144306,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,67923,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,187,,67077,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,352,Iceland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,8657,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,349,,144345,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,688,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,281,,104130,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1761,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,277,,109689,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,271,,4621,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,74880,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,56,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,27963,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,352,Iceland,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2542,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,2598,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,352,Iceland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,4247,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,352,Iceland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,251,,2024,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,369,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,98832,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1043,,314119,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,73390,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,79482,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,676,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,226,,79179,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,353,,129062,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,221,,80193,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,48869,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,33571,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,47032,,,0

@@ -1,0 +1,33 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201902,February 2019,6,1,2,Exports,404,Kenya,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,834,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,404,Kenya,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,13867,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1581,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,3143,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2279,,247551,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,404,Kenya,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,29,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,404,Kenya,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,29,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,404,Kenya,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,620,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12408,,2411327,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2184,,103461,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,326,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,404,Kenya,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,326,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,404,Kenya,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,4353,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,404,Kenya,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,5693,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,203,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,727,,495314,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1495,,886417,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,404,Kenya,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,529,,51993,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,9415,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1410,,317907,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,547,,94244,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,404,Kenya,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2885,,165071,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,108996,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,66517,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,368,,5047,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,208,,2733,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18167,,3526348,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2368,,249209,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4604,,1208226,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,404,Kenya,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,753,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,404,Kenya,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,797,,,0
+HS,2019,201901,January 2019,6,1,3,Re-exports,404,Kenya,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,797,,,0
