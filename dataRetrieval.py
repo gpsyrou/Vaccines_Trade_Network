@@ -1,7 +1,7 @@
 """
 -------------------------------------------------------------------
 -- Title:
--- File:    getData.py
+-- File:    dataRetrieval.py
 -- Purpose: Gather monthly data for multiple years for the imports/exports of Vaccines products around the world, from  https://comtrade.un.org/Data/
 -- Author:  Georgios Spyrou
 -- Date:    28/03/2020
