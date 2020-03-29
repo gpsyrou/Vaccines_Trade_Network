@@ -8,6 +8,7 @@
 -------------------------------------------------------------------
 """
 
+# Import dependencies
 import requests
 import csv
 import json
