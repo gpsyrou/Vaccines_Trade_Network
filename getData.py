@@ -78,7 +78,6 @@ reporters_resp = requests.get(url=reporters_url)
 json_data = json.loads(reporters_resp.text)
 
 reporters_list = [rep for rep in json_data['results']]
-reporters_list = reporters_list[186:len(reporters_list)]
 # Get the data as separate csv files, each for every year of interest
 years_ls = [2019]
 
