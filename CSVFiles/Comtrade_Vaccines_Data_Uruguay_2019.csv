@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,January 2019,6,1,1,Imports,858,Uruguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,921,,1092437,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,858,Uruguay,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,11669,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,858,Uruguay,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,13096,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,858,Uruguay,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,396190,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,858,Uruguay,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,777,,606302,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,858,Uruguay,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,65180,,,0

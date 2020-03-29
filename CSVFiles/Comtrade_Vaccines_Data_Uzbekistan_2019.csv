@@ -1,0 +1,63 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,January 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,568,,425192,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,860,,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,7410,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,860,,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,33000,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,860,,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,380,,382262,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,860,,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,2520,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10980,,5480320,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,860,,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9870,,4455608,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,860,,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,26712,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,860,,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,720,,900000,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360,,98000,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4250,,1947606,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,860,,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3600,,1598190,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,860,,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,229,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,650,,349187,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1895,,2069039,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,860,,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4123,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,860,,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,33390,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,860,,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1483,,1488200,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,860,,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,529980,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,13000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,860,,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,346,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1796,,1316954,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,860,,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,4560,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,860,,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1560,,1271578,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,216,,40019,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,860,,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,797,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7200,,2357961,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,860,,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2130,,576180,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,860,,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1120,,1400000,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,860,,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,17931,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3940,,363850,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1273,,1153946,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,860,,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,10822,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,860,,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,26874,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,860,,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,72755,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,860,,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,860,,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,524325,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,860,,519169,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2030,,872526,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,860,,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,670,,670864,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1360,,201662,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10686,,4858143,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,860,,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,66,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,860,,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1320,,1140800,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,860,,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,20189,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,860,,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,3322,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,860,,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5510,,2973952,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,860,,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3401,,589649,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,439,,130165,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21544,,7888691,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,860,,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6450,,2860110,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,860,,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,800,,1240000,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,860,,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,434,,163109,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,860,,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,84297,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13740,,3541175,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20569,,1941021,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,860,,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1205,,890375,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,860,,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,560,,173706,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,860,,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,86,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,860,,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18800,,876854,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,860,,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17516,,1684991,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,860,,,446,"China, Macao SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17516,,1684991,,,0

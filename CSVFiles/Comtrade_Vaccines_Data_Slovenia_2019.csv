@@ -1,0 +1,53 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201902,February 2019,6,1,1,Imports,705,Slovenia,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,97662,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,705,Slovenia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,175952,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,705,Slovenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,69395,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,705,Slovenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,202,,136485,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,705,Slovenia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,713,,357262,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,705,Slovenia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,391,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,999,,563532,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,797,,838724,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,705,Slovenia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,418,,51461,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,705,Slovenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,242,,520079,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,705,Slovenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,138,,267185,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2342,,2644895,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,705,Slovenia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,762908,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,705,Slovenia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,63085,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,705,Slovenia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1599,,1502770,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,705,Slovenia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,163,,167071,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,705,Slovenia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,836,,498598,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,705,Slovenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,224543,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,705,Slovenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,43128,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1037,,708797,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,705,Slovenia,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,9575,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,9575,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,705,Slovenia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1285,,601755,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1418,,1002251,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,705,Slovenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,87234,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,705,Slovenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,9659,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,705,Slovenia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211,,77239,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,705,Slovenia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,684,,398714,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1461,,1150323,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,705,Slovenia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,513,,577477,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,705,Slovenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,16756,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,705,Slovenia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,335,,232231,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,705,Slovenia,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,517,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,705,Slovenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,166456,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,705,Slovenia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,281,,396691,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,446,,742707,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,705,Slovenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,218,,235615,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,705,Slovenia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,131,,46493,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,705,Slovenia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,293625,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,705,Slovenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,199,,391751,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,705,Slovenia,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,97019,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,566,,737828,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,705,Slovenia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,70,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,705,Slovenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,12564,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,12564,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,295138,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,705,Slovenia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,11526,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,705,Slovenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,283611,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,705,Slovenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,311821,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,705,Slovenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4311,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,705,Slovenia,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,30858,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,705,Slovenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,344,,525211,,,0

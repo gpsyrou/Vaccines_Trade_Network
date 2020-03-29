@@ -1,0 +1,50 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201908,August 2019,6,1,1,Imports,804,Ukraine,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1897,,324610,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,804,Ukraine,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1279,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,804,Ukraine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2049,,484580,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,804,Ukraine,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,6691,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,804,Ukraine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,121,,74290,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,804,Ukraine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,973,,1096300,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,804,Ukraine,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,523,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,804,Ukraine,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1702,,1251979,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,804,Ukraine,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1968,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,804,Ukraine,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,246068,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,804,Ukraine,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,3107,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,804,Ukraine,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,77710,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,804,Ukraine,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,7872,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,804,Ukraine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2841,,2139566,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,804,Ukraine,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1273,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,804,Ukraine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1465,,1411477,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,804,Ukraine,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1336,,1341857,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,804,Ukraine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2801,,2753333,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,92406,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,804,Ukraine,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,153,,343054,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,804,Ukraine,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4731,,4355500,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,804,Ukraine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7812,,7228395,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,804,Ukraine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2316,,2029949,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,804,Ukraine,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,240902,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,804,Ukraine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,932,,971617,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,804,Ukraine,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,116973,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,804,Ukraine,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,3859,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,804,Ukraine,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,811,,381076,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,804,Ukraine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1819,,1473525,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,804,Ukraine,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1086,,112320,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,804,Ukraine,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2965,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,804,Ukraine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3934,,2263997,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,804,Ukraine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2817,,2599946,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,804,Ukraine,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2984,,437020,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,804,Ukraine,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9057,,6473435,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,804,Ukraine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15107,,8232126,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,804,Ukraine,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3149,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,804,Ukraine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1442,,669873,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,804,Ukraine,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,121450,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,804,Ukraine,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1565,,527199,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,804,Ukraine,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,92406,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,804,Ukraine,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,480,,256531,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,804,Ukraine,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,2459,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,804,Ukraine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1102298,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,804,Ukraine,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4026,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,804,Ukraine,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14468,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,804,Ukraine,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,121909,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,804,Ukraine,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,102375,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,804,Ukraine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,859520,,,0

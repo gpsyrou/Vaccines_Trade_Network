@@ -1,0 +1,59 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201901,January 2019,6,1,1,Imports,686,Senegal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,9529,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3823,,336900,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1199,,115046,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,638,,237741,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,686,Senegal,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,12462,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1172,,102584,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,686,Senegal,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,497,,178093,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,686,Senegal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,11,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,686,Senegal,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,270,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,686,Senegal,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,59366,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,686,Senegal,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8935,,4472692,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,686,Senegal,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,44981,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,492,,82137,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,721,,136888,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,686,Senegal,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,271,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,271,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3807,,327370,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2053,,195073,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1963,,182760,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,686,Senegal,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,12313,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,699,,70308,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,686,Senegal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4126,,1245782,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4825,,1316090,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9279,,1744369,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7760,,1379184,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,686,Senegal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1203,,330541,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,686,Senegal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,8321,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,686,Senegal,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,302,,26323,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,733,,102768,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,686,Senegal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1744,,371912,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11412,,4947372,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1177,,149381,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,686,Senegal,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,692,,60876,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,485,,88505,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,686,Senegal,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1071,,57641,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,707,,132022,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,686,Senegal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,286,,118290,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2064,,307954,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1885,,714363,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,310,,112347,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,686,Senegal,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,310,,112347,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,686,Senegal,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1362,,534515,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,523,,179848,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1124,,134706,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,686,Senegal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1581,,383966,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2705,,518672,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,645,,83291,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,6461,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,686,Senegal,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,9966,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,686,Senegal,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,12132,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,313,,38369,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,686,Senegal,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,3056,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,686,Senegal,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,284,,22824,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,686,Senegal,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,3405,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,686,Senegal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,9770,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,686,Senegal,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,812,,298045,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,686,Senegal,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,13330,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,832,,311375,,,0

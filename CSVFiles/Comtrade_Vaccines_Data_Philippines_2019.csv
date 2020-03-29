@@ -1,0 +1,125 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1756,,895358,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2012,,248425,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,821,,53894,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10659,,1562919,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,229943,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,165,,184157,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9307,,9291060,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,52363,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,127898,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,7177,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,381,,452807,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1150,,323280,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,5398,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1402,,608720,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1050,,262237,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1152,,80953,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1684,,168075,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,454,,55167,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11937,,1420419,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1526,,679076,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40876,,2910169,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1408,,58393,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2655,,3669101,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12281,,12842372,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119,,160780,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,12798,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1489,,434306,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1277,,182767,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36216,,21846382,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9321,,13737403,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,106,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2295,,1299382,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1278,,465874,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,792,,53587,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1544,,1269228,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1110,,147795,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10032,,3647552,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4650,,42554,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2895,,458376,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1604,,572754,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,608,Philippines,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,685,,151771,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41991,,19920465,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1844,,723003,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1243,,88087,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1167,,405395,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,713,,840889,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,733,,460247,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,608,Philippines,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1535,,769398,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8962,,3619964,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1725,,674771,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,608,Philippines,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,491,,53905,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,608,Philippines,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2116,,298728,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30547,,5862239,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1899,,109079,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1171,,600480,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,894,,411648,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26441,,9142403,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14866,,2158876,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2109,,497852,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,3598,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,278,,287007,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1326,,797930,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26146,,4020428,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39174,,9076346,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,7178,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12036,,325168,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1835,,1324801,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1832,,152723,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,726,,453404,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20572,,4261939,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1449,,661025,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,100153,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,608,Philippines,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1024,,463180,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68633,,25415357,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32217,,15140633,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2764,,279798,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,608,Philippines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2277,,1777754,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,608,Philippines,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3774,,1885540,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,608,Philippines,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,5396,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,608,Philippines,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1399,,944514,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25312,,5078123,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,608,Philippines,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,875,,303599,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35600,,7859087,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1321,,922000,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3949,,449764,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1803,,794428,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1621,,416532,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,841,,55387,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1999,,2409194,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,920,,285262,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16076,,1717752,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6195,,506255,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,608,Philippines,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,875,,302513,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,687,,386431,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1415,,336221,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3473,,4711514,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,149,,85878,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1412,,56578,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,608,Philippines,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,212,,164357,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,608,Philippines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5152,,5846852,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61670,,20949762,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47289,,11393482,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,608,Philippines,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,5398,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,433,,51985,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6181,,8961699,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5795,,16795367,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3305,,2516002,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,376,,94006,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,929,,229258,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,30802,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5481,,674776,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12839,,6741311,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35799,,36095206,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36476,,16904977,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18652,,13932075,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,350,,72049,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2166,,142318,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1138,,288419,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,413,,27149,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3040,,1347779,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,862,,87682,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1067,,231913,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7809,,619939,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,608,Philippines,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,979,,155654,,,0

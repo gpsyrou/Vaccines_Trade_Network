@@ -1,0 +1,176 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201906,June 2019,6,1,2,Exports,642,Romania,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1420,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,291,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,466,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2364,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,642,Romania,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,232,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,92644,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,642,Romania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,11289,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,168,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4112,,2734269,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1259,,532159,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,34,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,9,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,11319,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,642,Romania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,14996,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11995,,8403092,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4784,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,642,Romania,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5513,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,551,,552536,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3273,,7531408,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,81925,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4249,,6582817,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,155462,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,13898,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,642,Romania,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,73974,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7771,,14362901,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,186,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2792,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,642,Romania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,5950,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,3453,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,642,Romania,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,545,,604498,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,15961,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,22273,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,161,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,642,Romania,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,208,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,19091,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,7138,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,642,Romania,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,37,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,12703,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,642,Romania,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,169,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,55,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,87,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,941,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1253,,1043673,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,473,,155454,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,27817,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,642,Romania,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,642,Romania,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,12117,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1184182,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,642,Romania,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,157,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,115,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,642,Romania,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,373,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1318,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,18,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,100056,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,67599,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,5544,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2208,,1741066,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3659,,2620449,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,6615,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,34509,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,25204,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,642,Romania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,3993,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,642,Romania,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,91553,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,11467,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,597,,349095,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,11054,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,642,Romania,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,828,,474116,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,231266,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,23528,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1921,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,7,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,618,,604678,,,0
+HS,2019,201912,December 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,26700,,,0
+HS,2019,201912,December 2019,6,1,1,Imports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,40152,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17539,,9101820,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,168802,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,65189,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,642,Romania,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,580,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,11,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,642,Romania,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,3,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,136958,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2524,,2110906,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2707,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,392,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,936,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3890,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,36187,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,642,Romania,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,612423,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,759,,551854,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,642,Romania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2066,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1618,,806670,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,72354,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,642,Romania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,29177,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,52336,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,642,Romania,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,916,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,642,Romania,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,6292,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,642,Romania,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5500,,620312,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,101330,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,642,Romania,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,0,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,110,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,5653,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,642,Romania,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,46,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,642,Romania,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,57,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,10056,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,6307,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4472,,2858234,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,66840,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,642,Romania,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,14666,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,114,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,22,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,50151,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,4376,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1393,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,642,Romania,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,767,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,378234,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,20527,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,75866,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,642,Romania,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,9897,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1080,,1587958,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,642,Romania,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1742,,957059,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1629,,289709,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,82154,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10360,,6701372,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10620,,7173073,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2603,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,642,Romania,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,378,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,897,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,209,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1725,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,788,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,642,Romania,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,658,,366138,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,642,Romania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1463,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,332,,381884,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,31655,,,0
+HS,2019,201911,November 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1858,,1420802,,,0
+HS,2019,201911,November 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,18653,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,645,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,19200,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,642,Romania,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,5,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,68883,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9062,,9318051,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,12553,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,642,Romania,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,11777,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,20536,,,0
+HS,2019,201910,October 2019,6,1,2,Exports,642,Romania,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4168,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,5291,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,285,,455512,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,642,Romania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,6612,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3016,,3926526,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5178,,3446360,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,57845,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,147,,,0
+HS,2019,201910,October 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,576,,1477603,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,862654,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3392,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,874121,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,642,Romania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,4190,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1464,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,5778,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,38921,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,3,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,642,Romania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1290,,1271644,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,642,Romania,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,475,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,642,Romania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,341,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,642,Romania,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1514,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1243,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,642,Romania,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,198,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,642,Romania,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,36916,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,642,Romania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,15792,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,642,Romania,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,61088,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,642,Romania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,15719,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1205,,1154633,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,642,Romania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3286,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,642,Romania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,9984,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,642,Romania,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,9374,,,0

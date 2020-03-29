@@ -1,6 +1,6 @@
 """
 -------------------------------------------------------------------
--- Title:   
+-- Title:
 -- File:    getData.py
 -- Purpose: Gather monthly data for multiple years for the imports/exports of Vaccines products around the world, from  https://comtrade.un.org/Data/
 -- Author:  Georgios Spyrou
@@ -17,7 +17,7 @@ import os
 # Setting up the parameters for the API calls to received the data
 # Reference: https://comtrade.un.org/data/doc/api/#DataAvailabilityRequests
 
-max_rec= 100000
+max_rec = 100000
 output_fmt = 'csv'
 trade_type = 'C'            # Commodities
 frequency = 'M'             # Monthly
@@ -25,17 +25,17 @@ px = 'HS'                   # Classification for products
 cc = 300220                 # Subcategory --> 300220 code for Vaccines
 reporter = 'all'
 partner = 'all'                 # world
-rg='all'
+rg ='all'
 
 # Connection string to comtrade.un.org
 api_call_string = f'http://comtrade.un.org/api/get?max={max_rec}&type={trade_type}&freq={frequency}&px={px}&ps=year&r=reporter&p={partner}&rg={rg}&cc={cc}&fmt={output_fmt}'
 
 
-def getDataCall(api_string: str, reporterid:str, reportername:str, year: int, out_folder: str) -> None:
+def getDataCall(api_string: str, reporterid: str, reportername: str, year: int, out_folder: str) -> None:
     '''
     Create a .csv file that contains the data as received from  https://comtrade.un.org/Data/, for a specific year.
 
-    Args: 
+    Args:
     ----
         api_string: String that contains the URL for the API call. The string already contains all the paremeters required for the call.
         reporter: Specify Reporter country.
@@ -44,7 +44,7 @@ def getDataCall(api_string: str, reporterid:str, reportername:str, year: int, ou
     -------
         None: The output is a .csv file that contains the data for a specified year.
     '''
-    api_string = api_string.replace('year',f'{year}').replace('reporter',f'{reporterid}')
+    api_string = api_string.replace('year', f'{year}').replace('reporter', f'{reporterid}')
     print(api_string)
 
     response = requests.get(url=api_string)
@@ -56,7 +56,7 @@ def getDataCall(api_string: str, reporterid:str, reportername:str, year: int, ou
         csv_file = csv.reader(decoded_data.splitlines())
         datalines = list(csv_file)
 
-        with open(os.path.join(outputFilesFolder,f'Comtrade_Vaccines_Data_{reportername}_{year}.csv'), 'w', newline='') as f:
+        with open(os.path.join(outputFilesFolder, f'Comtrade_Vaccines_Data_{reportername}_{year}.csv'), 'w', newline='') as f:
             writer = csv.writer(f, delimiter=',')
             writer.writerows(datalines)
 
@@ -70,7 +70,6 @@ if not os.path.exists(outputFilesFolder):
 # Because the API doesn not allow to call multiple countries as a Reporter in one call, we will need to create
 # separate calls for each country.
 
-
 # Receive the list of countries and their respective IDs as described in https://comtrade.un.org/Data/cache/reporterAreas.json
 
 reporters_url = 'https://comtrade.un.org/Data/cache/partnerAreas.json'
@@ -78,11 +77,14 @@ reporters_resp = requests.get(url=reporters_url)
 json_data = json.loads(reporters_resp.text)
 
 reporters_list = [rep for rep in json_data['results']]
-
+reporters_list = reporters_list[186:len(reporters_list)]
 # Get the data as separate csv files, each for every year of interest
 years_ls = [2019]
 
-for repd in reporters_list:
+for api_check, repd in enumerate(reporters_list):
+    # Need to make the script to sleep every 100 calls, as the API is blocking us for an hour for every 100 calls.
+    if api_check % 100 == 0:
+        time.sleep(3600)
     countryname = repd['text']
     c_id = repd['id']
     print(f'\nCountry..: {countryname}')

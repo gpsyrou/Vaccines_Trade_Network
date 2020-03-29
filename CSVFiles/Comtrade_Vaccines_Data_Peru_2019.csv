@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201902,February 2019,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16847,,4126077,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,349,,317122,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22419,,7157512,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,604,Peru,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,8412,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20246,,4777137,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,628,,359923,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5375,,9860970,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26431,,15135331,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,95151,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,604,Peru,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,33738,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4707,,2076562,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,604,Peru,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,285,,555508,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,604,Peru,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,74050,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,604,Peru,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,8193,,,0

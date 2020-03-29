@@ -1,0 +1,255 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2019,201909,September 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,190,,12918,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,2416,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,606,,17611,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,420,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,4404,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,218,,2582,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,6424,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5602,,1509508,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,1308,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,4158,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,76,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,43548,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,246,,17607,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,5683,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,829,,452,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,10204,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,4418,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,86,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,5242,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,749,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280082,,22707155,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,17603,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,505,,40636,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,279,,10030,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,165,,9627,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,76,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,3348,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,368,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,13522,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,6944,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,331,,96307,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,7807,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,6441,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,4160,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1581,,95060,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257646,,11522769,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6501,,3614502,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67415,,410607,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,4309,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,30,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,41,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,52,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,937,,,0
+HS,2019,201905,May 2019,6,1,4,Re-imports,710,South Africa,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,52,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14025,,5638311,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,836,,74112,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,638,,243814,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,13340,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,801,,492,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65670,,202065,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,12606,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,8760,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1011,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,8017,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,226,Equatorial Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,17250,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,120,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3762,,2121835,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,101,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4759,,105371,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150557,,18330538,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2208,,38070,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,370,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,18376,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,609,,406,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,209,,9055,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,708,,156838,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,4006,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1465,,391204,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1455,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,310,,1,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24145,,5072332,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4993,,178669,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,501,,68308,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,19215,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1471,,355630,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3333,,899988,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,45,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,850,,12634,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14903,,3137463,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,3134,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,653,,58486,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,315,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1852,,36734,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,896,,26821,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,4578,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,654,Saint Helena,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,41,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,1038,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,403,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,93,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,939,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,2833,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,10,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1615,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,789,,476,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,3517,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1088,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1564,,6149359,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,492,,59020,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,18231,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,10524,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,750,,5808,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,2141,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,167,,17559,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37074,,768637,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,443,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,2519,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1177,,2542,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110861,,11150521,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1009,,10595,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,2013,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,465,,9916,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2996,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,9655,,,0
+HS,2019,201901,January 2019,6,1,2,Exports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,3851,,,0
+HS,2019,201901,January 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,384,,199100,,,0
+HS,2019,201902,February 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,858,,41285,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25615,,9772158,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1029,,690,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,752,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,13010,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2431,,643534,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,710,South Africa,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,933,,89024,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,710,South Africa,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2635,,621454,,,0
+HS,2019,201909,September 2019,6,1,1,Imports,710,South Africa,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15300,,6184670,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,2118,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,734,,459,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1205,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,9861,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6185,,82329,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9069,,213766,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21087,,18551851,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1616,,769465,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10244,,15582513,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,7046,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1573,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1317,,129892,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1346,,384604,,,0
+HS,2019,201904,April 2019,6,1,1,Imports,710,South Africa,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,833,,167516,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,2449,,,0
+HS,2019,201904,April 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,661,,36661,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,4510,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,1872,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,9289,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,4999,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,5461,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2117,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,2582,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,10,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2794,,281896,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1867,,245441,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,10,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3465,,274570,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14768,,17207787,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,294,,9279,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,328,,30564,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,935,,6667,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,1756,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9120,,2906375,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3493,,167611,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,5781,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,12976,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2675,,681520,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,395389,,28260242,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,353177,,6429241,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2723,,,0
+HS,2019,201903,March 2019,6,1,1,Imports,710,South Africa,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3821,,55491,,,0
+HS,2019,201903,March 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2945,,128735,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15568,,11904283,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2734,,703217,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,8367,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,854,,26684,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,965,,50629,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,10,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,251900,,5742505,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,820,,108078,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,15,,,0
+HS,2019,201906,June 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8935,,4243055,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,18534,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3051,,202119,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,2686,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,631,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,2364,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,10519,,,0
+HS,2019,201906,June 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,384,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,937,,594,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,1617,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,241,,18246,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,710,South Africa,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4096,,679903,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,710,South Africa,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,239870,,5336054,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,6357,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,20075,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,15198,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4318,,1032553,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,566,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1118,,830675,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,710,South Africa,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1662,,23214,,,0
+HS,2019,201908,August 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,103,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,4660,,,0
+HS,2019,201908,August 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,1208,,,0
+HS,2019,201905,May 2019,6,1,4,Re-imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,52,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36793,,17763452,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4686,,1275365,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5499,,77861,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9508,,10032122,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,839,Special Categories,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,4308,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,24420,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,3463,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,654,Saint Helena,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,173,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,7795,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,5094,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,232,Eritrea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3873,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,140,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,23245,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,316,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,6895,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,7537,,,0
+HS,2019,201905,May 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1518,,416497,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,73842,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3072,,,0
+HS,2019,201905,May 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,134,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,14142,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,6622,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,837,Bunkers,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,17578,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16182,,6529545,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5346,,138733,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43969,,17181869,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1162,,2841361,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1658,,21220,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4060,,595063,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,4488,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,551,,27301,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,11743,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4040,,419141,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15200,,6536261,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1327,,136402,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,87211,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,241,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,2110,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,14,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,6746,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3152,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,141,,10577,,,0
+HS,2019,201907,July 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,5088,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2068,,3887,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1060,,6339,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,24378,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,2446,,,0
+HS,2019,201907,July 2019,6,1,2,Exports,710,South Africa,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1153,,7539,,,0
+HS,2019,201909,September 2019,6,1,2,Exports,710,South Africa,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3358,,77433,,,0
+HS,2019,201902,February 2019,6,1,1,Imports,710,South Africa,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,1456,,,0
