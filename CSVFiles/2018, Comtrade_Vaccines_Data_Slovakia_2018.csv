@@ -1,0 +1,221 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1437,,2179990,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,267,,41908,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,61755,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,8259,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,39077,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,243,,122105,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,27696,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343,,538263,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,256,,19478,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3306,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1476,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,34726,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,552,,288414,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,68643,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,489,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,57322,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,23219,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,109,,85275,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,213436,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,117167,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,285,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,281,,1400279,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,256,,20065,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,703,Slovakia,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,135841,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,11174,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,495970,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,256,,6317,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,30916,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,109,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,575,,181470,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,43569,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,401,,216634,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,327,,905359,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,440,,617620,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,281,,137528,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,740,,173578,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,478,,690853,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,564977,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,35474,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1142,,832439,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2009,,1513200,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,21986,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3711,,3129141,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,19528,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3300,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,49191,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,74,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,355,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,13072,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,703,Slovakia,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122,,170016,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,22218,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,284,,75279,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,108478,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,8850,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,835,,1320542,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,19376,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,478,,697599,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,751,,806232,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,407612,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,10798,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4423,,3116967,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,468647,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,400,,122226,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2358,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3572,,2517249,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,703,Slovakia,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,221,,396175,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,703,Slovakia,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,32585,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,47092,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,12589,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,307,,322336,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,78892,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,703,Slovakia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,162610,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,703,Slovakia,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,7680,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,94930,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,426,,308494,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1660,,793634,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,345,,46891,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1006,,116022,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,5435,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2057,,853298,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,303,,37296,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4525,,4285624,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,221,,109746,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,290,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,27376,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,921,,292291,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,66399,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,15572,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,7172,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,659,,413395,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,27796,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,944,,1072017,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2173,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1095,,1113110,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4876,,4398932,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,111412,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,306,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,442,,232076,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,791,,1734713,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,11109,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,264,,446938,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,271669,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,480,,120055,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,42057,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,514,,129647,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,20278,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,293,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,331,,164343,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,790,,367936,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,85582,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,359,,527840,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,250079,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,303,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,286520,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,396,,100121,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,10147,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4262,,2628344,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,22091,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,708,,439120,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,164,,749725,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,703,Slovakia,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,33575,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,703,Slovakia,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,7007,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,30574,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1775,,1531636,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,319,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,52124,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,301,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,663,,426167,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4205,,3548620,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1495,,271387,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,175319,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,56602,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,870,,676107,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,220602,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,54513,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,336,,62035,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,286,,52469,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,246,,200182,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,511,,414758,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,499,,106450,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,64197,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,689,,208835,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2357,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,304,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,241534,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3284,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,16522,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2150,,986672,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,78981,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,198727,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4200,,3753195,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,64721,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,600,,128686,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3335,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,507,,488441,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1085,,1122709,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1028,,1035030,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,580890,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,430,,127151,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,297,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,423445,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,530,,155039,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,18522,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,279843,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,703,Slovakia,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,33012,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,28022,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,278,,36798,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,262433,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,384,,1048479,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,443,,219838,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,17575,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1611,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1637,,382154,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,494,,748851,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,232,,192132,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,282,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,23080,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,342,,231061,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,221521,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,703,Slovakia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,114721,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,155349,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,703,Slovakia,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3119,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,21434,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,184,,90164,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3447,,1369671,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,61440,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,35314,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,703,Slovakia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,26332,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,703,Slovakia,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,52201,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,44514,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,134,,433841,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,952,,1338343,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,19495,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,196,,176318,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,580,,137839,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,241,,686832,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6163,,3939369,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,544,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1975,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,310794,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,1251983,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,582,,356728,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,78848,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1043,,657881,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,773,,373867,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,282,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,107379,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,703,Slovakia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,162171,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,703,Slovakia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,107303,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,924,,1852289,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,334,,69895,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,538458,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,690,,204976,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,236,,343888,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4945,,4585223,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,703,Slovakia,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,730,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,703,Slovakia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,362,,1704546,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,290,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,703,Slovakia,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,909,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,703,Slovakia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,11123,,,0

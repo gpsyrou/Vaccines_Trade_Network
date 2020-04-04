@@ -1,0 +1,142 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201807,July 2018,6,1,2,Exports,458,Malaysia,,96,Brunei Darussalam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2371,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,458,Malaysia,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,10090,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11483,,645530,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1750810,,3439739,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9081,,95849,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1070,,661021,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,458,Malaysia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1027,,14056,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,523,,147807,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4783,,4726445,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,35990,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,312,,29635,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20000,,87891,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18240,,19796,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12677,,939751,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,524,,337979,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,911,,267410,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13600,,190051,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2737,,1575914,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,458,Malaysia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1226,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1226,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,79830,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,742,,182932,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8579,,3394705,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78352,,7105894,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,458,Malaysia,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10000,,49187,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4614,,638148,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,458,Malaysia,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,289,,183231,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,761,,689535,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9568,,2952390,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,72101,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107698,,4900743,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,40212,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2382,,1162528,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,458,Malaysia,,96,Brunei Darussalam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,5840,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,370,,63168,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,18447,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5845,,1734545,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,83248,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64755,,3982977,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1193,,20554,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,458,Malaysia,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20000,,87707,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,450,,128047,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8270,,2443200,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,840,,241288,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34854,,4759764,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,458,Malaysia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1861,,326107,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,2436,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,458,Malaysia,,96,Brunei Darussalam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1946,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1946,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1005,,611110,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,395,,29903,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3669,,1264278,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,261465,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47980,,4733464,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,848,,439047,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,458,Malaysia,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1863,,97412,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4910,,1979848,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,458,Malaysia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35200,,50402,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8693,,1923515,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,458,Malaysia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2188,,523424,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4462,,718404,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,458,Malaysia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,333,,1241309,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,458,Malaysia,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50000,,185585,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13938,,1577237,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2351,,780894,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8186,,116169,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,287,,184864,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2188,,533064,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,671,,178289,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6327,,242736,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,5840,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20000,,78432,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29362,,1420569,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82439,,316151,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,458,Malaysia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,631,,8532,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43289,,1613195,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3147,,518618,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2127,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,560,,124842,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12674,,4522992,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,36069,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17792,,322918,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79891,,8343502,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,631,,8532,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2019,,1210263,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63482,,324160,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,861,,451955,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52000,,224033,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4081,,1982960,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,992,,145046,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4227,,1264445,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,146970,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78678,,5724681,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3112,,239642,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,458,Malaysia,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1199,,106593,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,338,,121979,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1134,,93047,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,10225,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80140,,7532670,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,519,,28715,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,102415,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80303,,6300605,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1027,,14056,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,630,,150273,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6262,,1838705,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,333829,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108939,,7149088,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,373,,168388,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,15582,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27960,,106958,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1599,,1060087,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3903,,506298,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20000,,79237,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36584,,2244202,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,12461,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,30945,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1882,,104689,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2737,,1618526,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10000,,48593,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18240,,20525,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1634,,182225,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1233,,408854,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,248,,652502,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1797164,,7263468,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,458,Malaysia,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,224,,8794,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,458,Malaysia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,969,,11761,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3413,,1530979,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7395,,150815,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,600,,51322,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,2142,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,998,,380289,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18240,,19346,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,458,Malaysia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12122,,1553503,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,458,Malaysia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,88924,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,458,Malaysia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11642,,3285911,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,458,Malaysia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,71846,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,458,Malaysia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,373346,,7905562,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,458,Malaysia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100065,,480796,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,458,Malaysia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2737,,1582534,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,458,Malaysia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,228470,,822702,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,458,Malaysia,,96,Brunei Darussalam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,10225,,,0

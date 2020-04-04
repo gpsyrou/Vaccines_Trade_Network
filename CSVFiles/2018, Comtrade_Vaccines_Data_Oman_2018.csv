@@ -1,0 +1,114 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201805,May 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,65,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,10,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,21,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,34,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,60,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5653,,2097472,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3088,,2672520,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1723,,1315415,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,117,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,62,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2829,,2617079,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,568,,198645,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3055,,366257,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4602,,1388281,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,120,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7737,,2416301,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3126,,2426868,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3317,,1997576,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6082,,2281547,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,512,Oman,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5975,,1359872,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,512,Oman,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,283,,32268,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,512,Oman,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1415,,178190,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,363,,43059,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,512,Oman,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,172,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,512,Oman,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2558,,253547,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,512,Oman,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,512,Oman,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,512,Oman,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,512,Oman,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,512,Oman,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,10,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,512,Oman,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,512,Oman,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,85220,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,38510,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,3100,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,281,,64559,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,357,,70593,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,217,,46952,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,16,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,247,,13644,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,295,,125064,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,83,,14130,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,13477,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,715,,203826,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,512,Oman,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,30541,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,512,Oman,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,45638,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,512,Oman,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1696,,1154263,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,512,Oman,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,512,Oman,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2088,,1518138,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,512,Oman,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1696,,1327350,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,512,Oman,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,237,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,512,Oman,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,48005,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,512,Oman,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1980,,1505794,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,512,Oman,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,40554,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,512,Oman,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,298,,16934,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,512,Oman,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,6208,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,512,Oman,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,486,,138182,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,512,Oman,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2359,,601261,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,134,,42130,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,512,Oman,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,1129,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,512,Oman,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3810,,998879,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1901,,1555256,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1870,,235930,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1032,,77654,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,752,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,15909,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,436,,50713,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119,,108263,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,126291,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,485,,46309,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,651,,130746,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,4674,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,512,Oman,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1768,,1142835,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,512,Oman,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,242,,60879,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,512,Oman,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,438,,1041352,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,512,Oman,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,837,,1099930,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,512,Oman,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,527,,1203563,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,512,Oman,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,420,,385300,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,512,Oman,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,18492,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,438,,1041352,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,512,Oman,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,573,,1052871,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,512,Oman,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,40554,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1892,,162333,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,512,Oman,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1066,,314908,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,512,Oman,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1796,,139683,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,512,Oman,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2368,,217584,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,512,Oman,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118,,47430,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,8494,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,512,Oman,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,25623,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,512,Oman,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,30541,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,512,Oman,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,3004,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,512,Oman,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,11870,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,374,,677056,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,512,Oman,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,10,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,512,Oman,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,73,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,512,Oman,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,52,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,512,Oman,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,62,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,512,Oman,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,10,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,512,Oman,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,62,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,512,Oman,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,21,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,512,Oman,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,31,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,512,Oman,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,52,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,512,Oman,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,38936,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,512,Oman,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,10,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,512,Oman,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,42,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,512,Oman,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3426,,769430,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,512,Oman,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,8270,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,512,Oman,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1720,,495883,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,512,Oman,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,42,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,512,Oman,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,85612,,,0

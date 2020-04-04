@@ -1,0 +1,48 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201807,July 2018,6,1,1,Imports,51,Armenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,281,,225789,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,51,Armenia,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,12623,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,51,Armenia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,687,,94538,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,56904,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,2474,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1198,,551020,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,51,Armenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,799,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,983,,335734,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,640,,66725,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,2145,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,51,Armenia,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,244,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1901,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,51,Armenia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,4934,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,51,Armenia,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,310,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,56105,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,51,Armenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,37438,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,38475,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,51,Armenia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1037,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,43202,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,51,Armenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,6583,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,51,Armenia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,21842,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,51,Armenia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,400,,33366,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,51,Armenia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,549,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,51,Armenia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,460470,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,51,Armenia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,459,,1688585,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,51,Armenia,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,24626,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,51,Armenia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,96225,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,380,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,51,Armenia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,380,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,51,Armenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,759,,233227,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,51,Armenia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,256166,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,51,Armenia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,308,,22399,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,51,Armenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,36758,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,2469,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,51,Armenia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,217015,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,51,Armenia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,209,,92763,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,51,Armenia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,655,,300062,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2251,,815231,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,51,Armenia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1104,,204914,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,477,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,23806,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,51,Armenia,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,13216,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,51,Armenia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,10589,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,229,,185000,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,51,Armenia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,213,,29755,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,51,Armenia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,155245,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,51,Armenia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1023,,2313658,,,0

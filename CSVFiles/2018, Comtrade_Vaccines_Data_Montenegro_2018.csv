@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201801,January 2018,6,1,1,Imports,499,Montenegro,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,15312,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,15312,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,499,Montenegro,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3106,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3106,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,499,Montenegro,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,18785,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,499,Montenegro,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,333,,222170,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,392,,240955,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,499,Montenegro,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1628,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1628,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,499,Montenegro,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,37747,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,499,Montenegro,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,227,,82107,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,499,Montenegro,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3089,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,499,Montenegro,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,11650,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,406,,134592,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,19715,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,499,Montenegro,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,19715,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,499,Montenegro,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,18754,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,499,Montenegro,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,66214,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,175,,84968,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,10557,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,499,Montenegro,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,10557,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,499,Montenegro,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,56429,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,499,Montenegro,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,7938,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,499,Montenegro,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,432,,224505,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,512,,288872,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,499,Montenegro,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,83930,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,499,Montenegro,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,4653,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,88583,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,499,Montenegro,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,2651,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,499,Montenegro,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,12472,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,15122,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,499,Montenegro,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,2273,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,499,Montenegro,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,19701,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,499,Montenegro,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3431,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,25405,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,499,Montenegro,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,6545,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,499,Montenegro,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,19407,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,499,Montenegro,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,5881,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,499,Montenegro,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,31834,,,0

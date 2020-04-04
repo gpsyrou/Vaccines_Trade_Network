@@ -45,6 +45,10 @@ def getDataCall(api_string: str, reporterid: str, reportername: str, year: int, 
     -------
         None: The output is a .csv file that contains the data for a specified year.
     '''
+    csv_by_year_out_loc = os.path.join(out_folder, f'{year}')
+    if not os.path.exists(csv_by_year_out_loc):
+        os.makedirs(name=csv_by_year_out_loc)
+
     api_string = api_string.replace('year', f'{year}').replace('reporter', f'{reporterid}')
     print(api_string)
 
@@ -57,13 +61,9 @@ def getDataCall(api_string: str, reporterid: str, reportername: str, year: int, 
         csv_file = csv.reader(decoded_data.splitlines())
         datalines = list(csv_file)
 
-        with open(os.path.join(outputFilesFolder, f'Comtrade_Vaccines_Data_{reportername}_{year}.csv'), 'w', newline='') as f:
+        with open(os.path.join(csv_by_year_out_loc, 'f'Comtrade_Vaccines_Data_{reportername}_{year}.csv'), 'w', newline='') as f:
             writer = csv.writer(f, delimiter=',')
             writer.writerows(datalines)
-
-outputFilesFolder = 'CSVFiles\\'
-if not os.path.exists(outputFilesFolder):
-    os.makedirs(name=outputFilesFolder)
 
 
 # Retrieve the data
@@ -79,11 +79,12 @@ json_data = json.loads(reporters_resp.text)
 
 reporters_list = [rep for rep in json_data['results']]
 # Get the data as separate csv files, each for every year of interest
-years_ls = [2019]
+years_ls = [2018]
+outputFilesFolder = f'CSVFiles\\'
 
 for api_check, repd in enumerate(reporters_list):
     # Need to make the script to sleep every 100 calls, as the API is blocking us for an hour for every 100 calls.
-    if api_check % 100 == 0:
+    if api_check !=0 and api_check % 100 == 0:
         time.sleep(3600)
     countryname = repd['text']
     c_id = repd['id']

@@ -1,0 +1,151 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4194,,496158,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,374,,41644,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,370,,40791,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10680,,1253952,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,735,,71781,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,143141,,15784278,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5185,,617701,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10400,,999327,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,465,,52470,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3230,,358824,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8010,,531661,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,223725,,18451180,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3788,,225712,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2044,,133193,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44668,,4879715,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27300,,2792460,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,252380,,27251848,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3435,,185103,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,707,,82001,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5496,,735239,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8102,,914114,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6926,,502388,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,571,,69751,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144845,,14238856,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5085,,657639,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6054,,517152,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,1697,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31792,,3484671,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97253,,8621787,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8920,,1150210,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,315764,,30975505,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86865,,5356623,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85732,,4737507,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,356959,,26367338,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2086,,130628,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,739,,52792,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162264,,13091971,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1552,,92595,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,566,,416073,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1785,,110776,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2813,,197204,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3928,,281732,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11120,,982385,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1521,,94807,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195525,,10858668,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16661,,1037917,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,400560,,27347548,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18196,,2046143,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3600,,378235,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2562,,239955,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4432,,519673,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3400,,330739,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7266,,608403,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2000,,212900,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18166,,1318845,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7000,,796721,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66622,,6451614,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2375,,272476,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16640,,2099479,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11750,,1397908,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117820,,14439434,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,20040,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,6484,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11090,,1387541,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,215,,25649,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6588,,869075,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1804,,225751,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,6730,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,27600,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,282,,14911,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4100,,233138,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14154,,906832,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,138762,,13324313,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11765,,659548,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,254,,17429,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,6301,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1885,,113244,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2046,,109797,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11000,,887695,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,408,Dem. People's Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6588,,835764,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7039,,365429,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7956,,427339,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14519,,683592,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68399,,3750845,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77507,,4156404,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9448,,478071,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,290503,,15701983,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71938,,4056856,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5262,,311738,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25000,,1286606,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9441,,816737,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11634,,1036179,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1266,,158465,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,10908,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,153400,,6979204,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1010,,109691,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4024,,436942,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1359,,147596,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,32,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3363,,365062,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1588,,158070,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2678,,145357,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18818,,2021706,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,186241,,10363661,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9522,,1062212,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8866,,1030899,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7104,,888816,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64550,,8143511,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,972,,70683,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33188,,1962009,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6018,,610364,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,5391,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7741,,894133,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3955,,234028,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,155,,10278,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4296,,356804,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4864,,397667,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195190,,9117967,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19705,,1189805,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106467,,6967340,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8724,,796435,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,391337,,22612905,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23193,,1248014,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,263221,,14284736,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7149,,733372,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3500,,235761,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2512,,136337,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3023,,218757,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1167,,73887,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34893,,1893646,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,878,,39713,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4479,,282132,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,344015,,19146355,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6455,,767785,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6693,,695059,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5050,,584562,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3535,,237076,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137475,,9825953,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,586,,35929,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32620,,3654067,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,812,,74649,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20262,,2535099,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3714,,439401,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9101,,1137448,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,247842,,30084566,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,586,Pakistan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,83699,,10052983,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14446,,1375116,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12532,,1216647,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,695,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,586,Pakistan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1961,,219766,,,0

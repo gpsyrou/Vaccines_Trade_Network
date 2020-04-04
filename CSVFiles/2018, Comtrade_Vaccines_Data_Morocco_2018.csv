@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201808,August 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,374,,99806,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1659,,913965,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5044,,769275,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,504,Morocco,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,6962,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,749,,468511,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,3788,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,764,,479261,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22120,,7121878,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,504,Morocco,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,64254,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,504,Morocco,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5774,,536827,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,504,Morocco,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11126,,4774726,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,504,Morocco,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,983,,175775,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1054,,411201,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,504,Morocco,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,26618,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16152,,7393907,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,504,Morocco,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,194,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,504,Morocco,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16090,,7379593,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,14120,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2430,,972751,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,504,Morocco,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,596,,202604,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,504,Morocco,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,156284,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,510,,222868,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,504,Morocco,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,71737,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,504,Morocco,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1026,,192188,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211,,127069,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,504,Morocco,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,132638,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1562,,655295,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,504,Morocco,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,84840,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3797,,601101,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5479,,1077499,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,452,,79953,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,504,Morocco,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1230,,396445,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,504,Morocco,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,172458,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,504,Morocco,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1913,,289598,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3920,,589912,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1950,,627150,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10113,,2576868,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,504,Morocco,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2305,,897750,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,504,Morocco,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2758,,787049,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1439,,375937,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,961,,583085,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5081,,963699,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,207,,205510,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,504,Morocco,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4085,,463178,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10355,,1808161,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,426,,240419,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5312,,1022060,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,504,Morocco,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1418,,86636,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8924,,3020065,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,504,Morocco,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1362,,1305151,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,504,Morocco,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,333,,347009,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,504,Morocco,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,18790,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,400,,82229,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,834,,203117,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,504,Morocco,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,21082,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,504,Morocco,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,350,,91473,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,504,Morocco,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1915,,646278,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27268,,10446512,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,504,Morocco,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18299,,8025521,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,504,Morocco,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11524,,3366076,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,504,Morocco,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1068,,455960,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,504,Morocco,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1380,,149158,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,504,Morocco,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2474,,827297,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,504,Morocco,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2346,,813192,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,504,Morocco,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,18573,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,504,Morocco,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,333,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,504,Morocco,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2696,,842394,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,504,Morocco,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1486,,259170,,,0

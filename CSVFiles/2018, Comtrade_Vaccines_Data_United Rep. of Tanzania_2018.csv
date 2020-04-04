@@ -1,0 +1,142 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5393,,1191315,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,60,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,117,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2895,,130843,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1694,,986937,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1173,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,685,,65200,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,6497,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,349,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,138,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6398041,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,1100,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,784,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19689,,5187422,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,322,,35021,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,22175,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,138,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,28,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4670,,1147359,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,820,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,46,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,540,,4160,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,69,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,1100,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8172,,1727839,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3626,,883653,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,20150,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,22,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,128,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,33126,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,99,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4338,,790302,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,258,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,12,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,834,United Rep. of Tanzania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,89,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26910,,7963513,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,1119,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15401,,6408546,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,8,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,67,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,20368,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4122,,1045919,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,21,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,969,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,141,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3664,,695821,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,235,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,419,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7904,,1764090,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,834,United Rep. of Tanzania,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,121,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15117,,2689078,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4895,,963204,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1162,,181327,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5105,,1160717,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1018,,149053,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,23,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,6707,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,34,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,30,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2881,,227114,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,140,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,728,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9906,,1985011,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,950,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,426,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,833,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3368,,773727,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,780,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,834,United Rep. of Tanzania,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,950,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,28692,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,10,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6300,,1177168,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,20,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,3320,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,35,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9652,,1176638,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,834,United Rep. of Tanzania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3834,,884779,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,834,United Rep. of Tanzania,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,17144,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5743,,265949,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,179,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,834,United Rep. of Tanzania,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,4,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,8583,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1536,,99595,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1072,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,834,United Rep. of Tanzania,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1072,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,834,United Rep. of Tanzania,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,44,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,834,United Rep. of Tanzania,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,24,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,834,United Rep. of Tanzania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,71,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,834,United Rep. of Tanzania,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,79,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1469,,95973,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,472,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,834,United Rep. of Tanzania,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,37,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,2895,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30311,,12263975,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,30,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10455,,8315057,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,63,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,594,,51299,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,2559,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,101,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,35,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11901,,1882761,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,2102,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6726,,2005701,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,834,United Rep. of Tanzania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,585,,4268,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,985,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,579,,4237,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,8842,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,985,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6547,,1466885,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,483,,98768,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,10615,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,137,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,25,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,9,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5301,,1340931,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,3323,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28131,,5799560,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7214,,4049944,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,65,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,73,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,252,,59027,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,51,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,5880,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,47,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20615,,1683760,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,690,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,834,United Rep. of Tanzania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,24,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,9,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,122,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,834,United Rep. of Tanzania,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,1119,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,10452,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,3766,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3675,,115724,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,43,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,51,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3500,,860288,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,152,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,16896,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,834,United Rep. of Tanzania,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4163,,547466,,,0

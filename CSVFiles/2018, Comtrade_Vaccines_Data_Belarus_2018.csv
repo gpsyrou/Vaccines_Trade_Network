@@ -1,0 +1,56 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201801,January 2018,6,1,1,Imports,112,Belarus,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,7400,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,621,,64400,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,112,Belarus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2700,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,112,Belarus,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,106800,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,387,,13200,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4255,,1620300,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4648,,1740300,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,112,Belarus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2400,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,112,Belarus,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,24700,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,112,Belarus,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,116600,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5912,,2298300,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,112,Belarus,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,6100,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,242,,148500,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6182,,2596600,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2400,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2400,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1226,,136100,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,694,,507200,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1920,,643300,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,112,Belarus,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,113900,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10800,,4313300,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1910,,425800,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12723,,4867800,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,112,Belarus,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,14800,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,872,,208700,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,112,Belarus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,15400,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,291,,266500,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,138100,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,504,,420000,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,345,,66700,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,112,Belarus,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,27000,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,32300,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,388,,126000,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,624,,71800,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,46000,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,112,Belarus,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,2800,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2200,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,41000,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,301,,30700,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,730,,760000,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1900,,1444000,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,112,Belarus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,830,,651000,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,112,Belarus,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,2300,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,112,Belarus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,550,,438200,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,112,Belarus,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,9200,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,112,Belarus,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,203000,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1308,,296300,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,535,,392900,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2472,,1339600,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,112,Belarus,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,30300,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,282,,29500,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,112,Belarus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,417,,59800,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,112,Belarus,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,834,,154300,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,112,Belarus,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,19600,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,112,Belarus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,32100,,,0

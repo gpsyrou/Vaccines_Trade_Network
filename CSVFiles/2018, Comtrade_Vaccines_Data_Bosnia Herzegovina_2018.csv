@@ -1,0 +1,73 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201804,April 2018,6,1,1,Imports,70,Bosnia Herzegovina,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2332,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,70,Bosnia Herzegovina,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,189,,82571,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,70,Bosnia Herzegovina,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,408,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,70,Bosnia Herzegovina,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,22087,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,70,Bosnia Herzegovina,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,3335,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,70,Bosnia Herzegovina,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,110,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,70,Bosnia Herzegovina,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3878,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,108136,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,70,Bosnia Herzegovina,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1072,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,248,,152838,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1197,,510324,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1230,,519741,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,907,,562671,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,70,Bosnia Herzegovina,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,24091,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,70,Bosnia Herzegovina,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,45834,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,70,Bosnia Herzegovina,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,5067,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,70,Bosnia Herzegovina,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,546,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,70,Bosnia Herzegovina,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,148,,49680,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,473,,95145,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,70,Bosnia Herzegovina,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,25242,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,233,,59710,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,49745,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,70,Bosnia Herzegovina,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,4262,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,28,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,70,Bosnia Herzegovina,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,101,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,102315,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,70,Bosnia Herzegovina,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,9130,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,794,,506779,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,70,Bosnia Herzegovina,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1080,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,70,Bosnia Herzegovina,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,19251,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,66493,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168,,90007,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1484,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,29677,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,31161,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360,,125560,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,435,,150086,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,39463,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,70,Bosnia Herzegovina,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,786,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,70,Bosnia Herzegovina,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,8628,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,32957,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,70,Bosnia Herzegovina,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,32173,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,6658,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,70,Bosnia Herzegovina,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,818,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,690,,178088,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,70,Bosnia Herzegovina,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,6516,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,393,,171724,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,70,Bosnia Herzegovina,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,3542,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,434,,150058,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,3335,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,427,,251759,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,70,Bosnia Herzegovina,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,98,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,80619,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,70,Bosnia Herzegovina,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,186,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,477,,192351,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1089,,474856,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,70,Bosnia Herzegovina,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,885,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1547,,881690,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,70,Bosnia Herzegovina,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,214441,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,194,,185386,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,70,Bosnia Herzegovina,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,6122,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,6516,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,3542,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,70,Bosnia Herzegovina,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,7531,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,70,Bosnia Herzegovina,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,358,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,7531,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,70,Bosnia Herzegovina,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,274,,38187,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,70,Bosnia Herzegovina,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3324,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,70,Bosnia Herzegovina,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,8520,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,70,Bosnia Herzegovina,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1183,,712959,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1631,,822598,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,70,Bosnia Herzegovina,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,539,,,0

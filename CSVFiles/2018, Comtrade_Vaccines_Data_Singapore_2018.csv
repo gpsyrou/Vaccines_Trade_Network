@@ -1,0 +1,310 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17730003,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10808,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,550,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15602492,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4027,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,144789,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,483,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2867,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3408,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,86866,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,834,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,89049,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,30317,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,52954,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16870604,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3355,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,972499,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2256433,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26591,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,222,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1773117,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4263156,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3117,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,92543,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1009,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2145,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4397,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,481498,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9876728,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19149,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6215430,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8581,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13162,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,47,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,44637,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7348,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,683,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12308,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6437201,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,18047,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,97809,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7363015,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,539452,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9900,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1346762,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,44,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1530,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17801,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5520,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1469478,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6506,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3962911,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,702,Singapore,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3101,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13387746,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,28914,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2548,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,71775,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11358,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,226,Equatorial Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4225,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13234498,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4648,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6177,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9272,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2756,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,702,Singapore,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11563,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,79,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4706,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2228,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,141117,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13320,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,562913,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14477,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4813,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,957642,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,208917,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1910213,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,214,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,110386,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,34399,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6516963,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,702,Singapore,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1214,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2222,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,702,Singapore,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1327,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,702,Singapore,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,169905,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,176,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6691816,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,78560,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2256,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,54089,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1267547,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3186,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,51,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17303,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,509963,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,774,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,538334,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,38180,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22788,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2064,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,209,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4709,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6505,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,58970,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,946,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,18049,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5721701,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,96,Brunei Darussalam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,148127,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2424,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6181,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5967820,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2593382,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,126638,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5736,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,875144,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2366,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4613,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,39094,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,44,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15111,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,275,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1412,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5505,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1517444,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11649133,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20897,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,135794,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,86284,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,35036,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4391,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3569,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,335,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26654,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11599,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6640,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11980334,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11580379,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,885,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,322,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,33607,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,147720,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6631,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10342,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17544,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,87007,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11186592,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,702,Singapore,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,89718,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6463,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,368,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19696,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,175,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1120,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,55,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19118,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,797222,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,657,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1538560,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1364,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16304,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,234027,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16018621,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,51,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,702,Singapore,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,483,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,124,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4908,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2381,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,31,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,203151,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4506,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,445235,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,27022,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,130098,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,27541,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,144828,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1554536,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,33215,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17039,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,50007,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,139866,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,53605,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2838108,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,109,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1007405,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,80,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5065093,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15783266,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,50,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15171110,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,119939,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,23573,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22024,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,23971,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,160641,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,90353,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,44687,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5707,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12327,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,69,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,83340,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8240,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17236,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9178,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2030779,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20635,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,88,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,63,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,100,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1625571,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,257313,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,112908,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,702,Singapore,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,843,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,51168,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,21883,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8141945,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,18250,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24437,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2335,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,72643,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3208,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8335909,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,110,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,115546,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1900,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,422,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,159459,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,100098,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26574,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9440,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5594,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3251,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,54160,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2023,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3493924,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3972501,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1821170,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,632104,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,48827,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5137229,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1275063,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1225,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17552376,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1091,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26549,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3868,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8653,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,942,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,663,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,702,Singapore,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,123279,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2252507,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5999,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9562,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1162298,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1713,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,175,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,89,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6846,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19276,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,270302,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,776249,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8293085,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,90216,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3967,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,226,Equatorial Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6565,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26097,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1356,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19527,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,492,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26442,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,579,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8468332,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,448,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14533,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,164,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22896,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,975110,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,111357,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5555,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,46,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16660587,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4095,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40474,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,87210,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3897,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,37985,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8921,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24033,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,238854,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,49079,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,126451,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13993,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,925794,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,103031,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10125,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,296123,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,85,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9237,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2992,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,45552,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,481,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20150,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,702,Singapore,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9641,,,0

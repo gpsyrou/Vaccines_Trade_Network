@@ -1,0 +1,359 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,47759955,,,0
+HS,2018,201801,January 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,842864,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,46484103,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8158130,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,35631088,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1688504,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8545052,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,842864,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,74,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16179552,,,0
+HS,2018,201809,September 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,57562,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36660276,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2905747,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,29093993,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2835,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1940915,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,64113,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1995428,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,42502,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,509846,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22795,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14215,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,45173,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22714,,,0
+HS,2018,201811,November 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,497434,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,359,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,497434,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,777,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2401,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,232,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1452664,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10524430,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36157268,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,42866860,,,0
+HS,2018,201802,February 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1920066,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3762435,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10654547,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2892970,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2145,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,28555,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,499410,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20933,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,104045,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,37799,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,37207,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,76357,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,45670935,,,0
+HS,2018,201811,November 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,497434,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24587583,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1747741,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6857299,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,74380778,,,0
+HS,2018,201809,September 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8181,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,46179838,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,51430760,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,33979822,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,230,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1315752,,,0
+HS,2018,201809,September 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,63904,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,18655,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,464701,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,123041,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1493379,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,90783,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16366,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,445134,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22592,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,29295,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,73502,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17014,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2450118,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1142479,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13062670,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10816,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,53428,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,202470,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14655,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13101,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3723159,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32621664,,,0
+HS,2018,201807,July 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,184781,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32092604,,,0
+HS,2018,201812,December 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,787424,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32550193,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,25051208,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4866586,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,728120,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3480057,,,0
+HS,2018,201812,December 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,787424,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,999685,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,787424,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,166213,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10631608,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2063607,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8342564,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,25591,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,30,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1119,,,0
+HS,2018,201812,December 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,8661,,,0
+HS,2018,201812,December 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,8661,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4490,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1211914,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2382152,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12869,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1069279,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,39281,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,89492,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,65438,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,134967,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2167234,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,276043,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4226,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,124,Canada,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,41603,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,59747044,,,0
+HS,2018,201804,April 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1510774,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,58928505,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7230858,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1553259,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,37702802,,,0
+HS,2018,201804,April 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1510774,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1306802,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,453358,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,55536,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12871,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,29516,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,128698,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1261332,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10954,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,699854,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,101879,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2345988,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,62096,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,288057,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20385,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,52151179,,,0
+HS,2018,201804,April 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,12850,,,0
+HS,2018,201804,April 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,12850,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,40086290,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22124254,,,0
+HS,2018,201805,May 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14629,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,49959913,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8038410,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3224647,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26,,,0
+HS,2018,201805,May 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14629,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14629,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1341882,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1010853,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,424,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,583709,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7909663,,,0
+HS,2018,201805,May 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,19854,,,0
+HS,2018,201805,May 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,19854,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2227554,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1758,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,17760572,,,0
+HS,2018,201802,February 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1920066,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,314,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1736543,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,25,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6130887,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,802,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2433788,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1920066,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,63013,,,0
+HS,2018,201802,February 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,63013,,,0
+HS,2018,201802,February 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,63013,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4821191,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32056,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,745651,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2953912,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,413694,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1138,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12352,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,25,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4373,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1495983,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,32351995,,,0
+HS,2018,201803,March 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1083947,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12685204,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,33840916,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,22669300,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8166200,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,451404,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,557,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,49560,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,735302,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5013,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2176621,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1247,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,117,,,0
+HS,2018,201806,June 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1247,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7524553,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,83401816,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,35814,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,102513541,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1212119,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,322963,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1696905,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15727,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3864984,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2577063,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,236289,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20007,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11711,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9061786,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26373,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,124,Canada,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,29983,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6259456,,,0
+HS,2018,201810,October 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2220,,,0
+HS,2018,201810,October 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2220,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,823925,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4897855,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15176,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,722,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1438,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,325,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,727872,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,512,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,759710,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,39008100,,,0
+HS,2018,201801,January 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,842864,,,0
+HS,2018,201810,October 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15176,,,0
+HS,2018,201810,October 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15176,,,0
+HS,2018,201803,March 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1083947,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3853286,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,177306,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12335,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,88648,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,370623,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32621,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,45727,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1241351,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10769,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,47154,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10221,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,318970,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,27128,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1611167,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14369948,,,0
+HS,2018,201803,March 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32056,,,0
+HS,2018,201806,June 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,4795,,,0
+HS,2018,201806,June 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,4795,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,124,Canada,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3564380,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1224550,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,124,Canada,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,27405,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1798971,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,124,Canada,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2515780,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24079,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2016451,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1099116,,,0
+HS,2018,201806,June 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1247,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,124,Canada,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,6341,,,0
+HS,2018,201809,September 2018,6,1,3,Re-exports,124,Canada,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,6341,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2957,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,18864,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2605,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,54799,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,56766,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,548402,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,30679,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,26073,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,58720,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11543,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3500,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,260616,,,0
+HS,2018,201803,March 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32056,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,38588134,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14516968,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,18234795,,,0
+HS,2018,201808,August 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2494703,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2494703,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,544,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,118469,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12316891,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3049351,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,429312,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8523002,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,50019,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,752463,,,0
+HS,2018,201801,January 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,24287,,,0
+HS,2018,201801,January 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,24287,,,0
+HS,2018,201807,July 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,184781,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6424353,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,246034,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,124,Canada,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1833884,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,124,Canada,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,226177,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,124,Canada,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2098774,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,23793,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,184781,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,420832,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7828813,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,728361,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,529,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4427959,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11939,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,385,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2018,201807,July 2018,6,1,3,Re-exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,5927,,,0
+HS,2018,201807,July 2018,6,1,3,Re-exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,5927,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,74480159,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,56257381,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3810511,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5078016,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1660,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10127862,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19221631,,,0
+HS,2018,201809,September 2018,6,1,4,Re-imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8181,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,74,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8181,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,819455,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4733789,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,129390,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2275645,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11896600,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,124,Canada,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,209,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,926107,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,123,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1135734,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,29448,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3215,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,222,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1510774,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,60,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5360,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,124,Canada,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9649083,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4968349,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,568,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,54458,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,582539,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,38667,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2058518,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,74618,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40309,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1925806,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2033,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15174,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,59607,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,124,Canada,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,52977,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,31764320,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40083624,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14183926,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4092857,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,124,Canada,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,548,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,59381604,,,0
+HS,2018,201808,August 2018,6,1,4,Re-imports,124,Canada,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2494703,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12987525,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,124,Canada,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,424510,,,0

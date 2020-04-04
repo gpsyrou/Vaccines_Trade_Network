@@ -1,0 +1,52 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201807,July 2018,6,1,2,Exports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1346,,,0
+HS,2018,201807,July 2018,6,1,3,Re-exports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1346,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,347,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,442,Luxembourg,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,14298,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,348901,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,187,,334089,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,442,Luxembourg,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,514,,,0
+HS,2018,201809,September 2018,6,1,4,Re-imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,866,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,576,,609864,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,576,,609530,,,0
+HS,2018,201809,September 2018,6,1,4,Re-imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,531,,,0
+HS,2018,201809,September 2018,6,1,4,Re-imports,442,Luxembourg,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,335,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,442,Luxembourg,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,335,,,0
+HS,2018,201806,June 2018,6,1,3,Re-exports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,2545,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,442,Luxembourg,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,437,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,344,,672987,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,2545,,,0
+HS,2018,201806,June 2018,6,1,3,Re-exports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,2545,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,426302,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,442,Luxembourg,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1042,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,442,Luxembourg,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,825,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,224,,428169,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,347,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,728,,1417859,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,345,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,345,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,442,Luxembourg,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2308,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,247,,493025,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,490717,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,590252,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,442,Luxembourg,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,260,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,442,Luxembourg,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,5990,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,434,,768779,,,0
+HS,2018,201807,July 2018,6,1,3,Re-exports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1346,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1346,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,728,,1417859,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,225,,449343,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,225,,449343,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,274,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257,,475080,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,277,,,0
+HS,2018,201802,February 2018,6,1,4,Re-imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,95,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,442,Luxembourg,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,826,,,0
+HS,2018,201802,February 2018,6,1,4,Re-imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,95,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,258,,475906,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,277,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,274,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,2545,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343,,672550,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,442,Luxembourg,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,429,,762529,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,442,Luxembourg,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,590252,,,0

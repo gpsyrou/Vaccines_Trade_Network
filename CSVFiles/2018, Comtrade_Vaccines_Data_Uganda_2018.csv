@@ -1,0 +1,85 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201807,July 2018,6,1,1,Imports,800,Uganda,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,2033,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,325,,45178,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,5590,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,219,,21880,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,424,,57263,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,562,,68816,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,545,,64009,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,102,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,183,,49638,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,29533,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,244,,28273,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,800,Uganda,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5209,,1005807,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,800,Uganda,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5103,,1005782,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18000,,12639,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11484,,1088331,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6679,,425234,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20000,,94573,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5000,,8579,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18610,,4322298,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28500,,175841,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46232,,98109,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1655,,136389,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6112,,566663,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9000,,26117,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20000,,110655,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19031,,4399872,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28000,,40585,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16322,,7378771,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7096,,1407989,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3840,,530093,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13000,,102273,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23453,,3896399,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6000,,14957,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19008,,7293858,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2886,,473319,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21250,,127360,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,285,,58045,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,255,,87926,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,322,,76762,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,394,,42041,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2204,,577634,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,61416,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1975,,551897,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,764,,119444,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,800,Uganda,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,548,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,800,Uganda,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4796,,262214,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,800,Uganda,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,204,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,800,Uganda,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,25,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11484,,1088331,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6394,,367189,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1017,,98221,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1436,,114509,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4814,,410276,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4210,,450083,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,719,,33130,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5470,,620734,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,743,,37493,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5403,,509499,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5318,,707185,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1698,,323569,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,800,Uganda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8919,,2005903,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5419,,1642471,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14302,,3942506,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1063,,723220,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3141,,4944332,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7745,,2007277,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6185,,4362843,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,800,Uganda,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,1693,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,800,Uganda,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,548,,22158,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,800,Uganda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5419,,1642400,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,800,Uganda,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2675,,442599,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,800,Uganda,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4592,,749076,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,800,Uganda,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2690,,450458,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6000,,14957,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21250,,127360,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13000,,102273,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18000,,12639,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20000,,94573,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5000,,8579,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28500,,175841,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46232,,98109,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9000,,26117,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20000,,110655,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28000,,40585,,,0

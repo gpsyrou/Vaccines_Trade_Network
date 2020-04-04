@@ -1,0 +1,1398 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,466,,157599,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,556,,152792,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1302,,671715,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11469,,3716318,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,3348,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,859,,445860,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,3163,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,491,,56368,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,495,,190785,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1344,,939242,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,289,,291755,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1696,,467834,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,178,,64958,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9326,,1503827,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,955,,158591,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3627,,424205,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,620,,67310,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3878,,598453,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,487,,130674,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1726,,832924,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28787,,4305335,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3595,,917045,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,194,,264079,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,275,,33305,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1033,,549203,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,54,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7918,,837132,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,30785,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4998,,179379,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1840,,15294,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,7268,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,977,,236786,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,592,,114211,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1852,,1029241,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,3005,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,2399,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1322,,269702,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5000,,731007,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,7956,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1043,,4534047,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11801,,4270707,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2108,,582914,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,675,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104,,9140,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,44294,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,410,,46326,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,18655,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,28977,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,750,,488624,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,400,,138849,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1715,,302468,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,27384,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,557,,57190,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,395,,2572808,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1620,,444395,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1832,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,650,,223838,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2392,,1264522,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,5821,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,270655,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3324,,1170859,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,28274,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4474,,1198336,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,294,,84081,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5500,,355212,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10615,,3133882,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1025,,174346,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1265,,133571,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,319,,292924,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2380,,349820,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,600,,260390,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2300,,615064,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2001,,266730,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,813,,95184,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,711,,35306,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,32291,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,4920,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,2537,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,380,,65116,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,4203,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,450,,147935,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,976,,102995,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1100,,316886,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6000,,943947,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,585,Palau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,607,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1504,,495622,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12424,,741603,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1351,,320725,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,170,,133409,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,13419,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,15,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4568,,695852,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1324,,347745,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,12432,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2303,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15228,,4089415,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3080,,424257,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,3037,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,873,,345656,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20455,,7031800,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,713,,108095,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1804,,317372,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,7021,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2130,,240279,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,5720,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,230270,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,23753,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1872,,21846,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,422,,72677,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,7082,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,236920,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,430811,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,24190,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3017,,865218,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,39,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,575,,104705,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7408,,1462206,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,4985,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,5032,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,583,FS Micronesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1315,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2975,,1568016,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,298,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,160,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,16,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,73,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,435,,2785264,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,20,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,178,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,701,,76089,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3078,,386966,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,9084,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,3170035,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,520,,596672,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,12288,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,36323,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2300,,360760,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,927,,194781,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,13626,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1142,,960435,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,151,,194234,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,123,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39593,,11360275,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,414347,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,854,,446438,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32418,,5876557,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,612,,48954,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12840,,1915600,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,638190,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,18790,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4996,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,26084,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257392,,54106121,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28321,,2963435,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,2635,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17100,,3728970,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13155,,2327787,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,90,Solomon Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,43983,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,1833238,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,583,,152597,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1253,,464971,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,453961,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,271580,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,18547,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,271,,50577,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,127,,130065,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2300,,616593,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,2684,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,193045,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,555,,122941,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,1155545,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,271793,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22940,,4447948,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4300,,30547423,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,80294,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,3310,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,45045,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,90821,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16949,,4594250,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2100,,247232,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1468,,813443,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,276,,121929,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,607,,488446,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,533,Aruba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,4,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,28,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,2712,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,54393,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,14314,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6715,,1304337,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,501,,116168,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91,,3761665,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4302,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,594,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,186,,97624,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3500,,15685500,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2797,,837302,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,557,,146198,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,156,,61701,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1368,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,210,,62083,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1221,,678079,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,900,,281752,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,12865,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24740,,7720157,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1693,,5083995,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,246,,18930,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,155,,29591,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,8459,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1603,,323444,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,6854,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4513,,754930,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6087,,1044166,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1313,,189656,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,4976,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3205,,641503,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,682,,141630,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,43435,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32100,,435925,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,289,,378306,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,41,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,8945,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6700,,1284597,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2341,,1176666,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137,,49640,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1958,,244023,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,11377,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3418,,523210,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4800,,334044,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,204779,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,368821,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,29953,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,101353,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6300,,940538,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11624,,3443223,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3306,,2315887,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8700,,1285253,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,274,,23193,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8200,,1457588,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,194,,43766,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15302,,1389201,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,564,,2260455,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,2744,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4294,,2601741,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,409,,85936,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9657,,2533893,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,26931,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1719,,857356,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,348,,186268,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12892,,3258545,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,245183,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,555,,120241,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,19884,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,189,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,134,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,332,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3261,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,20739,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,204,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1246,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1683,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,78066,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,22665,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,21652,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,119,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,796,Turks and Caicos Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,146,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,8436,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340539,,97107747,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1833,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,610104,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,103,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,76,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2453,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,652,,7257928,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,62,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,478,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,59,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,31751,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2769,,494012,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18020,,2968646,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5387,,2632197,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1677,,556570,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,2936,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,172366,,2233884,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4617,,910753,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,450,,190635,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5777,,997960,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,149,,34253,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,18638,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,226,Equatorial Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,440,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,58923,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,2448,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1087,,272086,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1524,,260774,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7850,,1483474,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,528,,194250,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,8908,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5282,,1806624,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,7017,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1136,,642951,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,593,,103438,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,247184,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1400,,247449,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,23339,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,4026,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,435891,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,14403,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,157,,135816,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6225,,1525552,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,14,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2700,,982805,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,77782,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2014,,473872,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,683,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6799,,457774,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,17566,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,20666,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,508,,87222,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,223793,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2400,,279135,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,403,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3000,,1000536,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,317522,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1701,,541281,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,259,,164122,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,243,,113851,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,6168,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,825,,237515,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,3800,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,44206,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,12558,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,7800,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,2753,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23619,,4547501,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,32086,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,988,,337315,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20350,,5234118,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3563,,705932,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,8792,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1642,,333200,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360,,122281,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2060,,739199,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5477,,2301557,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,535,,182983,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,2454,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,23281,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,999,,206563,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,564,,172465,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,806,,265688,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1668,,327536,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1420,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,1361,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1234,,7288008,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,225,,1347978,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,13920,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,880,,15370836,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1276,,1057760,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,202833,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,279,,1233316,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,20,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7583,,39862,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36000,,11688500,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,1627,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3855,,335153,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,92590,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,31266,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,361,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,583,FS Micronesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,298,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,5345,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,349,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1013,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,882,Samoa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1807,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,333,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,13244,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,2608,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,7175,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2965,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,776,Tonga,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1807,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,15,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,59,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,154,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,796,Turks and Caicos Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,98,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,520,Nauru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,33,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,950,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1584,,628278,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,141,,30790,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,59080,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,100,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5508,,1116992,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,43202,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5333,,1313412,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5058,,1449469,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,202729,,40403945,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,3861,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,943,,411933,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2915,,3974679,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11268,,2232095,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,25883,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,781,,165776,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,236,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,105171,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1732,,588655,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2435,,682811,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,21244,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1400,,216912,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,30457,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1850,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,732,,1017789,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,358,,37393,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,489,,60355,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,290,,27594,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,6929,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,3268,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,117533,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10713,,2082662,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,6190,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4524,,1005124,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,840,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,265,,36322,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,796,Turks and Caicos Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,4378,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,791,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1818,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,2385,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1619,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,785,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,3288,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,250,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1633,,6393402,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,699,India,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,1260381,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,258,,2100399,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1361,,9927877,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,19869,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,408,Dem. People's Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,70729,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,862,,166323,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,970,,156142,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,700,,115462,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,403,,35386,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2021,,1788468,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,10802,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,54935,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1800,,326845,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,540,New Caledonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,2060,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,39240,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46985,,7164575,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,585,Palau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,258,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1200,,129981,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4021,,301540,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,41845,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,70,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12437,,1173073,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2047,,258215,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3587,,983113,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,4493,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,4570,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,14,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,193277,,44065560,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2758,,1430843,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17173,,2581394,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,18420,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,3937,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5000,,583136,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,11870,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4767,,979599,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4227,,1514127,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,48789,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,618,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,156836,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1807,,532422,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,174,Comoros,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,6722,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,256,,55249,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2663,,429369,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6000,,674430,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1842,,260664,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,363,,81572,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,10215,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,38509,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4684,,898664,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2500,,447321,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,163,,33222,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,30956,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3200,,380940,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,33937,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5100,,1902698,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7110,,6509594,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,387,,62806,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,5454,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,95279,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,4644,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2500,,598260,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,5886,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,621,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2400,,219069,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,650,,385835,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1408,,371402,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,394,,58613,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,9015,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,217331,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1959,,772242,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6095,,1918730,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,716,,563347,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,275,,50064,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,8433,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1002,,288375,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,615,,297183,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5521,,1010520,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,7154,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,21582,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,30042,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,18806,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,1725,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,699,India,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211,,117523,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2287,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,541109,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,699,India,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,25,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,981,,8655832,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4305,,28881311,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,530,,3550862,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,2727945,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,159122,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,968,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1478,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1544,,6741764,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,72,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,761,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4626,,36078979,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6178,,2201836,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7186,,4820216,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9000,,641821,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48519,,18278035,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,172,,542844,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,40896,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27925,,8942973,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1433,,514373,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,842,,94286,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,20243,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1758,,865966,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1261,,98748,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,469,,147485,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,42648,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,6440,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,217088,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,226,Equatorial Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,26179,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,311,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,9459,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,456,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,15775,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,471,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,12724,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,13985,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,5686,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,213,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,149,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,699,India,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,263,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,430,,6862033,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,772838,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,834,,10727088,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4950,,2779566,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4795,,1837702,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,12613,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,8146,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,434,Libya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,60716,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,602,,195990,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,4559,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,6553,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,43111,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,6654,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,530,,89106,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,27717,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,28566,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2500,,204345,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,5563,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,599,,220670,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23751,,3978913,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,35980,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1570,,474726,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2335,,292933,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4458,,3838790,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,43527,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1442,,1110735,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,869,,330137,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,120,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198491,,46661427,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1101,,1197644,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,572,,66690,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,417,,228016,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,18007,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,1376,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1411,,318679,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10323,,1114783,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,279,,43697,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,441202,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5660,,759739,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13342,,1531949,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,174,Comoros,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,40388,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,2224,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1012,,442830,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,15680,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,223903,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2260,,221376,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,48482,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,13136,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,232,Eritrea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2660,,1235449,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,550,,131920,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,6210,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1806,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,27562,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,99343,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,233,,56830,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,12777,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8643,,2860306,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,639,,169636,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,47253,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,14526,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,2723,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,107056,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12017,,1711397,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,165,,81879,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118,,66767,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,6434,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,1821,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3583,,707606,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,633,,549619,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,379,,154251,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,46187,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4640,,1911663,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3100,,472110,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,440,,163348,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3559,,1696393,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,3099,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,24228,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18850,,2345934,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,287,,32523,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,17780,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11336,,3229876,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,41315,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,386,,103953,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,652207,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1705,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1455,,7985906,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,1038381,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,90,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,57499,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,102,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14675,,19791357,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12025,,2072075,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,2423,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,224,,25397,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15596,,2348047,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,524,,140373,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,4377,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,6893,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2142,,354238,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,93,,17339,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,287130,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,18089,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,21510,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,161,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,540,New Caledonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,2052,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,8242,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,21080,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,13787,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,70191,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,70,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,585,Palau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,152,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,20,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1123,,5280458,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,504302,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1321,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1957,,20077973,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3412,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,645,,166593,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,7986521,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1362,,167689,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,69,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,30640,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,780,,273754,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,209,,50780,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,337,,120300,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1004,,1154778,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,172,,80074,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,512,,141521,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,136,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,26491,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,424,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,49288,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2958,,2717219,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2700,,957006,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,949,,312670,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,6712,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1075,,147655,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,226787,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,26,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,74,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,562,,125582,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,64150,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,16443,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,64543,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,26404,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,354,,73061,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,41827,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,20358,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,93778,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,204719,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,189196,,64749175,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,290,,60451,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1310,,224257,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,13444,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,290,,139729,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6010,,1179885,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1246,,1083989,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,32441,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1013,,507898,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,124723,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,23016,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24020,,12897555,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,175,,493984,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,534405,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,10495,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,533,Aruba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,8271,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,508,,344636,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,21177,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7195,,2774162,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,166,,209575,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6393,,1683551,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,9511,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,155,,187108,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,129238,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,54047,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1594,,963914,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,212,,265794,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,18157,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,29084,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1683,,410215,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,135439,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,953594,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3018,,1807570,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1518,,487063,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3375,,1575908,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5764,,2005370,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6950,,2617040,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,965,,1703810,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,3593,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,26701,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62180,,9646832,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,26466,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,161674,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,49944,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2827,,1538020,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10000,,1622184,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,22651,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,58336,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,196698,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1394,,264707,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2237,,640209,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,581,,292363,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,151,,79855,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,8410,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7934,,2760763,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,622,,773847,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2924,,738310,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6566,,2983352,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,106817,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,408,Dem. People's Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,33942,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,8634,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,833,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1461,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,35695,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,9335,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,46252,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1501,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,38647,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1821,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,6626,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1508,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,583,FS Micronesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,42,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2062,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,109,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,699,India,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7909,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2343,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,201,,1531305,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,240875,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,623629,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1099,,6523176,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,61590,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,6768,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,527,,101449,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1204,,290553,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,600,,647490,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,327,,69327,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1200,,214748,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2587,,778506,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,205,,56621,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,183,,42628,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,543,,190611,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4871,,1006381,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,299,,2199515,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,386920,,56920159,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,740,,271552,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,325,,77955,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,750,,80116,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,12101,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15244,,2873322,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,55029,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,33687,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,7873,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,58575,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,810,,2867349,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2590,,498619,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,7514,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,4274,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,5529,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,11417,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1402,,286793,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1464,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,432,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,645,,159624,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2962,,612714,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,15,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,33301,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2541,,694550,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1600,,483003,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,23998,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,176496,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,157,,31914,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,22994,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2572,,344975,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,287,,102128,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,20207,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,1530,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11872,,1481088,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,160759,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,606,,385267,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,22890,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,7555,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,103782,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,1944,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1492,,817812,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18624,,4512660,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,12705,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,516,,91165,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,547155,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1200,,378549,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2304,,607068,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2050,,676904,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,11458,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,422,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,960,,233989,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122,,30262,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1200,,105484,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,226,Equatorial Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,13575,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7500,,559004,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,8513,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1357,,264970,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,324,,81990,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,2976,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,167,,50130,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,11764,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,151,,17691,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11300,,1745736,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,399,,81807,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,5195,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2257,,7041995,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4179,,3436396,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,16070,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,5582,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,702,,158566,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,900,,166597,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,33233,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,118509,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,16160,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,900,,229933,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,502,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,22713,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,21166,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,378,,504251,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,29512,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,6307,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,600,,59275,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1365,,366662,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,131441,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2450,,521967,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8816,,1288007,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4640,,976338,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,4358,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,3518,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,4477,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1320,,250771,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,2672,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,352,,44559,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,800,,77376,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,710,,99611,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3600,,642212,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,411,,115437,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3000,,708445,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2182,,475171,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4564,,1380235,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3550,,473517,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9745,,1141586,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14000,,3726589,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1515,,335730,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4030,,1553152,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,5842,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,192,,48690,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,312,,43405,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,517,,63470,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,32512,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,5430,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,783906,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1554,,147809,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2708,,694755,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,37236,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,432,,6082828,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5357,,19119922,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3077,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,4325770,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,214,,1666378,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,921,,4816952,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,3369,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1800,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,17609,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1691,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,7445,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,274,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,583,FS Micronesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,85,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,796,Turks and Caicos Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,818,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,803,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,659,,183488,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,188,,39740,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,8898,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5982,,4202389,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,616,,80071,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,521,,238397,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,509,,92230,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,580,,84786,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162184,,45734745,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,161,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9327,,47562628,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2168,,10763624,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,2939,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1604,,679791,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1192,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,101,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1045,,235173,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,553,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130815,,41382351,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,403,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,930,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,6,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,14755,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,600,,139150,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,419,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,4026,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,8461,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2553,,697016,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27110,,5684976,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,14115,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1054,,310861,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,33888,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,348,,138650,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,700,,268535,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,299,,68408,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,156,,174056,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,4700,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1550,,775223,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,3687,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6000,,1097868,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1282,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,49656,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2067,,1646956,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1783,,591005,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,4295,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,31087,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,683,,122628,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,725,,488441,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,7320,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2307,,430855,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,70,Bosnia Herzegovina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,30508,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,37450,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3858,,923994,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2527,,509337,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1798,,274329,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1368,,334850,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,32437,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1002,,193213,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,66788,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1101,,1043542,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2506,,406074,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,563,,101530,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6348,,678051,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,955,,896877,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,775,,995208,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,9044,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2012,,526402,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1110,,51822,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,3365,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1274,,228810,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2604,,749470,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,27038,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,25706,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7406,,496145,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,330,,138571,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4039,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,9147,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4238,,4009227,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,22844,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,923,,221744,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,251,,17519,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5395,,1201208,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1546,,286830,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,40410,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,38600,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,7548,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2178,,1810731,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,23,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,43,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,243,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,124,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,308,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,8653,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,4330,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,882,Samoa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,5828,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,5056,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,35824,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4912,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,451173,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,556,,4516607,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,3638171,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,669856,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,605,,3453500,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1634,,239109,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1923,,1077279,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,8237,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360,,4222140,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8474,,505545,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,1866,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,50766,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1978,,615833,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,56437,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,447798,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1105,,904645,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,23800,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,633,,143008,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,956,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5492,,2358905,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1771,,143520,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,40625,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,5694,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,234,,54131,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,3377,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,277262,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,699,India,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,988,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,469691,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,521,,1147286,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2071,,14392077,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1873,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1494,,456841,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,1236,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,9,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,205,,61432,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,585,Palau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,186,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,164612,,58427182,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17032,,4190921,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,453,,190671,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,677,,107440,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1865,,258053,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1558,,445698,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,177,,339351,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26264,,7107427,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,918,,351354,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,553,,654578,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3854,,1581630,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1517,,188273,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,4912,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,498,,228999,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1755,,1509700,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1201,,127586,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,999,,1070115,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,452,,197810,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,190,,79801,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2710,,928237,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,246,,283549,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,395,,69649,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,675,,173666,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2492,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,66003,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,507,,373582,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,328,,41842,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,90450,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,537,,636964,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,14832,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1153,,352081,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,476,,144797,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5732,,2182536,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1577,,367338,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,169,,256258,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,594,,225599,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,10817,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3021,,367399,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,944,,182118,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,236,,212285,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,62874,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2610,,1656387,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,37354,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,380,,134014,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3232,,2232167,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,18733,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5000,,1286546,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,118094,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,46715,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1116,,1197805,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91,,39089,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,319,,197834,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2340,,873672,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,9811,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,255,,128254,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,385,,392640,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,304,,330752,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,334,,25372,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,6551,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,263,,240987,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,575,,530513,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,36601,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3009,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,35966,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,14721,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,21172,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4771,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2943,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4389,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,502,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2724,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2550,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1728,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1920,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,87,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,618,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,247,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,136,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,219,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,107920,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,90617,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,24527,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,213499,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2820,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,558,,4222749,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,134118,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,112,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,842,,4791311,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,1481346,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,240,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137,,4485289,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,10486,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,192,,71418,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,869,,2047896,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5748,,3365002,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15042,,3054521,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3909,,398559,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,85843,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118,,34044,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3850,,968078,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20437,,6393534,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,362,,39225,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2015,,270268,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,6191,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,219165,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12096,,5577887,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,699,India,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,39368,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,1467880,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1741,,17018530,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135564,,64149733,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1651,,1020618,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7451,,2702177,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,282,,26945,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,33,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1982,,564075,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,40154,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,2899,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1115,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2481,,832879,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18181,,7682086,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3079,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,836,,816363,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4281,,5980063,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,418,,496565,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,156843,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4619,,1714170,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,629799,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,982,,1104615,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,432,,67590,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,6072,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,20856,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2094,,716368,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,232,Eritrea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,542,,200951,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,40937,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,127,,91745,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,4834,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,7527,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,89801,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,17451,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1122,,760045,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,60760,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,38503,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,795,,315481,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,13980,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,22480,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118,,259329,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4062,,666410,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1252,,2967169,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3319,,675260,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,19894,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,583,,191737,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8300,,22911,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,19191,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,291,,278081,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,20795,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,434,Libya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2357,,1981680,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4250,,1132642,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,96770,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,13527,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,4130,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,214,,379325,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,458945,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,6255,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,890,,581428,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,352,,854926,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,5340,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,903,,303472,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7028,,1607720,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14454,,4398316,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,6833,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,681,,308476,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,8550,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,659,Saint Kitts and Nevis,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,1972,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,1653,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1266,,869736,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,888,,169213,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,61611,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,372,,96389,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,346,,159938,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2336,,678161,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5089,,3986768,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,97574,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1401,,993977,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1605,,1218797,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,8090,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,22749,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,14,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,592,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,443,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,245,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,174,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,147,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,57,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,65,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,550,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2709,,10875939,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,1069393,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2359,,10699744,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,3088,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,156,,295846,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1340,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,2285260,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,205,,60129,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,49433,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1447,,663875,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,450,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,186,,38008,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11552,,6306209,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,543,,249144,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,53299,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257,,1186096,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,31561,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,47314,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,301,,173249,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3462,,1263131,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1111,,375486,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,403,,117550,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,2564,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,4934,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,78401,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,50,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1340,,517799,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,39699,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,790,,1003404,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,699,India,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,70,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,931,,8948447,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,3318602,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6360,,37497658,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25085,,6818999,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,34057,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,325,,146391,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3733,,3396715,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,15069,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,10437,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2353,,1197687,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5975,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2379,,527117,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,153,,22010,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,302,,127315,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,25607,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,24783,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4200,,949527,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,89734,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,370,,377692,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,16933,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3880,,772227,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,16916,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,17458,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,5812,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,58540,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,3045,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,93,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2710,,11539098,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,38330,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,226,Equatorial Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,385,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,20889,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,528,,163270,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,141,,167730,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3471,,3105821,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1034,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,154187,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,965,,953567,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,397,,168696,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,2114,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,49623,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,4933,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,532949,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1313,,685050,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,267,,285783,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,5301,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,817,,201716,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7010,,3367100,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,14088,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7612,,1551351,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,16870,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,688,,310195,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,172,,161666,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,222,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,16,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,308,,67621,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1574,,255526,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,763,,66090,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,41686,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,800,,171529,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,21951,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,871,,241050,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,1237469,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,7415,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,657,,293255,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,8738,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,3759,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,147108,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,990,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,224115,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,879,,845961,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2362,,853244,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,736168,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,173,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,16167,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,490,,112184,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2628,,323103,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2342,,650830,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,227514,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10000,,9342407,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4873,,1428492,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,752,,905267,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,81706,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,1493,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,32738,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,37771,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,928,,776846,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,231,,17149,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,5864,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,557,,359309,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,765,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1598,,780369,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4402,,1231810,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,15054,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,271,,243589,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,306,,52915,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1948,,1416028,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,3451,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,203105,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,962,,991977,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1196,,12609298,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,5336377,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2008,,1982076,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,510,,9336541,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,480622,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,233,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,55,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6599,,41322630,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,699,India,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123121,,54200555,,,0

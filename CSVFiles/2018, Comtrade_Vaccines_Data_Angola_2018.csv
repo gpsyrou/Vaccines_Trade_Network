@@ -1,0 +1,72 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201809,September 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1259,,264462,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,588,,81477,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,24,Angola,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,619,,297045,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1514,,902409,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108192,,614114,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,24,Angola,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,2223,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,379,,11136,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,134,,6737,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104892,,250575,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,24,Angola,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5075,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8623,,3635778,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,101321,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,472,,210891,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,827,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,165166,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,24,Angola,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,11212,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,24,Angola,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,223,,4883,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,24,Angola,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3298,,1186796,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,24,Angola,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,19522,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,24,Angola,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1940,,164227,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,4310,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,86957,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,627,,68195,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,429,,201949,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1319,,99736,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,24,Angola,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,50,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,24,Angola,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,65,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,50,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,336,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,51511,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1106,,93343,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,445,,202350,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2809,,455073,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,24,Angola,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,1903,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122982,,2037507,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,24,Angola,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5842,,3319977,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,24,Angola,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1323,,9051,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71478,,134785,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,24,Angola,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,867,,282104,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,397,,44897,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,24,Angola,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2414,,1019997,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,24,Angola,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,789,,228799,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6296,,504354,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,24,Angola,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,50,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,174,,150321,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,50,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,20309,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72543,,503846,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,35551,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4018,,601829,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,24,Angola,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113422,,200022,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1094,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,64026,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6547,,1855723,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,166,,149227,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7808,,3672754,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,44560,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,24,Angola,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,2814,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3350,,1069008,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,24,Angola,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,57171,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,19297,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,24,Angola,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3044,,79688,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,205159,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,45454,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,24,Angola,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,4080,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,24,Angola,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4311,,2506838,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,241059,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,285,,290398,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,24,Angola,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,913,,264556,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,23384,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,83273,,,0

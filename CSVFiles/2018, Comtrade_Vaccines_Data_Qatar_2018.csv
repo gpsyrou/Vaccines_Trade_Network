@@ -1,0 +1,66 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201809,September 2018,6,1,1,Imports,634,Qatar,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,58757,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,634,Qatar,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,50793,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,634,Qatar,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,90618,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,634,Qatar,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,21901,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,634,Qatar,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,16798,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,634,Qatar,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,747,,31125,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,634,Qatar,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,311,,15331,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,634,Qatar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,16747,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,634,Qatar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,31271,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,634,Qatar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,208,,86196,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,634,Qatar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,42694,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,634,Qatar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,264,,123329,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5712,,793974,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3464,,2290488,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,691,,406244,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6504,,2397656,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4906,,1962903,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1314,,757801,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,576,,628848,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,70392,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,34301,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6922,,1740223,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1300,,730046,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,634,Qatar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4295,,1413666,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,634,Qatar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,306,,127585,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,634,Qatar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2366,,874163,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,634,Qatar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,651,,390039,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,634,Qatar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1174,,771039,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,634,Qatar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,301916,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,634,Qatar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1423,,468238,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,634,Qatar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1032,,373122,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,634,Qatar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1033,,331030,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,634,Qatar,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,15426,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,634,Qatar,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,102933,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,634,Qatar,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,347,,121339,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,634,Qatar,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,347,,121339,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,634,Qatar,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,521,,961669,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,634,Qatar,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1297,,965955,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,634,Qatar,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,680,,1316178,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,634,Qatar,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,17016,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,634,Qatar,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,17269,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,634,Qatar,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,21537,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,634,Qatar,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,17235,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,634,Qatar,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,424,,599134,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,634,Qatar,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,16218,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,634,Qatar,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3000,,818152,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,634,Qatar,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1317,,396621,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,634,Qatar,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,457,,109975,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,634,Qatar,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,19237,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,634,Qatar,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1614,,384055,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,634,Qatar,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,43449,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,228,,49639,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,16205,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,823,,120912,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,310641,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,17032,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3810,,879377,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1334,,121045,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,165443,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2318,,310713,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,501857,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,70392,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,634,Qatar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4902,,335479,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,634,Qatar,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,632,,16473,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,634,Qatar,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,23904,,,0

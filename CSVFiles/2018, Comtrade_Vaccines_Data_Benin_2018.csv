@@ -1,0 +1,44 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201801,January 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,805,,98621,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,794,,97560,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,204,Benin,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,1061,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,423,,34350,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,423,,34350,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2976,,314575,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,912,,140499,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,204,Benin,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,7271,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,204,Benin,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1994,,166805,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23475,,2312324,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,204,Benin,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1838,,1282470,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,873,,52430,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,204,Benin,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4907,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,204,Benin,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20762,,972516,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4506,,975544,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,204,Benin,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3041,,707273,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1049,,125386,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,204,Benin,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,416,,142885,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,896,,165163,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,890,,162932,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,204,Benin,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,2231,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5734,,481243,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,204,Benin,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1560,,103018,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,682,,85879,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,204,Benin,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3492,,292346,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7125,,2908160,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,204,Benin,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1858,,2371744,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,529,,42779,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,204,Benin,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,695,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,204,Benin,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4734,,492941,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1233,,117048,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1233,,117048,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5097,,354302,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,204,Benin,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,711,,170963,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,671,,32781,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,204,Benin,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2294,,81408,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,204,Benin,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,468,,35676,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,204,Benin,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,953,,33474,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1006,,126446,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1002,,126417,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,204,Benin,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,29,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,204,Benin,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,813,,87699,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,204,Benin,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,813,,87699,,,0

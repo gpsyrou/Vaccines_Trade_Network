@@ -1,0 +1,31 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201806,June 2018,6,1,1,Imports,646,Rwanda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1982,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,646,Rwanda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1982,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,646,Rwanda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,8543,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,646,Rwanda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2485,,477924,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,646,Rwanda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2545,,486466,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,646,Rwanda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,1811,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,646,Rwanda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,70505,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,646,Rwanda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,2779,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,646,Rwanda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6036,,553424,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,646,Rwanda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,329,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,646,Rwanda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6334,,628849,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,646,Rwanda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,2566,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,646,Rwanda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2607,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,646,Rwanda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,6883,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,646,Rwanda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,1710,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,646,Rwanda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11775,,4767064,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,646,Rwanda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,568,,144340,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,646,Rwanda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6660,,3259609,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,646,Rwanda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4547,,1363115,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,646,Rwanda,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,926,,47933,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,646,Rwanda,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,14055,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,646,Rwanda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4138,,1133647,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,646,Rwanda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3801,,805787,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,646,Rwanda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,19022,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,646,Rwanda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2574,,612781,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,646,Rwanda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,1906,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,646,Rwanda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,999,,158024,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,646,Rwanda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2138,,364782,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,646,Rwanda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,135780,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,646,Rwanda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7662,,1682142,,,0

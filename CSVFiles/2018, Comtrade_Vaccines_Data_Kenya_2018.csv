@@ -1,0 +1,166 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201810,October 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22733,,9366853,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,14269,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7484,,4985794,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2892,,826383,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,404,Kenya,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,20059,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,772,,193138,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,404,Kenya,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,506,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,404,Kenya,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,10196,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11432,,3330777,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,141,,8691,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,5579,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3951,,872293,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2453,,107859,,,0
+HS,2018,201812,December 2018,6,1,3,Re-exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,5760,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,155,,74720,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,404,Kenya,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,610,,,0
+HS,2018,201812,December 2018,6,1,3,Re-exports,404,Kenya,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,610,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2165,,547648,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,404,Kenya,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,3160,,,0
+HS,2018,201812,December 2018,6,1,3,Re-exports,404,Kenya,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,3160,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,404,Kenya,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,2533,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,39298,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,404,Kenya,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1895,,,0
+HS,2018,201812,December 2018,6,1,3,Re-exports,404,Kenya,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1895,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1369,,158985,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2299,,69784,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,32315,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,96,,,0
+HS,2018,201812,December 2018,6,1,3,Re-exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,96,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,183,,49109,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4985,,690597,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3228,,578701,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,5203,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,404,Kenya,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1125,,63963,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,404,Kenya,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,267,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3130,,501208,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,404,Kenya,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,29577,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,404,Kenya,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,4230,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,403,,86150,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3204,,577899,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,802,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,5725,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,404,Kenya,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,98,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,20249,,,0
+HS,2018,201804,April 2018,6,1,3,Re-exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,13682,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34503,,16170827,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4425,,789944,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19659,,11134146,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,404,Kenya,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,16177,,,0
+HS,2018,201804,April 2018,6,1,3,Re-exports,404,Kenya,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,13682,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3541,,932906,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,404,Kenya,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,450,,24194,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168,,13502,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10649,,4045731,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4353,,767123,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1858,,266588,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,404,Kenya,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,565,,101297,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,404,Kenya,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,2548,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,404,Kenya,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,9224,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2888,,234340,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,324,,85923,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2776,,919192,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,29126,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2794,,752511,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6296,,1813897,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1858,,266588,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,404,Kenya,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1410,,82831,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9988,,2647912,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,404,Kenya,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,1491,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3096,,774812,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,370,,50913,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4741,,1651942,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,11775,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,404,Kenya,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,986,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,10789,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,39546,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9649,,2173209,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3138,,181090,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,9254,,,0
+HS,2018,201807,July 2018,6,1,3,Re-exports,404,Kenya,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,71,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,404,Kenya,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,71,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1655,,541633,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,243,,55183,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2524,,232519,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,2033,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1405,,569452,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18725,,3803920,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2911,,234412,,,0
+HS,2018,201807,July 2018,6,1,3,Re-exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,71,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,609,,48217,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,404,Kenya,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6500,,28375,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,404,Kenya,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2180,,128928,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9736,,476522,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4653,,595816,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1101,,250964,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,404,Kenya,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,210,,25763,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,85117,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,404,Kenya,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,1306,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,404,Kenya,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,7124,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,431,,49703,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2898,,446421,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,307,,420,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,920,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,404,Kenya,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,6410,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4235,,547572,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1647,,458331,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,404,Kenya,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,450,,42409,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7053,,886155,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1944,,169559,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,404,Kenya,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,5044,,,0
+HS,2018,201803,March 2018,6,1,3,Re-exports,404,Kenya,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,6410,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,107908,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,293,,41311,,,0
+HS,2018,201803,March 2018,6,1,3,Re-exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,6410,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1122,,390213,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,109,,14763,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,19299,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17264,,5010869,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5714,,592373,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5933,,1842425,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,404,Kenya,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,1583,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3723,,1749895,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1277,,138422,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,406,,121025,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,462,,54844,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1617,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,284,,96224,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4946,,935978,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5684,,590790,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,857,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,210,,69583,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12017,,3610964,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,509,,52087,,,0
+HS,2018,201811,November 2018,6,1,3,Re-exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,509,,52087,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3115,,1010569,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,404,Kenya,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3115,,1010565,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360,,46973,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,404,Kenya,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211,,18064,,,0
+HS,2018,201811,November 2018,6,1,3,Re-exports,404,Kenya,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211,,18064,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,404,Kenya,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,95232,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,404,Kenya,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,137075,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,404,Kenya,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1961,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,404,Kenya,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,219,,,0
+HS,2018,201811,November 2018,6,1,3,Re-exports,404,Kenya,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,219,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4457,,1239715,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,404,Kenya,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,221,,,0
+HS,2018,201811,November 2018,6,1,3,Re-exports,404,Kenya,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,221,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,207,,,0
+HS,2018,201811,November 2018,6,1,3,Re-exports,404,Kenya,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,207,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,356,,68874,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,33377,,,0
+HS,2018,201811,November 2018,6,1,3,Re-exports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,33377,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10036,,2419679,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6329,,854116,,,0
+HS,2018,201809,September 2018,6,1,3,Re-exports,404,Kenya,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,1684,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,404,Kenya,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5239,,1701542,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,404,Kenya,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2224,,125456,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,404,Kenya,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,650,,315712,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,404,Kenya,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,71,,,0
+HS,2018,201809,September 2018,6,1,3,Re-exports,404,Kenya,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,71,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,404,Kenya,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,948,,182356,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,404,Kenya,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,971,,93763,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6303,,854045,,,0
+HS,2018,201809,September 2018,6,1,3,Re-exports,404,Kenya,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1613,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,404,Kenya,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,850,,,0

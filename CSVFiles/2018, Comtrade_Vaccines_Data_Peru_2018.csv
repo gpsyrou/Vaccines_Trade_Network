@@ -1,0 +1,84 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201810,October 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,329,,155822,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,604,Peru,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,219,,63750,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,604,Peru,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,26662,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,426,,232611,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,48575,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1808,,1786921,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,604,Peru,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,74166,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1197,,967194,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,604,Peru,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,249,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,249,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18303,,2408336,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3769,,6785061,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23944,,10480990,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,604,Peru,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1222,,143806,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,67120,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,604,Peru,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,89107,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,604,Peru,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,6732,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1217,,834840,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7118,,567694,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,969,,436286,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10725,,2145584,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,30755,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,604,Peru,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,208,,414708,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,604,Peru,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,37667,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,604,Peru,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,37956,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,566,,200133,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,499,,237536,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1551,,958756,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,604,Peru,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,37248,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,604,Peru,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,208,,409836,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,604,Peru,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12471,,6050613,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5200,,2276861,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,84290,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,10000,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3212,,3469439,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21367,,12338287,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,36122,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7586,,1611027,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,431,,231541,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,604,Peru,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,39593,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,127,,36052,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6923,,1267719,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1878,,263203,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4123,,3763813,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6426,,4223126,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,425,,193197,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,604,Peru,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2913,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,148,,68462,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7482,,1732442,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3340,,3417654,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,604,Peru,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,8466,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,8466,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15995,,7723597,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4816,,2098730,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,604,Peru,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,202,,396600,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,604,Peru,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,9709,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8363,,1664409,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,10653,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2274,,1009641,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14367,,9609547,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3499,,6509500,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,604,Peru,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,207,,415344,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,79290,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,604,Peru,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,196,,57710,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13960,,3215361,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,5071,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,282,,166338,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14620,,3523769,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12288,,2486561,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,604,Peru,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32863,,9925852,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122,,256742,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60361,,22964632,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3819,,6624103,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,604,Peru,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11270,,3671374,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4486,,7705563,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,604,Peru,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,24200,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6852,,9797870,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,604,Peru,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2719,,489327,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,604,Peru,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3661,,6770778,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,604,Peru,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11947,,10787289,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,604,Peru,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5308,,3015151,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,604,Peru,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,506430,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,604,Peru,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,5603,,,0

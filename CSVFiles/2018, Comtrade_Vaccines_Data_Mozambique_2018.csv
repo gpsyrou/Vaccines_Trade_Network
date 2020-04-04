@@ -1,0 +1,44 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201811,November 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6713,,1022892,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18363,,769885,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2696,,458658,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,2704,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,879,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6754,,112166,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,833,,51832,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11089,,1339761,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3667,,696070,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,508,Mozambique,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59329,,10068412,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,508,Mozambique,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,21083,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,508,Mozambique,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,6576,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,508,Mozambique,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,889,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,508,Mozambique,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,19315,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,508,Mozambique,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,32615,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,508,Mozambique,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,9763,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,508,Mozambique,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,15076,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,508,Mozambique,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,6756,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,508,Mozambique,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,390,,60042,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,508,Mozambique,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,148,,30480,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,508,Mozambique,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3787,,71215,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,508,Mozambique,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2356,,641892,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3977,,2342175,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9774,,1698072,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22150,,841100,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13408,,12859779,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2116,,986952,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,985,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11096,,1340650,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3291,,713039,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6809,,144781,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14179,,4171320,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,508,Mozambique,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61412,,10502273,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,508,Mozambique,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1754,,27119,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,508,Mozambique,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,589854,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,508,Mozambique,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,105,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,508,Mozambique,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3017,,654097,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,508,Mozambique,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10322,,12341079,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,508,Mozambique,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1750,,387818,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,508,Mozambique,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8575,,3407889,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,508,Mozambique,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2039,,418784,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,508,Mozambique,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3913,,2311757,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,508,Mozambique,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,23662,,,0

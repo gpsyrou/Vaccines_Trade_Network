@@ -1,0 +1,21 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201801,January 2018,6,1,1,Imports,72,Botswana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,520,,77876,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,72,Botswana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118,,39195,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,72,Botswana,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,44,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,72,Botswana,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,8806,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,72,Botswana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,216,,22573,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,72,Botswana,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,541,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,72,Botswana,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,6717,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,72,Botswana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11406,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,72,Botswana,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,5194,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,72,Botswana,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,72,Botswana,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,6020,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,72,Botswana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,191,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,72,Botswana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1158,,79010,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,72,Botswana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50000,,338189,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,72,Botswana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,61813,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,72,Botswana,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,290,,5554,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,72,Botswana,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50000,,338189,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,72,Botswana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,170,,7199,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,72,Botswana,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,558,,4382,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,72,Botswana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,62,,,0

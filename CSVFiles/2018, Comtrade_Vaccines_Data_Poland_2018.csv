@@ -1,0 +1,287 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4436,,847545,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,109,,34485,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3421,,1791517,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2630,,5792031,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,36028,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41697,,69107391,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6495,,2003666,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,140110,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,681,,366131,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126679,,2195445,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,82992,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,74899,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,948,,33342,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12405,,2310737,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,444,,963668,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,543,,469552,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,220,,172424,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1019,,2426495,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24141,,48352159,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,323,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3807,,1078949,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44508,,66119800,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,222872,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,70443,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161431,,43697582,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,948730,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,410,,372852,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1617,,351750,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13181,,6787951,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,433,,80087,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,353,,122856,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2122,,1621248,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18439,,47820578,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,37952,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1414,,71279,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2124,,2000153,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10520,,3222122,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,6553,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,9354,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,474,,255516,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,452,,61528,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18497,,2427915,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4652,,269783,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,789,,1419190,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4199,,3005297,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75095,,21132313,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1650,,95984,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20465,,25083652,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2090,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,654,,684775,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128183,,57566503,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7672,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9917,,17087674,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,196634,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,482,,350141,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,223,,280215,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5613,,1371421,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137755,,82984978,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,856,,845754,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,62382,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,4045,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4526,,1585319,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38395,,56862538,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,112968,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36653,,63170801,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,71778,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,410,,16486,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,319,,291446,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45637,,67358182,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,497,,1752316,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,182192,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,258,,337490,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,290,,58016,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,679,,446973,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,232684,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2528,,402817,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,924,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,8100,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1462,,611738,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,563,,577669,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,458991,,93447226,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,395,,180446,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3531,,1894528,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,468786,,99625939,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1778,,571090,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46257,,1088819,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,761,,177602,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13223,,1999275,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,475,,311210,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,1918608,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,326,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3439,,911814,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132736,,59938117,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13025,,1100255,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137,,48434,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,219966,,31916958,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,345,,63147,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41757,,1062180,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77860,,3950047,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6543,,1263839,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,15791,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,998,,273565,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20741,,34200977,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,6901,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2813,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1251,,1617959,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117993,,61862758,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,457,,17036,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,105156,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32046,,40542930,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,728,,983289,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28516,,51922353,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,645,,2969620,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,911,,821061,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,242,,38378,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1082,,2957590,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,710,,363577,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45652,,68796261,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,690,,718456,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,159,,365140,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2497,,641830,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1988,,1085601,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1119,,1089718,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,253054,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21039,,41320249,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,35088,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1020,,1931256,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,167,,218453,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2025,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,616,Poland,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3103,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,899,,1829491,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,335,,162983,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3747,,1217280,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4910,,1504906,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,137,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6251,,1524613,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,56715,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2005,,1500425,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343736,,45274251,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1190,,2269670,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,414724,,54422934,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33380,,2566127,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,304331,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29064,,39232685,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4991,,1061443,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,930,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99997,,49159126,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,10907,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80442,,47825063,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3108,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,115599,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,17,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30964,,3476414,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3091,,6203653,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,46,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130769,,66488204,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,616,Poland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,515,,395222,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,567,,2340996,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21700,,1278353,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9019,,1926705,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,21400,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,561,,327635,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,15326,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1502,,1360013,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,299,,79472,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,4793,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,11600,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,18370,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,549,,164235,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,616,Poland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,873,,1820197,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4376,,1549153,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15094,,41132061,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37606,,61001642,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,644,,74957,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1456,,1850740,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1650,,3434697,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,536,,196391,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,587984,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1526,,415852,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,346,,82608,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,1920963,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1030,,1384973,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,922,,424616,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,5884,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,219405,,31759625,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,809,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,39848,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,215887,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11363,,5600873,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2981,,1430906,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53093,,1580052,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2010,,1123339,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46815,,45768409,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117925,,55503386,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6343,,3005892,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,241126,,42484340,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,70,Bosnia Herzegovina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,212753,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,571,,910757,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,776,,178540,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,616,Poland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,4622,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,743,,347558,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,11007,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91463,,60489240,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,31699,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,217,,279758,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113397,,74591482,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8540,,3357069,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1350,,2586461,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6671,,1817860,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,257969,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,742,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195758,,53059149,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5438,,1482035,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1691,,460194,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,288,,77541,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12329,,3360077,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6044,,1645505,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12477,,3330382,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27387,,59578918,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,15748,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,3604,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1248,,2392902,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6048,,1258115,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3602,,1328678,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,768,,190244,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6555,,1221217,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32087,,37978812,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,202,,1730302,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,638,,2367322,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38784,,36768808,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,89601,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,117957,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,369,,186199,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2015,,1314322,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63629,,45446881,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2118,,300769,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,57948,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6572,,2357157,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,164340,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2076,,901095,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13573,,28728251,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,7779,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4693,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,9465,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,27492,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,11469,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,692,,1494748,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1755010,,81724052,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7047,,2656989,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1265,,2328322,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3526,,545400,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,669,,298983,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2948,,1223838,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,485,,348470,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27572,,38155382,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69891,,45958258,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,4381,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211108,,5774864,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3476,,1131453,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,5229,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1524250,,66257862,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,1983,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,243,,142115,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31668,,3316984,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,495,,72784,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,913,,300584,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,549,,948392,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2070,,4272569,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,616,Poland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,235966,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1863,,517613,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,920,,880463,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,616,Poland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24760,,57834745,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146498,,36370391,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,45777,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,438,,671224,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1320,,1700113,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,161,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,925,,1209086,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,319,,308069,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,616,Poland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,98670,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,616,Poland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,15492,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,616,Poland,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,378,,653191,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1882,,720963,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,616,Poland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,567,,623961,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,616,Poland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5209,,1298747,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,616,Poland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4910,,1505412,,,0

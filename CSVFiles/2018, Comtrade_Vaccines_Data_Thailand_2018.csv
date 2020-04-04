@@ -1,0 +1,297 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28340,,10903260,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1439,,208898,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,295,,33979,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,91,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,8225,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1026,,48421,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,75171,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2492,,1741788,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1078,,244074,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,4176,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,226,,46678,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1393,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,325,,2595406,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16003,,3753365,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,46485,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,66,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6854,,1050585,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3646,,2081120,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4434,,359227,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,60,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8035,,1214161,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,26892,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,429,,103649,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,866,,74817,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,34,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,817,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6709,,1007867,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,15,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,860,,720449,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1471,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,425,,123443,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,645,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2214,,1062546,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,3417,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,513,,158688,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,167,,970443,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3211,,3904718,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8133,,7496691,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,691,,550871,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3472,,706379,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,163,,30046,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,153,,161594,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,5178,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,438,,63079,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,311,,36266,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1580,,1252994,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,43,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,25374,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2214,,343805,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,26185,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,10,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,14787,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,764,Thailand,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1595,,344746,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2287,,2050108,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,2311,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1415,,249575,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,2766,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,232,,162173,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,438,,90777,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,298,,1701991,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5316,,2482768,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4325,,564214,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2080,,1665645,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19613,,10570070,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,783,,242266,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,436,,47403,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,764,Thailand,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,179,,32019,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,122,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,16,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3600,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17627,,8482596,,,0
+HS,2018,201812,December 2018,6,1,4,Re-imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,113,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,100,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1582,,400499,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,36390,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,690,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,36827,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,814,,71513,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1163,,761186,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1458,,218815,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,107,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,121,,54117,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,582,,2657287,,,0
+HS,2018,201803,March 2018,6,1,4,Re-imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,28,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,481,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2002,,350364,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1147,,311100,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8755,,1842154,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1064,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,28,,,0
+HS,2018,201803,March 2018,6,1,4,Re-imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,28,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25086,,10108844,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5174,,1155623,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2777,,160213,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2248,,1412859,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,40,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,764,Thailand,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,34754,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,256,,135471,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,342,,77764,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2347,,364495,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3106,,1174129,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,35,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2999,,1835763,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2637,,2093543,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,5420,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,124,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,366,,77799,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1408,,1592194,,,0
+HS,2018,201811,November 2018,6,1,4,Re-imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,14,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,14,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,66,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,52434,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,432,,20612,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13608,,7292066,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,132,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,584,,84110,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,5451,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,971,,391359,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,859,,1786526,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,157,,101287,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,55,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3355,,491578,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5633,,2006713,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2945,,311258,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1023,,50304,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1,,,0
+HS,2018,201810,October 2018,6,1,4,Re-imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,35,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3171,,1038137,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4501,,375630,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,7141,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,8,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26722,,6130300,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343,,261064,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,187,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,882039,,,0
+HS,2018,201812,December 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,122698,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,297,,24412,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,10075,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4458,,557547,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1620,,1549512,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,287740,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6483,,4194006,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2286,,120226,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,255,,193643,,,0
+HS,2018,201812,December 2018,6,1,4,Re-imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,113,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1412,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,113,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1908,,1198278,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2102,,1675699,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,50916,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,36880,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1987,,45054,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10080,,41435,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91,,372345,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4774,,1368396,,,0
+HS,2018,201810,October 2018,6,1,4,Re-imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,35,,,0
+HS,2018,201806,June 2018,6,1,4,Re-imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,34,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23143,,13849268,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,102,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1788,,568413,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,625,,3100,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,160950,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,228,,48277,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,574,,95307,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,568,,3299303,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,906,,,0
+HS,2018,201806,June 2018,6,1,4,Re-imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,34,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,128423,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3878,,2792824,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3165,,2553948,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,729,,106913,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,21325,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,16568,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2619,,403975,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,60,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1226,,1455794,,,0
+HS,2018,201805,May 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9681,,1396754,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,887,,246925,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2558,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,43,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1167,,168640,,,0
+HS,2018,201811,November 2018,6,1,4,Re-imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,14,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14106,,7470725,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1486,,338942,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2809,,2628295,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,58190,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,12432,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,7778,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,212,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,447,,,0
+HS,2018,201807,July 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4435,,666871,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4644,,563160,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17159,,9342947,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3013,,344323,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5584,,3486796,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4100,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3053,,414074,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,7179,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,24283,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,595,,113254,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,438,,63087,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,5130,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,901,,405985,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1117,,255934,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,442,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,25,,,0
+HS,2018,201809,September 2018,6,1,4,Re-imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,25,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,131,,,0
+HS,2018,201809,September 2018,6,1,4,Re-imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,25,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,10,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5217,,3097019,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,317464,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,1237013,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,405,,79430,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,102,,,0
+HS,2018,201809,September 2018,6,1,2,Exports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,10,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8723,,1070124,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,104,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6710,,987934,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,742,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,695,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,73,,,0
+HS,2018,201810,October 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,70,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,35,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,851,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,270130,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,4722,,,0
+HS,2018,201806,June 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,53343,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,34,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,922,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6616,,2629535,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4473,,757856,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1865,,1473191,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,24,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14873,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2899,,2912535,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2479,,814994,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,4181,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,642,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,1437555,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1070021,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2230,,341326,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,35917,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,26,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,789,,103892,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,5051,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,119,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2647,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3208,,460088,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,14375,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,29402,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,330,,47875,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2109,,1637754,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2483,,1680701,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,44,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,20512,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,76,,,0
+HS,2018,201808,August 2018,6,1,2,Exports,764,Thailand,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,180115,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,12754,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12964,,9791331,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1597,,1103875,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,30,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,149,,22476,,,0
+HS,2018,201803,March 2018,6,1,2,Exports,764,Thailand,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,19,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,502,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,764,Thailand,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,359,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5003,,711200,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,764,Thailand,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,7325,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,764,Thailand,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,75,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,764,Thailand,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1750,,265040,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,764,Thailand,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,19136,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,764,Thailand,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,91,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,764,Thailand,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,850,,36648,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,764,Thailand,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,38453,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,764,Thailand,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2201,,344431,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,694,,3170532,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2494,,2071119,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,55706,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1571,,570407,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,480,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,14862,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2018,,427111,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,304,,2103669,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,926,,601239,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3025,,1059363,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10787,,6382090,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,764,Thailand,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21954,,16456578,,,0

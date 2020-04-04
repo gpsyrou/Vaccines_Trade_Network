@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201801,January 2018,6,1,1,Imports,566,Nigeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11662,,430693,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,566,Nigeria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8189,,97166,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,566,Nigeria,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,715,,9407,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,566,Nigeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2004,,209256,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,566,Nigeria,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,754,,114864,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,566,Nigeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7712,,458559,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,566,Nigeria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3084,,291466,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,566,Nigeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,236,,67612,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,566,Nigeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4392,,99480,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,566,Nigeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6186,,465243,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,566,Nigeria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5107,,387057,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,566,Nigeria,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,535,,38688,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,566,Nigeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,138,,20183,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,566,Nigeria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,1360,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,566,Nigeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,304,,17956,,,0

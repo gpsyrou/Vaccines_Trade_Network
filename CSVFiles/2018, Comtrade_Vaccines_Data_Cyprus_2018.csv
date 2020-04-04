@@ -1,0 +1,79 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2018,201811,November 2018,6,1,2,Exports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,435,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6458,,1041312,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1957,,1454732,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1846,,828874,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,537,,391770,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,285,,143004,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,660,,,0
+HS,2018,201801,January 2018,6,1,3,Re-exports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,660,,,0
+HS,2018,201801,January 2018,6,1,2,Exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,660,,,0
+HS,2018,201801,January 2018,6,1,3,Re-exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,660,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,738,,418205,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,40848,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,45098,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,196,Cyprus,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,491,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,196,Cyprus,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,285,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1588,,515803,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1001,,486763,,,0
+HS,2018,201802,February 2018,6,1,3,Re-exports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,818,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,196,Cyprus,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,55070,,,0
+HS,2018,201801,January 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2860,,1075801,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,4980,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,818,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,203,,40441,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1590,,565133,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,565,,350433,,,0
+HS,2018,201811,November 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,537,,31255,,,0
+HS,2018,201811,November 2018,6,1,2,Exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,435,,,0
+HS,2018,201811,November 2018,6,1,3,Re-exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,435,,,0
+HS,2018,201811,November 2018,6,1,3,Re-exports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,435,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1299,,139009,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,196,Cyprus,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,584,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1221,,68495,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1793,,783974,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,324,,76216,,,0
+HS,2018,201808,August 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4638,,1068278,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,714,,430686,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,4042,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,196,Cyprus,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,3743,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,589,,1457165,,,0
+HS,2018,201810,October 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1357,,1895635,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,973,,82957,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,446486,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,50642,,,0
+HS,2018,201812,December 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2627,,971855,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1195,,385122,,,0
+HS,2018,201806,June 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,651,,443752,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,789,,428915,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,570,,32141,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,196,Cyprus,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,160,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,571,,985622,,,0
+HS,2018,201807,July 2018,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,7895,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,706,,477165,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,659,,89555,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4214,,224588,,,0
+HS,2018,201809,September 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,879,,250004,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,912,,575523,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,370,,84556,,,0
+HS,2018,201802,February 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1282,,660080,,,0
+HS,2018,201802,February 2018,6,1,2,Exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,818,,,0
+HS,2018,201802,February 2018,6,1,3,Re-exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,818,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,911,,94452,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1022,,709346,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,196,Cyprus,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,965,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,440,,205776,,,0
+HS,2018,201803,March 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2401,,1015520,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,580,,408753,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,423,,61378,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,532,,348168,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,196,Cyprus,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,354,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,37482,,,0
+HS,2018,201804,April 2018,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1651,,856134,,,0
+HS,2018,201804,April 2018,6,1,3,Re-exports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,868,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,868,,,0
+HS,2018,201804,April 2018,6,1,2,Exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,868,,,0
+HS,2018,201804,April 2018,6,1,3,Re-exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,868,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,677,,458605,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,288,,27775,,,0
+HS,2018,201805,May 2018,6,1,1,Imports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,383,,,0
