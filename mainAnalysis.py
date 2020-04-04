@@ -97,3 +97,19 @@ tnf.plotTopnCountries(df=top_importers, feature='Netweight (kg)',
 tnf.plotTopnCountries(df=top_exporters, feature='Netweight (kg)',
                       topn=topn, kind='Export')
 
+
+
+
+# In order to create our network we need to transform it in way that can be 
+# passed into a Graph object from the networkx library..
+network_df = df.groupby(['Reporter','Partner']).agg(
+        {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
+
+import networkx as nx
+
+G = nx.from_pandas_edgelist(network_df, source='Reporter', target='Partner',
+                            edge_attr=['Trade Value (US$)', 'Netweight (kg)'])
+
+
+
+
