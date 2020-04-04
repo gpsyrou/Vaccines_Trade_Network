@@ -18,7 +18,7 @@ from Functions import tradeNetworkFunctions as tnf
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-csv_file_location = 'C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network\\Merged_CSVs\\Comtrade_Vacciness_Data_2019'
+csv_file_location = 'C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network\\Merged_CSVs\\Comtrade_Vacciness_Data_2018'
 # Read the csv file
 maindf = pd.read_csv(csv_file_location, delimiter=',',
                      header=[0], encoding='utf-8')
@@ -46,6 +46,19 @@ df = maindf[useful_features_ls]
 df.groupby(['Reporter']).size()
 df.groupby(['Partner']).size()
 
+
+# We will consider both 'Re-imports' and 'Re-exports' as 'Imports' and 'Exports'
+# respectively and we will drop the entries where we dont have info about
+# the trade flow.
+df['Trade Flow'].unique()
+
+trade_flow_dict = {'Re-imports':'Imports', 
+                   'Re-exports':'Exports',
+                   'Imports':'Imports', 
+                   'Exports':'Exports'}
+
+df['Trade Flow'] = df['Trade Flow'].map(trade_flow_dict)
+
 # Now we can observe that we have a node called 'World' but we would like to 
 # analyze the trade relationships between specific countries. Thus we will
 # exclude from the analysis the cases where the reporter or partner is 'World'
@@ -59,7 +72,7 @@ df['Period'] = pd.to_datetime(df['Period'], format='%Y%m')
 # as well as the Trade Value in US dollars($).
 
 # Lets find the top  countries that import/export vaccines in terms of US dollars.
-topn = 15
+topn = 10
 
 # Trade Value
 top_importers = tnf.getAggStatistics(df, feature='Trade Value (US$)',
@@ -71,7 +84,6 @@ tnf.plotTopnCountries(df=top_importers, feature='Trade Value (US$)',
                       topn=topn, kind='Import')
 tnf.plotTopnCountries(df=top_exporters, feature='Trade Value (US$)',
                       topn=topn, kind='Export')
-
 
 
 # Netweight
