@@ -114,7 +114,15 @@ plt.figure(figsize=(10,10))
 
 tradevalue_w = [G[u][v]['Trade Value (US$)'] for u,v in G.edges()]
 netweight_w = [G[u][v]['Netweight (kg)'] for u,v in G.edges()]
-nx.draw_networkx(G, node_size=500, font_size=8, width=tradevalue_w)
+
+
+tdv_norm = [(x - np.min(tradevalue_w)) / (np.max(tradevalue_w) - np.min(tradevalue_w)) * 10 for x in tradevalue_w]
+nx.draw_networkx(G, node_size=500, font_size=8, width=tdv_norm)
 
 nx.draw(G, node_size=500, font_size=8)
+
+
+
+def normalizeWeights(ls):
+    
 
