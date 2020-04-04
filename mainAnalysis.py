@@ -107,9 +107,14 @@ network_df = df.groupby(['Reporter','Partner']).agg(
 
 import networkx as nx
 
-G = nx.from_pandas_edgelist(network_df, source='Reporter', target='Partner',
+G = nx.from_pandas_edgelist(network_df[network_df['Reporter']=='Greece'], source='Reporter', target='Partner',
                             edge_attr=['Trade Value (US$)', 'Netweight (kg)'])
 
+plt.figure(figsize=(10,10))
 
+tradevalue_w = [G[u][v]['Trade Value (US$)'] for u,v in G.edges()]
+netweight_w = [G[u][v]['Netweight (kg)'] for u,v in G.edges()]
+nx.draw_networkx(G, node_size=500, font_size=8, width=tradevalue_w)
 
+nx.draw(G, node_size=500, font_size=8)
 
