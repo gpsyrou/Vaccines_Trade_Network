@@ -61,7 +61,7 @@ def getDataCall(api_string: str, reporterid: str, reportername: str, year: int, 
         csv_file = csv.reader(decoded_data.splitlines())
         datalines = list(csv_file)
 
-        with open(os.path.join(csv_by_year_out_loc, 'f'Comtrade_Vaccines_Data_{reportername}_{year}.csv'), 'w', newline='') as f:
+        with open(os.path.join(csv_by_year_out_loc, f'Comtrade_Vaccines_Data_{reportername}_{year}.csv'), 'w', newline='') as f:
             writer = csv.writer(f, delimiter=',')
             writer.writerows(datalines)
 
@@ -79,7 +79,7 @@ json_data = json.loads(reporters_resp.text)
 
 reporters_list = [rep for rep in json_data['results']]
 # Get the data as separate csv files, each for every year of interest
-years_ls = [2018]
+years_ls = [2017]
 outputFilesFolder = f'CSVFiles\\'
 
 for api_check, repd in enumerate(reporters_list):

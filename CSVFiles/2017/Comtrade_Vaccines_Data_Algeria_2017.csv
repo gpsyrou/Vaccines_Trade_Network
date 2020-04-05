@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201702,February 2017,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6177,,615707,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1020,,287957,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,12,Algeria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,338,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5156,,327413,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23183,,12815091,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,229237,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,12,Algeria,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12604,,9083711,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,12,Algeria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,178502,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8978,,3323642,,,0

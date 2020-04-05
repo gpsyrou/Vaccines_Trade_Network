@@ -1,0 +1,57 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,6171,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,591,Panama,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2851,,1945648,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,591,Panama,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,22200,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,591,Panama,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2851,,1945648,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36972,,5851362,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,591,Panama,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1546,,1946318,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,591,Panama,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3573,,1293470,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,591,Panama,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1944,,534526,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,591,Panama,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2691,,1441419,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,591,Panama,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12420,,6515807,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,591,Panama,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12420,,6515807,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,591,Panama,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,13875,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,19807,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,591,Panama,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,179,,192556,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,591,Panama,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,9118,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,591,Panama,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,647,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,591,Panama,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,647,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,591,Panama,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,9044,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,591,Panama,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,620,,821351,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,591,Panama,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,137364,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,591,Panama,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1304,,1901765,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,650,,939540,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,591,Panama,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343,,378168,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,591,Panama,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,9044,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,10097,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,591,Panama,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,895,,151604,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,591,Panama,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,30584,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,591,Panama,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,548,,69008,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,591,Panama,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,51922,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,591,Panama,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,439,,49609,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,591,Panama,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,51922,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31829,,1909759,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,591,Panama,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,614,,142165,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,591,Panama,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1932,,2522109,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,591,Panama,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1932,,2522109,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,591,Panama,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,317,,29375,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,591,Panama,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1024,,123665,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,591,Panama,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,317,,29375,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,3191,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,591,Panama,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,1145,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,591,Panama,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,151,,15680,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,591,Panama,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,916,,593100,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,591,Panama,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,820,,385650,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,9085,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,591,Panama,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,3595,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,14962,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,591,Panama,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2973,,1501110,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,591,Panama,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2973,,1501110,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,591,Panama,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4135,,2938750,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,591,Panama,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,12824,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,591,Panama,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,5734,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,591,Panama,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,252,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,591,Panama,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,5537,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,591,Panama,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3988,,455952,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,591,Panama,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1249,,149184,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,591,Panama,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3988,,455952,,,0

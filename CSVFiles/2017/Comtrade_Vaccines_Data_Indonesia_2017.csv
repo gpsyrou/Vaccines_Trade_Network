@@ -1,0 +1,355 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,130475,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,220220,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,28600,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,31474,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7720,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,718,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1835,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,232,Eritrea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24700,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,12936,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,25,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2541,,2850750,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4606,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8258,,1896750,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,720000,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,395280,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,158100,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21980,,5502578,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,989,,31602,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6043,,1397760,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,6008,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,189,,48977,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104126,,20839025,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2690058,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5857591,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19770,,2529681,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2320,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,788,,177798,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,568,,360000,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6364,,951970,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1268,,568224,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14080,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3570,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7082,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,25,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,345,,40073,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1350,,536203,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,39393,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,15500,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,343865,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40290,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16538,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1913030,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,253100,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3800,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,88143,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,360,Indonesia,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,31509,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,995,,459249,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,599,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,195,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4850322,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,136774,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10900,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,360,Indonesia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,449,,478908,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,2738,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19708,,9588345,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,2683,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,480,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49699,,8625425,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5388,,1932047,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28641,,5767258,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,471420,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,6261,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24940,,3223962,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1200,,1326312,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,994,,256884,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29013,,5534256,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1474560,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6875,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7560,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,88784,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,140541,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19782,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4750,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,120,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,74800,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32588,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1463,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,175,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,493000,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,36240,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6300,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2400,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5224962,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7614917,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1831,,720837,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2400,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3448606,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7030028,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1742,,1856193,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2320,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16980,,2578702,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8817,,685113,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,132,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,151440,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1071,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13360,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2720068,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6203426,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,27413,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,156420,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4838,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,2898,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,3150,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,10170,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,215,,32625,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,126,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,207,,29400,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2593,,1406400,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47526,,10688500,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1385,,197272,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2803,,1080037,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,444,,33000,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,696,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11397,,920000,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,4900,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3129,,720000,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,594,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3589,,296724,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2094,,480000,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10891,,4902237,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,13097,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1618005,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,989,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,79,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,345000,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,30800,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,25122,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,240000,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13958,,1612843,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,84000,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4284,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,65,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41532,,11584345,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1048,,547550,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,969,,1033024,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,360,Indonesia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,354,,260293,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,360,Indonesia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,574,,611875,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,548,,51708,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,360,Indonesia,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,157,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,360,Indonesia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,2586,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1966,,1305672,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20183,,3725278,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2703,,230000,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,333,,50625,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,7718,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,777,,1837940,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3215,,1302383,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1553,,600000,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,872,,95000,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,2588,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,44325,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,360,Indonesia,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,300,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,10,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,296,,42000,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12380,,1799610,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,36,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3232,,272550,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,964,,365450,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1282,,1366043,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73292,,17981262,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19761,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2051400,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,360,Indonesia,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,31834,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,906,,3459765,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1130,,1361595,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,961,,36129,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,82578,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,602,,19320,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,445,,1181637,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,245,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,893505,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,360,Indonesia,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11378,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1032,,28560,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,53430,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4443,,518400,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84329,,17973529,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,360,Indonesia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,520,,553717,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,4856,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,15,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,947,,216000,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343,,37500,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1076,,239640,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12584,,935330,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,541,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,7200,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,10000,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,360,Indonesia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,369,,367954,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,6000,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,11099,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,86437,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,41289,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,11469,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,270,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,360,Indonesia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,605,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,65652,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6937,,983750,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3009,,1637328,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10324,,2826800,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5964031,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,35,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1225369,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4908,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,71500,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,73440,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10350,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,460000,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,68145,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1397520,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2579580,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10036,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14220,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,232,Eritrea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,24720,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20110,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,10,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2898,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1130,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,40,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,41289,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,14700,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,16092,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1800,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,28134,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2788804,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,7,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1287120,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,4793,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32258,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,360,Indonesia,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,57500,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,82578,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2022,,581202,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25125,,4890425,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38264,,7125991,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,692,,41139,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1654,,418956,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,17447,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1114,,2757536,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2568,,1487045,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3840,,517523,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,6,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,360,Indonesia,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,444,,31498,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3798,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3547,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,20024,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,8850,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,215,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,792,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,360,Indonesia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,673,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2718,,1272167,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,672,,706049,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,584,,162954,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,2676,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1059,,2494764,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,568,,360000,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,913,,328278,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8712,,1254184,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,104636,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15592,,6685708,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,24600,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2960,,420000,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1057,,85700,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,5040,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1463,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,20,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,592,,84000,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,19782,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,7166,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,225,,33750,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2364,,198962,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1480,,225000,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2384,,360000,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,227,,19206,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,11375,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1762,,265700,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5244,,460000,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2037,,151371,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,737,,63580,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3741,,357700,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,370,,28950,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1485,,3332567,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,278,,20784,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,0,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,6176715,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5120,,2101041,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,360,Indonesia,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,150,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1683,,7116208,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,360,Indonesia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,568,,360000,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10550,,12837923,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1693,,860553,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1461,,2399971,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,15,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3549,,279020,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9914,,2000000,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,286,,43560,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,654,,59250,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,192,,29183,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22110,,4437677,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3263,,242000,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,542,,75060,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2957,,426909,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1075,,110625,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4444,,345000,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1485,,212617,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5244,,460000,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,10,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,1563,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2368,,184000,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,7600,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,601,,50250,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,296,,21069,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63378,,17734049,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,17,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4322,,8746225,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,360,Indonesia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,2400,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10816,,1784580,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1099,,87453,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,301,,42000,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,444,,67500,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3878,,474000,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1355,,105260,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,27125,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,456,,117440,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,801,,63990,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,7590,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,30,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,3843,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9634,,754806,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,626,Timor-Leste,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,201,,17494,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,31500,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,4950,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8873,,916250,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,10,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,10665,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,690,,60719,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,2100,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,750,,1787000,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,20,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43555,,14774728,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,360,Indonesia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3669,,8408404,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,360,Indonesia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2144,,,0

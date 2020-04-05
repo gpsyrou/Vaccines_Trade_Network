@@ -1,0 +1,233 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201712,December 2017,6,1,3,Re-exports,784,United Arab Emirates,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,603,,47888,,,0
+HS,2017,201705,May 2017,6,1,3,Re-exports,784,United Arab Emirates,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,306,,95166,,,0
+HS,2017,201705,May 2017,6,1,3,Re-exports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,70,,,0
+HS,2017,201705,May 2017,6,1,3,Re-exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,483,,,0
+HS,2017,201708,August 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,111,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3922,,222753,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,2215,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,784,United Arab Emirates,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2126,,58207,,,0
+HS,2017,201703,March 2017,6,1,3,Re-exports,784,United Arab Emirates,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1240,,69659,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,784,United Arab Emirates,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,619,,5574,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7644,,1244514,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5865,,772167,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4778,,440388,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,314,,42013,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4237,,348427,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,784,United Arab Emirates,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,306,,95166,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,518,,147208,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38181,,12155151,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24952,,5355987,,,0
+HS,2017,201703,March 2017,6,1,3,Re-exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,507,,16922,,,0
+HS,2017,201703,March 2017,6,1,3,Re-exports,784,United Arab Emirates,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,380110,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,70,,,0
+HS,2017,201703,March 2017,6,1,3,Re-exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6750,,15330,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43013,,7064400,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,784,United Arab Emirates,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,101,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,18210,,,0
+HS,2017,201708,August 2017,6,1,3,Re-exports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,10,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,224278,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,784,United Arab Emirates,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1240,,69659,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4224,,2825425,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,25028,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7221,,1559932,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3514,,205881,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1383,,903819,,,0
+HS,2017,201708,August 2017,6,1,3,Re-exports,784,United Arab Emirates,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,101,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,784,United Arab Emirates,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,15023,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37405,,12867705,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2202,,1443804,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,732,,79525,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,734,,314605,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12583,,7092278,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5479,,1712321,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1789,,158461,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2107,,356565,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,4942,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,608,,141118,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,784,United Arab Emirates,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,603,,47888,,,0
+HS,2017,201712,December 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,603,,47888,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,656,,62912,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,356,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5932,,1288587,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5217,,275143,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28611,,11946365,,,0
+HS,2017,201702,February 2017,6,1,3,Re-exports,784,United Arab Emirates,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,755,,18931,,,0
+HS,2017,201702,February 2017,6,1,3,Re-exports,784,United Arab Emirates,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,253407,,,0
+HS,2017,201702,February 2017,6,1,3,Re-exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20750,,78285,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14118,,8278081,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,784,United Arab Emirates,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,755,,18931,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,342,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,262,,46176,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,523314,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4451,,4054090,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,967,,164741,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2101,,709352,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,745,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,602,,2228496,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21551,,350622,,,0
+HS,2017,201702,February 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21551,,350622,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,310,,52648,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,39854,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,109480,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5045,,348842,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,784,United Arab Emirates,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,253407,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,880,,771365,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20750,,78285,,,0
+HS,2017,201704,April 2017,6,1,3,Re-exports,784,United Arab Emirates,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1065,,12710553,,,0
+HS,2017,201704,April 2017,6,1,3,Re-exports,784,United Arab Emirates,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2920,,2723,,,0
+HS,2017,201704,April 2017,6,1,3,Re-exports,784,United Arab Emirates,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1399,,260705,,,0
+HS,2017,201704,April 2017,6,1,3,Re-exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,355,,3158,,,0
+HS,2017,201704,April 2017,6,1,3,Re-exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3705,,23063,,,0
+HS,2017,201704,April 2017,6,1,3,Re-exports,784,United Arab Emirates,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,4765,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,784,United Arab Emirates,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2920,,2723,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2436,,334591,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,919,,944138,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,523314,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8471,,4187355,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,910,,725353,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5700,,834504,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,4261,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,720,,52111,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5453,,502407,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,11147,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,784,United Arab Emirates,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,15563,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15670,,9193648,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5874,,931617,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,784,United Arab Emirates,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,31475,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,432,,14214,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,10,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3705,,23063,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,784,United Arab Emirates,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3910,,222643,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,163962,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,784,United Arab Emirates,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,3504,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,750,,79841,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,549534,,,0
+HS,2017,201704,April 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9467,,13004968,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9467,,13004968,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,513,,,0
+HS,2017,201711,November 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,396,,19068,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5395,,1064338,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2375,,683293,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,666,,50543,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4583,,702524,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13584,,7770173,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,969,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,2394,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,740,,80833,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3755,,763372,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10150,,2337324,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,379,,92044,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,8000,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,342,,16260,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,848,,378211,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,480,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25550,,8837554,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,784,United Arab Emirates,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,16,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2453,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,1767,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,483,,,0
+HS,2017,201705,May 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3118,,159500,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3118,,159500,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,756,,992426,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,736,,846818,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29702,,453126,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122,,114896,,,0
+HS,2017,201711,November 2017,6,1,3,Re-exports,784,United Arab Emirates,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,15563,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,404,,222053,,,0
+HS,2017,201711,November 2017,6,1,3,Re-exports,784,United Arab Emirates,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,3504,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2081,,1581022,,,0
+HS,2017,201706,June 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27619,,497902,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27619,,497902,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26747,,45378,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19602,,9112712,,,0
+HS,2017,201706,June 2017,6,1,3,Re-exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26747,,45378,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11358,,6777207,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1245,,313742,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,784,United Arab Emirates,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,870,,452508,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,784,United Arab Emirates,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,2164,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,374,,579650,,,0
+HS,2017,201706,June 2017,6,1,3,Re-exports,784,United Arab Emirates,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,870,,452508,,,0
+HS,2017,201706,June 2017,6,1,3,Re-exports,784,United Arab Emirates,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,16,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,494,,5615,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,3736,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,20710,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,784,United Arab Emirates,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1065,,12710553,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,784,United Arab Emirates,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1399,,260705,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,355,,3158,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,784,United Arab Emirates,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,4765,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,466,,113145,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19587,,7692462,,,0
+HS,2017,201701,January 2017,6,1,3,Re-exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,20619,,,0
+HS,2017,201701,January 2017,6,1,3,Re-exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19628,,90810,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,20619,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19628,,90810,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5406,,816757,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,888,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,747592,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3066,,2266380,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1778,,464338,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,384,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,495,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4107,,399952,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,533,,2168103,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,787,,248719,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,976,,567928,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3303,,328138,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20053,,8009675,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19951,,111429,,,0
+HS,2017,201701,January 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19951,,111429,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,507,,16922,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,784,United Arab Emirates,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,380110,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6750,,15330,,,0
+HS,2017,201703,March 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8566,,482021,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8566,,482021,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,4041,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1487,,383103,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6164,,4528738,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12865,,2681385,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,5108,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,5594,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,784,United Arab Emirates,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,42536,,,0
+HS,2017,201707,July 2017,6,1,3,Re-exports,784,United Arab Emirates,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,28659,,,0
+HS,2017,201707,July 2017,6,1,3,Re-exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17983,,743268,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17532,,6694532,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,792,,226256,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1621,,1172060,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5742,,1227205,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,547,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343,,16522,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1583,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,471,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,410,,8497,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,784,United Arab Emirates,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,28659,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,784,United Arab Emirates,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17983,,743268,,,0
+HS,2017,201707,July 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18082,,771927,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18082,,771927,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,584,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2047,,2906665,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5130,,323895,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1434,,810249,,,0
+HS,2017,201705,May 2017,6,1,3,Re-exports,784,United Arab Emirates,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2126,,58207,,,0
+HS,2017,201705,May 2017,6,1,3,Re-exports,784,United Arab Emirates,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,619,,5574,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,7685,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,154,,10322,,,0
+HS,2017,201710,October 2017,6,1,3,Re-exports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,272,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,272,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,475982,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16937,,8377736,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1932,,184078,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6367,,2990752,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75902,,25756945,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6990,,147979,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,784,United Arab Emirates,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5096,,57962,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30235,,5765004,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,596,,162860,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4170,,1458210,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5528,,1669318,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,784,United Arab Emirates,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9915,,4654999,,,0
+HS,2017,201710,October 2017,6,1,3,Re-exports,784,United Arab Emirates,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6990,,147979,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,784,United Arab Emirates,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,327,,,0
+HS,2017,201710,October 2017,6,1,3,Re-exports,784,United Arab Emirates,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,327,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,206539,,,0
+HS,2017,201710,October 2017,6,1,3,Re-exports,784,United Arab Emirates,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,148578,,,0

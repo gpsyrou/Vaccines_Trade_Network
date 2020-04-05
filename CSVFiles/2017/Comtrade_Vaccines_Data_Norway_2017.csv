@@ -1,0 +1,97 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201703,March 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,39519,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,579,Norway,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,10822,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4969,,1877196,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,375,,1074366,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,548,,454659,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,579,Norway,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2880,,556893,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,579,Norway,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,853,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,46824,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,579,Norway,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,284,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,164192,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,579,Norway,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1566,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1248,,731248,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,769,,2222878,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,242,,166523,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,579,Norway,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,141831,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1074,,1926906,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,579,Norway,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,148370,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,28752,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8278,,6480834,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3625,,1216220,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,7249,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,579,Norway,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1087,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,579,Norway,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,121,,85838,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,579,Norway,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,47307,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,225317,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,342,,60971,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,524,,38955,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,4692,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,792,,6973,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3824,,1743236,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,632442,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,579,Norway,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1624,,1575412,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2759,,1741812,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,636,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,579,Norway,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,636,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1600,,764071,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9166,,4969153,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,579,Norway,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,1324,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,232,,346594,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,579,Norway,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,584,,271360,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1996,,352509,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2004,,2587416,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,862,,646014,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,579,Norway,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,573,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,579,Norway,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1683,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,579,Norway,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1834,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,579,Norway,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,82928,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,579,Norway,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,562,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,98991,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2910,,2773511,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,36544,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,579,Norway,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1414,,1819839,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,358,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4861,,1689512,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,345,,278775,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,579,Norway,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,40469,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7394,,3705859,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,515,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,626,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,172479,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,579,Norway,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1548,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1443,,1108094,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4516,,719916,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,579,Norway,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4723,,1630252,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,579,Norway,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,32572,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,579,Norway,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,695,,2181773,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,579,Norway,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,8913,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2314,,1265286,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,579,Norway,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,134,,48128,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,22276,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5568,,4295598,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2370,,769221,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,579,Norway,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,34621,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,579,Norway,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,6643,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,73967,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2450,,2338379,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,403,,525304,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,579,Norway,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,995,,1272942,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,579,Norway,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,562,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,774,,424339,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,579,Norway,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,94320,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,264,,81562,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,5377,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2015,,903684,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,579,Norway,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1600,,722425,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,579,Norway,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,81969,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,579,Norway,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,654,,2158257,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1144,,713968,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,579,Norway,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2021,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,579,Norway,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5309,,5119252,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3075,,2000017,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,579,Norway,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,365,,163020,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,579,Norway,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,8491,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,579,Norway,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,221,,182741,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,579,Norway,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,57891,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,579,Norway,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,615,,1535952,,,0

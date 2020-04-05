@@ -1,0 +1,215 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201709,September 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8193,,131879265,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,210,,36354,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,77092,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,20091,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,28,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,6445,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,372,Ireland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1193,,793085,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,376,,75996454,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12181,,298736565,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,372,Ireland,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,11050,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7532,,183082182,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,885,,189191,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,4153,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,372,Ireland,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,54,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2510,,2390489,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,372,Ireland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,592,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9163,,10060632,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,5,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2499,,2816488,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1568,,561074,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,5175,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,6216,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,357,,82749986,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6195,,189049016,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,372,Ireland,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,118,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,255,,33784,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1970,,1105404,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12126,,284697075,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,372,Ireland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3348,,11758767,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,264,,376707,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,15027,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1755,,404179,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3043,,5875761,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92204,,477729502,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,372,Ireland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,23022,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,372,Ireland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,801,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,372,Ireland,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,5223,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1601,,345976885,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2861,,127813672,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3068,,38366867,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,372,Ireland,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,147191,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4040,,173234811,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,33,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10379,,15734159,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,372,Ireland,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,1218,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,372,Ireland,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,16779,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,593,,185148748,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3749,,22172963,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,987,,1801054,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,7275,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2576,,604859,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6437,,12580725,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,684823,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,17598,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,349,,37792,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,372,Ireland,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,59,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11666,,419088636,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87535,,3789053,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,120253,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8902,,152868223,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,7193,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,20,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,26191,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13826,,329353436,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,41030,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1523,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,22,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5226,,396851046,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,6,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4169,,11286918,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,366417,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2546,,6051643,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1585,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,223,,137903,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,88086,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,12405,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,8896,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,372,Ireland,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,15875,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257,,54965,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,221,,74166,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1166,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3167,,133764687,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6462,,101224244,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4339,,7263745,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8110,,14593605,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,372,Ireland,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,14218,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5177,,173355051,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,7,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,12579,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1589,,3417326,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,372,Ireland,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,28204,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,28431,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,32353,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3879,,2930374,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,234,,114452,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,307575,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,482,,150753,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,304,,87673,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,16457,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,234,,111070,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,89889,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2622,,3463822,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,12797,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,522,,112566155,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4261,,11962718,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,114,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6404,,13269560,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5689,,358807506,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,574,,4990648,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2030,,94771191,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1104,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168,,76325,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4885,,5250381,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,30636,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,372,Ireland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,3046,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,427,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,14,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,2834,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,372,Ireland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,604,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2228,,1477253,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8651,,417455398,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,7889,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,5176040,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4997,,8716976,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2327,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,383,,346354,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1713,,1544510,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,24362,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2941,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1843,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2942,,11076207,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9548,,12989964,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,388,,1262401,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4195,,8046006,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,372,Ireland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,2554,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1039,,2165634,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1647,,1523275,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4156,,405425567,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,85190,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2144,,1129276,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,717,,262324,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,372,Ireland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,975,,865304,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,8728,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1406,,2972867,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4641,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,3480,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,5248,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8623,,18011733,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,5841,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3236,,357569554,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4447,,10438466,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,372,Ireland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,21372,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,737,,513892,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,618573,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,116901,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,15124,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2264,,2198240,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4639,,396729484,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,212,,30843,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,37820,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4986,,10441914,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,2538,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3670,,719629,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,165908,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,61978,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,766,,1742513,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,401,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1001,,237238,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5326,,18778162,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10832,,21708370,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,767,,158809826,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,372,Ireland,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,1411,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,178,,171805,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,33,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2258,,14131448,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,6607,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7022,,21837951,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,372,Ireland,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2367,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,372,Ireland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1302,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7454,,481538420,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1444,,12421148,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,26846,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,773,,1675279,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,8142,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,372,Ireland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2941,,12460599,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,372,Ireland,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1990,,57450,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1509,,312503334,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,621,,75342841,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,393,,81170527,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,782,,11586079,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1655,,394602,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2866,,3254244,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15679,,450593188,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,372,Ireland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2218,,64389677,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,18,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,35,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,372,Ireland,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,980,,64734,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,372,Ireland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2969,,11529924,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1279,,242727783,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,372,Ireland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,1805,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,16907,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,372,Ireland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,464,,5446995,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,145,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,452,,390093,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1753,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5191,,11981163,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1115,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,11,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,7,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13169,,513073041,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1337,,277832805,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,16693,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,372,Ireland,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1830,,158148,,,0

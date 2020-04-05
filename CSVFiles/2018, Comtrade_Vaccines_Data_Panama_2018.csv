@@ -1,9 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-HS,2018,201802,February 2018,6,1,1,Imports,591,Panama,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,418,,45419,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,591,Panama,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,7691,,,0
-HS,2018,201802,February 2018,6,1,1,Imports,591,Panama,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,287,,16748,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,591,Panama,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1199,,,0
-HS,2018,201802,February 2018,6,1,1,Imports,591,Panama,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,127,,28511,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,591,Panama,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,4940,,,0
-HS,2018,201802,February 2018,6,1,1,Imports,591,Panama,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,160,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,591,Panama,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,1552,,,0

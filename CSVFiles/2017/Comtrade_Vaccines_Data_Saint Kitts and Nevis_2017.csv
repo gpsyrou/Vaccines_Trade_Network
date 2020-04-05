@@ -1,0 +1,30 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201701,January 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,1517,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,124,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,1393,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1639,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,389,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,389,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,2099,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1639,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1616,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1817,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,391,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,1576,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,1371,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,3339,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,7638,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1135,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,747,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,388,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,4308,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,2877,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,3329,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,200,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,1183,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,3146,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,2874,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,371,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,6633,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,241,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,1183,,,0

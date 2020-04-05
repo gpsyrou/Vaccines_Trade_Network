@@ -1,0 +1,50 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201704,April 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,444,,72372,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2700,,194793,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,686,Senegal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3960,,98192,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6692,,293329,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,686,Senegal,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,825,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,686,Senegal,,837,Bunkers,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,11,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,836,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2323,,241496,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,686,Senegal,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,76273,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,686,Senegal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,896,,43688,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,686,Senegal,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,13814,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,686,Senegal,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,18255,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1535,,181204,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,686,Senegal,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1249,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,686,Senegal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1311,,61484,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4530,,346668,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,686,Senegal,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,41731,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,73800,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,686,Senegal,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,3213,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1535,,181204,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,686,Senegal,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,52810,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,190,,80736,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,686,Senegal,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,14928,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,686,Senegal,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,107235,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,122163,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,444,,72372,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,686,Senegal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,11403,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,407,,32543,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,583,,43946,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,10,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,10,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,686,Senegal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,345,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,686,Senegal,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,595,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,620,,106841,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1613,,243415,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1613,,243415,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,595,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1248,,104627,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1409,,157437,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1378,,197114,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,686,Senegal,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,22153,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1318,,174961,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,271,,79322,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,686,Senegal,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,239,,76961,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,620,,106841,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1189,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,686,Senegal,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1171,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,686,Senegal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1900,,228201,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,686,Senegal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1900,,228201,,,0

@@ -1,0 +1,64 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201702,February 2017,6,1,1,Imports,450,Madagascar,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1808,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,450,Madagascar,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2101,,779134,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,450,Madagascar,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,182,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,450,Madagascar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4831,,3453926,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,450,Madagascar,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,405,,63281,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4096,,845562,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4526,,916170,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7410,,4301770,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,293,,24939,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,897,,106005,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,3439,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7205,,2046973,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,817,,155753,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,450,Madagascar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1610,,136419,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,450,Madagascar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6635,,1505735,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,450,Madagascar,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,4392,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,450,Madagascar,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1679,,447469,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,450,Madagascar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6327,,1545563,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,450,Madagascar,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,396,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,450,Madagascar,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,3846,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,450,Madagascar,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1055,,71864,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,450,Madagascar,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1181,,239293,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,523,,62595,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,450,Madagascar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1376,,124683,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4209,,502281,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,450,Madagascar,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,14100,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,450,Madagascar,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,61,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,450,Madagascar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,290,,56447,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,450,Madagascar,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,599,,80504,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,450,Madagascar,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,562,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,450,Madagascar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,13372,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,570,,205413,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,635,,218785,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,450,Madagascar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3816,,3358934,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,450,Madagascar,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,7933,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,450,Madagascar,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1080,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,644,,134841,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4536,,3502789,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10796,,2249768,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,450,Madagascar,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,747,,483494,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,17520,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,450,Madagascar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7246,,1109606,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,509,,215289,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9133,,1605482,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,450,Madagascar,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,15102,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,450,Madagascar,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1337,,265485,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,450,Madagascar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1774,,425685,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,450,Madagascar,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,412,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,450,Madagascar,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1309,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,10312,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,450,Madagascar,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,6108,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,450,Madagascar,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,11241,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1898,,455068,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,450,Madagascar,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1031,,70616,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,450,Madagascar,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1002,,196885,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,450,Madagascar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,864,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,450,Madagascar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1753,,165337,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,5068,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3883,,438770,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,450,Madagascar,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,456,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,450,Madagascar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,17346,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,450,Madagascar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,13892,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,450,Madagascar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,203,,31693,,,0

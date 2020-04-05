@@ -1,0 +1,57 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201705,May 2017,6,1,1,Imports,496,Mongolia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,900,,275377,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,496,Mongolia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,489,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,496,Mongolia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,156,,22945,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,496,Mongolia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,6120,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,496,Mongolia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,840,,238544,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,496,Mongolia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,37037,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,496,Mongolia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,23694,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,496,Mongolia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,17068,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,496,Mongolia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,62140,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,496,Mongolia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,543,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,496,Mongolia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4104,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,496,Mongolia,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7708,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,496,Mongolia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,356,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,496,Mongolia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,5600,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,496,Mongolia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,335,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,496,Mongolia,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,253,,33386,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,496,Mongolia,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,303,,39087,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,496,Mongolia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2654,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,496,Mongolia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1017,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,496,Mongolia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,463,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,496,Mongolia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1542,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343,,99289,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,967,,340642,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,12216,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,306,,45307,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,184,,51945,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,461,,1901040,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,742,,400911,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,939,,273793,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,194,,21400,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,972,,158596,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,496,Mongolia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,946,,66581,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,496,Mongolia,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,220,,24500,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,496,Mongolia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,190,,14742,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,496,Mongolia,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,30295,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,496,Mongolia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1674,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,496,Mongolia,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2223,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,496,Mongolia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,5537,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,496,Mongolia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,9785,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,496,Mongolia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1892,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,496,Mongolia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3531,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,496,Mongolia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,5203,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,496,Mongolia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,7461,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,496,Mongolia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,834,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,496,Mongolia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2464,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,496,Mongolia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5600,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,496,Mongolia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,498,,363175,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,496,Mongolia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,31000,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,496,Mongolia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,65903,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,496,Mongolia,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,610,,79550,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,496,Mongolia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,28999,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,496,Mongolia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,59394,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,496,Mongolia,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1455,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,496,Mongolia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,874,,36452,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,496,Mongolia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1942,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,496,Mongolia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360,,1807900,,,0

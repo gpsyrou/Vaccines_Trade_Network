@@ -1,0 +1,75 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201703,March 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,166,,100403,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118,,60137,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1182,,544713,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,37773,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,463,,225744,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,400,Jordan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,226,,10597,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,400,Jordan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1622,,257459,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,400,Jordan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,317,,407456,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,400,Jordan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1420,,2227134,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,400,Jordan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,319,,44780,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,21865,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2773,,328310,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12336,,4831277,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,14401,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,400,Jordan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,276,,326600,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,400,Jordan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,514,,643116,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2018,,1121259,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,400,Jordan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,46837,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,400,Jordan,,838,Free Zones,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,84301,,,0
+HS,2017,201707,July 2017,6,1,3,Re-exports,400,Jordan,,838,Free Zones,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,84301,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,400,Jordan,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,8034,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,400,Jordan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2182,,399183,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3556,,3127709,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5255,,1178530,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,84301,,,0
+HS,2017,201707,July 2017,6,1,3,Re-exports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,84301,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5844,,1451110,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,400,Jordan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,87081,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,400,Jordan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,179,,85890,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15089,,5659460,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1957,,8596427,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,400,Jordan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1175,,600354,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,400,Jordan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1745,,249899,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,400,Jordan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,621,,7683,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1966,,505814,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,400,Jordan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,20797,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,80560,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,400,Jordan,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,269845,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,400,Jordan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,2917,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,744,,183358,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5421,,1246319,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,400,Jordan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,835,,443375,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1880,,174038,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,400,Jordan,,838,Free Zones,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1104,,344572,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,400,Jordan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,519,,87627,,,0
+HS,2017,201708,August 2017,6,1,3,Re-exports,400,Jordan,,838,Free Zones,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1104,,344572,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,400,Jordan,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,1281865,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,614,,2400216,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,19377,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9302,,10178535,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1104,,344572,,,0
+HS,2017,201708,August 2017,6,1,3,Re-exports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1104,,344572,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3438,,1419105,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,400,Jordan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,973,,379696,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,400,Jordan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1235,,577786,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,400,Jordan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,20349,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,400,Jordan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,246,,124952,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7500,,1087033,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8009,,1332737,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,400,Jordan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,295,,102400,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,103420,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,400,Jordan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,155,,7599,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,400,Jordan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1128,,147265,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2845,,4332857,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,400,Jordan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,29056,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2524,,991238,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,400,Jordan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1163,,600354,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,400,Jordan,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1447,,249899,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,400,Jordan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,637,,662210,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,400,Jordan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,20879,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,400,Jordan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,27889,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,400,Jordan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,354,,81130,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,400,Jordan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,37944,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,400,Jordan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3972,,1680303,,,0

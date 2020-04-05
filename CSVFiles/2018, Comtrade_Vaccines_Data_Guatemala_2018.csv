@@ -1,8 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-HS,2018,201801,January 2018,6,1,1,Imports,320,Guatemala,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2162,,3705930,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,320,Guatemala,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,10224,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,320,Guatemala,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,541,,315520,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,320,Guatemala,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,8530,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,320,Guatemala,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,6192,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,320,Guatemala,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,256054,,,0
-HS,2018,201801,January 2018,6,1,1,Imports,320,Guatemala,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1434,,3109410,,,0

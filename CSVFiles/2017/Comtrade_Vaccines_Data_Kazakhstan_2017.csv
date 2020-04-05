@@ -1,0 +1,59 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201707,July 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122,,20330,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,398,Kazakhstan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5469,,12403455,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,398,Kazakhstan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2450,,441000,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,398,Kazakhstan,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,366360,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,398,Kazakhstan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,180760,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10960,,18719843,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2128,,4884961,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,398,Kazakhstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,151,,34680,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3855,,2202766,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,398,Kazakhstan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,15994,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38034,,4556568,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11069,,12595601,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15161,,24026170,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,398,Kazakhstan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3769,,2437820,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8229,,14426502,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,398,Kazakhstan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3157,,7158990,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,398,Kazakhstan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1285,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1573,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,383,,162814,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,398,Kazakhstan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,26250,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,398,Kazakhstan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,322,,95891,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,5439,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,398,Kazakhstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,35234,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5496,,3465233,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,19450,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,398,Kazakhstan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5421,,3445783,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11751,,16840428,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3233,,6062511,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,398,Kazakhstan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4638,,10519410,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3502,,171807,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,398,Kazakhstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,378,,86700,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4722,,4283489,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3915,,3617860,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,309,,557125,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,398,Kazakhstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,498,,108504,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,398,Kazakhstan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4110,,2658689,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,398,Kazakhstan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,654,,1482090,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3155,,2160645,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,398,Kazakhstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4743,,1083172,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7909,,12000354,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7907,,11991469,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,8885,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,558,,408627,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,70314,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6386,,2011925,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13134,,7531437,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,15230,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,398,Kazakhstan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,442,,131611,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1845,,978501,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,398,Kazakhstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4454,,963110,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2787,,1707413,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,398,Kazakhstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,2740,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3153,,2476705,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,398,Kazakhstan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,90,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,398,Kazakhstan,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,725424,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,398,Kazakhstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,41038,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49103,,17152168,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,398,Kazakhstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3698,,2166442,,,0

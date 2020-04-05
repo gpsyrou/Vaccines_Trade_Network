@@ -1,0 +1,44 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201704,April 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,2861,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,27840,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,417,Kyrgyzstan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2271,,1060033,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2409,,1090734,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,172,,20010,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,417,Kyrgyzstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1375,,176250,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,417,Kyrgyzstan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,225,,36762,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,417,Kyrgyzstan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1267,,110649,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,417,Kyrgyzstan,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,597,,40033,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,8047,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,417,Kyrgyzstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1863,,387948,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4042,,583439,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,3545,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,417,Kyrgyzstan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,3545,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,1980,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,3629,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,1980,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,252,,38838,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1547,,196260,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,3629,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,417,Kyrgyzstan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4070,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,417,Kyrgyzstan,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,451,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,451,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,252,,38838,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,11805,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,417,Kyrgyzstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1618,,233276,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1644,,249151,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,417,Kyrgyzstan,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,355,,25229,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,417,Kyrgyzstan,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,58535,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,3800,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,417,Kyrgyzstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,4050,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,562,,91614,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1711,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,417,Kyrgyzstan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4599,,788039,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,417,Kyrgyzstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,498,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4616,,790248,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,417,Kyrgyzstan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,444,,95739,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,417,Kyrgyzstan,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,967,,64778,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,417,Kyrgyzstan,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,228,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,417,Kyrgyzstan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,7770,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,417,Kyrgyzstan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1996,,315928,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,417,Kyrgyzstan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,541,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3557,,484984,,,0

@@ -1,8 +1,20 @@
+"""
+-------------------------------------------------------------------
+-- Title:
+-- File:    tradeNetworkFunctions.py
+-- Purpose: Scripts that contains all the required functions for the main analysis part of the Vaccines network.
+-- Author:  Georgios Spyrou
+-- Date:    05/04/2020
+-------------------------------------------------------------------
+"""
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def getAggStatistics(df, feature='Trade Value (US$)', kind='Imports'):
+def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
+                     kind: str) -> pd.core.frame.DataFrame:
     '''
     Given a dataframe and a feature column (numerical), identify the top
     importers/exporters.
@@ -24,9 +36,10 @@ def getAggStatistics(df, feature='Trade Value (US$)', kind='Imports'):
     return df_sorted
 
 
-def plotTopnCountries(df, feature, topn, kind='Import'):
+def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
+                      topn: int, kind: str) -> None:
     '''
-    Create a bar plot of the top-N countries compared to an aggregated column.
+    Create a bar plot of the top-N countries compared to an aggregated column.        
     '''
     if kind != 'Import' and kind != 'Export':
         raise ValueError('Trade flow is not set to Import or Export')

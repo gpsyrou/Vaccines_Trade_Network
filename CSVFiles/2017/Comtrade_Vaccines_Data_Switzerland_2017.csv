@@ -1,0 +1,483 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,9385,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,10318,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,244,,441275,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,141,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,341,,211940,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,91122,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,809,,453124,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,275989,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,187,,266623,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,108850,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,217,,257846,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,41056,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,464,,118331,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,651,,325436,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,9681,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,34249,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,19841,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,38668,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,22095,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,421,,93787,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,17893,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3001,,2014038,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,287,,72718,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,912,,479710,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,365,,72684,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1317,,1442893,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,34303,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,5894,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,76837,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,36229,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,6258,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,99151,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3420,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,196,,672736,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,20709,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,915,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,334,,324911,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,157117,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,228,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,445,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,647,,1116861,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17347,,10310331,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,435,,1592772,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,175,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,258,,157483,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,59200,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,387,,50785,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,266,,144569,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168,,451014,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,400,,189915,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2011,,2453691,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,13608,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,8358,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,2052,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,7947,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,20005,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,780,,54066,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,791,,1039393,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1670,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,175,,352675,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1885,,1111759,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1521,,129636,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,45898,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,938,,366478,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,101,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,407,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7534,,5765309,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,537,,170237,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1746,,514379,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,4206,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,107887,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,326,,279851,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,263913,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,170,,179093,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1278,,1562210,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,89178,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,24242,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,499,,160376,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,14319,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,56891,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,17022,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,50130,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,23575,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,37473,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,157,,191310,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,20041,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,792883,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,169,,203628,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1951,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,9,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1562,,999986,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,13519,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,190692,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,655,,950763,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,309,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,584,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119,,56483,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,16832,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,347,,243050,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,321,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,13407,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,572,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,160080,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,4622,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,90195,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5391,,3327949,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,666,,1147504,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,783,,909587,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,17805,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,4614,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3064,,416597,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,529,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,496,,217847,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7345,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,53520,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,4774,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1180,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,14075,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,154772,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,439,,283360,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,71941,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,13739,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,336,,184067,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,23458,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3000,,3784536,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,565,,298303,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,420,,136164,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,758,,388122,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2884,,3212909,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360,,241306,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,3727,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2382,,913513,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11479,,9790560,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,7085,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,9,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,615,,3049988,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,664,,1101456,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,235501,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104,,144131,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1077,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,150231,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,118452,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,171965,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2943,,3509719,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,7508,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,21848,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5283,,8737597,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,10,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14324,,9029651,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2734,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,52559,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,5009,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,520,,175870,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,51508,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,95801,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,13439,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,107433,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,14656,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,20188,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,164,,72473,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,301,,243158,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,34735,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,314,,225207,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,104322,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,942,,291993,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,114763,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,693,,372862,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2677,,1227928,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,350,,270331,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1164,,210884,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1277,,1484200,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,1134,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,435,,83453,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,172,,122290,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1263,,309770,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1778,,567325,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1592,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,637,,2349937,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,64985,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1925,,1192027,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10758,,11918574,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,398,,402065,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,5,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,19,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,1562,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,157,,297341,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,5677,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5644,,8705538,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,56164,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2222,,407289,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,660,,1187992,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,150292,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,297,,809636,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6022,,5398268,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,157753,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,201457,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1415,,239894,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9121,,3552749,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4684,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1273,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,231,,102141,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,282,,107158,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17621,,10725305,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,847,,300979,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,41,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1403,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211,,135658,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,15,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1020,,726741,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,44409,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,90815,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,2263,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,55678,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,13896,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,58134,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2194,,818549,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,438,,292281,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,564,,176090,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,248,,552543,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,33939,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,39170,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,311,,167677,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,19154,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,41960,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,14138,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,22848,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,77603,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,532,,234228,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,67194,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,14652,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,703,,291083,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,31498,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1547,,1674854,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,42764,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9852,,6042258,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,16112,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14718,,7001352,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,36,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,398,,142690,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4932,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,5495,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122,,95728,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,41901,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,14202,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4042,,1298960,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,96784,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,86926,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,104002,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,27967,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,72872,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,187,,141209,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91,,72089,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,639,,362655,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,774,,136017,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1872,,2315520,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,19619,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2189,,151613,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,648,,160663,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,266,,100036,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,291,,119012,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,996,,529245,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,943,,446162,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,19775,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,305,,79779,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,3810,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,295,,351651,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,286,,239171,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,28019,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,348787,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,637,,357405,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10138,,8899123,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,29,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,1619696,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,20,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5182,,4609509,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,6,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,311,,551834,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,559,,158716,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,83241,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,187125,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,219,,597439,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,227,,308314,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,365,,574927,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1509,,64397,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,615,,2572,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,404,,314347,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,100106,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,37083,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,11313,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,435,,285121,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,34146,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,175,,231525,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,583,,995851,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2324,,2196192,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,13243,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4175,,3838124,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,48458,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,9013,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,2206,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,860,,245456,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,24748,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1486,,1924931,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,723,,476998,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,239,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14149,,19554006,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,793,,3215267,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1093,,196373,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9047,,12161713,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,444,,793154,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,4623,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,528,,780707,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3779,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,890,,177111,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,61676,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1133,,833081,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7956,,2066754,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,4,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,96,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2955,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,529,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,435,,763029,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,124,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,631,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,96537,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,2026,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,1049,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,390,,284620,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,988,,169844,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,594,,731597,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,53694,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,38808,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,220,,102834,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1284,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,754,,201548,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,240,,229361,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,47335,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,24210,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,59892,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,1992,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,14570,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,550,,224421,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,420,,194713,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,105667,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,265,,97512,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,238,,446870,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,107130,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,349,,262917,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6641,,4346260,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,242,,836570,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,757,Switzerland,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,9161,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,262,,121111,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,819,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257,,244740,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8127,,8176940,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1067,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,144241,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1356,,1090447,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3808,,3913053,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,861,,134414,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,59800,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,757,Switzerland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1003,,1699980,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10696,,7979036,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,46075,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,21377,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,619,,412207,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,15277,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,763,,1053038,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,16991,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,68039,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,23964,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1656,,507776,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,30830,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,30209,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,92351,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,55057,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,823,,342134,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,420,,213172,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,286,,115329,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1509,,406121,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,82534,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,984,,305157,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1363,,308744,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,890,,813359,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4728,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,838,,3010601,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,3962,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,887,,763224,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3117,,1679985,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8897,,8120780,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1248,,661941,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,166673,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,365,,681103,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,1289119,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1249,,1829468,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,253000,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1633,,796266,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,281,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4979,,2736696,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7696,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,115042,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,515,,302041,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,5903,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1408,,537077,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,172,,187482,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,667,,324652,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,45366,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,50189,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168,,6346,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,55362,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,8439,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,165,,171515,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,141,,128378,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,12273,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,734,,309134,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,403,,394714,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,71792,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,5859,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4760,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,92,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2713,,1142575,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,757,Switzerland,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,24307,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,771,,983469,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,518,,159846,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11134,,10109295,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,202,,284796,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6840,,7453819,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,757,Switzerland,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,52788,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1664,,2354701,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,568,,494327,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,3981,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,287,,542852,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,757,Switzerland,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4964,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,931,,1074719,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,17482,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,398,,99098,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,40117,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,277089,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1386,,243376,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,25189,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,6242,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,297,,181216,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,21572,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6243,,2734054,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,259,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,60358,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,336,Holy See (Vatican City State),,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,6650,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,33200,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,16302,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3021,,3293099,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1120,,375157,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2330,,585217,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,367,,668742,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6634,,2178659,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,294,,322854,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,135637,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23693,,12430823,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1673,,1815106,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,30506,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1010,,1036533,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,61982,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7234,,5763350,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,54525,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,757,Switzerland,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,34537,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,4751,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,757,Switzerland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,1449,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,99,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,21691,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,256,,355154,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,27192,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,76,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7316,,5691179,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,24198,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3872,,3553718,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,138837,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,467,,369049,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,757,Switzerland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3459,,3830385,,,0

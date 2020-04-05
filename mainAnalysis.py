@@ -24,7 +24,8 @@ csv_file_location = 'C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Netw
 maindf = pd.read_csv(csv_file_location, delimiter=',',
                      header=[0], encoding='utf-8')
 
-# Exploratory Data Analysis
+# Part 1: Exploratory Data Analysis
+
 # At this stage we need to explore the dataset and identify any potential issues in the data tha require cleaning, and also
 # make sure that we understand the features.
 
@@ -99,28 +100,44 @@ tnf.plotTopnCountries(df=top_exporters, feature='Netweight (kg)',
                       topn=topn, kind='Export')
 
 
+# Part 2: Network Analysis
 
+# Create the general case of the network (all countries, trade flows, etc)
 
 # In order to create our network we need to transform it in way that can be 
 # passed into a Graph object from the networkx library..
-network_df = df.groupby(['Reporter','Partner']).agg(
+network_df = df.groupby(['Reporter','Partner','Trade Flow']).agg(
         {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
 
+# Here we will introduce a new feature which is the Price/Kg.
 network_df['Value_Per_Kg'] = network_df['Trade Value (US$)']/network_df['Netweight (kg)']
+network_df['Value_Per_Kg'].replace([np.inf, -np.inf], 0, inplace=True)
+
+
+
+
+
+
+
+
+
 
 import networkx as nx
 
-G = nx.from_pandas_edgelist(network_df[network_df['Reporter']=='Greece'], source='Reporter', target='Partner',
-                            edge_attr=['Trade Value (US$)', 'Netweight (kg)','Value_Per_Kg'])
 
-plt.figure(figsize=(10,10))
+country_specific_df = network_df[(network_df['Reporter']=='Philippines') | (network_df['Partner']=='Philippines') ]
+
+G = nx.from_pandas_edgelist(network_df[(network_df['Reporter']=='Philippines') & (network_df['Trade Flow']=='Imports') ], source='Partner', target='Reporter',
+                            edge_attr=['Trade Value (US$)', 'Netweight (kg)','Value_Per_Kg'], create_using=nx.DiGraph())
+
+plt.figure(figsize=(15,15))
 
 tradevalue_w = [G[u][v]['Trade Value (US$)'] for u,v in G.edges()]
-valueperkg_w = [G[u][v]['Value_Per_Kg'] for u,v in G.edges()]
+valueperkg_w = [int(G[u][v]['Value_Per_Kg']) for u,v in G.edges()]
 
+# Normalize the values of the trade value to appropriate values between 1-10
+tdv_norm = [int(((x - np.min(tradevalue_w)) / (np.max(tradevalue_w) - 
+             np.min(tradevalue_w)) + 0.6 )* 4) for x in tradevalue_w]
 
-tdv_norm = [((x - np.min(tradevalue_w)) / (np.max(tradevalue_w) - 
-             np.min(tradevalue_w)) + 0.6 )* 4 for x in tradevalue_w]
-
-nx.draw_networkx(G, node_size=valueperkg_w, font_size=8, width=tdv_norm)
+nx.draw_networkx(G, node_size=550, font_size=8, width=tdv_norm)
 

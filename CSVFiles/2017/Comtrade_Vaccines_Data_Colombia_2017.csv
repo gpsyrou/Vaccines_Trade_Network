@@ -1,0 +1,97 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201704,April 2017,6,1,1,Imports,170,Colombia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,82553,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,170,Colombia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,545,,259655,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4761,,5777295,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,170,Colombia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,191,,102861,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,170,Colombia,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,994,,91944,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,170,Colombia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,716,,725223,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2844,,3524072,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,170,Colombia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,61817,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,7446,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2439,,1154566,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,170,Colombia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,183,,110118,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1592,,920323,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2967,,949875,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,170,Colombia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,13325,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5221,,4891419,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,243,,121147,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14944,,14731584,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14422,,11417090,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,170,Colombia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,22225,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1875,,128064,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,349,,72205,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,475,,412517,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2974,,769482,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2638,,2673691,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,170,Colombia,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,504,,47291,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,170,Colombia,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,7458,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,7458,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,301,,83026,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13933,,2246938,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3730,,3665808,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2559,,4079136,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21106,,8716754,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,170,Colombia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,53796,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,170,Colombia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2268,,182006,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,170,Colombia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,433,,80928,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,808,,187316,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,517,,188457,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2937,,2657125,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9105,,7240307,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3735,,7383561,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,30993,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,633,,277610,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,317,,318173,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1483,,247930,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,170,Colombia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,682,,148283,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,170,Colombia,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,938,,88991,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,607,,92669,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,170,Colombia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,507,,130950,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3292,,617757,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7285,,4133581,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2859,,978640,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3184,,2164413,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5342,,580194,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20560,,15266687,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3334,,3645428,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14178,,5760943,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9118,,11485491,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2207,,143700,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,428,,188617,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6955,,6110930,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,307,,308203,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,32384,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,805,,380464,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,170,Colombia,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,188,,182320,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,170,Colombia,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1517,,328115,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11866,,5149398,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8076,,1321189,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1721,,1119487,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,187,,214732,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23367,,8132921,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,170,,43325,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2110,,4067546,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3300,,1274097,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,291,,27227,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,356,,165431,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2624,,585061,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,32733,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1090,,151972,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,302,,284105,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10276,,6631498,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,170,Colombia,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,37760,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14257,,1731649,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1093,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2230,,714175,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17125,,2826885,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,170,Colombia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2711,,3973588,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,170,Colombia,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3915,,813828,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,170,Colombia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,345,,55653,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1163,,150251,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,170,Colombia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3303,,5729391,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,358672,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12084,,11263703,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7368,,7831714,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12726,,1846397,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3366,,3564247,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,170,Colombia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36062,,24060434,,,0

@@ -1,0 +1,42 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201707,July 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,96737,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,115214,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2475,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,99845,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2475,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,43121,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,43121,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,53160,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5353,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,58750,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5515,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,58513,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3633,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,62383,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,25396,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,21762,,,0
+HS,2017,201710,October 2017,6,1,3,Re-exports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,29960,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,29960,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,19881,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,49744,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2673,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,41510,,,0
+HS,2017,201710,October 2017,6,1,3,Re-exports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,29960,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,29960,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,71505,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,38596,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,23009,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,241,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,96,Brunei Darussalam,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,58566,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,710,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,82286,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,102205,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,11389,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2578,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,48200,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,96,Brunei Darussalam,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,2550,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,33404,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1621,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3108,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,33404,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,43072,,,0

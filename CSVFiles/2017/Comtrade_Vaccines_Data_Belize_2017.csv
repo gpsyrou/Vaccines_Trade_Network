@@ -1,0 +1,29 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201702,February 2017,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1248,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,84,Belize,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1248,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,217,,16397,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,84,Belize,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,4085,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,7741,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,84,Belize,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,4571,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,670,,39856,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,670,,39856,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,84,Belize,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,991,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,991,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,84,Belize,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,126,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,2476,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,2350,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,967,,38671,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,84,Belize,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,68,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1017,,40022,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,84,Belize,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,1283,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,17329,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,17329,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1597,,167759,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1265,,162045,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,84,Belize,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,332,,5714,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,84,Belize,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,43270,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,84,Belize,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,21002,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1402,,111333,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,84,Belize,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1925,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,848,,27528,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,84,Belize,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,154,,17608,,,0

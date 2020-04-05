@@ -1,7 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-HS,2018,201803,March 2018,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,7888,,,0
-HS,2018,201803,March 2018,6,1,1,Imports,659,Saint Kitts and Nevis,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,6544,,,0
-HS,2018,201802,February 2018,6,1,1,Imports,659,Saint Kitts and Nevis,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,281,,,0
-HS,2018,201802,February 2018,6,1,1,Imports,659,Saint Kitts and Nevis,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,1530,,,0
-HS,2018,201802,February 2018,6,1,1,Imports,659,Saint Kitts and Nevis,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1249,,,0
-HS,2018,201803,March 2018,6,1,1,Imports,659,Saint Kitts and Nevis,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,1344,,,0

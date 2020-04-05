@@ -1,0 +1,1439 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3007,,1533069,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2261,,1126671,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1764,,4171560,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7588,,1222488,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,628,,216553,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5329,,5638685,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,309,,305127,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1408,,1495135,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8526,,7936825,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,248,,321006,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,795,,1491653,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10678,,2886685,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,184,,128608,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2342,,1708990,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,16446,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2383,,2022718,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7754,,15517485,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,728,,1673850,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,167,,164281,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2112,,926708,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,729,,776596,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,645,,308979,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11011,,18099851,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8473,,36980840,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1038,,1669749,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2286,,3119933,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9506,,7447507,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,159,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3523,,4243755,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4082,,6774792,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,346,,269087,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,138,,37013,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,782,,286949,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,138198,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1541,,956222,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1986,,2223073,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,368,,2069672,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,726,,954002,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3722,,20977404,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19677,,21789215,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,90695,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4261,,5880642,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,9445,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,179,,745789,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4362,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,501,,103925,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3124,,5306076,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,357,,171426,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12559,,15420643,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,278444,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4423,,3935294,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7924,,6585901,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,4476,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,70,Bosnia Herzegovina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,40147,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3152,,2803788,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,115841,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,266,,55279,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,928,,318384,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1119,,1090896,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3020,,2951361,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,752,,4234973,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,603,,503420,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4529,,1977750,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,221,,76375,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1968,,2712626,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4449,,3008181,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3182,,3437657,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,47102,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43276,,26185169,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91,,110707,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1179,,1718571,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7484,,5065045,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,3532,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20149,,18867834,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1395,,498113,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2740,,9172937,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,272,,120863,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,220,,177185,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,400,,117562,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1140,,1571490,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3576,,1880404,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,12549,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,12051,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,183045,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,10680,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1039,,344218,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106765,,27281191,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,432,,890202,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,799,,1100295,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,740,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1249,,1709163,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,555,,762331,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4899,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1047,,469529,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5379,,4571342,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42813,,39448404,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,291,,372360,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,513,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2326,,2271724,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2169,,1318774,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,377,,553392,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,433,,387042,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20142,,48167264,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4250,,3144975,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101069,,132824225,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,210,,77610,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,13010,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2085,,1800072,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8016,,3967273,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21278,,27178572,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1580,,302615484,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,89,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4482,,1562693,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,944,,11120483,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2334,,577794,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62278,,26199727,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,22749,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257217,,488972878,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7347,,12084944,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1139,,2085433,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2381,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,155814,,105522530,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,461956535,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,42651,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2853,,2785935,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6949,,5184540,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9033,,6286445,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,459,,261462,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1008,,268987,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6129,,1318939,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2200,,3424643,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,492,,146664,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,6241,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2402,,494170,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,374,,163791,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3068,,4395641,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,41642,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3239,,2465390,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1123,,674238,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6083,,1584088,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,143,,96572,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1047,,727649,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6171,,5158858,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4547,,8054737,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1293,,1775324,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13100,,8809157,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,90,Solomon Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,409879,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,347,,146492,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2450,,5703714,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,801,,4489589,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,322,,68055,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2102,,560657,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19324,,31723268,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,61877,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3767,,2860387,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2681,,2233316,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,802,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,959,,533477,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21545,,35259256,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,22000,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1765,,1465174,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,516,,321292,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,739,,404448,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,34823,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6008,,3796848,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,9680,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1002,,416656,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,353,,98774,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,167,,263538,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1138,,568317,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,612,,389397,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,621,,218364,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7256,,14668442,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,124367,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,66038,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,58276,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,812,,1120394,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,156,,22001,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,293,,78188,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,31065,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8218,,8855358,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3277,,2454908,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,871,,1193912,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2102,,8193494,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1730,,848273,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1301,,834368,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28706,,126924928,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16916,,25163976,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2811,,3859780,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,10438,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6343,,4841249,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2910,,814136,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4661,,2126907,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1978,,2718072,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2645,,705291,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9850,,18709410,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,968,,597713,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19891,,12599974,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,782,,367469,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,616,,842224,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3441,,2569859,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9235,,8249596,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,933,,722475,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16071,,12482029,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1028,,525372,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1017,,1008914,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1191,,850714,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1220,,795486,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,37,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1730,,6786115,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4479,,5752548,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2969,,4077112,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,23436,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1158,,1589027,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,825,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,800,,622424,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1402,,1596858,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,747,,417767,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2192,,7657503,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,166,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8714,,4671240,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5932,,4528759,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,152492,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4108,,3852956,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3427,,3757831,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2652,,790191,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,733,,537784,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,311,,92788,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2174,,1490356,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,6846,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4396,,682356,,,0
+HS,2017,201701,January 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1296,,606172,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2078,,11550906,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,31992,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3734,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2249,,3671810,,,0
+HS,2017,201708,August 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,558945,,563306077,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2793,,3371989,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2126,,14151,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,175369,,532842177,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126541,,53634012,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3017,,717220,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5422,,440092535,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20576,,11785289,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,12425,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,8024,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,314,,332684,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,98950,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1387,,8319054,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9604,,13049437,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3326,,1404143,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,2263,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,174186,,555691494,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3963,,3299141,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,695770,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,20980,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117399,,51278037,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15425,,11697744,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1256,,572744,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2542,,787007,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10398,,457341741,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,95,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,751,,4806948,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1324,,2189468,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,110,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20623,,22656575,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,52,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,325,,345081,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12882,,162097541,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3717,,20448455,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15535,,68851086,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1522,,1661701,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1035,,893783,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,426,,153786,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15937,,78978986,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5137,,6914183,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3930,,17131100,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4707,,1781899,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,335,,448457,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,868,,903632,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,616,,278293,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9143,,6259172,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7494,,10085520,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1566,,1861340,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2505,,1004985,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,233433,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,371,,97061,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1513,,632118,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4685,,3114177,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8139,,7164295,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2537,,12659962,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1937,,1788031,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3240,,2370295,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3065,,1477309,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4597,,2635958,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,212,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11042,,7357406,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,92049,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22596,,13080694,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,359,,143129,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1832,,2457529,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137,,54976,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,44486,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,207,,108976,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10928,,13653261,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,372,,138592,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,21158,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,240968,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,14165203,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2774,,860965,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9966,,15454281,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,876,,177310,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,248,,51536,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6509,,5316825,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1236,,6797056,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1527,,5942855,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3399,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,939,,587189,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,503,,190612,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5158,,3865562,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,347,,414508,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,744,,999296,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1020,,1300108,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,583,,649644,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1762,,1006110,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,396485,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3815,,3309430,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3564,,1375388,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2731,,10497355,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,54492,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,843,,1131261,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4070,,3480842,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,115022,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,33191,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,499,Montenegro,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,3083,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5079,,1991152,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,643,,361916,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,16967,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,263,,261983,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26371,,37642721,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1636,,8990329,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,296,Kiribati,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,59744,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1964,,1055360,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,201,,269073,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1261,,767914,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,198768,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,747,,249518,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13345,,1499386,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36615,,94926549,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,53815,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,115204,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,1476741,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,24535,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,226,Equatorial Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,10779,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8959,,7134652,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,550,,470244,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1995,,2663730,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7635,,6818744,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,68323,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7615,,1820304,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2000,,3998658,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4973,,15363769,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,647,,805778,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,265,,109307,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1991,,1906780,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2895,,2513812,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,6272,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6994,,9014149,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,299,,401574,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,15450,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,70,Bosnia Herzegovina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,13741,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13711,,8659538,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1557,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,674,,260282,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,370701,,750334393,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1440,,7918244,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,8124,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119,,32067,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,251,,93185,,,0
+HS,2017,201702,February 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3082,,2764653,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,199315,,490670767,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,794,,463790,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,2442,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,153802,,63774825,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,51107,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2766,,460920,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1254,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3893,,1134078,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,366,,363463,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22629,,401738040,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,567,,4954536,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,237,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7775,,7929760,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,370688,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6654,,9425628,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,4556213,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,955,,600029,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11164,,10069391,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,141,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5419,,1103540,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11380,,20531309,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3981,,1228144,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2423,,1222179,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1655,,287346,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1833,,1455502,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,96225,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1830,,730357,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,13402,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1578,,1500300,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,247,,141798,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,64175,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14654,,38306123,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,673,,394803,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7314,,5761335,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,254747,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,33812,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7576,,2977532,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,281,,119788,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,174,Comoros,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,83,,17128,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2704,,15085804,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,41669,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,156975,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1390,,1737649,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104,,155544,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,91151,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1212,,1587529,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2041,,4405818,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,479991,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14857,,6954324,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1122,,1148773,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,361,,161920,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,61751,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3875,,723001,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,70,Bosnia Herzegovina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1445,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14080,,25139785,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,541437679,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1969,,8130610,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,10933,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1638,,2238422,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,689,,194931,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32022,,14695295,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,11806,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12006,,6543817,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1788,,1239373,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2712,,3190372,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,304,,178058,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,628,,854927,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,704690,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,173841,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,434,Libya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,662,,346105,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,11289,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,372107,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4654,,1398322,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,663,,375244,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91,,42277,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,562,,707509,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,179034,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1833,,1926603,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,382,,514075,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5856,,2297666,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4652,,3298967,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,30876,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,666,,506234,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2221,,4485574,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,9702,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,577,,421424,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3090,,2791016,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1947,,789846,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,391,,415802,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,619,,392863,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3675,,1535201,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,154083,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,807,,185520,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,355,,72887,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,6098,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,297,,351050,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,589,,517747,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,622,,17938880,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,5284,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,405,,1077358,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2675,,756032,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,447,,64474,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1745,,803116,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,755,,3768618,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7406,,8080575,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1554,,837389,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3092,,551327,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3881,,1169110,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,477,,181746,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19241,,5311964,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343,,184813,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,631,,271625,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,385,,248208,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4036,,9716283,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1635,,1140144,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360,,108474,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,985,,346359,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27011,,159724945,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13395,,4016556,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6934,,4789078,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4311,,1298676,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1513,,875857,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48373,,82325865,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2811,,3746547,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,353,,593237,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5838,,7965863,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8614,,9072901,,,0
+HS,2017,201703,March 2017,6,1,2,Exports,56,Belgium,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4637,,2765726,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,329,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,575,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,28467,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147004,,163495944,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107327,,52981954,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,745,,1512967,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,386,,80515764,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3296,,1045789,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15106,,11626785,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,941,,6765390,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,2416841,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,190,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,109,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18727,,6224004,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,601,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,378,,405551,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1666,,1706251,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,297866,,350365277,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,44699,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16853,,18148225,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11276,,28959564,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,915,,491934,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9543,,8090165,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18770,,29746169,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,801,,4371523,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1743,,2090260,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,931,,5081412,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2219,,1926414,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1409,,1883925,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,326,,157683,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,518,,422332,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,22754,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2707,,14786255,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,154,,103126,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2738,,5019726,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1991,,2662729,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122,,93078,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3100,,1325970,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,232,Eritrea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1234,,2175002,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,471,,347418,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2477,,1514564,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36109,,28964679,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,40942,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,56405,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,14635,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,327,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1797,,480883,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,664,,1081571,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2962,,1060315,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,368,,2006283,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,894,,529714,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2551,,682353,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,619,,414544,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2156,,795417,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,743,,42206,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,553,,569104,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3442,,3178162,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,945,,1342238,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,657,,228893,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,48536,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3060,,1714233,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,92473,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6701,,5386532,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,418,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9460,,12664973,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,591,,778634,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4956,,9412355,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,26694,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1422,,958563,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6472,,2771158,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,61552,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,388,,69486,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,333,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,399,,299590,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10540,,13789722,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,16705,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,507,,264024,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5421,,4500783,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,229,,140159,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19454,,12162871,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1544,,570584,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2325,,1007420,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6388,,2762590,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,705,,587203,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3441,,4415597,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1157,,694561,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,246,,80915,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1095,,5978435,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,4644,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1765,,2360581,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,760,,108549,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1311,,294845,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,372,,314306,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1166,,668943,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13472,,12724970,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2959,,13527168,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6347,,14811643,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,881,,595336,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,336,,151849,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3512,,2081042,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,883,,871510,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,148,,173179,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1061,,635661,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,157,,383290,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,986,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,293,,81073,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1504,,8169826,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168,,180788,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,1253,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,32925,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,346,,481950,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5049,,1950482,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,345,,82156,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,829,,515772,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29435,,34693432,,,0
+HS,2017,201704,April 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,828,,550169,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1979,,2111678,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,5461,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,891,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122814,,52550868,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8352,,5779633,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,109,,3388512,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,586,,123779628,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16138,,18822259,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1100,,1639535,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,134105,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2314,,2740875,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,23,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,942,,367017,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,154441,,211320485,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,433482,,429970342,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,475,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,14436,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,27922,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,597,,226642,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14432,,10681124,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19040,,46478094,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4143,,3768441,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2808,,2447848,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1814,,1779323,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,430,,200452,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1495,,1344838,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,12826,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2428,,3280994,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29987,,46097329,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4286,,4295487,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,1202,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,13129,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,18039,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9463,,11568217,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5414,,29899487,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,240,,83903,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,565,,524256,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,234,,211151,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2082,,2029779,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3100,,1341004,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8250,,5182781,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,138,,80208,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,11822,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,811,,1443782,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,377,,98878,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,583,,183662,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1180,,403393,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,9341,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,276,,80158,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5745,,4601630,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6273,,6720079,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5444,,4149614,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,389,,268590,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,103413,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52000,,13885555,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,50628,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,288,,172361,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2771,,877142,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8175,,15293539,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,39782,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15351,,11768227,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1288,,1659660,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,536,,721238,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7682,,3328492,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14689,,22901866,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51262,,56724242,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,164,,78876,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,740,,912536,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,574,,47779,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1414,,1983603,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3672,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,4695,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1862,,2063346,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,530,,167829,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5851,,1598302,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1368,,1264054,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,51174,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1681,,2272659,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,799,,1078407,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1037,,1400034,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,189,,432032,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1236,,389489,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,523,,881492,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3279,,811277,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1790,,404494,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,24200,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1950,,1735477,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,90656,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13200,,3245422,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2218,,1155978,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,3234,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3521,,1126248,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3498,,3049407,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,57315,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,670,,532008,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1831,,1595997,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,232,,143153,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,796,,677123,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9553,,10877474,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9159,,26177390,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4110,,881309,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,240,,2335654,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8463,,2678925,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1337,,1422586,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3902,,1251776,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,857,,562187,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6227,,5574758,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,109114,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1950,,742751,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1583,,286917,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,798,,255907,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,277,,337508,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5052,,5118312,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,811,,531389,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,7818,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4808,,2873679,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1290,,349149,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1483,,383192,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1286,,3510734,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2626,,1170794,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19433,,9059845,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2829,,3859833,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,787,,1154100,,,0
+HS,2017,201706,June 2017,6,1,2,Exports,56,Belgium,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6860,,2068795,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,2159,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3156,,4385765,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1862,,1059895,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,237,,247687,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,248,,561527,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5058,,5910073,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,134,,66953,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,149,,325380,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,259,,364006,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,291,,90432,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3478,,2742900,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3078,,15845867,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,533,Aruba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,40087,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2424,,749830,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1470,,355192,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14241,,18518097,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,96430,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8643,,2543892,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,725,,348888,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3789,,5191104,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1599,,1342439,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11479,,10709124,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,312,,213729,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,237,,298827,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,438949,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,6977,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,118741,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2842,,7776244,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,49872,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,16594,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,526,,517880,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5944,,1852927,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,113210,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,165,,22175,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1140,,1583076,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10733,,15647193,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,9181,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1077,,743420,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3350,,4659049,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31890,,45438771,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,534,,656541,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,202,,200056,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,914,,283770,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,434,Libya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,663,,356936,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,67107,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,262396,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1637,,576463,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,42676,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,78193,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,78294,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16624,,18145951,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5782,,23302154,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,56072,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8951,,4224522,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1708,,1623829,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,412,,107377,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1275,,1650648,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1970,,2737926,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2070,,3995098,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,967,,260950,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5294,,3901641,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,264,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,319,,114683,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,660,,426412,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2573,,797602,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9004,,7734775,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5098,,8278766,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1779,,551949,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1933,,2161332,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,357,,478591,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9903,,8931715,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,730,,435618,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,49309,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1029,,1869887,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,334757,,379595187,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1965,,9997429,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,12422,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10976,,16119924,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,90,Solomon Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,182207,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,149,,215823,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,70,Bosnia Herzegovina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,517,,49736,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3219,,31162349,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,614,,438926,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,768,,262012,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10343,,4391987,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,20448,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1227,,301648,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119,,46879,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,31518,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,930,,413963,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,499,Montenegro,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,3913,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2647,,601122,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1618,,1483367,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,381,,227054,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,50934,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,777,,502254,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,117,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,690,,310289,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,40522,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1847,,616852,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,737,,269744,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3072,,2766186,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1531,,994850,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3767,,1952639,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3110,,1287633,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1678,,520765,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,851,,985571,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,438,,357859,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7388,,3739421,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5900,,5534485,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3126,,1832045,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,8288,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,231,,348007,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4501,,4836147,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30461,,19196570,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,513,,2906626,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16361,,10212567,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2828,,3953085,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,744,,1032334,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,740,,,0
+HS,2017,201705,May 2017,6,1,2,Exports,56,Belgium,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4091,,3931882,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68722,,43091200,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1422,,1634201,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,31,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101353,,53825340,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1094,,10366108,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,270,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,583091663,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,992,,1356748,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2328,,4123661,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1694,,385890036,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,127957,,100423778,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,930,,1021925,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1057,,1524457,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25540,,22925108,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27279,,48940248,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,73357,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5239,,4572581,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,14506,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122,,458881,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9964,,7515579,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,327,,123244,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,712,,558425,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,609,,769826,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,24730,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1568,,1976282,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1424,,789794,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3491,,3108131,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23708,,25212846,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3077,,3583202,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,288,,261428,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,6003,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,981,,576959,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,799,,167048,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,482820,,576666570,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2346,,648872,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,2579,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,776,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,624,,48112908,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11733,,11098963,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18443,,100625784,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,335,,108046,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,860,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4737,,4588023,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,449,,129807,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92662,,28949088,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1213,,1080249,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1903,,853771,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2601,,14763681,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,773,,264175,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,140039,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10230,,3241370,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1141,,431268,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,26913,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3800,,5196170,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5493,,5700114,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13976,,18809882,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1143,,836262,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2039,,2716451,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7646,,5057659,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,7708,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,881,,618693,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,7009,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18715,,9630882,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,40834,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,199,,120626,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,143,,179898,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,344,,167828,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,460418,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8940,,5342730,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5702,,13808980,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,654,,736939,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,131612,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2431,,2913834,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,561,,808165,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8512,,3660471,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5366,,1730904,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,248858,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,27841,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,559,,301560,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,200,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,347,,86716,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,97710,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,995,,475840,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,22469,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,157,,302332,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5780,,5953946,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1668,,538071,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2101,,1486135,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,189,,223035,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8628,,42543727,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,355,,74243,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,645,,806601,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,327,,203449,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,284,,664961,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1238,,484731,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1064,,1111339,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,328,,129755,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,167,,69101,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7342,,5479914,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2441,,3390022,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,326,,704750,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79376,,67377113,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1598,,515381,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7316,,2359734,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2341,,755244,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1817,,15362818,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1548,,499174,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,670,Saint Vincent and the Grenadines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,17429,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,199,,464015,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,51839,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5726,,14884305,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24693,,14422581,,,0
+HS,2017,201707,July 2017,6,1,2,Exports,56,Belgium,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6341,,2045319,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,444334,,466508834,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1083,,754290,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2197,,824900,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123366,,56341534,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,34,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,134947,,56386355,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,440,,456434,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2093,,6351868,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1614,,5439919,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,129,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,334685,,283657859,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1338,,12772009,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,93,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,491,,106649725,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,256396,,391996556,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,48,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4631,,1673420,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3895,,1549735,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3068,,2323196,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,761,,530114,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3224,,5716899,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,540,,2990170,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3699,,17375491,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1654,,686976,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35445,,66460742,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5945,,3966206,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21251,,9107843,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,276240,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,404,,224185,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8011,,2149634,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33037,,9092709,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1325,,1571345,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,61785,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1737,,994819,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,712,,173145,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,242,,198766,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,239,,162935,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,114188,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2502,,836612,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,143146,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1037,,238821,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2187,,359925,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,184,Cook Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,12723,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1203,,1164792,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1425,,2189413,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2735,,15048058,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6331,,5161978,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,232,Eritrea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,201,,67198,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6753,,2257844,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108011,,102619212,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,92963,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,969,,1736865,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,36243,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1550,,679626,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,97519,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1843,,871431,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,399,,49364,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,646,,1267234,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25247,,28041256,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,11845,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8117,,7102227,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,182,,117289,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,335,,1859685,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,218,,284967,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,36697,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1218,,1469468,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,434,Libya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,18830,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1123,,752993,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2355,,8446624,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,33599,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118,,187571,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1991,,2710519,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,874,,292310,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,680,,422926,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6230,,1653533,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1007,,5580867,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,34,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,21745,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7856,,6753217,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18091,,5761819,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,274,,140384,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,224,,117437,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,304,,57569,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4252,,5742622,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,29082,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,329,,205324,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2376,,4834999,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,876,,179399,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1187,,1613988,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2246,,2675659,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,262628,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1182,,14797835,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,383,,207340,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,624,,920169,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2813,,3826913,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7000,,9507871,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1873,,2185850,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1746,,1044147,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,362,,521077,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5184,,4713982,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17052,,7066904,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1111,,913221,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,9805,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19683,,21765538,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2123,,1247684,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,13073,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2842,,2723815,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,503,,228761,,,0
+HS,2017,201709,September 2017,6,1,2,Exports,56,Belgium,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5983,,14385143,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15166,,8173621,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1137,,238246565,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,470,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9427,,3382381,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,942,,9333239,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,186623,,112206592,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39975,,14808845,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,22,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1510,,404773,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2191,,2380426,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,898,,734374,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,516,,358913,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16698,,61395121,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2007,,3673688,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,470,,2236562,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,141,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257,,152406,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,347,,230829,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7010,,21530760,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2810,,3787122,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,114473,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,98275,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2502,,3366675,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,653,,214911,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,771,,472576,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1278,,274419,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119,,136486,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,531,,460173,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4875,,1901367,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,811,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2298,,1031894,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1566,,1426743,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1827,,600980,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,693,,418618,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1831,,1587571,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,21300,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1408,,1028370,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2102,,703089,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5079,,1353329,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2413,,2335352,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2325,,1008480,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,54124,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2479,,1665682,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,59161,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,29379,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1416,,2501363,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1765,,2378643,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2464,,1754913,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7444,,10013853,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6392,,6392229,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,298,,398378,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,779,,387702,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1650,,8530713,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,737,,847501,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1247,,1814032,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,78935,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,298,,12296,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6352,,5184495,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,10890,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4357,,810728,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,70,Bosnia Herzegovina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,247,,19475,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,6007,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1082,,529288,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,264,,215959,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,413,,110721,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91,,84408,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,267,,108430,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,234,,1284404,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2796,,14872611,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,12915,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2001,,2582881,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,465,,392652,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9597,,3157542,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,365,,210811,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1595,,8642626,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,296,Kiribati,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,25946,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1712,,2303510,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,252,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,15064,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,8228,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1140,,1414979,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1484,,638992,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,354,,60587,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1179,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,27450,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1611,,613278,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,747,,561307,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,381,,907904,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19749,,28731771,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16633,,28806783,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3940,,1706529,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2801,,2149549,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126367,,59130076,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7713,,4188548,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,847,,399159,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,597,,1217206,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,20090,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,649,,198307694,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3894,,3873965,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,627,,548344,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16975,,18343211,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,338,,324799,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2898,,3061348,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2194,,1914911,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,64408,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10516,,17284737,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,80841,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2997,,5080669,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,28442,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,618,,473729,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43747,,56759882,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7030,,5789085,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20726,,19080247,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,115505,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38240,,19850154,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6921,,5763542,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1098,,581141,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8675,,3028895,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,355,,199778,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34155,,61803309,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,582,,1002293,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66271,,64982420,,,0
+HS,2017,201711,November 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,443114,,548200950,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,866,,801343,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,278,,4453894,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,348880,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,11896,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31791,,15052557,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5146,,2335447,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,174663,,286266789,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,817,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,960,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,867,,177161,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4023,,2465133,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,439,,250045,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,23763,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1471,,497579,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7107,,2360436,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,4133,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,468,,206288,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,819,,869068,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12557,,6398392,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2774,,10189710,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3775,,7679973,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,776,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,45516,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1831,,1135594,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,287,,208279,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,383,,453056,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2021,,1553112,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3117,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7795,,5301356,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,13798,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21507,,24060529,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8101,,2633042,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1885,,1488203,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,93935,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15426,,29608769,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59822,,406514368,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,511,,1453017,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,1227,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2692,,1169208,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4084,,4269026,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1877,,1252481,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,698,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3686,,3595824,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,764,,253667,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2059,,2685878,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2747,,7404994,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4108,,4367913,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1646,,334888,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,825,,94372,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,685,,282760,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,119,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,3421,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2062,,1349197,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7126,,10799410,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,55952,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,905,,565373,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5369,,4261222,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,1878,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,38631,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,767,,3897469,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,670,,446921,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3414,,1895216,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3758,,1248308,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2169,,1138033,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,95703,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,78189,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,166318,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4281,,3571641,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,472,,156873,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,70,Bosnia Herzegovina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,421,,19696,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11194,,86408358,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2532,,841106,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6622,,2199558,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2288,,2469672,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34489,,19523278,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3995,,3444814,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2191,,727623,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3488,,1548057,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5119,,2116188,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,460,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1967,,753620,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,216,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,5665,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3557,,3076650,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19261,,28628378,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,127898,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14701,,6864926,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,194204,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54750,,65787698,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8106,,9945947,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10347,,9629383,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118,,244481,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,772,,337739,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,217,,34333,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2819,,630574,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8413,,8419930,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,121,,86600,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18715,,21552738,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43155,,37800427,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,360569,,453053870,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,35910,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,561,,609229,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,8174,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,74,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1108,,342566149,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1986,,1751474,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3659,,16720223,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2347,,2278643,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,183,,150561,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,5357,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2080,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,5287,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,139,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,531308,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2492,,822164,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,12990,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118,,9248,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,623,,254011,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,4790,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4685,,7637681,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,958,,294762,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,365,,478669,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4631,,3940030,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4869,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,379,,124872,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7251,,2414855,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1550,,658966,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,112,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,537,,60012,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2729,,1785064,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2487,,1154422,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3769,,846026,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,716,,521453,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6770,,2273797,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1061,,724904,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1611,,1106923,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,426,Lesotho,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,372,,122662,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,914,,301681,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6337,,2404597,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,47094,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3646,,1262368,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,25533,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,857,,282564,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1236,,765851,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1510,,1790648,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,977,,612561,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8998,,7567309,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11441,,3225417,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,597,,213882,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,598,Papua New Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1117,,1467751,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,299,,143643,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9526,,11889447,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,232,,130200,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1674,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1477,,487331,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6974,,6251102,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,729,Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5426,,1790196,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,748,Swaziland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,6445,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5810,,3993620,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,4587,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6529,,5186130,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3717,,6234228,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3054,,1007372,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,887,Yemen,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,172,,19771,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1501,,396532,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4796,,15992317,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1271,,1116008,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4334,,4526736,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3267,,17604302,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18032,,19610498,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,515,,145985,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3131,,2240192,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23628,,11173610,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9222,,2834309,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,226251,,290535342,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,177074,,84258782,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9059,,4495118,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,40,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,1019,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1360,,1069761,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6135,,2848660,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5468,,3739820,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,4698,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14094,,13663989,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3866,,3316121,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1457,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,23298,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,318,,141877,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,1089782,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,518,,995143,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2040,,3951359,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,626,,491905,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35670,,57886765,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13524,,11393152,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16413,,15440120,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,239,,493422,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3769,,1844743,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7115,,4215768,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,659,,183357,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,437797,,453131896,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63254,,77116864,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,226232,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46370,,47459065,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13173,,21154308,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1159,,1527810,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,4658,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,73,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,549,,169211881,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1428,,762837,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2009,,14141968,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2433,,2770883,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,486,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,768,,864068,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,45096,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7185,,2370352,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16513,,8252981,,,0
+HS,2017,201710,October 2017,6,1,2,Exports,56,Belgium,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8096,,6740066,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,473,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,56,Belgium,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,15136,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,149,,14516200,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,431,,850919,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,102341,,,0
+HS,2017,201712,December 2017,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6986,,32800656,,,0

@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201706,June 2017,6,1,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,252,,45813,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,240,,43738,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,678,Sao Tome and Principe,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2074,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,25477,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,5594,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,678,Sao Tome and Principe,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2627,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,678,Sao Tome and Principe,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,17257,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,13138,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,2136,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,11002,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,8169,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,678,Sao Tome and Principe,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,2241,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,678,Sao Tome and Principe,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,5929,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,335,,22948,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,678,Sao Tome and Principe,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,335,,22948,,,0

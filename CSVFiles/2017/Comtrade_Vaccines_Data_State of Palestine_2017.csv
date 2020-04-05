@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201701,January 2017,6,1,1,Imports,275,State of Palestine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,254403,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,275,State of Palestine,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,253686,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,275,State of Palestine,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,717,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,275,State of Palestine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,374295,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,275,State of Palestine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,370350,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,275,State of Palestine,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3944,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,275,State of Palestine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,42429,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,275,State of Palestine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,42429,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,275,State of Palestine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,153662,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,275,State of Palestine,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,147905,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,275,State of Palestine,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,5757,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,275,State of Palestine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,175910,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,275,State of Palestine,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,175910,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,275,State of Palestine,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,100492,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,275,State of Palestine,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,447,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,275,State of Palestine,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,100044,,,0

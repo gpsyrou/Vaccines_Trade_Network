@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201708,August 2017,6,1,1,Imports,68,Bolivia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,20318,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,68,Bolivia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,120313,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,68,Bolivia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,542,,37685,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,68,Bolivia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1093,,75984,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,68,Bolivia,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,208,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,68,Bolivia,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,86206,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20333,,1819006,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,68,Bolivia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,9305,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,68,Bolivia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1082,,116434,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,68,Bolivia,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,29730,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,68,Bolivia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92,,22532,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1350,,168697,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,68,Bolivia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3910,,382818,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,68,Bolivia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,1836,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,68,Bolivia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,2597,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,68,Bolivia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4389,,1384219,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8434,,1771469,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,68,Bolivia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3066,,331451,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,68,Bolivia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,956,,441682,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,68,Bolivia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,12958,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,68,Bolivia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,9337,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,68,Bolivia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9323,,1866703,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9352,,1876040,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,68,Bolivia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,17081,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,68,Bolivia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,39069,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4290,,727564,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,68,Bolivia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,25063,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,68,Bolivia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3482,,607564,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,68,Bolivia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,561,,38788,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6004,,1102659,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,68,Bolivia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5353,,369926,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,68,Bolivia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4090,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,68,Bolivia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,419,,15491,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,68,Bolivia,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1869,,425482,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,68,Bolivia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,283,,347825,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7930,,1162813,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,68,Bolivia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,15200,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,68,Bolivia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6337,,1128488,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,68,Bolivia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,482,,32774,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,68,Bolivia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,966,,95564,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,68,Bolivia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,194,,183543,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8118,,1455568,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,68,Bolivia,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,24590,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,68,Bolivia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7186,,649629,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,68,Bolivia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,817,,264916,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,68,Bolivia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4774,,298682,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,68,Bolivia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2298,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,68,Bolivia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,107,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12924,,1240223,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,68,Bolivia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,369,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,68,Bolivia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3738,,600197,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,68,Bolivia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,13820,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,68,Bolivia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,19285,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3844,,633671,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,68,Bolivia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,18633,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,68,Bolivia,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8153,,744679,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,68,Bolivia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,154716,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,68,Bolivia,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,11600,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8370,,929627,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,68,Bolivia,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18567,,1555461,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,68,Bolivia,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,63462,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,68,Bolivia,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5672,,3722532,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,68,Bolivia,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5832,,3872467,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,68,Bolivia,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,265,,37458,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,68,Bolivia,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,138,,127954,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,68,Bolivia,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,13655,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,68,Bolivia,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,971,,65619,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,68,Bolivia,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,501,,71880,,,0

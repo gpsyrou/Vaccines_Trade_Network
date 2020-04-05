@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201705,May 2017,6,1,1,Imports,690,Seychelles,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,63842,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,690,Seychelles,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,769,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,690,Seychelles,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,242,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,690,Seychelles,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,229,,15480,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,690,Seychelles,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,3300,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,690,Seychelles,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,24,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,690,Seychelles,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,63842,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,690,Seychelles,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,3300,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,690,Seychelles,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,24,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,690,Seychelles,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,242,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,690,Seychelles,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,14711,,,0

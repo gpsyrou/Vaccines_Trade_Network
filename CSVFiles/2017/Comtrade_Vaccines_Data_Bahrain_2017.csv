@@ -1,0 +1,35 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201708,August 2017,6,1,1,Imports,48,Bahrain,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,7260,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,121,,187833,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,48,Bahrain,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,39390,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,48,Bahrain,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,387,,33408,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,48,Bahrain,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,121,,187833,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1271,,294104,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,48,Bahrain,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,11391,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,762,,1105935,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,48,Bahrain,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,12471,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,462958,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,48,Bahrain,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,52523,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,48,Bahrain,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,37651,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,39390,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,48,Bahrain,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,346,,450459,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,48,Bahrain,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1108,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,48,Bahrain,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,11391,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,48,Bahrain,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,61610,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,63914,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,269,,37651,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,48,Bahrain,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,12471,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,48,Bahrain,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,6060,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,80141,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,48,Bahrain,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,809,,225432,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,48,Bahrain,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,35265,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,48,Bahrain,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,61610,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,61610,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,48,Bahrain,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,926,,718149,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,48,Bahrain,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,583,,616604,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1509,,1334753,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,48,Bahrain,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,855,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,48,Bahrain,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,855,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,48,Bahrain,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,274720,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,48,Bahrain,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,375,,795374,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,48,Bahrain,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,16110,,,0

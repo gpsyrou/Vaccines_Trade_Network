@@ -1,0 +1,57 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2017,201710,October 2017,6,1,1,Imports,60,Bermuda,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,900,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,60,Bermuda,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,16590,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,60,Bermuda,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,5225,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,60,Bermuda,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,23146,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,60,Bermuda,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,12367,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,60,Bermuda,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,34986,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,60,Bermuda,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,4064,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,60,Bermuda,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,1149,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,60,Bermuda,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,6250,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,60,Bermuda,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,440,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,60,Bermuda,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,510,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,60,Bermuda,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,15654,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,60,Bermuda,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,351,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,60,Bermuda,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,1100,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,60,Bermuda,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,6090,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,60,Bermuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,1875,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,60,Bermuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,8525,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,60,Bermuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,8040,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,60,Bermuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,207,,32820,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,60,Bermuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,10400,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,60,Bermuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,12560,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,60,Bermuda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,6000,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,60,Bermuda,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,12250,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,60,Bermuda,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,21082,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,6836,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,291,,41649,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,262,,48668,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,363,,43954,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,11509,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,321,,33289,,,0
+HS,2017,201701,January 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,34986,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,33650,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,56786,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,30439,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,634,,120334,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,60,Bermuda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,58929,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,60,Bermuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,1950,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,60,Bermuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,3900,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,60,Bermuda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,18850,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,60,Bermuda,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,17315,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,27256,,,0
+HS,2017,201705,May 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,21,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,6496,,,0
+HS,2017,201702,February 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,669,,,0
+HS,2017,201710,October 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,175,,23200,,,0
+HS,2017,201703,March 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,4961,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,194,,32739,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,164,,39210,,,0
+HS,2017,201711,November 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,264,,42086,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,47428,,,0
+HS,2017,201706,June 2017,6,1,1,Imports,60,Bermuda,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,11589,,,0
+HS,2017,201712,December 2017,6,1,1,Imports,60,Bermuda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,34,,,0
+HS,2017,201707,July 2017,6,1,1,Imports,60,Bermuda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,318,,,0
+HS,2017,201708,August 2017,6,1,1,Imports,60,Bermuda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,380,,,0
+HS,2017,201709,September 2017,6,1,1,Imports,60,Bermuda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,228,,,0
+HS,2017,201704,April 2017,6,1,1,Imports,60,Bermuda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,26,,,0
