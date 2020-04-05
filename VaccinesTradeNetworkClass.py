@@ -8,10 +8,11 @@
 -------------------------------------------------------------------
 """
 
-
-import networkx as nx
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
+import networkx as nx
+
 
 class VaccinesTradeNetwork:
     """
@@ -51,6 +52,9 @@ class VaccinesTradeNetwork:
                                          edge_attr=['Trade Value (US$)', 'Netweight (kg)','Value_Per_Kg'],
                                          create_using=nx.DiGraph())
 
+        self.tradevalue_w = [self.CountryGraph[u][v]['Trade Value (US$)'] for u,v in self.CountryGraph.edges()]
+        self.valueperkg_w = [int(self.CountryGraph[u][v]['Value_Per_Kg']) for u,v in self.CountryGraph.edges()]
+        
         return self.CountryGraph
 
 
@@ -58,19 +62,18 @@ class VaccinesTradeNetwork:
 
         plt.figure(figsize=(15,15))
         
-        tradevalue_w = [G[u][v]['Trade Value (US$)'] for u,v in G.edges()]
-        valueperkg_w = [int(G[u][v]['Value_Per_Kg']) for u,v in G.edges()]
-        
         # Normalize the values of the trade value to appropriate values between 1-10
-        tdv_norm = [int(((x - np.min(tradevalue_w)) / (np.max(tradevalue_w) - 
-                     np.min(tradevalue_w)) + 0.6 )* 4) for x in tradevalue_w]
+        tdv_norm = [int(((x - np.min(self.tradevalue_w)) / (np.max(self.tradevalue_w) - 
+                     np.min(self.tradevalue_w)) + 0.6 )* 4) for x in self.tradevalue_w]
         
-        nx.draw_networkx(G, node_size=550, font_size=8, width=tdv_norm)
+        nx.draw_networkx(self.CountryGraph, node_size=550, font_size=8, width=tdv_norm)
 
 
 
-df_i = VaccinesTradeNetwork(network_df, country='Philippines')
+df_i = VaccinesTradeNetwork(network_df, country='Greece')
 
 df_i.createCountrySpecificDF()
 
-df_i.generateCountryGraph(tradeflow='Imports', sourceflow='Reporter', targetflow='Partner')
+GF = df_i.generateCountryGraph(tradeflow='Imports', source='Reporter', target='Partner')
+
+df_i.plotCountryGraph()
