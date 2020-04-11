@@ -41,13 +41,33 @@ class VaccinesTradeNetwork:
 
     def generateCountryGraph(self, tradeflow: str, source: str, target: str):
         '''
+        Import tag:
+            Country in Reporter , 'Imports' in flow
+            Country in Partner, 'Exports' in flow
+        
+        Export tag:
+            Country in Reporter, 'Exports' in flow
+            Country in Partner, 'Imports' in flow
+            
         '''
         self.tradeflow  = tradeflow
         self.source = source
         self.target = target
-        country_df = self.createCountrySpecificDF()
         
-        self.CountryGraph = nx.from_pandas_edgelist(country_df[country_df['Trade Flow']==self.tradeflow],
+        if self.tradeflow == 'Imports':
+            self.opposite_flow = 'Exports'
+        else:
+            self.opposite_flow = 'Imports'
+        
+        self.country_df = self.createCountrySpecificDF()
+        
+        self.filtered_df = self.country_df.copy(deep=True)
+        
+        self.filtered_df = self.filtered_df[((self.filtered_df['Trade Flow']==self.tradeflow) & (self.filtered_df['Reporter']==self.country)) | ((self.filtered_df['Trade Flow']==self.opposite_flow) & (self.filtered_df['Partner']==self.country))]
+
+        self.filtered_df[[self.source, self.target]] = self.filtered_df[[self.target, self.source]].where(self.filtered_df['Trade Flow'] == self.opposite_flow, self.filtered_df[[self.source, self.target]].values)
+                
+        self.CountryGraph = nx.from_pandas_edgelist(self.filtered_df,
                                          source=self.source, target=self.target,
                                          edge_attr=['Trade Value (US$)', 'Netweight (kg)','Value_Per_Kg'],
                                          create_using=nx.DiGraph())
@@ -55,10 +75,15 @@ class VaccinesTradeNetwork:
         self.tradevalue_w = [self.CountryGraph[u][v]['Trade Value (US$)'] for u,v in self.CountryGraph.edges()]
         self.valueperkg_w = [int(self.CountryGraph[u][v]['Value_Per_Kg']) for u,v in self.CountryGraph.edges()]
         
-        return self.CountryGraph
+        if self.tradeflow == 'Imports':
+            return self.CountryGraph.reverse()
+        else:
+            return self.CountryGraph
 
 
     def plotCountryGraph(self):
+        '''
+        '''
 
         plt.figure(figsize=(15,15))
         
@@ -66,14 +91,15 @@ class VaccinesTradeNetwork:
         tdv_norm = [int(((x - np.min(self.tradevalue_w)) / (np.max(self.tradevalue_w) - 
                      np.min(self.tradevalue_w)) + 0.6 )* 4) for x in self.tradevalue_w]
         
-        nx.draw_networkx(self.CountryGraph, node_size=550, font_size=8, width=tdv_norm)
+        graph = self.generateCountryGraph(self.tradeflow, self.source, self.target)
+        nx.draw_networkx(graph, node_size=550, font_size=8, width=tdv_norm)
 
 
 
 df_i = VaccinesTradeNetwork(network_df, country='Greece')
 
-df_i.createCountrySpecificDF()
-
-GF = df_i.generateCountryGraph(tradeflow='Imports', source='Reporter', target='Partner')
+G = df_i.generateCountryGraph(tradeflow='Imports', source='Reporter', target='Partner')
 
 df_i.plotCountryGraph()
+f = df_i.country_df
+f = df_i.filtered_df
