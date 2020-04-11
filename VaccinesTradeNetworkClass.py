@@ -4,7 +4,7 @@
 -- File:    VaccinesTradeNetworkClass.py
 -- Purpose: Creation of a class to handle network graph objects.
 -- Author:  Georgios Spyrou
--- Date:    05/04/2020
+-- Date:    11/04/2020
 -------------------------------------------------------------------
 """
 
@@ -75,10 +75,8 @@ class VaccinesTradeNetwork:
             self.opposite_flow = 'Exports'
         else:
             self.opposite_flow = 'Imports'
-        
-        self.country_df = self.createCountrySpecificDF()
-        
-        self.filtered_df = self.country_df.copy(deep=True)
+
+        self.filtered_df = self.createCountrySpecificDF().copy(deep=True)
         
         self.filtered_df = self.filtered_df[((self.filtered_df['Trade Flow']==self.tradeflow) &
                                              (self.filtered_df['Reporter']==self.country)) | 
@@ -122,7 +120,7 @@ class VaccinesTradeNetwork:
 '''
 df_i = VaccinesTradeNetwork(network_df, country='Greece')
 
-G = df_i.generateCountryGraph(tradeflow='Imports', source='Reporter', target='Partner')
+G = df_i.generateCountryGraph(tradeflow='Exports', source='Reporter', target='Partner')
 
 df_i.plotCountryGraph()
 f = df_i.country_df
