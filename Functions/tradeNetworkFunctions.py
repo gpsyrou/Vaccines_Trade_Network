@@ -10,6 +10,7 @@
 
 
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -66,3 +67,17 @@ def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
     plt.grid(True, alpha = 0.3)
     plt.show()
 
+
+def groupNodesAndAggregate(df, compute_value_per_kg = True):
+    
+    net_df = df.groupby(['Reporter','Partner','Trade Flow']).agg(
+        {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
+    
+    # Here we will introduce a new feature which is the Price/Kg.
+    if compute_value_per_kg:
+        net_df['Value_Per_Kg'] = net_df['Trade Value (US$)']/net_df['Netweight (kg)']
+        net_df['Value_Per_Kg'].replace([np.inf, -np.inf], 0, inplace=True)
+    else:
+        pass
+    
+    return net_df

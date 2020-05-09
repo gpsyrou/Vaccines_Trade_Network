@@ -109,14 +109,8 @@ tnf.plotTopnCountries(df=top_exporters, feature='Netweight (kg)',
 
 # In order to create our network we need to transform it in way that can be 
 # passed into a Graph object from the networkx library..
-network_df = df.groupby(['Reporter','Partner','Trade Flow']).agg(
-        {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
 
-# Here we will introduce a new feature which is the Price/Kg.
-network_df['Value_Per_Kg'] = network_df['Trade Value (US$)']/network_df['Netweight (kg)']
-network_df['Value_Per_Kg'].replace([np.inf, -np.inf], 0, inplace=True)
-
-
+network_df = tnf.groupNodesAndAggregate(df, compute_value_per_kg = True)
 
 
 import networkx as nx
