@@ -32,6 +32,8 @@ maindf = pd.read_csv(csv_file_location, delimiter=',',
 
 summary = maindf.describe()
 
+year = 2018
+
 # As we can see from the summary, few of the features does not seem to provide
 # useful information for our analysis, as they either contain only empty values (e.g. 'Qty')
 # or they contain fixed values (e.g.'Aggregate Level'). Therefore we will exclude
@@ -84,9 +86,9 @@ top_exporters = tnf.getAggStatistics(df, feature='Trade Value (US$)',
                                      kind='Exports')
 
 tnf.plotTopnCountries(df=top_importers, feature='Trade Value (US$)',
-                      topn=topn, kind='Import')
+                      topn=topn, kind='Import', year=year)
 tnf.plotTopnCountries(df=top_exporters, feature='Trade Value (US$)',
-                      topn=topn, kind='Export')
+                      topn=topn, kind='Export', year=year)
 
 
 # Netweight
@@ -96,9 +98,9 @@ top_exporters = tnf.getAggStatistics(df, feature='Netweight (kg)',
                                      kind='Exports')
 
 tnf.plotTopnCountries(df=top_importers, feature='Netweight (kg)',
-                      topn=topn, kind='Import')
+                      topn=topn, kind='Import', year=year)
 tnf.plotTopnCountries(df=top_exporters, feature='Netweight (kg)',
-                      topn=topn, kind='Export')
+                      topn=topn, kind='Export', year=year)
 
 
 # Part 2: Network Analysis
