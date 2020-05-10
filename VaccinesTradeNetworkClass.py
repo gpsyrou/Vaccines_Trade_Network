@@ -115,7 +115,7 @@ class VaccinesTradeNetwork:
         
         graph = self.generateCountryGraph(self.tradeflow, self.source, self.target)
         nx.draw_networkx(graph, node_size=550, font_size=8, width=self.tdv_norm)
-
+        plt.title(f'Network of {self.tradeflow} for {self.country}')
 
 '''
 df_i = VaccinesTradeNetwork(network_df, country='Greece')
