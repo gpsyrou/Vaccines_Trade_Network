@@ -13,6 +13,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
 
+from Functions import tradeNetworkFunctions as tnf
 
 class VaccinesTradeNetwork:
     """
@@ -39,7 +40,8 @@ class VaccinesTradeNetwork:
         return self.country_df
 
 
-    def generateCountryGraph(self, tradeflow: str, source: str, target: str) -> nx.classes.digraph.DiGraph:
+    def generateCountryGraph(self, tradeflow: str, source: str, target: str,
+                             agg: bool) -> nx.classes.digraph.DiGraph:
         '''
         Creates  a graph object based on the trade flow, and the source and target
         node directions for the directed graph. Each edge represents a country (Node A) that is either
@@ -70,6 +72,7 @@ class VaccinesTradeNetwork:
         self.tradeflow  = tradeflow
         self.source = source
         self.target = target
+        self.agg = agg
         
         if self.tradeflow == 'Imports':
             self.opposite_flow = 'Exports'
@@ -88,12 +91,17 @@ class VaccinesTradeNetwork:
                         self.filtered_df[[self.source, self.target]].values)
                                             
         self.filtered_df['Trade Flow'].replace({self.tradeflow: self.tradeflow, self.opposite_flow: self.tradeflow}, inplace=True)  
+
+
+        if self.agg  is True:
+            self.filtered_df= tnf.groupNodesAndAggregate(self.filtered_df,
+                                                         compute_value_per_kg=True)
         
         self.CountryGraph = nx.from_pandas_edgelist(self.filtered_df,
                                          source=self.source, target=self.target,
                                          edge_attr=['Trade Value (US$)', 'Netweight (kg)','Value_Per_Kg'],
                                          create_using=nx.DiGraph())
-
+        
         self.tradevalue_w = [self.CountryGraph[u][v]['Trade Value (US$)'] for u,v 
                              in self.CountryGraph.edges()]
 
@@ -113,9 +121,13 @@ class VaccinesTradeNetwork:
         self.tdv_norm = [int(((x - np.min(self.tradevalue_w)) / (np.max(self.tradevalue_w) - 
                      np.min(self.tradevalue_w)) + 0.6 )* 4) for x in self.tradevalue_w]
         
-        graph = self.generateCountryGraph(self.tradeflow, self.source, self.target)
+        graph = self.generateCountryGraph(self.tradeflow, self.source,
+                                          self.target, self.agg )
+        
         nx.draw_networkx(graph, node_size=550, font_size=8, width=self.tdv_norm)
-        plt.title(f'Network of {self.tradeflow} for {self.country}')
+        
+        plt.title(f'Network of {self.tradeflow} for {self.country}',
+                  fontsize=16)
 
 '''
 df_i = VaccinesTradeNetwork(network_df, country='Greece')

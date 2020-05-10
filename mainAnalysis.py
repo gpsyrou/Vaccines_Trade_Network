@@ -112,13 +112,10 @@ tnf.plotTopnCountries(df=top_exporters, feature='Netweight (kg)',
 
 network_df = tnf.groupNodesAndAggregate(df, compute_value_per_kg = True)
 
-
-import networkx as nx
-
 greece = VaccinesTradeNetwork(network_df, country='Greece')
 
 graph = greece.generateCountryGraph(tradeflow='Imports', source='Reporter',
-                            target='Partner')
+                            target='Partner', agg=True)
 
 
 greece.plotCountryGraph()
