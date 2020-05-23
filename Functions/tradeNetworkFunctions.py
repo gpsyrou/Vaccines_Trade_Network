@@ -37,7 +37,8 @@ def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
         df = df.loc[(df['Trade Flow'] == kind) &
                     (df['Period'] > f'{year}-01-01') & (df['Period'] <= f'{year}-12-31'), 
                     [feature,'Reporter']].groupby(['Reporter']).agg(['sum']).reset_index()
-
+    
+        df['Year'] = int(year)
     df_sorted = df.sort_values(by=(feature,'sum'), ascending=False)
     
     return df_sorted

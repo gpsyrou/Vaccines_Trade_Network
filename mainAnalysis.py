@@ -46,7 +46,7 @@ year = 2018
 
 # Note: More information regarding the feautures can be found here: https://comtrade.un.org/data/MethodologyGuideforComtradePlus.pdf
 
-useful_features_ls = ['Period', 'Reporter Code', 'Reporter', 'Partner Code',
+useful_features_ls = ['Year', 'Period', 'Reporter Code', 'Reporter', 'Partner Code',
                       'Partner', 'Trade Flow', 'Commodity', 'Netweight (kg)',
                       'Trade Value (US$)']
 df = maindf[useful_features_ls]
@@ -80,14 +80,18 @@ df['Period'] = pd.to_datetime(df['Period'], format='%Y%m')
 # main features of interest are the Netweigh of the export/import in kilograms
 # as well as the Trade Value in US dollars($).
 
+
 # Lets find the top  countries that import/export vaccines in terms of US dollars.
 topn = 10
 
+# Specify if we want to focus on a specific year (e.g. '2018') or 'all'
+year = 'all'
+
 # Trade Value
 top_importers = tnf.getAggStatistics(df, feature='Trade Value (US$)',
-                                     kind='Imports', year = 2018)
+                                     kind='Imports', year = year)
 top_exporters = tnf.getAggStatistics(df, feature='Trade Value (US$)',
-                                     kind='Exports', year = 2018)
+                                     kind='Exports', year = year)
 
 tnf.plotTopnCountries(df=top_importers, feature='Trade Value (US$)',
                       topn=topn, kind='Import', year=year)
