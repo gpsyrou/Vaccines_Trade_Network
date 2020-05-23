@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
-                     kind: str) -> pd.core.frame.DataFrame:
+                     kind: str, year: str) -> pd.core.frame.DataFrame:
     '''
     Given a dataframe and a feature column (numerical), identify the top
     importers/exporters.
@@ -25,12 +25,17 @@ def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
         df: DataFrame that contains the data and the required features.
         feature: Numerical feature to aggregate (e.g. 'Trade Value (US$)', 'Netweight (kg)')
         kind: 'Imports', 'Exports'
+        year: Specify year of interest or 'all' for all years.
     Returns:
     -------
         df_sorted: Sorted dataframe that contains the aggregated values.
     '''
-    df = df.loc[df['Trade Flow'] == kind, [feature,
-                'Reporter']].groupby(['Reporter']).agg(['sum']).reset_index()
+    if year == 'all':
+        df = df.loc[df['Trade Flow'] == kind, [feature,
+            'Reporter']].groupby(['Reporter']).agg(['sum']).reset_index()
+    else:
+        df = df.loc[(df['Trade Flow'] == kind) & (df['Period'] > f'{year}-01-01') & (df['Period'] <= f'{year}-12-31'), 
+                    [feature,'Reporter']].groupby(['Reporter']).agg(['sum']).reset_index()
 
     df_sorted = df.sort_values(by=(feature,'sum'), ascending=False)
     
@@ -68,7 +73,7 @@ def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
     plt.show()
 
 
-def groupNodesAndAggregate(df, compute_value_per_kg = True):
+def groupNodesAndAggregate(df, compute_value_per_kg = True)  -> pd.core.frame.DataFrame:
     
     net_df = df.groupby(['Reporter','Partner','Trade Flow']).agg(
         {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()

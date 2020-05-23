@@ -21,10 +21,13 @@ from VaccinesTradeNetworkClass import VaccinesTradeNetwork
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-csv_file_location = 'C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network\\Merged_CSVs\\Comtrade_Vacciness_Data_2018'
-# Read the csv file
-maindf = pd.read_csv(csv_file_location, delimiter=',',
-                     header=[0], encoding='utf-8')
+project_dir = 'C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network'
+os.chdir(project_dir)# Read the csv file
+
+# Create a dataframe that contains data from all years
+csv_files_loc = os.path.join(project_dir, 'Merged_CSVs')
+maindf = pd.concat([pd.read_csv(os.path.join(csv_files_loc,
+                                             file)) for file in os.listdir(csv_files_loc)])
 
 # Part 1: Exploratory Data Analysis
 
@@ -82,9 +85,9 @@ topn = 10
 
 # Trade Value
 top_importers = tnf.getAggStatistics(df, feature='Trade Value (US$)',
-                                     kind='Imports')
+                                     kind='Imports', year = 2018)
 top_exporters = tnf.getAggStatistics(df, feature='Trade Value (US$)',
-                                     kind='Exports')
+                                     kind='Exports', year = 2018)
 
 tnf.plotTopnCountries(df=top_importers, feature='Trade Value (US$)',
                       topn=topn, kind='Import', year=year)
