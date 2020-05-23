@@ -34,7 +34,8 @@ def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
         df = df.loc[df['Trade Flow'] == kind, [feature,
             'Reporter']].groupby(['Reporter']).agg(['sum']).reset_index()
     else:
-        df = df.loc[(df['Trade Flow'] == kind) & (df['Period'] > f'{year}-01-01') & (df['Period'] <= f'{year}-12-31'), 
+        df = df.loc[(df['Trade Flow'] == kind) &
+                    (df['Period'] > f'{year}-01-01') & (df['Period'] <= f'{year}-12-31'), 
                     [feature,'Reporter']].groupby(['Reporter']).agg(['sum']).reset_index()
 
     df_sorted = df.sort_values(by=(feature,'sum'), ascending=False)
@@ -43,19 +44,19 @@ def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
 
 
 def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
-                      topn: int, kind: str, year: int) -> None:
+                      topn: int, kind: str, year: str) -> None:
     '''
     Create a bar plot of the top-N countries compared to an aggregated column.        
     '''
     if kind != 'Import' and kind != 'Export':
         raise ValueError('Trade flow is not set to Import or Export')
 
-    plt.figure(figsize=(10,10))
+    plt.figure(figsize=(8,6))
     g = sns.barplot(x='Reporter', y=(feature,'sum'), data=df[0:topn],
                     palette='muted')
 
     if topn > 5 and topn <= 10:
-        rot = 60
+        rot = 40
     elif topn > 10:
         rot = 75
     else:
@@ -63,7 +64,10 @@ def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
 
     g.set_xticklabels(g.get_xticklabels(), rotation=rot)
     plt.ticklabel_format(style='plain', axis='y')
-    plt.title(f'Top-{topn} {kind}ers of vaccines around the globe in {year}')
+    if year == 'all':
+        plt.title(f'Top-{topn} {kind}ers of vaccines around the globe')
+    else:
+        plt.title(f'Top-{topn} {kind}ers of vaccines around the globe in {year}')
     plt.xlabel(f'{kind}er Country')
     if feature == 'Trade Value (US$)':
         plt.ylabel(f'Total amount of {kind}s in US$')
