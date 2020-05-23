@@ -15,7 +15,7 @@ import json
 import time
 import os
 
-# Setting up the parameters for the API calls to received the data
+# Setting up the parameters for the API calls to receive the data
 # Reference: https://comtrade.un.org/data/doc/api/#DataAvailabilityRequests
 
 max_rec = 100000
@@ -28,7 +28,7 @@ reporter = 'all'
 partner = 'all'                 # world
 rg ='all'
 
-# Connection string to comtrade.un.org
+# Connection string to comtrade.un.org based on the parameters above
 api_call_string = f'http://comtrade.un.org/api/get?max={max_rec}&type={trade_type}&freq={frequency}&px={px}&ps=year&r=reporter&p={partner}&rg={rg}&cc={cc}&fmt={output_fmt}'
 
 
