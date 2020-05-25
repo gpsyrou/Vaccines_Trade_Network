@@ -81,6 +81,18 @@ df['Period'] = pd.to_datetime(df['Period'], format='%Y%m')
 # as well as the Trade Value in US dollars($).
 
 
+df['Partner'].replace(
+    to_replace='United States of America',
+    value='USA',
+    inplace=True
+)
+
+df['Reporter'].replace(
+    to_replace='United States of America',
+    value='USA',
+    inplace=True
+)
+
 # Lets find the top  countries that import/export vaccines in terms of US dollars.
 topn = 10
 
