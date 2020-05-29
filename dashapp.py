@@ -32,7 +32,7 @@ app.layout = html.Div([
     dcc.Dropdown(
         id = 'first_dropdown',
         options = createObject(merged_top_importers.Year.unique()),
-        placeholder='Select a Date'
+        placeholder='Select a Year'
     ),
 
 
@@ -57,7 +57,7 @@ def update_output_div(input_value):
                        	  		'title':'Country'
                        	  },
                        	  'yaxis':{
-                       	  		'title':'Trade Value in USD($)'
+                       	  		'title':'Trade Value in USD ($)'
                        	  }
                        }
                       })
