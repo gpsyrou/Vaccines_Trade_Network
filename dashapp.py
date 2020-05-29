@@ -7,8 +7,6 @@ from dash.dependencies import Input, Output
 
 os.chdir('C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network')
 
-topn = 10
-
 df = pd.read_csv('Merged_Top_Importers.csv',
                                    skiprows=[0], header = 0, names=['Reporter', 'TradeValue', 'Year'])
 
@@ -52,12 +50,19 @@ def update_output_div(input_value):
                           {'x':df[df['Year']==input_value].Reporter, 'y':df[df['Year']==input_value].TradeValue, 'type':'bar', 'name':'First Chart'}
                           ],
                        'layout':{
-                       	  'title':f'Total Trade Value of Imports of Vaccines for {input_value}',
+                       	  'title':f'Trade Value of Vaccines for {input_value} (Imports)',
                        	  'xaxis':{
-                       	  		'title':'Country'
+                       	  		'title':'Country',
+                       	  		'standoff': 50
                        	  },
                        	  'yaxis':{
-                       	  		'title':'Trade Value in USD ($)'
+                       	  		'title':'Trade Value in USD ($)',
+
+                       	  },
+                       	  'font':{
+                       	  		 'family': "'Oswald', sans-serif",
+                       	  		 'size': 12,
+                       	  		 'color': "#7f7f7f"
                        	  }
                        }
                       })
