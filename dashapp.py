@@ -9,7 +9,7 @@ os.chdir('C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network')
 
 topn = 10
 
-merged_top_importers = pd.read_csv('Merged_Top_Importers.csv',
+df = pd.read_csv('Merged_Top_Importers.csv',
                                    skiprows=[0], header = 0, names=['Reporter', 'TradeValue', 'Year'])
 
 def YearToObject(x):
@@ -31,7 +31,7 @@ app.layout = html.Div([
 
     dcc.Dropdown(
         id = 'first_dropdown',
-        options = YearToObject(merged_top_importers.Year.unique()),
+        options = YearToObject(df.Year.unique()),
         placeholder='Select a Year'
     ),
 
@@ -49,7 +49,7 @@ def update_output_div(input_value):
     return dcc.Graph(id = 'Bar_Plor',
                   figure = {
                       'data' : [
-                          {'x':merged_top_importers[merged_top_importers['Year']==input_value].Reporter, 'y':merged_top_importers[merged_top_importers['Year']==input_value].TradeValue, 'type':'bar', 'name':'First Chart'}
+                          {'x':df[df['Year']==input_value].Reporter, 'y':df[df['Year']==input_value].TradeValue, 'type':'bar', 'name':'First Chart'}
                           ],
                        'layout':{
                        	  'title':f'Total Trade Value of Imports of Vaccines for {input_value}',
