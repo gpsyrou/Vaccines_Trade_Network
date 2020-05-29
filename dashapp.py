@@ -12,7 +12,7 @@ topn = 10
 merged_top_importers = pd.read_csv('Merged_Top_Importers.csv',
                                    skiprows=[0], header = 0, names=['Reporter', 'TradeValue', 'Year'])
 
-def createObject(x):
+def YearToObject(x):
     options = []
     for i in x:
         options.append({
@@ -31,7 +31,7 @@ app.layout = html.Div([
 
     dcc.Dropdown(
         id = 'first_dropdown',
-        options = createObject(merged_top_importers.Year.unique()),
+        options = YearToObject(merged_top_importers.Year.unique()),
         placeholder='Select a Year'
     ),
 
