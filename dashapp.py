@@ -5,6 +5,8 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 
+# https://dash.plotly.com/layout
+
 os.chdir('C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network')
 
 df = pd.read_csv('Merged_Top_Importers.csv',
@@ -23,6 +25,11 @@ def YearToObject(x):
 app = dash.Dash()
 
 app.layout = html.Div([
+
+	html.H1(children='Global Trade Network of Human Vaccines', 
+		    style={
+		    		'textAlign': 'center'}
+		    ),
 
 	html.Br(),
     html.Br(),
