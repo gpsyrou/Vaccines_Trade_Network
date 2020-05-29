@@ -35,7 +35,7 @@ app.layout = html.Div([
         placeholder='Select a Date'
     ),
 
-    
+
     html.Div(id='output-graph')
 
     ])
@@ -50,7 +50,16 @@ def update_output_div(input_value):
                   figure = {
                       'data' : [
                           {'x':merged_top_importers[merged_top_importers['Year']==input_value].Reporter, 'y':merged_top_importers[merged_top_importers['Year']==input_value].TradeValue, 'type':'bar', 'name':'First Chart'}
-                          ]
+                          ],
+                       'layout':{
+                       	  'title':f'Bar plot of total Trade Value of Imports of Vaccines for {input_value}',
+                       	  'xaxis':{
+                       	  		'title':'Country'
+                       	  },
+                       	  'yaxis':{
+                       	  		'title':'Toltal Trade Value in USD'
+                       	  }
+                       }
                       })
 
 
