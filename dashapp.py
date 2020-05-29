@@ -52,12 +52,12 @@ def update_output_div(input_value):
                           {'x':merged_top_importers[merged_top_importers['Year']==input_value].Reporter, 'y':merged_top_importers[merged_top_importers['Year']==input_value].TradeValue, 'type':'bar', 'name':'First Chart'}
                           ],
                        'layout':{
-                       	  'title':f'Bar plot of total Trade Value of Imports of Vaccines for {input_value}',
+                       	  'title':f'Total Trade Value of Imports of Vaccines for {input_value}',
                        	  'xaxis':{
                        	  		'title':'Country'
                        	  },
                        	  'yaxis':{
-                       	  		'title':'Toltal Trade Value in USD'
+                       	  		'title':'Trade Value in USD($)'
                        	  }
                        }
                       })
