@@ -33,7 +33,6 @@ app.layout = html.Div([
 		    ),
 
 	html.Br(),
-    html.Br(),
 
     # Dropdown for picking a year of interest
     html.P([
