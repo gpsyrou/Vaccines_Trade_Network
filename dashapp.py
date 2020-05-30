@@ -21,9 +21,11 @@ df = pd.read_csv('Merged_Top_Importers.csv',
 network_df = pd.read_csv('Networkd_dataframe.csv', header = 0)
 
 # Create a Plotly figure for a network object
-greece = VaccinesTradeNetwork(network_df, country='Greece')
+country = 'Belgium'
 
-G = greece.generateCountryGraph(tradeflow='Imports', source='Reporter',
+cntry = VaccinesTradeNetwork(network_df, country=country)
+
+G = cntry.generateCountryGraph(tradeflow='Imports', source='Reporter',
                             target='Partner', agg=True)
 
 pos = nx.layout.spring_layout(G)
@@ -42,10 +44,10 @@ for edge in G.edges():
     edge_y.append(None)
     node_trade_values.append(G.edges[edge]['Trade Value (US$)'])
 
-
+# Set up the Edges
 edge_trace = go.Scatter(
     x=edge_x, y=edge_y,
-    line=dict(width=0.5, color='#888'),
+    line=dict(width=0.7, color='#888'),
     hoverinfo='text',
     mode='lines')
 
@@ -58,6 +60,7 @@ for node in G.nodes():
     node_y.append(y)
     node_text.append(node)
 
+# Set up the Nodes
 node_trace = go.Scatter(
     x=node_x, y=node_y,
     mode='markers',
@@ -67,7 +70,7 @@ node_trace = go.Scatter(
         colorscale='Viridis',
         reversescale=True,
         color=[],
-        size=12,
+        size=16,
         colorbar=dict(
             thickness=15,
             title='Trade Value (US$)',
@@ -78,15 +81,12 @@ node_trace = go.Scatter(
 
 node_trace.marker.color = node_trade_values
 node_trace.text = node_text
-country = 'Greece'
 
 fig = go.Figure(data=[edge_trace, node_trace],
              layout=go.Layout(
-                title=f'<br>Imports Network of {country} for Human Vaccines',
-                titlefont_size=16,
                 showlegend=False,
                 hovermode='closest',
-                margin=dict(b=20,l=5,r=5,t=40),
+                margin=dict(b=20,l=20,r=20,t=40),
                 annotations=[ dict(
                     showarrow=False,
                     xref="paper", yref="paper",
@@ -95,7 +95,14 @@ fig = go.Figure(data=[edge_trace, node_trace],
                 yaxis=dict(showgrid=False, zeroline=False, showticklabels=False))
                 )
 
-
+fig.update_layout(title_text=f'<br>Network of {country} for Human Vaccines (Imports)', 
+                title_x=0.5,
+                title_y=1.0,    
+                font=dict(
+                        family="'Oswald', sans-serif",
+                        size=12,
+                        color="#7f7f7f"
+    ))
 
 
 def YearToObject(x):
@@ -107,7 +114,7 @@ def YearToObject(x):
         })
     return options
 
-
+# Dash App starts here
 app = dash.Dash()
 
 app.layout = html.Div([
@@ -116,8 +123,6 @@ app.layout = html.Div([
 		    style={
 		    		'textAlign': 'center'}
 		    ),
-
-	html.Br(),
 
     # Dropdown for picking a year of interest
     html.P([
@@ -133,8 +138,6 @@ app.layout = html.Div([
 
     # Bar plot graph 
     html.Div(id='output-graph'),
-
-    html.Br(),
 
     # Network plot
     dcc.Graph(id = 'plot', figure = fig)
