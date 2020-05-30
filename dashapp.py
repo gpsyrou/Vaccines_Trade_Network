@@ -84,10 +84,6 @@ fig = go.Figure(data=[edge_trace, node_trace],
                 showlegend=False,
                 hovermode='closest',
                 margin=dict(b=20,l=20,r=20,t=40),
-                annotations=[ dict(
-                    showarrow=False,
-                    xref="paper", yref="paper",
-                    x=0.005, y=-0.002 ) ],
                 xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
                 yaxis=dict(showgrid=False, zeroline=False, showticklabels=False))
                 )
