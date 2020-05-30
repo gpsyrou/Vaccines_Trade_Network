@@ -92,7 +92,7 @@ fig = go.Figure(data=[edge_trace, node_trace],
                 yaxis=dict(showgrid=False, zeroline=False, showticklabels=False))
                 )
 
-fig.update_layout(title_text=f'<br>Network of {country} for Human Vaccines (Imports)', 
+fig.update_layout(title_text=f'<b><br>Network of {country} for Human Vaccines (Imports)</b>', 
                 title_x=0.5,
                 title_y=1.0,    
                 font=dict(
@@ -153,7 +153,7 @@ def update_output_div(input_value):
                           {'x':df[df['Year']==input_value].Reporter, 'y':df[df['Year']==input_value].TradeValue, 'type':'bar', 'name':'First Chart'}
                           ],
                        'layout':{
-                       	  'title':f'Trade Value of Vaccines for {input_value} (Imports)',
+                       	  'title':f'<b>Trade Value of Vaccines for {input_value} (Imports)</b>',
                        	  'xaxis':{
                        	  		'title':'Country',
                        	  		'standoff': 50
