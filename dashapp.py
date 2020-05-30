@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import dash
+import dash_table
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
@@ -25,7 +26,7 @@ def YearToObject(x):
 app = dash.Dash()
 
 app.layout = html.Div([
-
+    # Adding a header
 	html.H1(children='Global Trade Network of Human Vaccines', 
 		    style={
 		    		'textAlign': 'center'}
@@ -34,16 +35,23 @@ app.layout = html.Div([
 	html.Br(),
     html.Br(),
 
-    dcc.Dropdown(
+    # Dropdown for picking a year of interest
+    html.P([
+        html.Label("Please select a year"),
+        dcc.Dropdown(
         id = 'first_dropdown',
         options = YearToObject(df.Year.unique()),
-        placeholder='Select a Year'
-    ),
+        placeholder='Year')]
+    ,   style = {'width': '400px',
+                'fontSize' : '20px',
+                'padding-left' : '100px',
+                'display': 'inline-block'}),
 
-
+    # Bar plot graph 
     html.Div(id='output-graph')
 
     ])
+
 
 @app.callback(
     Output(component_id='output-graph', component_property='children'),

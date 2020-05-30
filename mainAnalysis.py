@@ -113,9 +113,9 @@ tnf.plotTopnCountries(df=top_exporters, feature='Trade Value (US$)',
 
 # Netweight
 top_importers = tnf.getAggStatistics(df, feature='Netweight (kg)',
-                                     kind='Imports')
+                                     kind='Imports', year = year)
 top_exporters = tnf.getAggStatistics(df, feature='Netweight (kg)',
-                                     kind='Exports')
+                                     kind='Exports', year = year)
 
 tnf.plotTopnCountries(df=top_importers, feature='Netweight (kg)',
                       topn=topn, kind='Import', year=year)
