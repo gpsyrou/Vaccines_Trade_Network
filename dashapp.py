@@ -10,9 +10,6 @@ from dash.dependencies import Input, Output
 
 from VaccinesTradeNetworkClass import VaccinesTradeNetwork
 
-
-# https://dash.plotly.com/layout
-
 os.chdir('C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network')
 
 df = pd.read_csv('Merged_Top_Importers.csv',
