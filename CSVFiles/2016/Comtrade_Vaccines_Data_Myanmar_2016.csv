@@ -1,0 +1,29 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201604,April 2016,6,1,1,Imports,104,Myanmar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22812,,46383,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,104,Myanmar,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5140,,69925,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,104,Myanmar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50516,,343804,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,104,Myanmar,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3500,,85715,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,104,Myanmar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77000,,1084160,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,104,Myanmar,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3523,,135050,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,104,Myanmar,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2298,,604913,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,104,Myanmar,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,4360,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,104,Myanmar,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20000,,72200,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,104,Myanmar,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11339,,135896,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,104,Myanmar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168426,,2466098,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,104,Myanmar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5140,,69925,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,104,Myanmar,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,509,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,104,Myanmar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,509,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,104,Myanmar,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3573,,9360,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,104,Myanmar,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1239,,13503,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,104,Myanmar,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18000,,23521,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,104,Myanmar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1652,,71421,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,104,Myanmar,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,652,,49421,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,104,Myanmar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1000,,22000,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,104,Myanmar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,646,,28243,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,104,Myanmar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,646,,28243,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,104,Myanmar,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4095,,553485,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,104,Myanmar,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9584,,209951,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,104,Myanmar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14191,,854696,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,104,Myanmar,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,513,,91260,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,104,Myanmar,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,567,,766,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,104,Myanmar,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,567,,766,,,0

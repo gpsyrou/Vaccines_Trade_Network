@@ -1,0 +1,58 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201604,April 2016,6,1,1,Imports,328,Guyana,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,16536,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,328,Guyana,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,238,,21365,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,328,Guyana,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,18895,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,328,Guyana,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,407,,30752,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,328,Guyana,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,3535,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,328,Guyana,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,1945,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,328,Guyana,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1664,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,328,Guyana,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,2987,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,328,Guyana,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,21198,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,328,Guyana,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,21017,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,328,Guyana,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,2097,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,328,Guyana,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,1485,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,328,Guyana,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,3992,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,328,Guyana,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,79049,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,328,Guyana,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,22465,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,276,,75316,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,781,,146852,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,773,,92670,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,57134,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,6590,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,352,,46735,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,579,,130362,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,927,,180361,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,449,,109477,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1414,,204846,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,7225,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,328,Guyana,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1164,,141646,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,182,,27688,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,758,,91185,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,8539,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,220,,30199,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,83,,15539,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,210,,38779,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,4743,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,328,Guyana,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,6049,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,328,Guyana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,20342,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,328,Guyana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,40598,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,328,Guyana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,350,,74705,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,328,Guyana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,19594,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,328,Guyana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,2482,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,328,Guyana,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,7961,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,328,Guyana,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,3578,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,328,Guyana,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,6421,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,328,Guyana,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,26238,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,328,Guyana,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,374,,49933,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,328,Guyana,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,5904,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,328,Guyana,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,385,,71846,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,328,Guyana,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,298,,26619,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,805,,97483,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,40115,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,21602,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,40184,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,28252,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,649,,125654,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,169,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,328,Guyana,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,2046,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,328,Guyana,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,15783,,,0

@@ -1,0 +1,45 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201601,January 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,137308,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,226,,1738721,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,373,,28521,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,21526,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,119298,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,177,,73511,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6287,,2102977,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,346,,346033,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,853,,612121,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,47101,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1322,,1038571,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,52227,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,31,Azerbaijan,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,11265,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,31,Azerbaijan,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,16619,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,31,Azerbaijan,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,13189,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,31,Azerbaijan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,185,,15226,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,31,Azerbaijan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,909,,73777,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,31,Azerbaijan,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,25688,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,31,Azerbaijan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,1720277,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,31,Azerbaijan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,177837,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,31,Azerbaijan,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,10348,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,559,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,120759,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,3645,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,7179,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,2832,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,21526,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,2137,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,56892,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,31,Azerbaijan,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,428,,135748,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,31,Azerbaijan,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3240,,649965,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,31,Azerbaijan,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,38853,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,31,Azerbaijan,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,184,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,31,Azerbaijan,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,290,,190051,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,31,Azerbaijan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,117161,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,31,Azerbaijan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,88381,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,31,Azerbaijan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,36753,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,31,Azerbaijan,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92,,19554,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,31,Azerbaijan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,3498,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,31,Azerbaijan,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,277,,47437,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,31,Azerbaijan,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,137308,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,31,Azerbaijan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2495,,1225384,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,31,Azerbaijan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,591,,593251,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,31,Azerbaijan,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,754630,,,0

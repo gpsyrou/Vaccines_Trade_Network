@@ -93,34 +93,45 @@ df['Reporter'].replace(
     inplace=True
 )
 
-# Lets find the top  countries that import/export vaccines in terms of US dollars.
-topn = 10
+topn = 15
 
 # Specify if we want to focus on a specific year (e.g. '2018') or 'all'
-year = 'all'
+
+year = '2017'
 
 # Trade Value
-top_importers = tnf.getAggStatistics(df, feature='Trade Value (US$)',
-                                     kind='Imports', year = year)
-top_exporters = tnf.getAggStatistics(df, feature='Trade Value (US$)',
-                                     kind='Exports', year = year)
-
-tnf.plotTopnCountries(df=top_importers, feature='Trade Value (US$)',
-                      topn=topn, kind='Import', year=year)
-tnf.plotTopnCountries(df=top_exporters, feature='Trade Value (US$)',
-                      topn=topn, kind='Export', year=year)
+top_importers_2017 = tnf.getAggStatistics(df, feature='Trade Value (US$)',
+                                     kind='Imports', year=year)
+top_importers_2017[0:topn]
 
 
-# Netweight
-top_importers = tnf.getAggStatistics(df, feature='Netweight (kg)',
-                                     kind='Imports', year = year)
-top_exporters = tnf.getAggStatistics(df, feature='Netweight (kg)',
-                                     kind='Exports', year = year)
+year = '2018'
 
-tnf.plotTopnCountries(df=top_importers, feature='Netweight (kg)',
-                      topn=topn, kind='Import', year=year)
-tnf.plotTopnCountries(df=top_exporters, feature='Netweight (kg)',
-                      topn=topn, kind='Export', year=year)
+# Trade Value
+top_importers_2018 = tnf.getAggStatistics(df, feature='Trade Value (US$)',
+                                     kind='Imports', year=year)
+top_importers_2018[0:topn]
+
+
+year = '2019'
+
+# Trade Value
+top_importers_2019 = tnf.getAggStatistics(df, feature='Trade Value (US$)',
+                                     kind='Imports', year=year)
+top_importers_2019[0:topn]
+
+
+# Create a file that will contain the aggregate values per country for all years
+top_importers_all = [top_importers_2017, top_importers_2018, top_importers_2019]
+merged_top_importers = pd.concat(top_importers_all)
+merged_top_importers.to_csv('Merged_Top_Importers.csv', index = None)
+
+
+topImportersDF = pd.read_csv('Merged_Top_Importers.csv',
+                             skiprows=[0], header = 0,
+                             names=['Reporter', 'Trade Value (US$)', 'Year'])
+
+
 
 
 # Part 2: Network Analysis
@@ -133,6 +144,9 @@ tnf.plotTopnCountries(df=top_exporters, feature='Netweight (kg)',
 network_df = tnf.groupNodesAndAggregate(df, compute_value_per_kg = True)
 
 greece = VaccinesTradeNetwork(network_df, country='Greece')
+
+# Dataframe with all data for a specific country
+gr_df = greece.createCountrySpecificDF()
 
 graph = greece.generateCountryGraph(tradeflow='Imports', source='Reporter',
                             target='Partner', agg=True)

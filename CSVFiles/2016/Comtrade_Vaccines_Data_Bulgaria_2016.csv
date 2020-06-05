@@ -1,0 +1,395 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201611,November 2016,6,1,1,Imports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,315,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2896,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,254,,488855,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,8704,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,14126,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,156,,10550,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,1073,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3194,,200995,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,376,,43520,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,20100,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,261,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,315,,13997,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,72,Botswana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,7668,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,19342,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,13545,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168,,117928,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,34724,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2439,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,298,,24389,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,42739,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,74444,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,5527,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,286,,23196,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,308,,14048,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,507,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,524053,,329669,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,3402,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,400,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1555,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,21870,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,390,,16484,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,11884,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1230,,43961,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1449,,314035,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,73378,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,10259,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,8828,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,174,Comoros,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,4832,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1265,,53948,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,8518,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,820,,87897,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,422,,18067,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,708,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,196,,16682,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,163,,283999,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,292,Gibraltar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,100155,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,516,Namibia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,4793,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,212705,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1349,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,495,,39169,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,18460,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,1301,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,739,,25632,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,419,,45038,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,1462,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,158887,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1784,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,8387,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,4289,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,46124,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,100,Bulgaria,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,437,,129553,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,100,Bulgaria,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104,,40286,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,100,Bulgaria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2375,,2643870,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8660,,1784576,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,420,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,2302,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,571,,335996,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3010,,2934094,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,664037,,1029819,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4464,,1265124,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,9477,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1060,,122372,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,14295,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,2284,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1760,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,317,,286044,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1147,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,23821,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,28927,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,168,,6876,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1014,,148906,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,47515,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,160,,19127,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,560,,63757,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,741,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1138,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,2856,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,780,,493557,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1949,,1784752,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,14207,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,295,,117667,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,100,Bulgaria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,867,,719352,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,100,Bulgaria,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3453,,2172,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2827,,2513767,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,36192,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,4333,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1749,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1775,,152948,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,11577,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1391,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3796,,133361,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1454,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,100,Bulgaria,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,289,,61573,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,1699,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,100,Bulgaria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1428,,51683,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,110545,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,199,,51361,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3270,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4184,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,656,,258515,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2074,,270325,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1015,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1230,,44538,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2454,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,10860,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3796,,3731650,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,2024,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,300,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7013,,988340,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1013,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,100,Bulgaria,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,39331,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,450,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,520499,,286702,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8440,,981514,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,1628,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,464,,39513,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,31644,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,521,,24021,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,2977,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,100,Bulgaria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,873,,402409,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,2212,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,6708,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,6034,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,991,,42360,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,5287,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,6639,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,228773,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,275,State of Palestine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,312,,19351,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,232,Eritrea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,523,,24846,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,685,,58514,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,388,,16255,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4687,,4144919,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,495,,39263,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,292,Gibraltar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,9280,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137,,20749,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,11925,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,9663,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,992,,170635,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,5422,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4272,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1678,,57652,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,1010,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,663,,29177,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,302,,32146,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,5188,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,10884,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,223,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1562,,885153,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,292,Gibraltar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,22232,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,332,,12836,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,562,,63454,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,328,Guyana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,1713,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,220381,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,51464,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,1589,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,485,,20549,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12581,,1736893,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,3422,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,2953,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,805,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1026,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8988,,1560509,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,17600,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,100,Bulgaria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,224827,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,7194,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,38145,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,100,Bulgaria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1120,,305186,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1243,,592952,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,11566,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,316,,12848,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3560,,369149,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,292,Gibraltar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,14841,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,712,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,1493,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,133128,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92,,12532,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,32542,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,367,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,660,,101631,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,23020,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,261,,9491,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92,,169964,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,189,,8214,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,55738,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,6293,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,217,,330841,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,78988,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,196,,15904,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,10560,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,3736,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,986,,85134,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1630,,59142,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,100,Bulgaria,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,10846,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,602,,283385,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,16126,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,46216,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,100,Bulgaria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,468,,221043,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,71002,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,23459,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4295,,158745,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,163,,6942,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,30860,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,380,,16742,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1793,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,666,,241368,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,3044,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3145,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,660,,24400,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,311,,32333,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,280,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1007,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,258,,9672,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,315,,13951,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1804,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,7808,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,550,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,315,,13951,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,115212,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,23474,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2015,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,34612,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,5487,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,233,,24310,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1130,,602326,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,315,,13951,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,798,,86759,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,414,Kuwait,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,20269,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,2340,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10608,,1698665,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,105053,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,35564,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,292,Gibraltar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,35490,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1881,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29909,,672983,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,12548,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29931,,687412,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,35281,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,480,Mauritius,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,256,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,69853,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,17402,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,894,Zambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,242,,10495,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,807,,93890,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,5121,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,4630,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,165331,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,252,,28560,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2412,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,92615,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,239,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,525,,353736,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,5989,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,988,,85354,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3113,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,1397,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,29949,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1645,,178903,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3291,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,781,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1359,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5257,,1261009,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,2946,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4828,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,20230,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,47212,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,302,,46541,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,100,Bulgaria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1078,,1499922,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1513,,1593675,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2109,,85627,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,1474,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,623,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,14792,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,12766,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,2263,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,843,,36497,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,6277,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,127273,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,733,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,702,,109828,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,3480,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,236,,24039,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257,,10446,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,49164,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,48,Bahrain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,49908,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,6902,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,716,Zimbabwe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,312,,34044,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,558,,25777,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1054,,44021,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,19064,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,85070,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,166417,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1295,,47233,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2560,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8175,,994282,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,98551,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2220,,1895358,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,19970,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,100,Bulgaria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1787,,2115926,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4030,,4031254,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,2684,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14522,,2040657,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,210,,23306,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,12681,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,73878,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,465,,39734,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,35225,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,6975,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,19492,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,121516,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,738,,25529,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,44251,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1574,,68822,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4430,,159575,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1540,,793798,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,44567,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,4782,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,25096,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,19470,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,18608,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,792,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,2373,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3300,,363753,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,8599,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,7114,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,100,Bulgaria,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1155,,118034,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2091,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,380,,17481,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,626,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1208,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,18938,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1362,,243522,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,100,Bulgaria,,196,Cyprus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,81645,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,62952,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,954,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,100,Bulgaria,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,329,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,3393,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1551,,69384,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,426,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1560,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,2895,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10654,,3324389,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,652,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,17461,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4018,,1457305,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,100,Bulgaria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,71361,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,100,Bulgaria,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,12655,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,133736,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,2343,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2433,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,36267,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,5598,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,106724,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,315,,13997,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,51012,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,12731,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3300,,1634944,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,100,Bulgaria,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,949,,279146,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,100,Bulgaria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4435,,3705782,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9463,,5544362,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,741,,365434,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1917,,348532,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,3902,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4293,,159084,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,345,,37502,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,384,,298571,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,9168,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,72892,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3105,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,560,,376801,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,131,,52029,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,470,Malta,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,173476,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,100,Bulgaria,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,7697,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,100,Bulgaria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,663878,,958109,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,100,Bulgaria,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,23727,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9812,,2478288,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1258,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,100,Bulgaria,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1106,,567059,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,2743,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,516,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,16979,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2122,,87963,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1421,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1476,,59903,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,7944,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,100,Bulgaria,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,20282,,,0

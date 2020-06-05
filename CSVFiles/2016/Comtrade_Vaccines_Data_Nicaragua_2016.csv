@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201601,January 2016,6,1,1,Imports,558,Nicaragua,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6716,,701819,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,558,Nicaragua,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,218,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,558,Nicaragua,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,20000,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,558,Nicaragua,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6625,,676802,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,558,Nicaragua,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,4799,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,558,Nicaragua,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5418,,1162123,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,558,Nicaragua,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3967,,709721,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,558,Nicaragua,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,582,,66466,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,558,Nicaragua,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,869,,385936,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,558,Nicaragua,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5240,,682009,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,558,Nicaragua,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,109,,8185,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,558,Nicaragua,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,2993,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,558,Nicaragua,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5063,,666482,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,558,Nicaragua,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,4350,,,0

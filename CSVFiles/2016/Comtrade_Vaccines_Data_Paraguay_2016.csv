@@ -1,0 +1,71 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201602,February 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3397,,839332,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,600,Paraguay,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3289,,808943,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,13041,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,600,Paraguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,17348,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,600,Paraguay,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1386,,657469,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,600,Paraguay,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,2411,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,600,Paraguay,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,10615,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,108,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,600,Paraguay,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,14001,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,600,Paraguay,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,45246,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,24224,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4591,,898472,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,148,,53582,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,600,Paraguay,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4417,,834167,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,600,Paraguay,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,8820,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,600,Paraguay,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,631,,34812,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,220,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,600,Paraguay,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,220,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,86224,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2275,,813960,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,600,Paraguay,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,21287,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,600,Paraguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,239,,350494,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,600,Paraguay,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1654,,433787,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,60645,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2216,,925460,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,600,Paraguay,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1157,,2491518,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,7392,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,600,Paraguay,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,6776,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,600,Paraguay,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,11768,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,600,Paraguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,125761,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,840,,812500,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2325,,3455715,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,350,,13777,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,600,Paraguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1743,,3652433,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,600,Paraguay,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,12512,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,9600,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2137,,3688322,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,600,Paraguay,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,16385,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,600,Paraguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,39269,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,359,,223265,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,462,,278919,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,600,Paraguay,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,32087,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,101079,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,141803,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,8637,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,7017,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,103688,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,17732,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,600,Paraguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,78939,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,600,Paraguay,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,45246,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,600,Paraguay,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2031,,1485599,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,371,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,600,Paraguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,557,,426510,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,600,Paraguay,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,252,,49920,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,59500,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3098,,2067146,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,600,Paraguay,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3300,,2674997,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,600,Paraguay,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1657,,4024626,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,600,Paraguay,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,18045,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,600,Paraguay,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,29999,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,600,Paraguay,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,12574,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,779,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,600,Paraguay,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1335,,86113,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,600,Paraguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1328,,1119774,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,600,Paraguay,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,14457,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,600,Paraguay,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1102,,141431,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,408,,243500,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,600,Paraguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2110,,2375810,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3522,,4485411,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,600,Paraguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8073,,6256694,,,0

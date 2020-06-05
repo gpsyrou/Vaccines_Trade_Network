@@ -1,0 +1,27 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201601,January 2016,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,532,,18621,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,84,Belize,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,1552,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,497,,17069,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,131,,9132,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,84,Belize,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,1624,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,7508,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,5397,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,5397,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,3123,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,84,Belize,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,892,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,84,Belize,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,1182,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,84,Belize,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,1050,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,410,,23715,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,84,Belize,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,4514,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,84,Belize,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,346,,16724,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,2477,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,677,,32429,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,84,Belize,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137,,14399,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,540,,18030,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1951,,288816,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,84,Belize,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,14730,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,84,Belize,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1888,,274086,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,84,Belize,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,215,,7175,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,84,Belize,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,121,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,84,Belize,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,1009,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,84,Belize,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,6045,,,0

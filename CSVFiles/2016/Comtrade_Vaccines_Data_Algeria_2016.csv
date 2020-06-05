@@ -1,0 +1,56 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201604,April 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22222,,14453709,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,603,,129219,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,12,Algeria,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2585,,1833287,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,12,Algeria,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19034,,12491202,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7309,,1511156,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,12,Algeria,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,10186,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,3044,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7260,,1497926,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,767981,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8663,,758972,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,12,Algeria,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9009,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5555,,4189548,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3194,,1053340,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,12,Algeria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,485,,1595114,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1876,,1541094,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8213,,7378922,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1445,,550807,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,12,Algeria,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,498,,875289,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,12,Algeria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,947,,2000258,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2818,,2284310,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,12,Algeria,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2505,,1668258,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4468,,628939,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1326,,334276,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3142,,294663,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5875,,3663470,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1572,,431333,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,12,Algeria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,757,,1619501,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3546,,1612636,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6643,,878271,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,12,Algeria,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,70952,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2179,,267626,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4399,,539694,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,9551139,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,12,Algeria,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,122,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22817,,7033527,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,12,Algeria,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,25,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12357,,2517466,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27163,,14702992,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,12,Algeria,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3260,,569145,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1273,,363872,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,12,Algeria,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,652,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,12,Algeria,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14650,,10583687,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7978,,3185635,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17142,,10305924,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,12,Algeria,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,49,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2545,,706071,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,12,Algeria,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2930,,2111266,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,12,Algeria,,408,Dem. People's Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,44,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,12,Algeria,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,349,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8258,,4667178,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,12,Algeria,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2930,,2114217,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,12,Algeria,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,475,,706751,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,12,Algeria,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6273,,1250486,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,12,Algeria,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1982,,1039788,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,12,Algeria,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4291,,210697,,,0

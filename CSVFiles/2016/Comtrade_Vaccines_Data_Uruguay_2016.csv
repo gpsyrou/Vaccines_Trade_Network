@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201601,January 2016,6,1,1,Imports,858,Uruguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,372,,152596,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,858,Uruguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,15160,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,858,Uruguay,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,39731,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,858,Uruguay,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,90721,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,858,Uruguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,6983,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,858,Uruguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,64481,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,858,Uruguay,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,53981,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,858,Uruguay,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,6300,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,858,Uruguay,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,4200,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,858,Uruguay,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2535,,1311116,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,858,Uruguay,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5040,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,858,Uruguay,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1400,,848001,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,858,Uruguay,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,10499,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,858,Uruguay,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,200142,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,858,Uruguay,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,578,,220778,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,858,Uruguay,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,26656,,,0

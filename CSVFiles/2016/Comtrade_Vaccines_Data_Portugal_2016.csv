@@ -1,0 +1,177 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,16432,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1210,,162066,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1198,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,620,Portugal,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,5214,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,119979,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,685,,896142,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,603,,1708873,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,195900,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14004,,2157985,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,620,Portugal,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,930,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,620,Portugal,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,31,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2351,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,190,,1854810,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1712,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30923,,2065320,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2713,,2007249,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4049,,1943549,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38663,,8907544,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,620,Portugal,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,313862,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,426,,746738,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,30522,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1780,,1253188,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,372,,720655,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,620,Portugal,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,26446,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,39067,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1172,,222046,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5442,,1158128,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,620,Portugal,,837,Bunkers,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,12,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2520,,801543,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,917,,628158,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2346,,1431032,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,620,Portugal,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1183,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5763,,8355176,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,85033,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,853,,580052,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,620,Portugal,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,126436,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1304,,2645601,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,3560,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3593,,6014571,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,992,,565429,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3216,,1787611,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9237,,11194971,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,577,,472148,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,620,Portugal,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1928,,304033,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,620,Portugal,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,18937,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,826,,292178,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,160047,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,620,Portugal,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,9457,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,288,,136235,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,620,Portugal,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,51763,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,542,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,620,Portugal,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,646,,107146,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,99986,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,620,Portugal,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,6155,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,78349,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,620,Portugal,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,35062,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,750,,1007700,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,3230,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1516,,889151,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,847,,534765,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2049,,2896373,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5225,,5366282,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,620,Portugal,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,32625,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,620,Portugal,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,51907,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,620,Portugal,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,836,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3188,,1496730,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18059,,5853784,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,216,,293336,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1023,,1181056,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,446,,1780819,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,620,Portugal,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,14779,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,487,,566251,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1989,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,66514,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,809,,467399,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,978,,753120,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1720,,1221007,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4079,,3091059,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,620,Portugal,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,81831,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,620,Portugal,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,34601,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,620,Portugal,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3617,,33482,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1142,,509905,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5192,,2438179,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8978,,6378850,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1175,,468891,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,61196,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,32830,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,49195,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1380,,3752078,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,779,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,51979,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1130,,669473,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1210,,645581,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4585,,1477301,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8707,,6740412,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,620,Portugal,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,33,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,620,Portugal,,837,Bunkers,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,123,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4274,,1627400,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,620,Portugal,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,117869,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,620,Portugal,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,42608,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,620,Portugal,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,701,,244209,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,264,,572301,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,101625,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2975,,548633,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1452,,4075676,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,442,,1781092,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,620,Portugal,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,84319,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,482,,389469,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,93,,97781,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,620,Portugal,,837,Bunkers,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,76,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2116,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,620,Portugal,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,39197,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1502,,2764850,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,5128,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1266,,702209,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5768,,2447943,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8764,,6004228,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,143,,44900,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2447,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,143,,44442,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1113,,457414,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,277398,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,356,,61698,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,38791,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,5978,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,116576,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1871,,1006861,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,620,Portugal,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,9631,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,183,,384498,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,620,Portugal,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,632,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,69609,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,577,,549738,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,620,Portugal,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,24666,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,620,Portugal,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,279,,95848,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,233697,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,620,Portugal,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,506,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,124,,110075,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12166,,2701788,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15693,,8095227,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,562,,464792,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,620,Portugal,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,116429,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,275,,322883,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1595,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3197,,4952531,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,620,Portugal,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,426,,286725,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,620,Portugal,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,183,,198339,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,620,Portugal,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,112908,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,748,,1682161,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,4362,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2491,,3757769,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,174,,99526,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5821,,1321603,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9893,,7463393,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,194630,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1650,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,178903,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,14078,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,620,Portugal,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,7269,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,620,Portugal,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1326,,224172,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1726,,537180,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,620,Portugal,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7289,,654428,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,620,Portugal,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,932,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,620,Portugal,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,138,,81365,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,620,Portugal,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,465,,552684,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,620,Portugal,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2611,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1279,,1016372,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,620,Portugal,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5044,,1346835,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14221,,3655229,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,620,Portugal,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,27620,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,620,Portugal,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,204,,11814,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,620,Portugal,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,143,,393670,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,620,Portugal,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,151,,342463,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,620,Portugal,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,11795,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,620,Portugal,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,91515,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,620,Portugal,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,771,,125222,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,620,Portugal,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1530,,1004098,,,0

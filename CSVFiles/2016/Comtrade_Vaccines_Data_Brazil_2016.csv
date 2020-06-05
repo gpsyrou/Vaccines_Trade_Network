@@ -1,0 +1,123 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201607,July 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31817,,37813546,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,34698,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,76,Brazil,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2891,,3812828,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12874,,11652757,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,76,Brazil,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,276,,87807,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4134,,1282693,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4447,,2396575,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56510,,57080904,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,76,Brazil,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,119490,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,119490,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50312,,44077827,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,279,,20639,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23971,,20475918,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8620,,11537540,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17442,,12043730,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26160,,26558379,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7069,,4587095,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9297,,16192603,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3511,,2314091,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,76,Brazil,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,26464,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4135,,1266848,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2073,,2171278,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,76,Brazil,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,19950,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,76,Brazil,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,21000,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,41895,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,76,Brazil,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,945,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,76,Brazil,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6664,,2625000,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6664,,2625000,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3090,,2106674,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68018,,84444628,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47128,,57368166,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,76,Brazil,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,719,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,76,Brazil,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,71706,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9537,,23571050,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3000,,394799,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5124,,931514,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,76,Brazil,,796,Turks and Caicos Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,105,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,105,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1337,,526495,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,76,Brazil,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,3175,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,76,Brazil,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1328,,523320,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,153547,,99614318,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37345,,35936718,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8092,,7247259,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16480,,12398503,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,76,Brazil,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29578,,8214991,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,76,Brazil,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3340,,3496596,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36382,,5411922,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22330,,26908329,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,76,Brazil,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1458,,556500,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,76,Brazil,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,100,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,583385,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,76,Brazil,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,25000,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,76,Brazil,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,735,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,76,Brazil,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1050,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81148,,39470427,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19879,,11107592,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,31883,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5079,,2755588,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,42614,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2065,,341918,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13106,,11376818,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21693,,10959614,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16990,,1334543,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2164,,1519857,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,76,Brazil,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,224215,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3750,,1623760,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,76,Brazil,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3553,,1399545,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,122015,,91080892,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32111,,22109737,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,76,Brazil,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,188,,194727,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11926,,13810474,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,76,Brazil,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2806,,3729188,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1001,,546959,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,76,Brazil,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25918,,7775360,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9006,,518834,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39059,,42395613,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,163218,,116620426,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32443,,34057674,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13549,,11638775,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18015,,14603591,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,76,Brazil,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27469,,8735631,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,76,Brazil,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11565,,11565786,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27000,,1562436,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33177,,34456533,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,989,,1195194,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,76,Brazil,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,989,,1195194,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63013,,42825854,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52144,,33565137,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,76,Brazil,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,261,,103210,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,76,Brazil,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,42112,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1924,,1677359,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8600,,7438036,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15497,,9696068,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7514,,6590275,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,544,,42780,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,76,Brazil,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,154,,454495,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5990,,1893494,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1295,,715024,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75540,,56713331,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17732,,21157135,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4876,,17243414,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18867,,2756377,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8524,,6114114,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,54912,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,424,,1144921,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7633,,2448849,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17164,,5746241,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,76,Brazil,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,47368,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,76,Brazil,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12142,,17250858,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,76,Brazil,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17890,,3186660,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,76,Brazil,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,750756,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,32114976,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,76,Brazil,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,126,,58063,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,76,Brazil,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6606,,10868639,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,76,Brazil,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,2100,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,76,Brazil,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,3255,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,76,Brazil,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,479,,180190,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,76,Brazil,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,441,,173565,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,76,Brazil,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,735,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,76,Brazil,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,10,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,76,Brazil,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,525,,,0

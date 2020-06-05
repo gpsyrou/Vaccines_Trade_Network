@@ -1,0 +1,228 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201609,September 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9221,,5363839,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,11175,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7270,,3348061,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74013,,43053487,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,13015,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,13254,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2197,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,5267,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,156,China,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5656,,3290260,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,2800,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,248,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16777,,9759393,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2259,,1040542,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10148,,4673615,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,289,,133007,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,61200,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,62078,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,11232,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,28002,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,16560,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18434,,10723192,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,14500,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,156,China,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,638,,371333,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,13503,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,865,,398563,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5749,,2647842,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,395,,182137,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,67619,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13263,,6107921,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,594,,273600,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,523,,240688,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,83500,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4567,,2103384,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,17300,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,586,,270000,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1475,,679192,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,601,,276750,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,18300,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16388,,7547186,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10985,,6390121,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10578,,4871691,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3057,,1778485,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,391,,180133,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,49157,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,156,China,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,83576,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,314,,144438,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,67443,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,8460,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,403,,185496,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1256,,578572,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1462,,673222,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,24000,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,37260,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,60629,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,16560,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,772,,355540,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1116,,513800,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,16560,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14186,,8252182,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,495,,228173,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3951,,1819705,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,300,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,233,,107522,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,959,,441728,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,232,,106657,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,2027,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1155,,531910,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,181,,83282,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,215,,98850,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,22948,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,5000,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,6548,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,23750,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,30,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,45000,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,3144,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,455,,209766,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,470,,216443,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5273,,2428649,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,34495,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,78650,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,5,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,9751,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1153,,531014,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6353,,2925580,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,27976,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3921,,1805573,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,259,,119147,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1317,,606560,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,677,,311777,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,334,,153756,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,576,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2082,,1211281,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,12000,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9235,,4253030,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,820,,377742,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,263,,121019,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,156,China,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1232,,716611,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,943,,434324,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,13950,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,43592,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,48176,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66677,,38785955,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,624,,287469,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12807,,5898151,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,50800,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,221,,101680,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,156,China,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4898,,2849251,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,30,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,67348,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,31257,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,23510,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,147375,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3888,,1790421,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8212,,4777143,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1294,,596094,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,156,China,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4818,,2802824,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,50,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,14000,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,900,,414437,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,479,,220458,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67315,,39157288,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12363,,5693641,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,799,,368022,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,148,,68023,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,22020,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,8,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,156,China,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1981,,1152404,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,156,China,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28485,,16569909,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,701,,322831,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10838,,4991259,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,154,,71000,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1143,,526597,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,712,,327761,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,291,,133950,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1540,,709358,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,156,China,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6232,,3625108,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,261,,120000,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,52656,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,4240,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,49025,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,259,,119266,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10410,,4794140,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,331,,152500,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,5800,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34790,,20237218,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3048,,1403726,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8737,,4023898,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,36624,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,40,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,14710,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,312,,143754,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,18240,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,17000,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,20000,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25806,,15011403,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,156,China,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6241,,3630390,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,166,,76341,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,136,,62450,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,25204,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14492,,6673935,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,24358,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44244,,25736425,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,394,,181300,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41031,,23867608,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2299,,1337489,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,667,,307327,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,15500,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,2,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,9984,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,394,,181262,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59110,,34384136,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,24000,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19083,,8788368,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,156,China,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,329,,151384,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1397,,643536,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46225,,26888829,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7903,,3639678,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,293,,135000,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,19637,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7427,,4320295,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,14718,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1225,,564169,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2299,,1337489,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7616,,3507297,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,156,China,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2924,,1700751,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9854,,5732181,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,151,,69530,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,358,,164975,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,156,China,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,751,,345893,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,69,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,658,,302865,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,156,China,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,618,,284704,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1164,,536281,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,156,China,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1105,,509045,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8545,,4970897,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1556,,904950,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,156,China,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6676,,3883546,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,156,China,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,222,,102230,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1537,,894324,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,156,China,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257,,149220,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,18006,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,156,China,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,157,,72217,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,258,,119000,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61450,,35745544,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,156,China,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6331,,3682835,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,500,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2120,,976135,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10869,,5005707,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,8750,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,395,,181800,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,516,,237500,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,278,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,28545,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2569,,1183319,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,19,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,95000,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,6000,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,375,,172774,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1011,,465619,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,156,China,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,712,,414121,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,156,China,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48493,,28208474,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,156,China,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4936,,2871131,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,156,China,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54141,,31493726,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,156,China,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3583,,1649968,,,0

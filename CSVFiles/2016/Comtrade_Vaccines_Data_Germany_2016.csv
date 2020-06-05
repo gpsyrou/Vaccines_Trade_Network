@@ -1,0 +1,675 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1370,,2758660,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10656,,20988837,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,228,,120004,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,794,,1136988,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3904,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,478,,84604,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,440,,313831,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,521,,738700,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,13366,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,25330,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1769,,2673785,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,981,,1145563,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,205,,355839,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,10659,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119,,152110,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,78961,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1213,,1049392,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,108299,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,124,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,73,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,25796,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1833,,2747676,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8495,,5074351,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,480,,530977,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,50251,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,227,,33976,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,14085,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1060,,1277667,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,154,,269836,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1534,,6254195,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23879,,15500743,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,191,Croatia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,225,,240358,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,201362,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,68127,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,28754,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,5215,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4171,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,596,,196169,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,251,,91342,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,12799,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,22059,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,205,,174963,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,128,,78935,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1204,,293575,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,6321,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,274,,177093,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1258,,3178444,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8269,,4571793,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1989,,2334497,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,315,,306330,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,17819,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,166,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,374,,245959,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41934,,33925274,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,70945,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,203,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3546,,5493056,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,2148,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,210819,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38016,,71599116,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2408,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1157,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,55942,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,53784,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119,,110358,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,20183,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,73518,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5655,,11137733,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,95302,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,77337,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,896,,598775,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,36523,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,38706,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5238,,8685059,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11244,,29378287,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,188,,160374,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1657,,1746381,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,61,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92,,36570,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,699,,4042724,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7805,,9474329,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1792,,4806546,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,748,,135738,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10654,,5853793,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,476,,174419,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8229,,10371328,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,399,,318216,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,159,,60414,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3327,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,591,,196561,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1663,,5081731,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,97176,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,68722,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4304,,3908329,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,37733,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,501,,334014,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,315679,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,9619,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2926,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,241,,288361,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,287177,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,89053,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,27037,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,690,,537833,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,258,,496307,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1014,,882770,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,352,Iceland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,8569,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,66046,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,309,,40407,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2307,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66914,,33919773,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,628,,402655,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,713,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,258,,151060,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,79274,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1136,,3256052,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9641,,19626357,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,751,,1286077,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41031,,84374553,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,81159,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,25503,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4375,,7091205,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6855,,9995784,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12054,,31498988,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,146,,94921,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,3594,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1513,,2234356,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1682,,6478684,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1235,,701867,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,50512,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,28615,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,238,,66739,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,41613,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,204,,165079,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,158,,169041,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,96269,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,477,,1151805,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11710,,33466619,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,223,,115514,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1132,,1669481,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2656,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,17959,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3202,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,175,,153638,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,140758,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,155,,137712,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7622,,18961966,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,218,,131545,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,96571,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,53207,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2657,,8442784,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,31493,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1400,,1010455,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,9200,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,643,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,886,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25192,,4976495,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,16654,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,3457,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,361,,299860,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1411,,1563661,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,12909,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1048,,3623044,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1637,,1333830,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1493,,525132,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,14382,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,355,,110967,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,7454,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,36573,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,11651,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2593,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,56065,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4189,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,175,,23567,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21827,,7253089,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,7650,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2420,,2573262,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,20115,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,459,,241408,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5759,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1278,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43274,,92944801,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4034,,8082902,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1051,,3144782,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,857,,1891148,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,88934,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,81390,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7592,,9134994,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3847,,6078057,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,27108,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2456,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1227,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,769,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,7357,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,821,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1288,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2816,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,90823,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1184,,288248,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44468,,37106854,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,694,,117793,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,726,,322024,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1946,,443510,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,352,Iceland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,3292,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1225,,5841366,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,14135,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,281,,342386,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,97863,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,3157,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137,,38535,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,25277,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,28768,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,450,,75983,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,23039,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5369,,1243701,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4443,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,14995,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1086,,206554,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,394,,319364,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,307292,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3802,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,482,,643238,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5700,,13225888,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,210,,180722,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,126982,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,208,,92460,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,151,,100247,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,121,,113803,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,224344,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,199,,115220,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1194,,10502088,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,712,,486139,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,63774,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,26037,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1135,,1699077,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,128076,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,340,,113210,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12721,,23430991,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,2022,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8239,,3379666,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,109,,39802,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,17626,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1381,,3703079,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1999,,13178994,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3786,,6688218,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,47446,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23833,,9338707,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,550,,1460903,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88984,,70395600,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2526,,8447882,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5936,,7029446,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,202,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41806,,81219151,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100226,,82132584,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5927,,18578206,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1194,,1356616,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45732,,23944952,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2051,,3077192,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,748,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,78145,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3902,,2374695,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8660,,11821396,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,207028,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,339,,146664,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,23439,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3528,,7246834,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,84328,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,504,,953693,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,62910,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,18891,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,10860,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,448,,442425,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,77342,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,4291,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1296,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2464,,15211477,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,211,,336802,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16765,,42860888,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,357,,136656,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1403,,1897507,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1033,,2309593,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,683,,969472,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13546,,20785652,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,47009,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,3274,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3330,,2776884,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1826,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1648,,258711,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,240,,35113,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,140139,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,20527,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,334,,316972,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,199,,179367,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,2292,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,118683,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1152,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3569,,1373007,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,10208,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,295166,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,59856,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,651,,957342,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1421,,579706,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3163,,1337766,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,279,,303980,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,8086,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,283166,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14918,,5052457,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,18211,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,276,Germany,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,7193,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1703,,4384245,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7035,,21400683,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1383,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,190,,68397,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,939,,253149,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,611,,341252,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,748,,337543,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,126220,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,20267,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,12025,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,208,,181184,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,217,,58878,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,138166,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,552,,95071,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1817,,393983,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43311,,37538015,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3365,,8930295,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,26141,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1281,,266811,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,7671,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1559,,414974,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,299,,41025,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,69485,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,220,,46926,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1162,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,93,,68564,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1315,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1129,,648579,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1220,,3886392,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22479,,9392319,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,21161,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,157212,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,546,,229977,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,127,,62086,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,336,,149147,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,259,,691504,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,339,,247685,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4553,,10996590,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,231,,119858,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16726,,26247698,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,25913,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1284,,2040204,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2119,,3057474,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2313,,5321425,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72577,,102380632,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,206,,306017,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,135193,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17001,,34838637,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,226,,104847,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,547,,157562,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1379,,1420434,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,44598,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,389479,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,37303,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5132,,16217029,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10230,,2576389,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,14389,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,106,,42943,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3343,,6944428,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,89626,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,165,,394524,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,44606,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,84440,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,308,,136007,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1534,,1805403,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,20609,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,331,,175201,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2273,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,32555,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18243,,5314755,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19754,,14971182,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,670,,853798,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79861,,86848211,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,164,,94652,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,29592,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2241,,487050,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25222,,20125865,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,14643,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,712,,1269863,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,90,,15908,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,42209,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,35780,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,271,,42230,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,7279,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,2129,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,79,,93973,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,150,,41488,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,248,,90038,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,29955,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,19271,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2332,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,28737,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27615,,4961372,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2385,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111730,,58078233,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43269,,22987661,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6400,,2821376,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4984,,4832445,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43196,,91621575,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,9849,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107925,,78476590,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,126832,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,276,Germany,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,34991,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,705,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,2438,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,31,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1396,,2846809,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,308,,133786,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,12246,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1091,,1398442,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16160,,29782551,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,38354,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,7978,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,997,,530874,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,316,,100250,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,23276,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,24567,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,36128,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,329,,420459,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,78408,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,84134,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12136,,16957268,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43703,,75677572,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,557,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,7563,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1042,,410293,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1534,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4120,,13848225,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,63811,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2034,,4291337,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3953,,796125,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36009,,54540990,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,86239,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,546,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5179,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,3623,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29625,,8639914,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,282,,182589,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,75952,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,65039,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3723,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,202,,94248,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,438,,99136,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,6763,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,32996,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,977,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,21554,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,640,,209583,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,38544,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,17719,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,385,,313982,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,612,,1013036,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,35090,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,4193,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,572,,930201,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,125389,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,847,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,596,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6969,,1492873,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2277,,2104195,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,447,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,422,,332020,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2290,,3883564,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,956,,1182562,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10892,,6712429,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,979,,1106716,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45568,,71723921,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,18060,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,481,,246471,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,532,,318101,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,714,,1379789,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,3214,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1103,,1498713,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,521,,95430,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15477,,30056443,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,688,,797654,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,196,,91530,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,57915,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,76636,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,11285,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,255,,50218,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5559,,11945110,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,451,,499650,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,12296,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,94987,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,34298,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,127,,30861,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42664,,15548804,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5910,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2314,,2029790,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8072,,4881478,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,646,,373693,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,14186,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,20193,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,10544,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,825,,351093,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,668,,283531,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,6273,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,17103,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,352,Iceland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,1591,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,450,,57894,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,19781,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,12994,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,16205,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,212,,23747,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,370,,91026,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,29531,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1001,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1539,,301905,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,61938,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2008,,2177778,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,93040,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22309,,34390411,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15714,,8637275,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,777,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,547,,157161,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,202,,128737,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,93,,73961,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8349,,8807064,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,89677,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2665,,8342308,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38757,,15440566,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,208,,198983,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13167,,13523806,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3724,,11218383,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1420,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,58133,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,493,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1073,,2037235,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,880,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,5016,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,15201,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,13161,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,218,,26123,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,155,,122202,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35297,,13993465,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,21697,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,97936,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34411,,9414217,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,23392,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,120,,12293,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,237,,63772,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,445,,60341,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,488,,52424,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1018,,493193,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11929,,1347652,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1129,,355885,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,118612,,48125335,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,201,,47146,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,263,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,174,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29033,,20040137,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,83304,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3362,,1835460,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3634,,1191829,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,442,Luxembourg,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1248,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4227,,8150149,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1514,,11711547,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,51378,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1803,,8475057,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1866,,815822,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60451,,32019616,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8289,,1731675,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,489,,1120584,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,15530,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,705,Slovenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,133,,52834,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1264,,531129,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3859,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,156591,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,93,,10195,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,680,,330748,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,83930,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,554,New Zealand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2724,,1016115,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,5724,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,22172,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14594,,5825528,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18869,,2750297,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,33979,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,399,,231133,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1274,,3987991,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,32301,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,133658,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,520,,206508,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,374,,246207,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,23501,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4310,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5711,,10865175,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10309,,4094729,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,857,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1119,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,341,,140176,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9510,,12893274,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,287,,278858,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49278,,96704254,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16764,,51979866,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,954,,724985,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,359,,42879,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,233,Estonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,11330,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4732,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,886,,1328638,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,54438,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,2378,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,25803,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,190,,173878,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,88177,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,9444,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,14807,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,55120,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3866,,6526906,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,189,,117930,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,306,,54838,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,579,Norway,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,54002,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4087,,12177235,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45584,,10453763,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,115848,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17667,,23220788,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,186,,293790,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,33748,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,199,,48759,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,177,,198026,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,154461,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,578,,432555,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,432,,346646,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,75920,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,812,,1094356,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,7445,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3923,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,489,,237730,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,642,Romania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,69572,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,27628,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,410,,189486,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,12048,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,567,,457818,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1613,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,246,Finland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,16041,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,73130,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,203,Czech Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,42133,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1350,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10211,,3753688,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,352,Iceland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2406,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2280,,581581,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2664,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8509,,1664668,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,40496,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,9561,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,17842,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,36966,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60,,14034,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,634,Qatar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,9640,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,525,,168357,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,703,Slovakia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,7901,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,20872,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11960,,1171207,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,512,Oman,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,8059,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,3150,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,5546,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5092,,856176,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,640,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,20,Andorra,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,4382,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,276,Germany,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32850,,34505704,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1138,,340937,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,830,,1864757,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,276,Germany,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6726,,7604934,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,276,Germany,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1096,,,0

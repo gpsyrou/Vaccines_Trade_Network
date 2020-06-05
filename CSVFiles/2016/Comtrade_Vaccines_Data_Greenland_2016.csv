@@ -1,0 +1,25 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201607,July 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,191,,46047,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,4631,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,297,,36805,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,231,,64258,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,254,,47682,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,27943,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,16607,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,25602,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,254,,45648,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,21347,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,7233,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,304,Greenland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,48009,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,191,,46047,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,4631,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,297,,36805,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,231,,64258,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,254,,47682,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,117,,25602,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,139,,27943,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,110,,16607,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,254,,45648,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,21347,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,46,,7233,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,304,Greenland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,48009,,,0

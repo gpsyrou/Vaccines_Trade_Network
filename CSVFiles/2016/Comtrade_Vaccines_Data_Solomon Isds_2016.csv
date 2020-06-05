@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201602,February 2016,6,1,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2833,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,90,Solomon Isds,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2833,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1658,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,90,Solomon Isds,,36,Australia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1658,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,81,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,81,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,10108,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,90,Solomon Isds,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,10108,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,90,Solomon Isds,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,4357,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,90,Solomon Isds,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,4357,,,0

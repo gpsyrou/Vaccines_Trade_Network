@@ -52,7 +52,7 @@ def getDataCall(api_string: str, reporterid: str, reportername: str, year: int, 
     api_string = api_string.replace('year', f'{year}').replace('reporter', f'{reporterid}')
     print(api_string)
 
-    response = requests.get(url=api_string)
+    response = requests.get(url=api_string, verify=False)
 
     if response.status_code != 200:
         print('Could not access the API!')
@@ -74,12 +74,12 @@ def getDataCall(api_string: str, reporterid: str, reportername: str, year: int, 
 # Receive the list of countries and their respective IDs as described in https://comtrade.un.org/Data/cache/reporterAreas.json
 
 reporters_url = 'https://comtrade.un.org/Data/cache/partnerAreas.json'
-reporters_resp = requests.get(url=reporters_url)
+reporters_resp = requests.get(url=reporters_url, verify=False)
 json_data = json.loads(reporters_resp.text)
 
 reporters_list = [rep for rep in json_data['results']]
 # Get the data as separate csv files, each for every year of interest
-years_ls = [2017]
+years_ls = [2016]
 outputFilesFolder = f'CSVFiles\\'
 
 for api_check, repd in enumerate(reporters_list):

@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201604,April 2016,6,1,1,Imports,887,Yemen,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13887,,2886633,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13442,,2827453,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,445,,59179,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9117,,2317919,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,887,Yemen,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9117,,2317919,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,887,Yemen,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21940,,4644592,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,887,Yemen,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5285,,1354854,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,887,Yemen,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,11180,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,260,,11180,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,887,Yemen,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5285,,1354854,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,887,Yemen,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1682,,485549,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4319,,1220007,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,887,Yemen,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15859,,2910606,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,28430,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,887,Yemen,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28357,,5991693,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,887,Yemen,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1099,,339832,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15820,,4633763,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,887,Yemen,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11038,,980514,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,400,,37584,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,887,Yemen,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18398,,3983427,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,887,Yemen,,568,"Other Europe, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14945,,3265720,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,887,Yemen,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3453,,717706,,,0

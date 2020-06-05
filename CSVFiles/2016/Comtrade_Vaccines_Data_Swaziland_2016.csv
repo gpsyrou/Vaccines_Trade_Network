@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201609,September 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,570,,444952,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,18,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,748,Swaziland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,18,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2573,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,748,Swaziland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,558,,442379,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3725,,467968,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3785,,468143,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,748,Swaziland,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,126,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,975,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,135,,975,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,231,,2041,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1692,,434037,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,748,Swaziland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,92,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,748,Swaziland,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,898,,270223,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,792,,163721,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,585,,4090,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,748,Swaziland,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,274,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,535,,3816,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,794,,405692,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,748,Swaziland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,459,,405425,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,335,,267,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,748,Swaziland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,48,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1935,,40334,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1935,,40334,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3353,,1217429,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2943,,1202831,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,748,Swaziland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,410,,14598,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,231,,2041,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2001,,496335,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,748,Swaziland,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1190,,246642,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,748,Swaziland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,429,,111741,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,748,Swaziland,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,359,,134276,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,3677,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,225,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,700,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,748,Swaziland,,508,Mozambique,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,700,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,,,225,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,748,Swaziland,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,283,,2915,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,748,Swaziland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,283,,2915,,,0

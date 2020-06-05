@@ -1,0 +1,460 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21289,,4881410,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,9450,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2110,,96000,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,720,,81370,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1170,,810000,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,21150,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1593,,390000,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5666,,3966300,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3157,,247500,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,834,United Rep. of Tanzania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,15,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5078,,359914,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15370,,11688456,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,39000,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,13391,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,1082794,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3444,,1258758,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,805,,261312,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,163,,87543,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,94,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3856,,555849,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6909,,8385900,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,410,Rep. of Korea,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3815,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,2500,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,114,,69393,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1833,,98811,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,132,Cabo Verde,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,4169,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,774,,100793,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,1000,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2596,,576925,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,493,,26600,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,342,,24613,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,36382,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,63659,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,531,Curaçao,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,3338,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21120,,4734662,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1260,,189944,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,678,,106103,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17053,,4098928,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,500,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,910,,48983,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1124,,60800,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1261,,386129,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,788,Tunisia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,540,,8800,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63111,,13479984,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,15740,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,1212,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,410,Rep. of Korea,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12584,,2820000,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17791,,15923369,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5576,,2343757,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,380,,211374,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,733518,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,410,Rep. of Korea,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,48000,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2081,,448982,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,81036,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7996,,12056702,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,12815,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,12416,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,13252,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,275,,1403034,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,173,,11250,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4750,,167200,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9372,,2099137,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,192,,15170,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,612,,108579,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,234,,17700,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12000,,1042992,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,29015,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19536,,4370882,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,450,,127643,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,17023,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,87281,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,45110,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48523,,9588044,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,410,Rep. of Korea,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,156,,7545,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22276,,28515968,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,527,,513977,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,410,Rep. of Korea,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,825,,461294,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,72335,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5816,,1010606,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,410,Rep. of Korea,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,3870104,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2122,,469708,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12676,,21516077,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,410,Rep. of Korea,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,241,,601867,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,411,,932200,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2375,,314392,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2981,,205609,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,499,Montenegro,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,37806,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2031,,1460000,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2390,,201673,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,720,,80369,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1124,,471811,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,533,,45067,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,484,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12000,,1042950,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4357,,300732,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,171,,119422,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1513,,104842,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1348,,322428,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,12690,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,551,,139661,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2063,,304947,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,285,,41375,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,60733,,11899310,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,54582,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25212,,5640000,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,410,Rep. of Korea,,90,Solomon Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,308,,66270,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25367,,26062934,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,829,,1129759,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,570,,238053,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,114,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13991,,21702764,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,410,Rep. of Korea,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,28500,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,410,Rep. of Korea,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3193,,790645,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2107,,447499,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4654,,1725600,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,288,Ghana,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1520,,118000,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,885,,2703260,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1618,,107646,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,36627,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,42124,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1296,,144805,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,478,Mauritania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,14000,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,79659,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14430,,3243425,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27225,,13300000,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,433,,108745,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,5000,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1552,,97562,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16081,,3554495,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,513,,140385,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12000,,1042950,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2464,,192500,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6565,,554400,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1016,,705000,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2648,,3759739,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6688,,3880909,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,8767,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19580,,4370882,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,418,,87358,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,4725,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1289,,3186120,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,17150,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,119344,,41587436,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,407,,24800,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,410,Rep. of Korea,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,56400,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25217,,29385976,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1517,,1417451,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5053,,1262390,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1502,,859752,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5538,,12437429,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,282,,731074,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7512,,8350811,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,48000,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1673,,2154406,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2117,,2124663,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,275,,117000,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,813,,564000,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3048,,2115000,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,563,,1720544,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,70,Bosnia Herzegovina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,20714,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,11576,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,352,,28038,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,22386,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63166,,17550650,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,17625,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,70500,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12628,,2819999,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,242,Fiji,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,8890,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,2244,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,343,,78376,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,18597,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1760,,391275,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,2429,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1521,,689430,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38192,,8530030,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,285,,68625,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,698,,63570,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,537,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,672,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,648,,98593,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,5425,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1063,,63000,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,352,,21575,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39208,,32135357,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,27,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6132,,6085053,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,560,,101926,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,508,,279310,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,600,,454272,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15911,,7306813,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,166,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,38000,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1350,,5036048,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2316,,658274,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11807,,12175468,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1354,,119999,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1985,,425849,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8510,,337899,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,533,Aruba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,125,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1779,,161525,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4840,,711484,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,591,Panama,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,628,,1916544,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,12121,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4259,,516950,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,726,,80900,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,13935,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,483,,73735,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,20967,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,792,Turkey,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4801,,521663,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3157,,247500,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,40382,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,344,"China, Hong Kong SAR",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,8918,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1497,,213666,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,385,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2632,,647316,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,195,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,188,Costa Rica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,36138,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4319,,1539000,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,354,,83254,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,580,,43153,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,87848,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,36860,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1188,,266490,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43930,,8164801,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29933,,24249581,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7963,,4566669,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,820,,152665,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1802,,488580,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5896,,1596673,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1500,,316470,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2908,,3732736,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2100,,505424,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,22500,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1910,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6939,,12865954,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,193,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,3,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,219,,61174,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,304,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,134,,9600,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,178,Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2234,,1568700,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,378,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,708,,42000,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,154,,8400,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,17390,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,12690,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1915,,1350000,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,231,,26749,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26918,,6548400,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,11280,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50708,,13990341,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,20,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,18900,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14916,,3337000,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,856,,429844,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,3780,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,98,,17216,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,125,,34521,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1664,,491799,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30668,,27516798,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,37,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4866,,3611747,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,694,,178564,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,9944,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6046,,7396094,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,57000,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1689,,2326050,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,180,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2115,,496166,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,95,,44930,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,405,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8371,,10844681,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,43,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6697,,2550957,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,32944,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,756,,52804,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,212,Dominica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2700,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,214,Dominican Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1228,,668250,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,218,Ecuador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3112,,4584141,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,222,El Salvador,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,6712,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,352,,77957,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1567,,278474,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,136,Cayman Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,8100,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,15600,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,68,Bolivia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,152,,94545,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22856,,5755920,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,110700,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,92,Br. Virgin Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,270,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,490,"Other Asia, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1580,,488593,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,891,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,533,Aruba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,14605,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,4,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,622,,154660,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,396,,75595,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1320,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,662,Saint Lucia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,5508,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2358,,352596,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,68931,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,6750,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,30,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,332,Haiti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7500,,1700000,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,368,Iraq,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1764,,474296,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,793,,297553,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,740,Suriname,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,8100,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,5215,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,23593,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,862,Venezuela,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,825,,1215000,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,271,,293985,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,796,Turks and Caicos Isds,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,2700,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,56,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4118,,364170,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,21965,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1350,,306000,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,467,,148288,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,10627,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61757,,19649987,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,4,Afghanistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,578,,51727,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,12,Algeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,36,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,28,Antigua and Barbuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1285,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,909,,54281,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,44,Bahamas,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,159060,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7480,,1642650,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,410,Rep. of Korea,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,10800,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17345,,24018414,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1827,,2057829,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,553,,101756,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,598,,339651,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1461,,1237764,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,6721,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1721,,1734733,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,76000,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2400,,1846310,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,19,,2464,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7642,,15975225,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1049,,639961,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,254,,131151,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,147,,21253,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1308,,267102,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,780,Trinidad and Tobago,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,77,,4453,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,22128,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,6594,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4025,,171365,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,413,,90454,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1076,,225527,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1638,,233098,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,113,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,170,Colombia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,233,,29328,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,231,Ethiopia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5632,,1255252,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,66588,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1568,,270059,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30341,,11033098,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47145,,13836563,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,410,Rep. of Korea,,52,Barbados,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,9000,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22716,,20650320,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3577,,1528534,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1400,,300873,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,771,,483887,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,19,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6540,,7887359,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,63,,804416,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1234,,477029,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,508,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4575,,1076422,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4550,,8091273,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29797,,9327538,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,572,,121260,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3206,,189000,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,18190,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,16016,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3757,,2522461,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,567,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18370,,4095186,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,760,Syria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,27,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,602,,218008,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,308,Grenada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1410,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,289,,1525749,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,19653,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,450,Madagascar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,488,,221751,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,462,Maldives,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,1260,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,504,Morocco,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,216,,17700,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,78307,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,660,Anguilla,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,8460,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1908,,266933,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,410,Rep. of Korea,,688,Serbia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,5600,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2650,,2409141,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,844,,152664,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,134000,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,35526,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18660,,8491550,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16391,,23789229,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42496,,35834729,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72657,,17750522,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6996,,1560752,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,396,,86010,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,60,Bermuda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,8460,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,64,Bhutan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,352,,77550,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,140,,28600,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1512,,192438,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1169,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,270,Gambia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,162,,14000,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,340,Honduras,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26,,3326,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,8949,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,26250,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,616,,134185,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,31,,1260,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,524,Nepal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,80,,62355,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35420,,7918207,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,600,Paraguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2052,,1420000,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,604,Peru,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,230,,75190,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,616,Poland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1746,,194393,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,716,,64645,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2401,,585000,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4684,,321525,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,858,Uruguay,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1030,,712200,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,171,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7232,,174746,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,7235,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,360,Indonesia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,525,,2614766,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5918,,1457140,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,876,,209413,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,1131,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2928,,612075,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94909,,29038356,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,8,Albania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,710,,128849,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,185,,10500,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,32,Argentina,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,83,,58766,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,50,Bangladesh,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8492,,1893747,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22988,,11883600,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,104,Myanmar,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2076,,1375002,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,116,Cambodia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1077,,77198,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,144,Sri Lanka,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,22673,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,152,Chile,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,460,,141550,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,262,Djibouti,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,4375,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6808,,844212,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,388,Jamaica,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,2500,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,1069,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,11256,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,434,Libya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1445,,452866,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,12000,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,968,,217140,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3557,,323225,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2043,,239553,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,704,Viet Nam,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2386,,419601,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,185,,55565,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1709,,2577387,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,375,,167660,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3099,,3972753,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,376,Israel,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,38000,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,165,,838508,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104,,184078,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,764,Thailand,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3027,,752879,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,381,Italy,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9819,,4794255,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1427,,672647,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,1687915,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,34,,650041,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4515,,1770363,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9638,,15833254,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33956,,33939740,,,0

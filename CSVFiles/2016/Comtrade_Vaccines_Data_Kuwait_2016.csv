@@ -1,0 +1,66 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201606,June 2016,6,1,1,Imports,414,Kuwait,,40,Austria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,148252,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,414,Kuwait,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,521,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,414,Kuwait,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,25121,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,414,Kuwait,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,318,,129750,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,414,Kuwait,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,64,,14845,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,414,Kuwait,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,633456,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,414,Kuwait,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,627666,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,414,Kuwait,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,829,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,414,Kuwait,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,629917,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2099,,645053,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2177,,1154916,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1391,,384458,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1513,,3806641,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,778,,689555,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2695,,2443732,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,813,,496733,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5250,,3298518,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1682,,1135151,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7518,,4589010,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4062,,2375200,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,414,Kuwait,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2081,,1890270,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,298,,175928,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,7124,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,215,,515967,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,648,,588609,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,469,,479540,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3126,,2624205,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2668,,2021676,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,958,,946656,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1131,,743526,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,414,Kuwait,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,55899,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,414,Kuwait,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1622,,1321032,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,414,Kuwait,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1397,,1064106,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,414,Kuwait,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29,,15110,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,414,Kuwait,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,13559,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,414,Kuwait,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,21341,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,414,Kuwait,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,202,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,414,Kuwait,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,2223,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,414,Kuwait,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,93511,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,414,Kuwait,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,669,,3095721,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1801,,469125,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2025,,499491,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1391,,384458,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,195,,121790,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,27854,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,382,,139916,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3490,,1117206,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,115071,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2025,,662273,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,355,,213285,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,414,Kuwait,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1659,,343796,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,414,Kuwait,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,141,,142307,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,414,Kuwait,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,632298,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,414,Kuwait,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,64990,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,414,Kuwait,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,88921,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,414,Kuwait,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,36033,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,414,Kuwait,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,740,,110323,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,414,Kuwait,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,26727,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,414,Kuwait,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,755,,872232,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,414,Kuwait,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,245,,43838,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,414,Kuwait,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,95849,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,414,Kuwait,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,102989,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,414,Kuwait,,400,Jordan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1146,,92264,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,414,Kuwait,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,615,,303566,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,414,Kuwait,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,412,,206342,,,0

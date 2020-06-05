@@ -21,9 +21,10 @@ import pandas as pd
 
 # Relative folder path to the executable dataCleaning.py file
 dirname = os.path.dirname(__file__)
-csv_loc = os.path.join(dirname, 'CSVFiles')
 
 year = str(sys.argv[1])
+
+csv_loc = os.path.join(dirname, 'CSVFiles', year)
 
 
 def sniffValidCSV(csv_name: str, csv_folder: str) -> None:

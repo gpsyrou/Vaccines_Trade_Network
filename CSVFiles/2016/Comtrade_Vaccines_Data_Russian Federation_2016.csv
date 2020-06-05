@@ -1,0 +1,229 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201604,April 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18275,,14906277,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3512,,1832062,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,38549,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2347,,1129531,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,643,Russian Federation,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1067,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,843,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1745,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,643,Russian Federation,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1454,,2053945,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,333,,128494,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,102464,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,2786,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,78,,6670,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,753,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7926,,3151797,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1846,,2264181,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,54,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,37,,39083,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,215,,146236,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4476,,1916283,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7855,,15840086,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,5331,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,276,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,643,Russian Federation,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,428,,5196144,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,891,,422661,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,643,Russian Federation,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4690,,7957100,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,25291,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1011,,554989,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,643,Russian Federation,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,16900,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,643,Russian Federation,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,510,,202356,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,643,Russian Federation,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,7560,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,643,Russian Federation,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,429,,167748,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,643,Russian Federation,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,160425,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7926,,3151797,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1106,,921709,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5408,,4234759,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,645,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,405,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,169,,304118,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11220,,16185571,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,643,Russian Federation,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8697,,14750449,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4239,,1680000,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,591,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,428,Latvia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,12378,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,306,,119196,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,541,,211344,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,624,Guinea-Bissau,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,111,,43344,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,8400,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,1932,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,195300,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,1520,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,854,Burkina Faso,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,782,,304668,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2649,,1104295,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,417,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,293,,7729,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2616,,302202,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6594,,2698414,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6720,,3460442,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,643,Russian Federation,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,2461,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,27549,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,150298,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2465,,1597970,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,92,,33042,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8404,,13118721,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,174,,469818,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,831,,324240,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,140,Central African Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,277,,108528,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,3400,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,466,Mali,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,705,,274260,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,924,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,167,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,237600,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,643,Russian Federation,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,47,,1186,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5403,,8422530,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,229,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,207,,7509,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3616,,2990045,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4580,,7402758,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10079,,4513474,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1030,,28806,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,3620,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,142,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,2829,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2860,,1093512,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,968,,1785957,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,174,,325150,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,608,Philippines,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,129,,50400,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,643,Russian Federation,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,51828,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2364,,924000,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,91875,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1333,,520800,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,108,,87978,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,646,Rwanda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,37296,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,15974,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,2179,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1680,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,96,,7270,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,643,Russian Federation,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,10960,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,49,,1414,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,23772,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2951,,2187906,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,121,,64221,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,643,Russian Federation,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2562,,14321434,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18010,,4447303,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22118,,6934479,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1731,,247924,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1373,,1872311,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6466,,3077117,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12921,,5124095,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3208,,3077023,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,540,,312084,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6239,,2539399,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2967,,2568184,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,170,,326132,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2442,,2276723,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11055,,6732620,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,105,,17270,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,16582,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2147,,1378781,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,96,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33071,,21539063,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,12992,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,9356,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,252,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3092,,1207920,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,1876,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,430,Liberia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,31892,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,3149,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,510,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,275,State of Palestine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,469,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,320,Guatemala,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,4325,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,140700,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,757,,330457,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,148,Chad,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,709,,309540,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,182,,79449,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3547,,1547700,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,23075,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,59,,689,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,307000,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,104,,184000,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,745,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,8400,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,95761,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,364,Iran,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5967,,850278,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3226,,1407000,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,120,Cameroon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,216,,94550,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1333,,571750,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,418,Lao People's Dem. Rep.,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,420,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,1445,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3173,,1207920,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,3725,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,15000,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,1893,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,643,Russian Federation,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,511,,199332,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,643,Russian Federation,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,187,,124800,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15411,,10637732,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2449,,330748,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2533,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2527,,428674,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,52410,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,440,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,643,Russian Federation,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10304,,4362360,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9997,,2769614,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,643,Russian Federation,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,4375,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,24109,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,66,,2734,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,323,,140700,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,115,,77287,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,562,Niger,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,59858,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,566,Nigeria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4049,,1575924,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,690,Seychelles,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,47894,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,694,Sierra Leone,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,103,,44930,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,715,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,5081,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,384,Côte d'Ivoire,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,538,,360086,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,268,Georgia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,4400,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,145,,56280,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,24,Angola,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1233,,481488,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,11929,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,440,Lithuania,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,2383,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,496,Mongolia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,1344,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,5482,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,233,,411975,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,16500,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,71,,182706,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8227,,2731003,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21928,,2805953,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,595,,874824,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22813,,3907561,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,204,Benin,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,94788,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,454,Malawi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,15365,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,266,Gabon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,33096,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,324,Guinea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,43,,55894,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,706,Somalia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,4465,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,703,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4575,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,11437,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,173,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,170,,309951,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,31,Azerbaijan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28,,868,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1864,,1082171,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,646,,822544,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,38,,3517,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,51,Armenia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,4249,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,643,Russian Federation,,417,Kyrgyzstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,137,,29840,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,403,,739643,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,804,Ukraine,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,16287,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,398,Kazakhstan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,927,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8874,,3558362,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,112,Belarus,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,27425,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,643,Russian Federation,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9016,,3819726,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,860,Uzbekistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,105,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,643,Russian Federation,,498,Rep. of Moldova,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,7090,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,28475,,5825508,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2061,,838902,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,643,Russian Federation,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1824,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2046,,1646450,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,643,Russian Federation,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4232,,4755757,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,643,Russian Federation,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,213,,464243,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,643,Russian Federation,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,662,,1055373,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,643,Russian Federation,,899,"Areas, nes",,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,6290,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,422,Lebanon,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,11120,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,558,Nicaragua,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,294,,540001,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,678,Sao Tome and Principe,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1680,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,762,Tajikistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,1415,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,795,Turkmenistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8,,3117,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,800,Uganda,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1537,,600264,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,643,Russian Federation,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,318,,595000,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,643,Russian Federation,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2909,,4663149,,,0

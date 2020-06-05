@@ -1,0 +1,69 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201604,April 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,293,,333517,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,496,,37419,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,207,,319519,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,15557,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1176,,706013,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1134,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,196,Cyprus,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1134,,,0
+HS,2016,201604,April 2016,6,1,3,Re-exports,196,Cyprus,,807,TFYR of Macedonia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1134,,,0
+HS,2016,201604,April 2016,6,1,3,Re-exports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,1134,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1794,,1431041,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,406,,30540,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,653,,1319062,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,735,,81439,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4180,,1062818,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,331,,197221,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,417114,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,496,,37000,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,748,,276680,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2370,,134803,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,633,,276984,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,81673,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,67873,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,170,,72633,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,280,,54805,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3091,,998886,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,189,,211900,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,276,,309359,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1109,,185543,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,477,,172351,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,320,,8365,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,196,Cyprus,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,720,,111368,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,847,,209372,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,5888,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,19498,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,610,,162154,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,200,,21831,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,646,,423158,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,37205,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,250059,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,310,,69625,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,65,,66269,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3446,,2240577,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,378,,310585,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1218,,1833996,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1850,,95996,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,901,,422896,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,104341,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,18,,1188,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,532,,284168,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,33199,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1822,,1698728,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,545,,348493,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,196,Cyprus,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,999,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,631,,1282636,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,632,,66600,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1550,,444620,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,72,,65896,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,61181,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,985,,245430,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,410,,70309,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,1803,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,196,Cyprus,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1669,,1603227,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,196,Cyprus,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,159,,153146,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,196,Cyprus,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,32,,23245,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,196,Cyprus,,300,Greece,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1292,,1410194,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,196,Cyprus,,348,Hungary,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,8222,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,196,Cyprus,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,123,,7893,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,196,Cyprus,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,527,,,0

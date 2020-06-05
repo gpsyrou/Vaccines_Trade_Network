@@ -1,0 +1,100 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201603,March 2016,6,1,2,Exports,800,Uganda,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,297,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,800,Uganda,,108,Burundi,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50700,,36586,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,800,Uganda,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,40,,14327,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,800,Uganda,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5522,,4956168,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,800,Uganda,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1757,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,800,Uganda,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,338,,19853,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,800,Uganda,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,12695,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,800,Uganda,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10254,,3142924,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,800,Uganda,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,453,,161326,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,800,Uganda,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,328,,17678,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10922,,4549561,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20500,,10876,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11000,,5260,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9369,,5270065,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1593,,329994,,,0
+HS,2016,201601,January 2016,6,1,3,Re-exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,1668,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7087,,5165,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7000,,4153,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10400,,9815674,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12670,,3468348,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23408,,9255795,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17619,,1807698,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12400,,24241,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11500,,18830,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4511,,2646691,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11000,,12598,,,0
+HS,2016,201611,November 2016,6,1,3,Re-exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44831,,233142,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52831,,239396,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12751,,1056537,,,0
+HS,2016,201602,February 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50700,,36586,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13718,,951199,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35345,,15176779,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9625,,17225,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10800,,23969,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,800,Uganda,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2793,,203573,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,800,Uganda,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44831,,233142,,,0
+HS,2016,201611,November 2016,6,1,3,Re-exports,800,Uganda,,180,Dem.Rep. of the Congo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44831,,233142,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6334,,3570828,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,999,,69872,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,374,,30000,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4412,,414463,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11920,,1220939,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,196,,16259,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2002,,203679,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,797,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11949,,924782,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12522,,758697,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,26360,,5092026,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,800,Uganda,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2397,,154749,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,12439,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,134,,16005,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,324,,86055,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,720,,184763,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,180,,46291,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,541,,89322,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,366,,42837,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,197,,34799,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,193,,11533,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25,,13381,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,800,Uganda,,404,Kenya,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,212,,29093,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,800,Uganda,,586,Pakistan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,176,,23160,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,800,Uganda,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,50,,21698,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,800,Uganda,,686,Senegal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,100,,80000,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1526,,276470,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,254,,29393,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,442,,79424,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,194,,52519,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1854,,266329,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,257,,21261,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,300,,31436,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,354,,44270,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,522,,73333,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,800,Uganda,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,7035,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,800,Uganda,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2861,,761890,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,800,Uganda,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,60,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,800,Uganda,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2113,,822701,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,800,Uganda,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,301,,16312,,,0
+HS,2016,201612,December 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9600,,3844,,,0
+HS,2016,201606,June 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10800,,23969,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12400,,24241,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11000,,18533,,,0
+HS,2016,201607,July 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11000,,12598,,,0
+HS,2016,201611,November 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8000,,6254,,,0
+HS,2016,201605,May 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20500,,10876,,,0
+HS,2016,201604,April 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11000,,5260,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7087,,5165,,,0
+HS,2016,201601,January 2016,6,1,3,Re-exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,1668,,,0
+HS,2016,201609,September 2016,6,1,2,Exports,800,Uganda,,728,South Sudan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7000,,4153,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,800,Uganda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5500,,4943923,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,800,Uganda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,689,,753430,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,800,Uganda,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5302,,9277340,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1107,,997392,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2714,,228020,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4824,,9135267,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5219,,509032,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,800,Uganda,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15108,,3997611,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,800,Uganda,,392,Japan,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,584,,83145,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,800,Uganda,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2904,,609824,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,800,Uganda,,643,Russian Federation,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,252,,52686,,,0

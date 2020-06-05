@@ -1,0 +1,46 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201601,January 2016,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,290,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,3627,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,3917,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1,,,0
+HS,2016,201601,January 2016,6,1,2,Exports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,1,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,191,,32703,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,4006,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,153,,27737,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,96,Brunei Darussalam,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,960,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,551,,61235,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,96,Brunei Darussalam,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,8179,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,11092,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,275,,41963,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,378,,28167,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,96,Brunei Darussalam,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,270,,8324,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,96,Brunei Darussalam,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,13055,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,51,,3423,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,96,Brunei Darussalam,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,3364,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,250,,53617,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,3722,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,243,,48926,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,96,Brunei Darussalam,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,969,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,618,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,618,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,9439,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,22,,9439,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,220,,83242,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,56,,62348,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,978,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,163,,19787,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,96,Brunei Darussalam,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,129,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,96,Brunei Darussalam,,682,Saudi Arabia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,293,,,0
+HS,2016,201608,August 2016,6,1,2,Exports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,293,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,7864,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,96,Brunei Darussalam,,702,Singapore,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,751,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,45,,7113,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1821,,69534,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1791,,62677,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,96,Brunei Darussalam,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,30,,6857,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,6,,,0
+HS,2016,201610,October 2016,6,1,2,Exports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,6,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1126,,25545,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,96,Brunei Darussalam,,458,Malaysia,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1126,,25545,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,96,Brunei Darussalam,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1953,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,96,Brunei Darussalam,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6,,1953,,,0

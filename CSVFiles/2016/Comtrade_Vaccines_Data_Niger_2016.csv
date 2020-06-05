@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201601,January 2016,6,1,1,Imports,562,Niger,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,5743,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,562,Niger,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,130,,5743,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,562,Niger,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,61,,6823,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,562,Niger,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,20,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,562,Niger,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,5599,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,562,Niger,,818,Egypt,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,1204,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,562,Niger,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,235,,24244,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,562,Niger,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,148,,8312,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,562,Niger,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,9749,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,562,Niger,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,6182,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,562,Niger,,768,Togo,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,25380,,,0
+HS,2016,201603,March 2016,6,1,2,Exports,562,Niger,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,292,,25380,,,0

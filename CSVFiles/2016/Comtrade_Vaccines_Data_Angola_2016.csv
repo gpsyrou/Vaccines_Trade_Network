@@ -1,0 +1,57 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201608,August 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36885,,6871506,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14435,,1463653,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,26817,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2050,,666555,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29130,,2846818,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2806,,1729415,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,870,,305830,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5946,,480108,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1051,,515893,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35442,,3498939,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29776,,8600972,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,24,Angola,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,212,,79094,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,24,Angola,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,161,,13622,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,24,Angola,,76,Brazil,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,107,,134386,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1285,,67251,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,833,,70101,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,24,Angola,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6453,,588658,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,24,Angola,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2005,,321260,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,24,Angola,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2224,,1276862,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,24,Angola,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2663,,1580634,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,24,Angola,,192,Cuba,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1863,,312891,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,12,,2363,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,192,,56378,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,144,,49260,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,332,,89080,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,132,,33112,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,726,,226778,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,142,,51834,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,54,,20711,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,101,,20896,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,24,Angola,,710,South Africa,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,75,,25220,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,24,Angola,,100,Bulgaria,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,718,,292305,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,24,Angola,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,86,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,24,Angola,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25632,,4561555,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,24,Angola,,784,United Arab Emirates,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,86,,34521,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,24,Angola,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6884,,301383,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,24,Angola,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,255,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,24,Angola,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,0,,9,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3740,,611347,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,1342,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1260,,427866,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,89,,128070,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1085,,563334,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,44532,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,205,,36495,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,333,,223588,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,29603,,8584987,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,282,,310161,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,24,Angola,,620,Portugal,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,68,,29833,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,24,Angola,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4147,,752035,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,24,Angola,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7181,,1609524,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,24,Angola,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3732,,78802,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,24,Angola,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7089,,1609055,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,24,Angola,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21319,,800299,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,24,Angola,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,25646,,1142089,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,24,Angola,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,13,,828,,,0

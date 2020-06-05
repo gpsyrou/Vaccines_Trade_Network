@@ -1,0 +1,86 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201606,June 2016,6,1,1,Imports,222,El Salvador,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,650,,16876,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,24,,3347,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1724,,148449,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,499,,96737,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,352,,17460,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,222,El Salvador,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,865,,29176,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,222,El Salvador,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9,,5075,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,5073,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,222,El Salvador,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,91,,13498,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,222,El Salvador,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,4578,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1061,,182910,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,222,El Salvador,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,316,,33659,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,69,,20328,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,222,El Salvador,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,385,,10206,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1474,,167702,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1617,,383168,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,505,,40596,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,222,El Salvador,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,264,,55172,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,162500,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,222,El Salvador,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,17,,13368,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,222,El Salvador,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,73,,14278,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,222,El Salvador,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,551,,70011,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,222,El Salvador,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,67,,16844,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,10398,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,500,,45740,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,222,El Salvador,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,55,,32115,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,222,El Salvador,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,148,,25653,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,222,El Salvador,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1090,,157816,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,222,El Salvador,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1435,,47321,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,20,,4341,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1379,,84387,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,222,El Salvador,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,62,,11267,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,222,El Salvador,,724,Spain,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,5290,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,222,El Salvador,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,42,,8590,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3662,,265848,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,216,,38905,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,222,El Salvador,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,503,,65747,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,9565,,1089929,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1393,,90550,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,418,,142664,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,222,El Salvador,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,10,,4852,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,222,El Salvador,,484,Mexico,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,279,,39594,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,222,El Salvador,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7408,,804936,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,58,,7333,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,76,,8422,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,222,El Salvador,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,70,,17012,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,222,El Salvador,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,21,,17719,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,222,El Salvador,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,138,,22793,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,153,,28297,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6483,,717721,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6025,,623479,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1880,,217586,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,746,,63381,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,222,El Salvador,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,256,,52052,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,74,,8406,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,222,El Salvador,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,25418,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,768,,68330,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4554,,2044144,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,678,,36610,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,222,El Salvador,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,288,,62679,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,27,,6643,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,222,El Salvador,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,25915,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,222,El Salvador,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,311,,227066,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,222,El Salvador,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,304,,34728,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2903,,1650503,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,8593,,4798780,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,113,,114396,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,124,Canada,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,23,,1837,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,472,,92948,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,39,,32070,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,45361,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,410,Rep. of Korea,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,35,,7512,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,868,,130418,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,704,,104365,,,0
+HS,2016,201610,October 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6142,,4269873,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,222,El Salvador,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,927,,159761,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5003,,537488,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1068,,66217,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,222,El Salvador,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,33,,7449,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,222,El Salvador,,699,India,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3808,,441334,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,222,El Salvador,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,22488,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,222,El Salvador,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,364,,130142,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,222,El Salvador,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,6680,,1514955,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,222,El Salvador,,56,Belgium,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4440,,1181470,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,222,El Salvador,,372,Ireland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,112,,25304,,,0

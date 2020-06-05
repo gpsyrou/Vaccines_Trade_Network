@@ -80,7 +80,7 @@ def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
 
 def groupNodesAndAggregate(df, compute_value_per_kg = True)  -> pd.core.frame.DataFrame:
     
-    net_df = df.groupby(['Reporter','Partner','Trade Flow']).agg(
+    net_df = df.groupby(['Reporter','Partner','Trade Flow','Year']).agg(
         {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
     
     # Here we will introduce a new feature which is the Price/Kg.

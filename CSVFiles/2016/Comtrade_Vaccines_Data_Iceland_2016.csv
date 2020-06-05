@@ -1,0 +1,43 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2016,201608,August 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1507,,323086,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,985,,300626,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,352,Iceland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,116,,21540,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,543,,,0
+HS,2016,201608,August 2016,6,1,1,Imports,352,Iceland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,405,,378,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,41,,47480,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,36,,45408,,,0
+HS,2016,201611,November 2016,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,2072,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,208986,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,82,,184372,,,0
+HS,2016,201601,January 2016,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,24614,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,242,,39586,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,352,Iceland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,198,,35426,,,0
+HS,2016,201602,February 2016,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,44,,4160,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,224,,114350,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,102,,94501,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,352,Iceland,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,16,,6471,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,7283,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,352,Iceland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,434,,,0
+HS,2016,201603,March 2016,6,1,1,Imports,352,Iceland,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,57,,5661,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,88,,95002,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,87,,94484,,,0
+HS,2016,201604,April 2016,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,518,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,53,,94314,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,52,,94186,,,0
+HS,2016,201605,May 2016,6,1,1,Imports,352,Iceland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,128,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,99,,117290,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,94,,94692,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,4,,22044,,,0
+HS,2016,201606,June 2016,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,554,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,85,,93498,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,84,,92972,,,0
+HS,2016,201607,July 2016,6,1,1,Imports,352,Iceland,,752,Sweden,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,527,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,252,,138075,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,201,,112014,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,352,Iceland,,276,Germany,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,5498,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,352,Iceland,,528,Netherlands,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,10106,,,0
+HS,2016,201609,September 2016,6,1,1,Imports,352,Iceland,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,48,,10457,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,352,Iceland,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,97,,93353,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,352,Iceland,,208,Denmark,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,81,,87822,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,352,Iceland,,757,Switzerland,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,15,,5299,,,0
+HS,2016,201612,December 2016,6,1,1,Imports,352,Iceland,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,1,,233,,,0
