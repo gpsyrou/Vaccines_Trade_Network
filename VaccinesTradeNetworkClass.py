@@ -40,8 +40,33 @@ class VaccinesTradeNetwork:
         return self.country_df
 
 
-    def generateCountryGraph(self, tradeflow: str, source: str, target: str,
-                             agg: bool) -> nx.classes.digraph.DiGraph:
+    def createFlowDF(self, tradeflow: str, source: str, target: str):
+        
+        self.tradeflow  = tradeflow
+        self.source = source
+        self.target = target
+        
+        if self.tradeflow == 'Imports':
+            self.opposite_flow = 'Exports'
+        else:
+            self.opposite_flow = 'Imports'
+
+        self.filtered_df = self.createCountrySpecificDF().copy(deep=True)
+        
+        self.filtered_df = self.filtered_df[((self.filtered_df['Trade Flow']==self.tradeflow) &
+                                             (self.filtered_df['Reporter']==self.country)) | 
+                                            ((self.filtered_df['Trade Flow']==self.opposite_flow) &
+                                             (self.filtered_df['Partner']==self.country))]
+
+        self.filtered_df[[self.source, self.target]] = self.filtered_df[[self.target,
+                        self.source]].where(self.filtered_df['Trade Flow'] == self.opposite_flow,
+                        self.filtered_df[[self.source, self.target]].values)
+                                            
+        self.filtered_df['Trade Flow'].replace({self.tradeflow: self.tradeflow, self.opposite_flow: self.tradeflow}, inplace=True)  
+        
+        return self.filtered_df
+
+    def generateCountryGraph(self, agg: bool) -> nx.classes.digraph.DiGraph:
         '''
         Creates  a graph object based on the trade flow, and the source and target
         node directions for the directed graph. Each edge represents a country (Node A) that is either
@@ -69,31 +94,9 @@ class VaccinesTradeNetwork:
             CountryGraph: nx.classes.digraph.DiGraph object containing the graph of the network.
         '''
 
-        self.tradeflow  = tradeflow
-        self.source = source
-        self.target = target
         self.agg = agg
-        
-        if self.tradeflow == 'Imports':
-            self.opposite_flow = 'Exports'
-        else:
-            self.opposite_flow = 'Imports'
 
-        self.filtered_df = self.createCountrySpecificDF().copy(deep=True)
-        
-        self.filtered_df = self.filtered_df[((self.filtered_df['Trade Flow']==self.tradeflow) &
-                                             (self.filtered_df['Reporter']==self.country)) | 
-                                            ((self.filtered_df['Trade Flow']==self.opposite_flow) &
-                                             (self.filtered_df['Partner']==self.country))]
-
-        self.filtered_df[[self.source, self.target]] = self.filtered_df[[self.target,
-                        self.source]].where(self.filtered_df['Trade Flow'] == self.opposite_flow,
-                        self.filtered_df[[self.source, self.target]].values)
-                                            
-        self.filtered_df['Trade Flow'].replace({self.tradeflow: self.tradeflow, self.opposite_flow: self.tradeflow}, inplace=True)  
-
-
-        if self.agg  is True:
+        if agg  is True:
             self.filtered_df= tnf.groupNodesAndAggregate(self.filtered_df,
                                                          compute_value_per_kg=True)
         
@@ -121,20 +124,9 @@ class VaccinesTradeNetwork:
         self.tdv_norm = [int(((x - np.min(self.tradevalue_w)) / (np.max(self.tradevalue_w) - 
                      np.min(self.tradevalue_w)) + 0.6 )* 4) for x in self.tradevalue_w]
         
-        graph = self.generateCountryGraph(self.tradeflow, self.source,
-                                          self.target, self.agg )
+        graph = self.generateCountryGraph(self.agg)
         
         nx.draw_networkx(graph, node_size=550, font_size=8, width=self.tdv_norm)
         
         plt.title(f'Network of {self.tradeflow} for {self.country}',
                   fontsize=16)
-
-'''
-df_i = VaccinesTradeNetwork(network_df, country='Greece')
-
-G = df_i.generateCountryGraph(tradeflow='Exports', source='Reporter', target='Partner')
-
-df_i.plotCountryGraph()
-f = df_i.country_df
-f = df_i.filtered_df
-'''

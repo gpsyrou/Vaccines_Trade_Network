@@ -36,8 +36,6 @@ maindf = pd.concat([pd.read_csv(os.path.join(csv_files_loc,
 
 summary = maindf.describe()
 
-year = 2018
-
 # As we can see from the summary, few of the features does not seem to provide
 # useful information for our analysis, as they either contain only empty values (e.g. 'Qty')
 # or they contain fixed values (e.g.'Aggregate Level'). Therefore we will exclude
@@ -148,9 +146,44 @@ greece = VaccinesTradeNetwork(network_df, country='Greece')
 # Dataframe with all data for a specific country
 gr_df = greece.createCountrySpecificDF()
 
-graph = greece.generateCountryGraph(tradeflow='Imports', source='Reporter',
-                            target='Partner', agg=True)
+graph = greece.generateCountryGraph(agg=True)
 
 
 greece.plotCountryGraph()
 greece.filtered_df
+
+
+
+# Part 3: Time Series Analysis
+
+
+greece = VaccinesTradeNetwork(df, country='Greece')
+
+gr_flow_df = greece.createFlowDF(tradeflow='Imports',
+                                     source='Reporter', target='Partner')
+
+
+agg_scores_greece = tnf.groupNodesAndAggregate(gr_flow_df)
+agg_scores_greece['Period'] = agg_scores_greece['Year'].map(lambda x: str(x) + '-12-31')
+agg_scores_greece.set_index(pd.to_datetime(agg_scores_greece['Period']), inplace=True)
+
+gr_ts = agg_scores_greece[agg_scores_greece['Partner'] == 'Austria']['Trade Value (US$)']
+gr_ts_2 = agg_scores_greece[agg_scores_greece['Partner'] == 'Belgium']['Trade Value (US$)']
+
+plt.figure(figsize=(8,4))
+ax1 = gr_ts.plot(color='blue', grid=True, label='Austria')
+ax2 = gr_ts_2.plot(color='red', grid=True, label='Belgium')
+plt.legend(loc='best', shadow=True, fontsize='medium')
+plt.show()
+
+
+agg_scores_greece['Trade Value (US$)'].plot()
+
+from plotly.offline import plot
+import plotly.graph_objects as go
+fig = go.Figure([go.Scatter(x = agg_scores_greece['Period'], y = agg_scores_greece['Trade Value (US$)'] )])
+plot(fig)
+
+
+
+
