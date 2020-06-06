@@ -1,9 +1,0 @@
-Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-HS,2016,201601,January 2016,6,1,1,Imports,670,Saint Vincent and the Grenadines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,7,,576,,,0
-HS,2016,201601,January 2016,6,1,1,Imports,670,Saint Vincent and the Grenadines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,5,,276,,,0
-HS,2016,201601,January 2016,6,1,1,Imports,670,Saint Vincent and the Grenadines,,826,United Kingdom,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,300,,,0
-HS,2016,201603,March 2016,6,1,1,Imports,670,Saint Vincent and the Grenadines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,122,,,0
-HS,2016,201603,March 2016,6,1,1,Imports,670,Saint Vincent and the Grenadines,,84,Belize,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,2,,122,,,0
-HS,2016,201604,April 2016,6,1,1,Imports,670,Saint Vincent and the Grenadines,,0,World,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,14,,835,,,0
-HS,2016,201604,April 2016,6,1,1,Imports,670,Saint Vincent and the Grenadines,,251,France,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,11,,775,,,0
-HS,2016,201604,April 2016,6,1,1,Imports,670,Saint Vincent and the Grenadines,,842,United States of America,,,,,,,,,300220,Vaccines; for human medicine,,,,,,,3,,60,,,0
