@@ -79,16 +79,22 @@ def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
     plt.show()
 
 
-def groupNodesAndAggregate(df, compute_value_per_kg = True)  -> pd.core.frame.DataFrame:
+def groupNodesAndAggregate(df, how='year', compute_value_per_kg=True)  -> pd.core.frame.DataFrame:
     
-    net_df = df.groupby(['Reporter','Partner','Trade Flow','Year']).agg(
-        {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
-    
-    # Here we will introduce a new feature which is the Price/Kg.
-    if compute_value_per_kg:
-        net_df['Value_Per_Kg'] = net_df['Trade Value (US$)']/net_df['Netweight (kg)']
-        net_df['Value_Per_Kg'].replace([np.inf, -np.inf], 0, inplace=True)
+    if how == 'year':
+        dff = df.groupby(['Reporter','Partner','Trade Flow','Year']).agg(
+            {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
+    elif how == 'month':
+        dff = df.groupby(['Reporter','Partner','Trade Flow','Period']).agg(
+            {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
     else:
-        pass
-    
-    return net_df
+        raise ValueError('Incorrect timeframe - Please pick \'month\' or \'year\'')
+
+     # Here we will introduce a new feature which is the Price/Kg.
+    if compute_value_per_kg:
+        dff['Value_Per_Kg'] = dff['Trade Value (US$)']/dff['Netweight (kg)']
+        dff['Value_Per_Kg'].replace([np.inf, -np.inf], 0, inplace=True)
+    else:
+        pass       
+        
+    return dff

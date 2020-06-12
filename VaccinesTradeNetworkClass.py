@@ -99,6 +99,7 @@ class VaccinesTradeNetwork:
 
         if agg  is True:
             self.filtered_df= tnf.groupNodesAndAggregate(self.filtered_df,
+                                                         how='year',
                                                          compute_value_per_kg=True)
         
         self.CountryGraph = nx.from_pandas_edgelist(self.filtered_df,
@@ -149,11 +150,11 @@ class VaccinesTradeNetwork:
             df = self.filtered_df
             
         if timeframe == 'year':
-            df = tnf.groupNodesAndAggregate(df)
+            df = tnf.groupNodesAndAggregate(df, how='year')
             df['Period'] = df['Year'].map(lambda x: str(x) + '-12-31')
             df.set_index(pd.to_datetime(df['Period']), inplace=True)
         elif timeframe == 'month':
-            pass
+            df = tnf.groupNodesAndAggregate(df, how='month')
         else:
             raise ValueError('Incorrect timeframe - Please pick \'month\' or \'year\'')
         
