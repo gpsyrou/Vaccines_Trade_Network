@@ -14,6 +14,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
                      kind: str, year: str) -> pd.core.frame.DataFrame:
     '''

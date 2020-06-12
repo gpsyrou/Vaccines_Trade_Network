@@ -163,6 +163,10 @@ gr_flow_df = greece.createFlowDF(tradeflow='Imports',
                                      source='Reporter', target='Partner')
 
 
+test = greece.generateTimeSeries(partner_country='all', timeframe='year')
+
+
+
 agg_scores_greece = tnf.groupNodesAndAggregate(gr_flow_df)
 agg_scores_greece['Period'] = agg_scores_greece['Year'].map(lambda x: str(x) + '-12-31')
 agg_scores_greece.set_index(pd.to_datetime(agg_scores_greece['Period']), inplace=True)

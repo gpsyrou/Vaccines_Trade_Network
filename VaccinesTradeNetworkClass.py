@@ -41,7 +41,28 @@ class VaccinesTradeNetwork:
 
 
     def createFlowDF(self, tradeflow: str, source: str, target: str):
+        '''
+        Creates  a dataframe on the trade flow, and the source and target
+        node directions for the directed graph. Each edge represents a country (Node A) that is either
+        importing or exporting to another country (Node B).
         
+        Therefore we will have cases like: NodeA ---> NodeB (A exports to B)
+                                           NodeA <--- NodeB (A imports from B)
+        
+        Import tag:
+            Country in Reporter , 'Imports' in flow
+            Country in Partner,   'Exports' in flow
+        
+        Export tag:
+            Country in Reporter, 'Exports' in flow
+            Country in Partner,  'Imports' in flow
+            
+        Args:
+        ----
+            tradeflow: 'Imports' or 'Exports' -> Indicating the flow of interest for the base node (NodeA)
+            source: Default is 'Reporter'. It can change to 'Partner' if we want to change the direction.
+            target: Default is 'Partner'. It can change to 'Reporter' if we want to change the direction.
+        '''
         self.tradeflow  = tradeflow
         self.source = source
         self.target = target
@@ -68,27 +89,7 @@ class VaccinesTradeNetwork:
 
     def generateCountryGraph(self, agg: bool) -> nx.classes.digraph.DiGraph:
         '''
-        Creates  a graph object based on the trade flow, and the source and target
-        node directions for the directed graph. Each edge represents a country (Node A) that is either
-        importing or exporting to another country (Node B).
-        
-        Therefore we will have cases like: NodeA ---> NodeB (A exports to B)
-                                           NodeA <--- NodeB (A imports from B)
-        
-        Import tag:
-            Country in Reporter , 'Imports' in flow
-            Country in Partner,   'Exports' in flow
-        
-        Export tag:
-            Country in Reporter, 'Exports' in flow
-            Country in Partner,  'Imports' in flow
-            
-        Args:
-        ----
-            tradeflow: 'Imports' or 'Exports' -> Indicating the flow of interest for the base node (NodeA)
-            source: Default is 'Reporter'. It can change to 'Partner' if we want to change the direction.
-            target: Default is 'Partner'. It can change to 'Reporter' if we want to change the direction.
-            
+        Generates a graph object for a specified country
         Returns:
         -------
             CountryGraph: nx.classes.digraph.DiGraph object containing the graph of the network.
@@ -130,3 +131,30 @@ class VaccinesTradeNetwork:
         
         plt.title(f'Network of {self.tradeflow} for {self.country}',
                   fontsize=16)
+        
+    def generateTimeSeries(self, partner_country='all', timeframe=None) -> pd.core.frame.DataFrame:
+        '''
+        Create a dataframe containing data for a specific partner country and 
+        for a predefined timeframe which can be either 'year' or 'month'.
+        
+        Args:
+        ----
+            partner_country: 'all' or name of Partner country
+            timeframe: 'month' or 'year'
+        '''
+        
+        if partner_country!='all':
+            df = self.filtered_df[self.filtered_df['Partner'] == partner_country]
+        else:
+            df = self.filtered_df
+            
+        if timeframe == 'year':
+            df = tnf.groupNodesAndAggregate(df)
+            df['Period'] = df['Year'].map(lambda x: str(x) + '-12-31')
+            df.set_index(pd.to_datetime(df['Period']), inplace=True)
+        elif timeframe == 'month':
+            pass
+        else:
+            raise ValueError('Incorrect timeframe - Please pick \'month\' or \'year\'')
+        
+        return df
