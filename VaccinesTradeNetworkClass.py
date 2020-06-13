@@ -155,7 +155,9 @@ class VaccinesTradeNetwork:
             df.set_index(pd.to_datetime(df['Period']), inplace=True)
         elif timeframe == 'month':
             df = tnf.groupNodesAndAggregate(df, how='month')
+            df.set_index(pd.to_datetime(df['Period']), inplace=True)
         else:
             raise ValueError('Incorrect timeframe - Please pick \'month\' or \'year\'')
+
         
         return df

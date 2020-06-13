@@ -21,7 +21,7 @@ from VaccinesTradeNetworkClass import VaccinesTradeNetwork
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-project_dir = 'C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network'
+project_dir = '/Users/georgiosspyrou/Desktop/Comtrade_Network/Vaccines_Trade_Network'
 os.chdir(project_dir)# Read the csv file
 
 # Create a dataframe that contains data from all years
@@ -163,30 +163,23 @@ gr_flow_df = greece.createFlowDF(tradeflow='Imports',
                                      source='Reporter', target='Partner')
 
 
-test = greece.generateTimeSeries(partner_country='all', timeframe='year')
 
 
-
-agg_scores_greece = tnf.groupNodesAndAggregate(gr_flow_df)
-agg_scores_greece['Period'] = agg_scores_greece['Year'].map(lambda x: str(x) + '-12-31')
-agg_scores_greece.set_index(pd.to_datetime(agg_scores_greece['Period']), inplace=True)
-
-gr_ts = agg_scores_greece[agg_scores_greece['Partner'] == 'Austria']['Trade Value (US$)']
-gr_ts_2 = agg_scores_greece[agg_scores_greece['Partner'] == 'Belgium']['Trade Value (US$)']
-
-plt.figure(figsize=(8,4))
-ax1 = gr_ts.plot(color='blue', grid=True, label='Austria')
-ax2 = gr_ts_2.plot(color='red', grid=True, label='Belgium')
+plt.figure(figsize=(12,12))
+country_ls = list(gr_flow_df['Partner'].unique())
+for country in list(gr_flow_df['Partner'].unique()):
+    temp = greece.generateTimeSeries(partner_country=f'{country}', timeframe='month')
+    ts = temp['Trade Value (US$)']
+    ax1 = ts.plot(marker='.', color = np.random.rand(len(country_ls),3),
+                  grid=True, label=f'{country}')
 plt.legend(loc='best', shadow=True, fontsize='medium')
+plt.title('Greek imports of vaccines ')
+plt.xlabel('Year')
+plt.ylabel('Value of Imports')
 plt.show()
 
 
-agg_scores_greece['Trade Value (US$)'].plot()
 
-from plotly.offline import plot
-import plotly.graph_objects as go
-fig = go.Figure([go.Scatter(x = agg_scores_greece['Period'], y = agg_scores_greece['Trade Value (US$)'] )])
-plot(fig)
 
 
 
