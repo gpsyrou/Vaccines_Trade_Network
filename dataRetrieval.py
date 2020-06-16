@@ -79,7 +79,7 @@ json_data = json.loads(reporters_resp.text)
 
 reporters_list = [rep for rep in json_data['results']]
 # Get the data as separate csv files, each for every year of interest
-years_ls = [2011]
+years_ls = [2010]
 outputFilesFolder = f'CSVFiles\\'
 
 for api_check, repd in enumerate(reporters_list):
