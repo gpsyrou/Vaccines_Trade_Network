@@ -79,12 +79,12 @@ json_data = json.loads(reporters_resp.text)
 
 reporters_list = [rep for rep in json_data['results']]
 # Get the data as separate csv files, each for every year of interest
-years_ls = [2010]
+years_ls = [2019]
 outputFilesFolder = f'CSVFiles\\'
 
 for api_check, repd in enumerate(reporters_list):
     # Need to make the script to sleep every 100 calls, as the API is blocking us for an hour for every 100 calls.
-    if api_check !=0 and api_check % 70 == 0:
+    if api_check !=0 and api_check % 90 == 0:
         time.sleep(3600)
     countryname = repd['text']
     c_id = repd['id']
