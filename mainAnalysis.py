@@ -7,7 +7,7 @@
 -- Date:    29/03/2020
 -------------------------------------------------------------------
 """
-
+''
 # Import dependencies
 import os
 import pandas as pd
@@ -21,7 +21,7 @@ from VaccinesTradeNetworkClass import VaccinesTradeNetwork
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-project_dir = '/Users/georgiosspyrou/Desktop/Comtrade_Network/Vaccines_Trade_Network'
+project_dir = 'C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network'
 os.chdir(project_dir)# Read the csv file
 
 # Create a dataframe that contains data from all years
@@ -52,7 +52,7 @@ df = maindf[useful_features_ls]
 
 df.groupby(['Reporter']).size()
 df.groupby(['Partner']).size()
-
+ls_of_years = list(df.Year.unique())
 
 # We will consider both 'Re-imports' and 'Re-exports' as 'Imports' and 'Exports'
 # respectively and we will drop the entries where we dont have info about
@@ -166,21 +166,15 @@ gr_flow_df = greece.createFlowDF(tradeflow='Imports',
 
 
 plt.figure(figsize=(12,12))
-country_ls = list(gr_flow_df['Partner'].unique())
-for country in list(gr_flow_df['Partner'].unique()):
+country_ls = ['Belgium', 'Austria'] # list(gr_flow_df['Partner'].unique())
+for country in country_ls:
     temp = greece.generateTimeSeries(partner_country=f'{country}', timeframe='month')
     ts = temp['Trade Value (US$)']
     ax1 = ts.plot(marker='.', color = np.random.rand(len(country_ls),3),
                   grid=True, label=f'{country}')
 plt.legend(loc='best', shadow=True, fontsize='medium')
-plt.title('Greek imports of vaccines ')
+plt.title('Monthly imports of vaccines for Greece')
 plt.xlabel('Year')
 plt.ylabel('Value of Imports')
 plt.show()
-
-
-
-
-
-
 
