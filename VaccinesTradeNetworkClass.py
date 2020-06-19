@@ -150,6 +150,8 @@ class VaccinesTradeNetwork:
                 The returned dataframe used a 'Period' column as the index for the time series.
         '''
         
+        self.timeframe = timeframe
+        
         if partner_country!='all':
             df = self.filtered_df[self.filtered_df['Partner'] == partner_country]
         else:
@@ -168,15 +170,21 @@ class VaccinesTradeNetwork:
         
         return df
     
-    def plotTimeSeries(self, partner_list: List[str]) -> None:
-        plt.figure(figsize=(12,12))
+    def plotTimeSeries(self, partner_list: List[str], timeframe=None) -> None:
+        '''
+        Generate a Time Series plot for a single or a set of Partner countries.
+        '''
+        
+        self.timeframe = timeframe
+        
+        plt.figure(figsize=(5,8))
         for partner in partner_list:
-            temp = self.generateTimeSeries(partner_country=f'{partner}', timeframe='month')
+            temp = self.generateTimeSeries(partner_country=f'{partner}', timeframe=self.timeframe)
             ts = temp['Trade Value (US$)']
             ts.plot(marker='.', color = np.random.rand(len(partner_list),3),
                           grid=True, label=f'{partner}')
         plt.legend(loc='best', shadow=True, fontsize='medium')
-        plt.title('Monthly imports of vaccines for Greece')
+        plt.title('Monthly imports of vaccines for {self.country}')
         plt.xlabel('Year')
         plt.ylabel('Trade Value of Imports')
         plt.show()
