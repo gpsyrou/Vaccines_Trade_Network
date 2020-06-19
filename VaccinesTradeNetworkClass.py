@@ -170,7 +170,7 @@ class VaccinesTradeNetwork:
         
         return df
     
-    def plotTimeSeries(self, partner_list: List[str], timeframe=None) -> None:
+    def plotTimeSeries(self, partner_list: List[str], timeframe='month') -> None:
         '''
         Generate a Time Series plot for a single or a set of Partner countries.
         '''
@@ -184,7 +184,7 @@ class VaccinesTradeNetwork:
             ts.plot(marker='.', color = np.random.rand(len(partner_list),3),
                           grid=True, label=f'{partner}')
         plt.legend(loc='best', shadow=True, fontsize='medium')
-        plt.title('Monthly imports of vaccines for {self.country}')
+        plt.title(f'Monthly imports of vaccines for {self.country}')
         plt.xlabel('Year')
         plt.ylabel('Trade Value of Imports')
         plt.show()
