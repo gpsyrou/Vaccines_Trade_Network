@@ -12,6 +12,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
+from typing import List
 
 from Functions import tradeNetworkFunctions as tnf
 
@@ -142,6 +143,11 @@ class VaccinesTradeNetwork:
         ----
             partner_country: 'all' or name of Partner country
             timeframe: 'month' or 'year'
+            
+        Returns:
+        -------
+            df: Dataframe containing data either for all Partner countries or a subset.
+                The returned dataframe used a 'Period' column as the index for the time series.
         '''
         
         if partner_country!='all':
@@ -161,3 +167,16 @@ class VaccinesTradeNetwork:
 
         
         return df
+    
+    def plotTimeSeries(self, partner_list: List[str]) -> None:
+        plt.figure(figsize=(12,12))
+        for partner in partner_list:
+            temp = self.generateTimeSeries(partner_country=f'{partner}', timeframe='month')
+            ts = temp['Trade Value (US$)']
+            ts.plot(marker='.', color = np.random.rand(len(partner_list),3),
+                          grid=True, label=f'{partner}')
+        plt.legend(loc='best', shadow=True, fontsize='medium')
+        plt.title('Monthly imports of vaccines for Greece')
+        plt.xlabel('Year')
+        plt.ylabel('Trade Value of Imports')
+        plt.show()

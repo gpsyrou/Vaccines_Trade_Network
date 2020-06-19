@@ -98,3 +98,5 @@ def groupNodesAndAggregate(df, how='year', compute_value_per_kg=True)  -> pd.cor
         pass       
         
     return dff
+
+

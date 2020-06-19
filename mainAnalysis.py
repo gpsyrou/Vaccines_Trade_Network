@@ -162,19 +162,6 @@ greece = VaccinesTradeNetwork(df, country='Greece')
 gr_flow_df = greece.createFlowDF(tradeflow='Imports',
                                      source='Reporter', target='Partner')
 
+greece.plotTimeSeries(partner_list=['Belgium', 'Austria'])
 
-
-
-plt.figure(figsize=(12,12))
-country_ls = ['Belgium', 'Austria'] # list(gr_flow_df['Partner'].unique())
-for country in country_ls:
-    temp = greece.generateTimeSeries(partner_country=f'{country}', timeframe='month')
-    ts = temp['Trade Value (US$)']
-    ax1 = ts.plot(marker='.', color = np.random.rand(len(country_ls),3),
-                  grid=True, label=f'{country}')
-plt.legend(loc='best', shadow=True, fontsize='medium')
-plt.title('Monthly imports of vaccines for Greece')
-plt.xlabel('Year')
-plt.ylabel('Value of Imports')
-plt.show()
 
