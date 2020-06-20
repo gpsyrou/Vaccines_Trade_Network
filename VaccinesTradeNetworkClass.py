@@ -12,6 +12,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import networkx as nx
+import random
 from typing import List
 
 from Functions import tradeNetworkFunctions as tnf
@@ -174,10 +175,10 @@ class VaccinesTradeNetwork:
         '''
         Generate a Time Series plot for a single or a set of Partner countries.
         '''
-        
+        np.random.seed(42)
         self.timeframe = timeframe
         
-        plt.figure(figsize=(5,8))
+        plt.figure(figsize=(8,4))
         for partner in partner_list:
             temp = self.generateTimeSeries(partner_country=f'{partner}', timeframe=self.timeframe)
             ts = temp['Trade Value (US$)']
