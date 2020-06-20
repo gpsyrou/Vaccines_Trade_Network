@@ -161,7 +161,7 @@ greece = VaccinesTradeNetwork(df, country='Greece')
 gr_flow_df = greece.createFlowDF(tradeflow='Imports',
                                      source='Reporter', target='Partner')
 
-greece.plotTimeSeries(partner_list=['Belgium', 'Austria', 'United Kingdom'])
+greece.plotTimeSeries(partner_list=['United Kingdom'])
 
 z = greece.generateTimeSeries(partner_country='United Kingdom',
                               timeframe='month')
