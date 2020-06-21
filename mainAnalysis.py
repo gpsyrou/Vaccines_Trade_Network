@@ -155,13 +155,48 @@ greece.filtered_df
 
 # Part 3: Time Series Analysis
 
+# Create an object for United Kingdom 
+united_kingdom = VaccinesTradeNetwork(df, country='United Kingdom')
+united_kingdom_imports_df = united_kingdom.createFlowDF(tradeflow='Imports',
+                                                        source='Reporter',
+                                                        target='Partner')
 
-greece = VaccinesTradeNetwork(df, country='Greece')
+united_kingdom_ts = united_kingdom.generateTimeSeries(partner_country='USA', timeframe='month')
+united_kingdom.plotTimeSeries(partner_list=['USA'], col='Trade Value (US$)', timeframe='month')
 
-gr_flow_df = greece.createFlowDF(tradeflow='Imports',
-                                     source='Reporter', target='Partner')
 
-greece.plotTimeSeries(partner_list=['United Kingdom'])
+united_kingdom_ts.shape
+# (120, 7)
 
-z = greece.generateTimeSeries(partner_country='United Kingdom',
-                              timeframe='month')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

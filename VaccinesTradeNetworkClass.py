@@ -139,6 +139,8 @@ class VaccinesTradeNetwork:
         Create a dataframe containing data for a specific partner country and 
         for a predefined timeframe which can be either 'year' or 'month'.
         
+        Note: A flow dataframe has to be initialized first.
+        
         Args:
         ----
             partner_country: 'all' or name of Partner country
@@ -170,17 +172,19 @@ class VaccinesTradeNetwork:
         
         return df
     
-    def plotTimeSeries(self, partner_list: List[str], timeframe='month') -> None:
+    def plotTimeSeries(self, partner_list: List[str], col='Trade Value (US$)',
+                       timeframe='month') -> None:
         '''
         Generate a Time Series plot for a single or a set of Partner countries.
         
         Args:
         ---
             partner_list: List of strings indicating the partner countries of interest
+            col: Name of the column that we want to plot the time series against
             timeframe: 'month' or 'year'
         '''
         
-        y_tick_pos = [x for x in range(1000000, 18000000, 1000000)]
+        #y_tick_pos = [x for x in range(1000000, 18000000, 1000000)]
         
         np.random.seed(42)
         self.timeframe = timeframe
@@ -188,12 +192,12 @@ class VaccinesTradeNetwork:
         plt.figure(figsize=(8,4))
         for partner in partner_list:
             temp = self.generateTimeSeries(partner_country=f'{partner}', timeframe=self.timeframe)
-            ts = temp['Trade Value (US$)']
+            ts = temp[col]
             ts.plot(marker='.', color = np.random.rand(len(partner_list),3),
-                          grid=True, label=f'{partner}')
+                          grid=True, linewidth=1, label=f'{partner}')
         plt.legend(loc='best', shadow=True, fontsize='medium')
         plt.title(f'Monthly imports of vaccines for {self.country}')
         plt.xlabel('Year')
-        plt.ylabel('Trade Value of Imports')
-        plt.yticks(y_tick_pos)
+        plt.ylabel(f'{col}')
+        #plt.yticks(y_tick_pos)
         plt.show()
