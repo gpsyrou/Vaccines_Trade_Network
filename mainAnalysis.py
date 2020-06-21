@@ -171,11 +171,14 @@ united_kingdom_ts.shape
 # (120, 7)
 
 
+######################### ARIMA #############################################
+from pandas.tools.plotting import autocorrelation_plot, lag_plot
+from statsmodels.tsa.stattools import acf, pacf, adfuller
+from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+from statsmodels.tsa.arima_model import ARIMA
 
 
-
-
-
+autocorrelation_plot(united_kingdom_ts['Trade Value (US$)'])
 
 
 
