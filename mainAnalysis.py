@@ -161,8 +161,10 @@ united_kingdom_imports_df = united_kingdom.createFlowDF(tradeflow='Imports',
                                                         source='Reporter',
                                                         target='Partner')
 
-united_kingdom_ts = united_kingdom.generateTimeSeries(partner_country='USA', timeframe='month')
-united_kingdom.plotTimeSeries(partner_list=['USA'], col='Trade Value (US$)', timeframe='month')
+united_kingdom_ts = united_kingdom.generateTimeSeries(partner_country='USA',
+                                                      timeframe='month')
+united_kingdom.plotTimeSeries(partner_list=['USA'], col='Trade Value (US$)',
+                              timeframe='month')
 
 
 united_kingdom_ts.shape
