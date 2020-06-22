@@ -158,3 +158,33 @@ def split_test_train(df, num_months_test = 1):
     test_set = df.iloc[len(df)-num_months_test:len(df)]
     
     return train_set, test_set
+
+# Function that calculates the rolling mean and standard deviation, as well as performing the Dickey-Fuller Test
+def stationarity_checking(df, window):
+    """Function that calculates the rolling mean and standard deviation, 
+    as well as performing the Dickey-Fuller Test
+    
+    Parameters:
+    
+    df: Time Series object
+    window: size of the rolling average window
+    
+    """ 
+    # Calculating rolling mean and standard deviation:
+    rolling_mn = df.rolling(window).mean()
+    rolling_std = df.rolling(window).std()
+    
+    plt.plot(df, color = 'blue',label = 'Original TS')
+    plt.plot(rolling_mn, color = 'red', label = 'Rolling Mean')
+    plt.plot(rolling_std, color = 'black', label = 'Rolling St.Dev.')
+    plt.legend(loc = 'best')
+    plt.grid(True, color = 'lightgrey')
+    plt.title('Rolling Mean & Standard Deviation of Olive Oil Exports (Tonnes)', fontsize = 10)
+    
+    # Dickey-Fuller test:
+    print('Results of Dickey-Fuller Test:')
+    fuller_test = adfuller(df, autolag = 'AIC')
+    results_ts = pd.Series(fuller_test[0:4], index = ['Test Statistic','P-value','#Lags Used','Number of Observations Used'])
+    for key,value in fuller_test[4].items():
+        results_ts['Critical Value (%s)'%key] = value
+    print(results_ts)
