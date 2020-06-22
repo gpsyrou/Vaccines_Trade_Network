@@ -146,3 +146,17 @@ def plot_acf_pacf(df, lag = 1, kind = 'acf'):
     plt.show()
     
     
+# Split the series in Training and Test sets
+def split_test_train(df, num_months_test = 1):
+    """
+    Split a Time Series object into Train and Test sets.
+    
+    Parameters:
+    df: Series object
+    num_months_test: Number of months to keep as test set (rest will be training set)
+    
+    """
+    train_set = df.iloc[0:len(df)-num_months_test]
+    test_set = df.iloc[len(df)-num_months_test:len(df)]
+    
+    return train_set, test_set
