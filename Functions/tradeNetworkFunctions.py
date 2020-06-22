@@ -14,6 +14,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+from pandas.plotting import autocorrelation_plot, lag_plot
+from statsmodels.tsa.stattools import acf, pacf, adfuller
+from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+from statsmodels.tsa.arima_model import ARIMA
+
 
 def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
                      kind: str, year: str) -> pd.core.frame.DataFrame:
@@ -100,3 +105,44 @@ def groupNodesAndAggregate(df, how='year', compute_value_per_kg=True)  -> pd.cor
     return dff
 
 
+# Create a lag plot of a Time Series
+def create_lag_plot(series_name, lag = 1):
+    """Plot a lag-plot for a time series for a chosen number of lags
+    
+    Parameters:
+    
+    series_name: Name of the Time Series
+    lag: Number of lags
+    
+    """
+    plt.figure(figsize = (8,5))
+    plt.title('Lag Plot of the Trade Value of Imports')
+    plt.xlim(min(series_name), max(series_name))
+    plt.ylim(min(series_name), max(series_name))
+    lag_plot(series_name, lag = lag)
+    plt.show()
+    
+# Plot ACF or PACF of a Time Series
+def plot_acf_pacf(df, lag = 1, kind = 'acf'):
+    """Plot either Autocorrelation plot(acf) or Partial Autocorrelation plot(pacf)
+    for a given time series with a specified lag value
+    
+    Parameters:
+    df: DataFrame
+    kind: 'acf' or 'pacf'
+    lag: Number of lags to use
+    
+    """
+    if kind not in ['acf','pacf']:
+        raise ValueError('Not a valid plot')
+    else:
+        if kind == 'acf':
+            plot_acf(df, lags = lag)
+        else:
+            plot_pacf(df, lags = lag)
+            
+    plt.ylabel('Correlation')
+    plt.xlabel('Lag Values')
+    plt.show()
+    
+    

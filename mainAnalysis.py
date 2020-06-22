@@ -180,7 +180,10 @@ from statsmodels.tsa.arima_model import ARIMA
 
 autocorrelation_plot(united_kingdom_ts['Trade Value (US$)'])
 
+lag_order = 18
 
+# Create a Lag plot
+tnf.create_lag_plot(df, lag = lag_order)
 
 
 
