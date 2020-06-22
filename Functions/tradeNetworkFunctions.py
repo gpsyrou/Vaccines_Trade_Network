@@ -181,7 +181,7 @@ def stationarity_checking(df, window):
     plt.plot(rolling_std, color = 'black', label = 'Rolling St.Dev.')
     plt.legend(loc = 'best')
     plt.grid(True, color = 'lightgrey')
-    plt.title('Rolling Mean & Standard Deviation of Olive Oil Exports (Tonnes)', fontsize = 10)
+    plt.title('Rolling Mean & Standard Deviation of the Trade Value of Vaccines', fontsize = 10)
     
     # Dickey-Fuller test:
     print('Results of Dickey-Fuller Test:')
