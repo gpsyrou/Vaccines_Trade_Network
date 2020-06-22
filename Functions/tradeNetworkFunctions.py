@@ -14,10 +14,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from pandas.plotting import autocorrelation_plot, lag_plot
-from statsmodels.tsa.stattools import acf, pacf, adfuller
+from pandas.plotting import lag_plot
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
-from statsmodels.tsa.arima_model import ARIMA
 
 
 def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
