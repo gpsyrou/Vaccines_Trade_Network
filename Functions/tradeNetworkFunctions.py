@@ -22,7 +22,7 @@ from statsmodels.tsa.arima_model import ARIMA
 
 def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
                      kind: str, year: str) -> pd.core.frame.DataFrame:
-    '''
+    """
     Given a dataframe and a feature column (numerical), identify the top
     importers/exporters.
     
@@ -35,7 +35,7 @@ def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
     Returns:
     -------
         df_sorted: Sorted dataframe that contains the aggregated values.
-    '''
+    """
     if year == 'all':
         df = df.loc[df['Trade Flow'] == kind, [feature,
             'Reporter']].groupby(['Reporter']).agg(['sum']).reset_index()
@@ -52,9 +52,9 @@ def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
 
 def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
                       topn: int, kind: str, year: str) -> None:
-    '''
+    """
     Create a bar plot of the top-N countries compared to an aggregated column.        
-    '''
+    """
     if kind != 'Import' and kind != 'Export':
         raise ValueError('Trade flow is not set to Import or Export')
 
@@ -107,7 +107,8 @@ def groupNodesAndAggregate(df, how='year', compute_value_per_kg=True)  -> pd.cor
 
 # Create a lag plot of a Time Series
 def create_lag_plot(series_name, lag = 1):
-    """Plot a lag-plot for a time series for a chosen number of lags
+    """
+    Plot a lag-plot for a time series for a chosen number of lags
     
     Parameters:
     
@@ -124,7 +125,8 @@ def create_lag_plot(series_name, lag = 1):
     
 # Plot ACF or PACF of a Time Series
 def plot_acf_pacf(df, lag = 1, kind = 'acf'):
-    """Plot either Autocorrelation plot(acf) or Partial Autocorrelation plot(pacf)
+    """
+    Plot either Autocorrelation plot(acf) or Partial Autocorrelation plot(pacf)
     for a given time series with a specified lag value
     
     Parameters:
@@ -163,7 +165,8 @@ def split_test_train(df, num_months_test = 1):
 
 # Function that calculates the rolling mean and standard deviation, as well as performing the Dickey-Fuller Test
 def stationarity_checking(df, window):
-    """Function that calculates the rolling mean and standard deviation, 
+    """
+    Function that calculates the rolling mean and standard deviation, 
     as well as performing the Dickey-Fuller Test
     
     Parameters:
@@ -190,3 +193,33 @@ def stationarity_checking(df, window):
     for key,value in fuller_test[4].items():
         results_ts['Critical Value (%s)'%key] = value
     print(results_ts)
+    
+    
+    
+def split_into_samples(seq, n_steps_past, n_steps_future):
+    """Create a function that splits a Univariate series into
+    multiple samples of the form [x1,x2,x3] --> [x4]
+    
+    Parameters:
+    seq (pandas.Series): Univariate series
+    n_steps_past (int): Number of steps in the past each sample will have
+    n_steps_future (int): Number of future steps
+    
+    """
+    
+    X_Series, Y_Series = list(), list()
+
+    for step in range(0,len(seq)): 
+        
+        val_past = step + n_steps_past
+        val_fwd = val_past + n_steps_future
+        
+        if val_fwd > len(seq):
+            break
+                
+        # Get past values
+        X_Series.append(seq.values[step:val_past])
+        # Get forward values
+        Y_Series.append(seq.values[val_past:val_fwd])
+
+    return np.array(X_Series), np.array(Y_Series)
