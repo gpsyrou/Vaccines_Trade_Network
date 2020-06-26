@@ -1,6 +1,6 @@
 # Vaccines Trade Network project
 
-Analysis of the global trade network regarding Vaccines for a variety of years.
+Implementation of ARIMA and LSTM Neural Network models for the analysis of the global network of human vaccines for the period 2010-2019 
 
 References:
   1. https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7
