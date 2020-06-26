@@ -7,7 +7,7 @@
 -- Date:    29/03/2020
 -------------------------------------------------------------------
 """
-''
+
 # Import dependencies
 import os
 import pandas as pd
@@ -171,7 +171,7 @@ united_kingdom_ts.shape
 # (120, 7)
 
 
-######################### ARIMA #############################################
+# ARIMA
 from pandas.tools.plotting import autocorrelation_plot, lag_plot
 from statsmodels.tsa.stattools import acf, pacf, adfuller
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
@@ -186,18 +186,74 @@ lag_order = 18
 tnf.create_lag_plot(df, lag = lag_order)
 
 
-################## NN ######################################################
+# RNN
 
 
+# Create an object for United Kingdom 
+united_kingdom = VaccinesTradeNetwork(df, country='United Kingdom')
+
+united_kingdom_imports_df = united_kingdom.createFlowDF(tradeflow='Imports',
+                                                        source='Reporter',
+                                                        target='Partner')
+
+united_kingdom_ts = united_kingdom.generateTimeSeries(partner_country='USA',
+                                                      timeframe='month')
+
+plt.rcParams['axes.facecolor'] = 'whitesmoke'
+united_kingdom.plotTimeSeries(partner_list=['USA'], timeframe='month')
 
 
+# Architecture for the Neural Network
+
+from numpy import array
+from keras.models import Sequential
+from keras.layers import LSTM
+from keras.layers import Dense
+from keras.layers import Bidirectional
+
+time_series_uk_to_usa = united_kingdom_ts['Trade Value (US$)']
+
+# Split the series into train and test sets
+# parameter num_months_test defines how many months we take as test data
+train, test = tnf.split_test_train(time_series_uk_to_usa, num_months_test=12)
+print(f'Shape of train is {train.shape}\nShape of test is {test.shape}')
 
 
+train = train.values.reshape(-1, 1)
+
+# Normalize data
+from sklearn.preprocessing import MinMaxScaler
+scaler = MinMaxScaler(feature_range = (0,1))
+
+train_scaled = scaler.fit_transform(train)
+train_scaled = pd.Series(np.concatenate(train_scaled))
+
+n_steps_past = 12
+n_steps_future = 1
+n_features = 1
+
+X, y = tnf.split_into_samples(train_scaled, n_steps_past=n_steps_past, n_steps_future=n_steps_future)
+print(f'Shape of X is {X.shape}\nShape of y is {y.shape}')
+
+X = X.reshape((X.shape[0], n_steps_past, n_features))
+
+# Define the model
+model = Sequential()
+model.add(Bidirectional(LSTM(50, activation='relu'), input_shape=(n_steps_past, n_features)))
+model.add(Dense(1))
+model.compile(optimizer='adam', loss='mse')
+
+# Train the model
+model.fit(X, y, epochs=300, verbose=1)
 
 
+# Reshape the test data
+test_reshaped = test.values.reshape(-1, 1)
+test_scaled = scaler.transform(test_reshaped)
 
-
-
+test_scaled = test_scaled.reshape((1, n_steps_past, n_features))
+yhat = model.predict(test_scaled, verbose=1)
+print(scaler.inverse_transform(yhat))
 
 
 
