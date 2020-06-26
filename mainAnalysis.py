@@ -226,43 +226,39 @@ from sklearn.preprocessing import MinMaxScaler
 scaler = MinMaxScaler(feature_range = (0,1))
 
 train_scaled = scaler.fit_transform(train)
-train_scaled = pd.Series(np.concatenate(train_scaled))
 
-n_steps_past = 12
+n_steps_past = 6
 n_steps_future = 1
 n_features = 1
 
-X, y = tnf.split_into_samples(train_scaled, n_steps_past=n_steps_past, n_steps_future=n_steps_future)
+X, y = tnf.split_into_samples(pd.Series(np.concatenate(train_scaled)),
+                              n_steps_past=n_steps_past,
+                              n_steps_future=n_steps_future)
 print(f'Shape of X is {X.shape}\nShape of y is {y.shape}')
 
 X = X.reshape((X.shape[0], n_steps_past, n_features))
 
 # Define the model
 model = Sequential()
-model.add(Bidirectional(LSTM(50, activation='relu'), input_shape=(n_steps_past, n_features)))
+model.add(Bidirectional(LSTM(20, activation='relu'), input_shape=(n_steps_past, n_features)))
 model.add(Dense(1))
 model.compile(optimizer='adam', loss='mse')
 
 # Train the model
-model.fit(X, y, epochs=300, verbose=1)
+model.fit(X, y, epochs=400, batch_size=32, verbose=1)
 
 
 # Reshape the test data
 test_reshaped = test.values.reshape(-1, 1)
 test_scaled = scaler.transform(test_reshaped)
 
-test_scaled = test_scaled.reshape((1, n_steps_past, n_features))
-yhat = model.predict(test_scaled, verbose=1)
-print(scaler.inverse_transform(yhat))
+# Add the last n_steps_past observations to predict the future values
+test_series = np.concatenate((train_scaled[-n_steps_past:], test_scaled))
 
-
-
-
-
-
-
-
-
-
-
-
+predictions = []
+for i in range(n_steps_past):
+    x_ser = test_series[i:i+n_steps_past].reshape((1, n_steps_past, n_features))
+    print(x_ser)
+    yhat = model.predict(x_ser, verbose=0)
+    predictions.append(scaler.inverse_transform(yhat))
+    print(f'Predicted Value: {predictions[i][0]}, true value: {test_reshaped[i]}')
