@@ -240,7 +240,7 @@ X = X.reshape((X.shape[0], n_steps_past, n_features))
 
 # Define the model
 model = Sequential()
-model.add(Bidirectional(LSTM(64, activation='relu'), input_shape=(n_steps_past, n_features)))
+model.add(Bidirectional(LSTM(32, activation='relu'), input_shape=(n_steps_past, n_features)))
 model.add(Dense(1))
 model.compile(optimizer='adam', loss='mse')
 
@@ -274,8 +274,9 @@ predicted = [i[0][0] for i in predictions]
 
 # Compare the predictions visually
 plt.figure(figsize=(8,6))
-plt.plot(test, marker='.', color= 'blue', label='True')
-plt.plot(pd.Series(predicted, index=test.index), marker='.', color='red', label='Predicted')
+plt.plot(test[0:n_steps_past], marker='.', color= 'blue', label='True')
+plt.plot(pd.Series(predicted[0:n_steps_past], index=test.index),
+         marker='.', color='red', label='Predicted')
 plt.grid(True, alpha=0.4)
 plt.legend()
 
