@@ -255,6 +255,10 @@ test_scaled = scaler.transform(test_reshaped)
 # Add the last n_steps_past observations to predict the future values
 test_series = np.concatenate((train_scaled[-n_steps_past:], test_scaled))
 
+# For the predictions we take run through the n_steps_past values from the training
+# data for the first iteration, then predict the next value in the series and this
+# value the gets feed into the series to assist with the prediction of the next
+# (and so on)
 predictions = []
 history = train_scaled[-n_steps_past:]
 for i in range(n_steps_past):
