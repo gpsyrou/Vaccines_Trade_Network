@@ -262,7 +262,6 @@ test_series = np.concatenate((train_scaled[-n_steps_past:], test_scaled))
 predictions = []
 history = train_scaled[-n_steps_past:]
 for i in range(n_steps_past):
-    
     x_ser = history[i:i+n_steps_past].reshape((1, n_steps_past, n_features))
     yhat = model.predict(x_ser, verbose=0)
     history = np.vstack((history, yhat))
@@ -275,9 +274,8 @@ predicted = [i[0][0] for i in predictions]
 # Compare the predictions visually
 plt.figure(figsize=(8,6))
 plt.plot(test[0:n_steps_past], marker='.', color= 'blue', label='True')
-plt.plot(pd.Series(predicted[0:n_steps_past], index=test.index),
+plt.plot(pd.Series(predicted[0:n_steps_past], index=test.index[0:n_steps_past]),
          marker='.', color='red', label='Predicted')
 plt.grid(True, alpha=0.4)
 plt.legend()
-
 
