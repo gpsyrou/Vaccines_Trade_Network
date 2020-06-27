@@ -227,7 +227,7 @@ scaler = MinMaxScaler(feature_range = (0,1))
 
 train_scaled = scaler.fit_transform(train)
 
-n_steps_past = 6
+n_steps_past = 12
 n_steps_future = 1
 n_features = 1
 
@@ -240,7 +240,7 @@ X = X.reshape((X.shape[0], n_steps_past, n_features))
 
 # Define the model
 model = Sequential()
-model.add(Bidirectional(LSTM(20, activation='relu'), input_shape=(n_steps_past, n_features)))
+model.add(Bidirectional(LSTM(64, activation='relu'), input_shape=(n_steps_past, n_features)))
 model.add(Dense(1))
 model.compile(optimizer='adam', loss='mse')
 
@@ -256,9 +256,11 @@ test_scaled = scaler.transform(test_reshaped)
 test_series = np.concatenate((train_scaled[-n_steps_past:], test_scaled))
 
 predictions = []
+history = train_scaled[-n_steps_past:]
 for i in range(n_steps_past):
-    x_ser = test_series[i:i+n_steps_past].reshape((1, n_steps_past, n_features))
-    print(x_ser)
+    
+    x_ser = history[i:i+n_steps_past].reshape((1, n_steps_past, n_features))
     yhat = model.predict(x_ser, verbose=0)
+    history = np.vstack((history, yhat))
     predictions.append(scaler.inverse_transform(yhat))
     print(f'Predicted Value: {predictions[i][0]}, true value: {test_reshaped[i]}')
