@@ -33,18 +33,18 @@ api_call_string = f'http://comtrade.un.org/api/get?max={max_rec}&type={trade_typ
 
 
 def getDataCall(api_string: str, reporterid: str, reportername: str, year: int, out_folder: str) -> None:
-    '''
-    Create a .csv file that contains the data as received from  https://comtrade.un.org/Data/, for a specific year.
+    """
+    Create a .csv file that contains the monthly data as received from  https://comtrade.un.org/Data/, for a specific year.
 
     Args:
     ----
         api_string: String that contains the URL for the API call. The string already contains all the paremeters required for the call.
-        reporter: Specify Reporter country.
+        reporterid, reportername: Id and Name of the country of interest.
         year: Specify year of interest.
     Returns:
     -------
         None: The output is a .csv file that contains the data for a specified year.
-    '''
+    """
     csv_by_year_out_loc = os.path.join(out_folder, f'{year}')
     if not os.path.exists(csv_by_year_out_loc):
         os.makedirs(name=csv_by_year_out_loc)

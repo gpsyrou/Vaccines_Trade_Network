@@ -28,7 +28,7 @@ csv_loc = os.path.join(dirname, 'CSVFiles', year)
 
 
 def sniffValidCSV(csv_name: str, csv_folder: str) -> None:
-    '''
+    """
     Sniff a csv file to check if it contains valid data.
     The csv files that are not valid will not have a string 'HS' as their first value of the 'Classification' column.
 
@@ -36,7 +36,7 @@ def sniffValidCSV(csv_name: str, csv_folder: str) -> None:
     ----
         csv_name: Path to the csv_file that needs checking.
         csv_folder: Path to the folder that contains all the csv files.
-    '''
+    """
     try:
         sniffDf = pd.read_csv(os.path.join(csv_folder, csv_name), delimiter=',', nrows=1, header=[0])
         try:

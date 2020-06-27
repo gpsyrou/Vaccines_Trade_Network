@@ -244,11 +244,11 @@ X = X.reshape((X.shape[0], n_steps_past, n_features))
 model = Sequential()
 model.add(Bidirectional(LSTM(50, activation='relu'), input_shape=(n_steps_past, n_features)))
 model.add(Dropout(0.2))
-model.add(Dense(1))
+model.add(Dense(n_features))
 model.compile(optimizer='adam', loss='mean_squared_error')
 
 # Train the model
-model.fit(X, y, epochs=400, batch_size=64, verbose=1)
+model.fit(X, y, epochs=500, batch_size=32, verbose=1)
 
 
 # Reshape the test data
