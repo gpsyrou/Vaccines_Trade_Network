@@ -280,5 +280,6 @@ plt.plot(test[0:prediction_window], marker='.', color= 'blue', label='True')
 plt.plot(pd.Series(predicted[0:prediction_window], index=test.index[0:prediction_window]),
          marker='.', color='red', label='Predicted')
 plt.grid(True, alpha=0.4)
+plt.title('Bidirectional LSTM Neural Network - Results')
 plt.legend()
 

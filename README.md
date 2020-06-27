@@ -8,3 +8,4 @@ References:
   3. https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f
   4. https://towardsdatascience.com/a-gentle-invitation-to-interactive-visualization-with-dash-a200427ccce9
   5. https://dash.plotly.com/layout
+  6. https://towardsdatascience.com/time-series-forecasting-with-deep-stacked-unidirectional-and-bidirectional-lstms-de7c099bd918
