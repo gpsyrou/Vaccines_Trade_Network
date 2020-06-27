@@ -205,9 +205,9 @@ united_kingdom.plotTimeSeries(partner_list=['USA'], timeframe='month')
 
 # Architecture for the Neural Network
 
-from numpy import array
 from keras.models import Sequential
 from keras.layers import LSTM
+from keras.layers import Dropout
 from keras.layers import Dense
 from keras.layers import Bidirectional
 
@@ -227,6 +227,8 @@ scaler = MinMaxScaler(feature_range = (0,1))
 
 train_scaled = scaler.fit_transform(train)
 
+prediction_window = 12
+
 n_steps_past = 12
 n_steps_future = 1
 n_features = 1
@@ -240,12 +242,13 @@ X = X.reshape((X.shape[0], n_steps_past, n_features))
 
 # Define the model
 model = Sequential()
-model.add(Bidirectional(LSTM(32, activation='relu'), input_shape=(n_steps_past, n_features)))
+model.add(Bidirectional(LSTM(50, activation='relu'), input_shape=(n_steps_past, n_features)))
+model.add(Dropout(0.2))
 model.add(Dense(1))
-model.compile(optimizer='adam', loss='mse')
+model.compile(optimizer='adam', loss='mean_squared_error')
 
 # Train the model
-model.fit(X, y, epochs=400, batch_size=32, verbose=1)
+model.fit(X, y, epochs=400, batch_size=64, verbose=1)
 
 
 # Reshape the test data
@@ -273,8 +276,8 @@ predicted = [i[0][0] for i in predictions]
 
 # Compare the predictions visually
 plt.figure(figsize=(8,6))
-plt.plot(test[0:n_steps_past], marker='.', color= 'blue', label='True')
-plt.plot(pd.Series(predicted[0:n_steps_past], index=test.index[0:n_steps_past]),
+plt.plot(test[0:prediction_window], marker='.', color= 'blue', label='True')
+plt.plot(pd.Series(predicted[0:prediction_window], index=test.index[0:prediction_window]),
          marker='.', color='red', label='Predicted')
 plt.grid(True, alpha=0.4)
 plt.legend()
