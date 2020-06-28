@@ -119,6 +119,10 @@ top_importers_2019 = tnf.getAggStatistics(df, feature='Trade Value (US$)',
 top_importers_2019[0:topn]
 
 
+top_importers_all_years = tnf.getAggStatistics(df, feature='Trade Value (US$)',
+                                     kind='Imports', year='all')
+
+
 # Create a file that will contain the aggregate values per country for all years
 top_importers_all = [top_importers_2017, top_importers_2018, top_importers_2019]
 merged_top_importers = pd.concat(top_importers_all)

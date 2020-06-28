@@ -38,13 +38,14 @@ def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
     """
     if year == 'all':
         df = df.loc[df['Trade Flow'] == kind, [feature,
-            'Reporter']].groupby(['Reporter']).agg(['sum']).reset_index()
+            'Year', 'Reporter']].groupby(['Year', 'Reporter']).agg(['sum']).reset_index()
     else:
         df = df.loc[(df['Trade Flow'] == kind) &
                     (df['Period'] > f'{year}-01-01') & (df['Period'] <= f'{year}-12-31'), 
                     [feature,'Reporter']].groupby(['Reporter']).agg(['sum']).reset_index()
     
         df['Year'] = int(year)
+
     df_sorted = df.sort_values(by=(feature,'sum'), ascending=False)
     
     return df_sorted
