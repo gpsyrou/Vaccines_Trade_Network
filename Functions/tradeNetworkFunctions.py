@@ -52,14 +52,14 @@ def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
 
 
 def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
-                      topn: int, kind: str, year: str) -> None:
+                      topn: int, kind: str, year: str, figsize=(12,6)) -> None:
     """
     Create a bar plot of the top-N countries compared to an aggregated column.        
     """
     if kind != 'Import' and kind != 'Export':
         raise ValueError('Trade flow is not set to Import or Export')
 
-    plt.figure(figsize=(8,6))
+    plt.figure(figsize=figsize)
     g = sns.barplot(x='Reporter', y=(feature,'sum'), data=df[0:topn],
                     palette='muted')
 
