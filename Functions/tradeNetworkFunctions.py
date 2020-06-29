@@ -51,7 +51,7 @@ def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
     return df_sorted
 
 
-def plotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
+def barplotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
                       topn: int, kind: str, year: str, figsize=(12,6)) -> None:
     """
     Create a bar plot of the top-N countries compared to an aggregated column.        
