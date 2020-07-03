@@ -75,7 +75,7 @@ def barplotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
     if year == 'all':
         plt.title(f'Top-{topn} {kind}ers of vaccines around the globe')
     else:
-        plt.title(f'Top-{topn} {kind}ers of vaccines around the globe in {year}')
+        plt.title(f'Top-{topn} {kind}ers of vaccines in {year}')
     plt.xlabel(f'{kind}er Country')
     if feature == 'Trade Value (US$)':
         plt.ylabel(f'Total amount of {kind}s in US$')
