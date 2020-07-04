@@ -12,3 +12,4 @@ Useful links that helped me my research regarding this project:
   6. https://towardsdatascience.com/time-series-forecasting-with-deep-stacked-unidirectional-and-bidirectional-lstms-de7c099bd918
   7. https://nwfsc-timeseries.github.io/atsa-labs/sec-tslab-correlation-within-and-among-time-series.html
   8. https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+  9. https://www.curiousily.com/posts/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python/
