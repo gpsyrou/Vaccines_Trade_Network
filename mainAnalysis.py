@@ -93,6 +93,7 @@ df['Reporter'].replace(
 
 topn = 15
 
+'''
 # Specify if we want to focus on a specific year (e.g. '2018') or 'all'
 
 year = '2017'
@@ -117,16 +118,13 @@ year = '2019'
 top_importers_2019 = tnf.getAggStatistics(df, feature='Trade Value (US$)',
                                      kind='Imports', year=year)
 top_importers_2019[0:topn]
-
+'''
 
 top_importers_all_years = tnf.getAggStatistics(df, feature='Trade Value (US$)',
                                      kind='Imports', year='all')
 
 
 # Create a file that will contain the aggregate values per country for all years
-top_importers_all = [top_importers_2017, top_importers_2018, top_importers_2019]
-merged_top_importers = pd.concat(top_importers_all)
-merged_top_importers.to_csv('Merged_Top_Importers.csv', index=None)
 top_importers_all_years.to_csv('Merged_Top_Importers_All_Years.csv', index=None)
 
 topImportersDF = pd.read_csv('Merged_Top_Importers.csv',
