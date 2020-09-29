@@ -21,7 +21,7 @@ from VaccinesTradeNetworkClass import VaccinesTradeNetwork
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-project_dir = 'C:\\Users\\george\\Desktop\\GitHub\\Projects\\Comtrade_Network'
+project_dir = r'D:\GitHub\Projects\Comtrade_Network'
 os.chdir(project_dir)# Read the csv file
 
 # Create a dataframe that contains data from all years
