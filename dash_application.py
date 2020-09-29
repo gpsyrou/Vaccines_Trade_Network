@@ -60,4 +60,31 @@ df['Reporter'].replace(
 
 #------- Data loading and cleaning finishes here ------- 
 
+#------- App Layout ---------------
 
+app.layout = html.Div([
+    html.H1("Global Trade Network of Human Vaccines", style={'text-align': 'center'}),
+
+    dcc.Dropdown(id='select_year',
+                options=[
+                    {"label": "2010", "value": 2010},
+                    {"label": "2011", "value": 2011},
+                    {"label": "2012", "value": 2012},
+                    {"label": "2013", "value": 2013},
+                    {"label": "2014", "value": 2014},
+                    {"label": "2015", "value": 2015},
+                    {"label": "2016", "value": 2016},
+                    {"label": "2017", "value": 2017},
+                    {"label": "2018", "value": 2018},
+                    {"label": "2019", "value": 2019}],
+                multi=False,
+                value=2010,
+                style={'widht': "40%"}   
+                ),
+
+
+])
+
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
