@@ -1,6 +1,16 @@
 import os
 import pandas as pd
 
+import plotly.express as px
+
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+from dash.dependencies import Input, Output
+
+app = dash.Dash(__name__)
+
+#------ Import data and clean up the dataframe ------
 project_dir = r'D:\GitHub\Projects\Comtrade_Network'
 os.chdir(project_dir)# Read the csv file
 
@@ -14,7 +24,7 @@ useful_features_ls = ['Year', 'Period', 'Reporter Code', 'Reporter', 'Partner Co
                       'Partner', 'Trade Flow', 'Commodity', 'Netweight (kg)',
                       'Trade Value (US$)']
 
-df = maindf[useful_features_ls]
+df = df[useful_features_ls]
 
 trade_flow_dict = {'Re-imports':'Imports', 
                    'Re-exports':'Exports',
@@ -48,6 +58,6 @@ df['Reporter'].replace(
     inplace=True
 )
 
-df.head(10)
+#------- Data loading and cleaning finishes here ------- 
 
 
