@@ -99,7 +99,7 @@ app.layout = html.Div([
                 'display': 'inline-block'}),
 
 
-    dcc.Graph(id='imports_over_years_per_country', figure={})
+    dcc.Graph(id='imports_over_years_per_country')
 
 ])
 
@@ -120,7 +120,13 @@ def update_barplot(year_selected, country_selected):
     df_cp = df_cp[(df_cp['Year'] == year_selected) & (df_cp['Partner'] == country_selected)]
     
     # Barplot
-    
+    fig_barplot = px.bar(data_frame=df_cp,
+                        x='Partner',
+                        y='Trade Value (US$)')
+
+
+
+    return fig_barplot
 
 
 if __name__ == '__main__':
