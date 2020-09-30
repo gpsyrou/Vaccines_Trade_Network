@@ -112,6 +112,15 @@ app.layout = html.Div([
     Input(component_id='countries_dropdown', component_property='value')]
 )
 
+def update_barplot(year_selected, country_selected):
+    print(year_selected)
+    print(country_selected)
+
+    df_cp = df.copy()
+    df_cp = df_cp[(df_cp['Year'] == year_selected) & (df_cp['Partner'] == country_selected)]
+    
+    # Barplot
+    
 
 
 if __name__ == '__main__':
