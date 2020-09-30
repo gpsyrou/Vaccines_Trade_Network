@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from typing import List
 
-from Functions import tradeNetworkFunctions as tnf
+from utilities import trade_network_functions as tnf
 
 class VaccinesTradeNetwork:
     """
