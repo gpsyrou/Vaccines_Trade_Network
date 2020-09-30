@@ -96,9 +96,22 @@ app.layout = html.Div([
     ,   style = {'width': '400px',
                 'fontSize' : '20px',
                 'padding-left' : '100px',
-                'display': 'inline-block'})
+                'display': 'inline-block'}),
+
+
+    dcc.Graph(id='imports_over_years_per_country', figure={})
 
 ])
+
+
+#-------- Callback --------
+
+@app.callback(
+    Output(component_id='imports_over_years_per_country', component_property='figure'),
+    [Input(component_id='years_dropdown', component_property='value'),
+    Input(component_id='countries_dropdown', component_property='value')]
+)
+
 
 
 if __name__ == '__main__':
