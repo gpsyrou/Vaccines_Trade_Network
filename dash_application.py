@@ -62,7 +62,7 @@ df['Reporter'].replace(
 
 #------- App Layout ---------------
 
-def YearToObject(x):
+def SelectionToObject(x):
     options = []
     for i in x:
         options.append({
@@ -74,19 +74,59 @@ def YearToObject(x):
 app.layout = html.Div([
     html.H1("Global Trade Network of Human Vaccines", style={'text-align': 'center'}),
 
+    # Dropdown for selecting a year
     html.P([
         html.Label("Please select a year"),
         dcc.Dropdown(
-        id = 'first_dropdown',
-        options = YearToObject(df.Year.unique()),
+        id = 'years_dropdown',
+        options = SelectionToObject(df.Year.unique()),
         placeholder='Year')]
     ,   style = {'width': '400px',
                 'fontSize' : '20px',
                 'padding-left' : '100px',
                 'display': 'inline-block'}),
 
+    # Dropdown for selecting a country
+    html.P([
+        html.Label("Please select an importer country"),
+        dcc.Dropdown(
+        id = 'countries_dropdown',
+        options = SelectionToObject(df.Partner.unique()),
+        placeholder='Country')]
+    ,   style = {'width': '400px',
+                'fontSize' : '20px',
+                'padding-left' : '100px',
+                'display': 'inline-block'}),
+
+
+    dcc.Graph(id='imports_over_years_per_country')
 
 ])
+
+
+#-------- Callback --------
+
+@app.callback(
+    Output(component_id='imports_over_years_per_country', component_property='figure'),
+    [Input(component_id='years_dropdown', component_property='value'),
+    Input(component_id='countries_dropdown', component_property='value')]
+)
+
+def update_barplot(year_selected, country_selected):
+    print(year_selected)
+    print(country_selected)
+
+    df_cp = df.copy()
+    df_cp = df_cp[(df_cp['Year'] == year_selected) & (df_cp['Partner'] == country_selected)]
+    
+    # Barplot
+    fig_barplot = px.bar(data_frame=df_cp,
+                        x='Partner',
+                        y='Trade Value (US$)')
+
+
+
+    return fig_barplot
 
 
 if __name__ == '__main__':
