@@ -62,7 +62,7 @@ df['Reporter'].replace(
 
 #------- App Layout ---------------
 
-def YearToObject(x):
+def SelectionToObject(x):
     options = []
     for i in x:
         options.append({
@@ -74,17 +74,29 @@ def YearToObject(x):
 app.layout = html.Div([
     html.H1("Global Trade Network of Human Vaccines", style={'text-align': 'center'}),
 
+    # Dropdown for selecting a year
     html.P([
         html.Label("Please select a year"),
         dcc.Dropdown(
-        id = 'first_dropdown',
-        options = YearToObject(df.Year.unique()),
+        id = 'years_dropdown',
+        options = SelectionToObject(df.Year.unique()),
         placeholder='Year')]
     ,   style = {'width': '400px',
                 'fontSize' : '20px',
                 'padding-left' : '100px',
                 'display': 'inline-block'}),
 
+    # Dropdown for selecting a country
+    html.P([
+        html.Label("Please select an importer country"),
+        dcc.Dropdown(
+        id = 'countries_dropdown',
+        options = SelectionToObject(df.Partner.unique()),
+        placeholder='Country')]
+    ,   style = {'width': '400px',
+                'fontSize' : '20px',
+                'padding-left' : '100px',
+                'display': 'inline-block'})
 
 ])
 
