@@ -3,6 +3,7 @@ import math
 import pandas as pd
 
 import plotly.express as px
+import plotly.graph_objects as go
 
 import dash
 import dash_core_components as dcc
@@ -129,14 +130,11 @@ def update_lineplot(reporter_country, partner_country):
 
     df_as_timeseries = df_cp.generateTimeSeries(partner_country=partner_country, timeframe='month')
 
-    
-    # Barplot
-    fig_lineplot = px.line(data_frame=df_as_timeseries, x='Period', y='Trade Value (US$)', hover_name='Reporter')
+    fig_lineplot = go.Figure()
+    fig_lineplot.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'],
+                    mode='lines+markers', name='lines+markers'))
 
-    fig_lineplot.update_layout(
-        font_family="Arial",
-        font_color="black",
-    )
+    fig_lineplot.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', font_family="Arial", font_color="black",)
 
     return fig_lineplot
 
