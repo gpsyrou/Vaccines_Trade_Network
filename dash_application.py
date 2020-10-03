@@ -131,8 +131,11 @@ def update_lineplot(reporter_country, partner_country):
     df_as_timeseries = df_cp.generateTimeSeries(partner_country=partner_country, timeframe='month')
 
     fig_lineplot = go.Figure()
-    fig_lineplot.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'],
-                    mode='lines+markers', name='lines+markers'))
+    fig_lineplot.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'], name='Trade Value (US$)',
+                         line=dict(color='royalblue', width=3), mode='lines+markers'))
+
+    fig_lineplot.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Value_Per_Kg'], name='Value Per Kg',
+                        line=dict(color='firebrick', width=2), mode='lines+markers'))
 
     fig_lineplot.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', font_family="Arial", font_color="black",)
 
