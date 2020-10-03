@@ -41,7 +41,7 @@ class VaccinesTradeNetwork:
         return self.country_df
 
 
-    def createFlowDF(self, tradeflow: str, source: str, target: str):
+    def createFlowDF(self, tradeflow='Imports', source='Reporter', target='Partner'):
         '''
         Creates  a dataframe on the trade flow, and the source and target
         node directions for the directed graph. Each edge represents a country (Node A) that is either
@@ -134,7 +134,7 @@ class VaccinesTradeNetwork:
         plt.title(f'Network of {self.tradeflow} for {self.country}',
                   fontsize=16)
         
-    def generateTimeSeries(self, partner_country='all', timeframe=None) -> pd.core.frame.DataFrame:
+    def generateTimeSeries(self, partner_country='all', timeframe='month') -> pd.core.frame.DataFrame:
         '''
         Create a dataframe containing data for a specific partner country and 
         for a predefined timeframe which can be either 'year' or 'month'.
@@ -152,6 +152,8 @@ class VaccinesTradeNetwork:
                 The returned dataframe used a 'Period' column as the index for the time series.
         '''
         
+        self.filtered_df = self.createFlowDF(tradeflow='Imports', source='Reporter', target='Partner')
+
         self.timeframe = timeframe
         
         if partner_country!='all':
