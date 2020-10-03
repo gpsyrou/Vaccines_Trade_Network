@@ -1,4 +1,5 @@
 import os
+import math
 import pandas as pd
 
 import plotly.express as px
@@ -62,6 +63,8 @@ df['Reporter'].replace(
     value='USA',
     inplace=True
 )
+
+df = df[df['Reporter'].notna()]
 
 #------- Data loading and cleaning finishes here ------- 
 
