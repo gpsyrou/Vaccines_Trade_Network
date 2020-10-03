@@ -1,12 +1,19 @@
 import os
+import math
 import pandas as pd
 
 import plotly.express as px
+import plotly.graph_objects as go
 
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+
 from dash.dependencies import Input, Output
+
+# Custom packages
+from utilities import trade_network_functions as tnf
+from VaccinesTradeNetworkClass import VaccinesTradeNetwork
 
 app = dash.Dash(__name__)
 
@@ -58,6 +65,8 @@ df['Reporter'].replace(
     inplace=True
 )
 
+df = df[df['Reporter'].notna()]
+
 #------- Data loading and cleaning finishes here ------- 
 
 #------- App Layout ---------------
@@ -76,11 +85,11 @@ app.layout = html.Div([
 
     # Dropdown for selecting a year
     html.P([
-        html.Label("Please select a year"),
+        html.Label("Please select an importer country"),
         dcc.Dropdown(
-        id = 'years_dropdown',
-        options = SelectionToObject(df.Year.unique()),
-        placeholder='Year')]
+        id = 'reporter_dropdown',
+        options = SelectionToObject(df.Reporter.unique()),
+        placeholder='Importer')]
     ,   style = {'width': '400px',
                 'fontSize' : '20px',
                 'padding-left' : '100px',
@@ -88,18 +97,18 @@ app.layout = html.Div([
 
     # Dropdown for selecting a country
     html.P([
-        html.Label("Please select an importer country"),
+        html.Label("Please select an exporter country"),
         dcc.Dropdown(
-        id = 'countries_dropdown',
+        id = 'partner_dropdown',
         options = SelectionToObject(df.Partner.unique()),
-        placeholder='Country')]
+        placeholder='Exporter')]
     ,   style = {'width': '400px',
                 'fontSize' : '20px',
                 'padding-left' : '100px',
                 'display': 'inline-block'}),
 
 
-    dcc.Graph(id='imports_over_years_per_country')
+    dcc.Graph(id='imports_between_two_countries')
 
 ])
 
@@ -107,26 +116,30 @@ app.layout = html.Div([
 #-------- Callback --------
 
 @app.callback(
-    Output(component_id='imports_over_years_per_country', component_property='figure'),
-    [Input(component_id='years_dropdown', component_property='value'),
-    Input(component_id='countries_dropdown', component_property='value')]
+    Output(component_id='imports_between_two_countries', component_property='figure'),
+    [Input(component_id='reporter_dropdown', component_property='value'),
+    Input(component_id='partner_dropdown', component_property='value')]
 )
 
-def update_barplot(year_selected, country_selected):
-    print(year_selected)
-    print(country_selected)
-
-    df_cp = df.copy()
-    df_cp = df_cp[(df_cp['Year'] == year_selected) & (df_cp['Partner'] == country_selected)]
+def update_lineplot(reporter_country, partner_country):
+    print(reporter_country)
+    print(partner_country)
     
-    # Barplot
-    fig_barplot = px.bar(data_frame=df_cp,
-                        x='Partner',
-                        y='Trade Value (US$)')
+    df_cp = df.copy()
+    df_cp = VaccinesTradeNetwork(df_cp, country=reporter_country)
 
+    df_as_timeseries = df_cp.generateTimeSeries(partner_country=partner_country, timeframe='month')
 
+    fig_lineplot = go.Figure()
+    fig_lineplot.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'], name='Trade Value (US$)',
+                         line=dict(color='royalblue', width=3), mode='lines+markers'))
 
-    return fig_barplot
+    fig_lineplot.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Value_Per_Kg'], name='Value Per Kg',
+                        line=dict(color='firebrick', width=2), mode='lines+markers'))
+
+    fig_lineplot.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', font_family="Arial", font_color="black",)
+
+    return fig_lineplot
 
 
 if __name__ == '__main__':
