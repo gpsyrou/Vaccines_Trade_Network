@@ -133,6 +133,11 @@ def update_barplot(reporter_country, partner_country):
     # Barplot
     fig_lineplot = px.line(data_frame=df_as_timeseries, x='Period', y='Trade Value (US$)')
 
+    fig_lineplot.update_layout(
+        font_family="Arial",
+        font_color="black",
+    )
+
     return fig_lineplot
 
 
