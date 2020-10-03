@@ -126,12 +126,12 @@ def update_barplot(reporter_country, partner_country):
     
     df_cp = df.copy()
     df_cp = VaccinesTradeNetwork(df_cp, country=reporter_country)
-    
+
     df_as_timeseries = df_cp.generateTimeSeries(partner_country=partner_country, timeframe='month')
 
     
     # Barplot
-    fig_lineplot = px.line(data_frame=df_as_timeseries, x=df_as_timeseries.index, y='Trade Value (US$)')
+    fig_lineplot = px.line(data_frame=df_as_timeseries, x='Period', y='Trade Value (US$)')
 
     return fig_lineplot
 
