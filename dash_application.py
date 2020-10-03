@@ -107,7 +107,7 @@ app.layout = html.Div([
                 'display': 'inline-block'}),
 
 
-    dcc.Graph(id='change_of_imports_between_two_countries')
+    dcc.Graph(id='imports_between_two_countries')
 
 ])
 
@@ -115,12 +115,12 @@ app.layout = html.Div([
 #-------- Callback --------
 
 @app.callback(
-    Output(component_id='change_of_imports_between_two_countries', component_property='figure'),
+    Output(component_id='imports_between_two_countries', component_property='figure'),
     [Input(component_id='reporter_dropdown', component_property='value'),
     Input(component_id='partner_dropdown', component_property='value')]
 )
 
-def update_barplot(reporter_country, partner_country):
+def update_lineplot(reporter_country, partner_country):
     print(reporter_country)
     print(partner_country)
     
@@ -131,7 +131,7 @@ def update_barplot(reporter_country, partner_country):
 
     
     # Barplot
-    fig_lineplot = px.line(data_frame=df_as_timeseries, x='Period', y='Trade Value (US$)')
+    fig_lineplot = px.line(data_frame=df_as_timeseries, x='Period', y='Trade Value (US$)', hover_name='Reporter')
 
     fig_lineplot.update_layout(
         font_family="Arial",
