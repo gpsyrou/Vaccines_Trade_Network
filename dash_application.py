@@ -107,22 +107,20 @@ app.layout = html.Div([
                 'padding-left' : '100px',
                 'display': 'inline-block'}),
 
-
-    html.Div([
-
-        html.Div([
-            dcc.Graph(id='imports_between_two_countries_value')], className='six columns'),
-
-        html.Div([
-            dcc.Graph(id='imports_between_two_countries_kg')], className='six columns')
-    ])
+    html.Div(children=[
+        html.Div(
+            dcc.Graph(
+                id='imports_between_two_countries_value',
+                style={'width': '1200'},
+            ), style={'display': 'inline-block'}),
+        html.Div(
+            dcc.Graph(
+                id='imports_between_two_countries_kg',
+                style={'width': '1200'},
+            ), style={'display': 'inline-block'})
+    ], style={'width': '120%', 'display': 'inline-block'})
 
 ])
-
-app.css.append_css({
-    'external_url': 'https://codepen.io/chriddyp/pen/bWLwgP.css'
-})
-
 #-------- Callback --------
 
 @app.callback(
@@ -144,12 +142,12 @@ def update_lineplot(reporter_country, partner_country):
     fig_lineplot_val = go.Figure()
     fig_lineplot_val.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'], name='Trade Value (US$)',
                          line=dict(color='royalblue', width=2), mode='lines+markers'))
-    fig_lineplot_val.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', font_family="Arial", font_color="black")
+    fig_lineplot_val.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', title='Change of Trade Value', font_family="Arial", font_color="black")
 
     fig_lineplot_kg = go.Figure()
     fig_lineplot_kg.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Value_Per_Kg'], name='Value Per Kg',
                         line=dict(color='firebrick', width=2), mode='lines+markers'))
-    fig_lineplot_kg.update_layout(xaxis_title='Period', yaxis_title='Value_Per_Kg', font_family="Arial", font_color="black")
+    fig_lineplot_kg.update_layout(xaxis_title='Period', yaxis_title='Value_Per_Kg', title='Change of Value per Kg', font_family="Arial", font_color="black")
 
     return fig_lineplot_val, fig_lineplot_kg
 
