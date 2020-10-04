@@ -42,18 +42,9 @@ trade_flow_dict = {'Re-imports':'Imports',
 
 df['Trade Flow'] = df['Trade Flow'].map(trade_flow_dict)
 
-# Now we can observe that we have a node called 'World' but we would like to 
-# analyze the trade relationships between specific countries. Thus we will
-# exclude from the analysis the cases where the reporter or partner is 'World'
 df = df[df.Partner != 'World']
 
-# Period will be our datetime column
 df['Period'] = pd.to_datetime(df['Period'], format='%Y%m')
-
-# Except the nodes of our analysis which will correspond to countries, the other
-# main features of interest are the Netweigh of the export/import in kilograms
-# as well as the Trade Value in US dollars($).
-
 
 df['Partner'].replace(
     to_replace='United States of America',
@@ -109,7 +100,7 @@ app.layout = html.Div([
                 'padding-left' : '100px',
                 'display': 'inline-block'}),
 
-
+    # Line Plots
     html.Div([
         html.Div([
             html.Div([
