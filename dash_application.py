@@ -108,15 +108,26 @@ app.layout = html.Div([
                 'display': 'inline-block'}),
 
 
-    dcc.Graph(id='imports_between_two_countries')
+    html.Div([
+
+        html.Div([
+            dcc.Graph(id='imports_between_two_countries_value')], className='six columns'),
+
+        html.Div([
+            dcc.Graph(id='imports_between_two_countries_kg')], className='six columns')
+    ])
 
 ])
 
+app.css.append_css({
+    'external_url': 'https://codepen.io/chriddyp/pen/bWLwgP.css'
+})
 
 #-------- Callback --------
 
 @app.callback(
-    Output(component_id='imports_between_two_countries', component_property='figure'),
+    [Output(component_id='imports_between_two_countries_value', component_property='figure'),
+     Output(component_id='imports_between_two_countries_kg', component_property='figure')],
     [Input(component_id='reporter_dropdown', component_property='value'),
     Input(component_id='partner_dropdown', component_property='value')]
 )
@@ -130,16 +141,17 @@ def update_lineplot(reporter_country, partner_country):
 
     df_as_timeseries = df_cp.generateTimeSeries(partner_country=partner_country, timeframe='month')
 
-    fig_lineplot = go.Figure()
-    fig_lineplot.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'], name='Trade Value (US$)',
-                         line=dict(color='royalblue', width=3), mode='lines+markers'))
+    fig_lineplot_val = go.Figure()
+    fig_lineplot_val.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'], name='Trade Value (US$)',
+                         line=dict(color='royalblue', width=2), mode='lines+markers'))
+    fig_lineplot_val.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', font_family="Arial", font_color="black")
 
-    fig_lineplot.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Value_Per_Kg'], name='Value Per Kg',
+    fig_lineplot_kg = go.Figure()
+    fig_lineplot_kg.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Value_Per_Kg'], name='Value Per Kg',
                         line=dict(color='firebrick', width=2), mode='lines+markers'))
+    fig_lineplot_kg.update_layout(xaxis_title='Period', yaxis_title='Value_Per_Kg', font_family="Arial", font_color="black")
 
-    fig_lineplot.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', font_family="Arial", font_color="black",)
-
-    return fig_lineplot
+    return fig_lineplot_val, fig_lineplot_kg
 
 
 if __name__ == '__main__':
