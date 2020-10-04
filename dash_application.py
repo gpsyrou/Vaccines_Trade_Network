@@ -15,7 +15,9 @@ from dash.dependencies import Input, Output
 from utilities import trade_network_functions as tnf
 from VaccinesTradeNetworkClass import VaccinesTradeNetwork
 
-app = dash.Dash(__name__)
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets) 
 
 #------ Import data and clean up the dataframe ------
 project_dir = r'D:\GitHub\Projects\Comtrade_Network'
@@ -107,18 +109,18 @@ app.layout = html.Div([
                 'padding-left' : '100px',
                 'display': 'inline-block'}),
 
-    html.Div(children=[
-        html.Div(
-            dcc.Graph(
-                id='imports_between_two_countries_value',
-                style={'width': '1200'},
-            ), style={'display': 'inline-block'}),
-        html.Div(
-            dcc.Graph(
-                id='imports_between_two_countries_kg',
-                style={'width': '1200'},
-            ), style={'display': 'inline-block'})
-    ], style={'width': '120%', 'display': 'inline-block'})
+
+    html.Div([
+        html.Div([
+            html.Div([
+                dcc.Graph(id='imports_between_two_countries_value')
+            ], className="six columns"),
+
+            html.Div([
+                dcc.Graph(id='imports_between_two_countries_kg')
+            ], className="six columns"),
+        ], className="row")
+    ])
 
 ])
 #-------- Callback --------
