@@ -226,7 +226,7 @@ def update_lineplot(reporter_country, partner_country):
                     yaxis=dict(showgrid=False, zeroline=False, showticklabels=False))
                     )
 
-    fig_network.update_layout(title_text=f'<b><br>Network of {reporter_country} for Human Vaccines (Imports)</b>', 
+    fig_network.update_layout(title_text=f'<b><br>Network of imports for {reporter_country}</b>', 
                     title_x=0.5,
                     title_y=1.0,    
                     font=dict(
