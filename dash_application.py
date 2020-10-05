@@ -202,8 +202,8 @@ def update_lineplot(reporter_country, partner_country):
         hoverinfo='text',
         marker=dict(
             showscale=True,
-            colorscale='Viridis',
-            reversescale=True,
+            colorscale='Redor',
+            reversescale=False,
             color=[],
             size=16,
             colorbar=dict(
