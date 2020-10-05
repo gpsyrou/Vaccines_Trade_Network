@@ -95,7 +95,7 @@ class VaccinesTradeNetwork:
         -------
             CountryGraph: nx.classes.digraph.DiGraph object containing the graph of the network.
         '''
-
+        self.filtered_df = self.createFlowDF(tradeflow='Imports', source='Reporter', target='Partner')
         self.agg = agg
 
         if agg  is True:
