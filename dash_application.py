@@ -143,13 +143,21 @@ def update_lineplot(reporter_country, partner_country):
     fig_lineplot_val = go.Figure()
     fig_lineplot_val.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'], name='Trade Value (US$)',
                          line=dict(color='royalblue', width=2), mode='lines+markers'))
-    fig_lineplot_val.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', title='Change of Trade Value', font_family="Arial", font_color="black")
+    fig_lineplot_val.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', title='Change of Trade Value', font=dict(
+                            family="'Oswald', sans-serif",
+                            size=12,
+                            color="#7f7f7f"
+        ))
 
     # Lineplot for Value per Kg
     fig_lineplot_kg = go.Figure()
     fig_lineplot_kg.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Value_Per_Kg'], name='Value Per Kg',
                         line=dict(color='firebrick', width=2), mode='lines+markers'))
-    fig_lineplot_kg.update_layout(xaxis_title='Period', yaxis_title='Value_Per_Kg', title='Change of Value per Kg', font_family="Arial", font_color="black")
+    fig_lineplot_kg.update_layout(xaxis_title='Period', yaxis_title='Value_Per_Kg', title='Change of Value per Kg', font=dict(
+                            family="'Oswald', sans-serif",
+                            size=12,
+                            color="#7f7f7f"
+        ))
 
     # Network graph
     cntry = VaccinesTradeNetwork(network_df, country=reporter_country)
@@ -213,7 +221,7 @@ def update_lineplot(reporter_country, partner_country):
                 layout=go.Layout(
                     showlegend=False,
                     hovermode='closest',
-                    margin=dict(b=20,l=20,r=20,t=40),
+                    margin=dict(b=20,l=80,r=40,t=40),
                     xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
                     yaxis=dict(showgrid=False, zeroline=False, showticklabels=False))
                     )
