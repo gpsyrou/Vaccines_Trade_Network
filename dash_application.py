@@ -79,7 +79,7 @@ def SelectionToObject(x):
 app.layout = html.Div([
     html.H1("Global Trade Network of Human Vaccines", style={'text-align': 'center'}),
 
-    # Dropdown for selecting a year
+    # Dropdown for selecting a reporter country
     html.P([
         html.Label("Please select an importer country"),
         dcc.Dropdown(
@@ -91,7 +91,7 @@ app.layout = html.Div([
                 'padding-left' : '100px',
                 'display': 'inline-block'}),
 
-    # Dropdown for selecting a country
+    # Dropdown for selecting a partner country
     html.P([
         html.Label("Please select an exporter country"),
         dcc.Dropdown(
