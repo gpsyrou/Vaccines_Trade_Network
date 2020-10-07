@@ -88,7 +88,7 @@ def barplotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
 def groupNodesAndAggregate(df, how='year', compute_value_per_kg=True)  -> pd.core.frame.DataFrame:
     
     if how == 'year':
-        dff = df.groupby(['Reporter','Partner','Trade Flow','Year']).agg(
+        dff = df.groupby(['Reporter','Partner','Trade Flow','Period']).agg(
             {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
     elif how == 'month':
         dff = df.groupby(['Reporter','Partner','Trade Flow','Period']).agg(

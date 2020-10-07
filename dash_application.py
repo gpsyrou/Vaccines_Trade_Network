@@ -160,8 +160,8 @@ def update_lineplot(reporter_country, partner_country):
         ))
 
     # Network graph
-    cntry = VaccinesTradeNetwork(network_df, country=reporter_country)
-    G = cntry.generateCountryGraph(agg=False)
+    cntry = VaccinesTradeNetwork(df, country=reporter_country)
+    G = cntry.generateCountryGraph(agg=True)
 
     pos = nx.layout.spring_layout(G)
 
