@@ -13,9 +13,7 @@ import os
 import pandas as pd
 import numpy as np
 
-# Custom packages
-from utilities import trade_network_functions as tnf
-from VaccinesTradeNetworkClass import VaccinesTradeNetwork
+
 
 # Plotting and graphs
 import matplotlib.pyplot as plt
@@ -23,6 +21,10 @@ import seaborn as sns
 
 project_dir = r'D:\GitHub\Projects\Comtrade_Network'
 os.chdir(project_dir)# Read the csv file
+
+# Custom packages
+from utilities import trade_network_functions as tnf
+from VaccinesTradeNetworkClass import VaccinesTradeNetwork
 
 # Create a dataframe that contains data from all years
 csv_files_loc = os.path.join(project_dir, 'Merged_CSVs')
@@ -141,17 +143,17 @@ topImportersDF = pd.read_csv('Merged_Top_Importers.csv',
 # In order to create our network we need to transform it in way that can be 
 # passed into a Graph object from the networkx library..
 
-network_df = tnf.groupNodesAndAggregate(df, compute_value_per_kg = True)
+network_df = tnf.groupNodesAndAggregate(df, how='month', compute_value_per_kg = True)
 
-greece = VaccinesTradeNetwork(network_df, country='Greece')
+argentina = VaccinesTradeNetwork(network_df, country='Argentina')
 
 # Dataframe with all data for a specific country
-gr_df = greece.createCountrySpecificDF()
+argentina_df = argentina.createCountrySpecificDF()
 
-graph = greece.generateCountryGraph(agg=True)
+graph = argentina.generateCountryGraph(agg=True)
 
-greece.plotCountryGraph()
-greece.filtered_df
+argentina.plotCountryGraph()
+argentina.filtered_df
 
 
 

@@ -100,7 +100,7 @@ class VaccinesTradeNetwork:
 
         if agg  is True:
             self.filtered_df= tnf.groupNodesAndAggregate(self.filtered_df,
-                                                         how='year',
+                                                         how='month',
                                                          compute_value_per_kg=True)
         
         self.CountryGraph = nx.from_pandas_edgelist(self.filtered_df,
