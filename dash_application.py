@@ -61,8 +61,6 @@ df['Reporter'].replace(
 
 df = df[df['Reporter'].notna()]
 
-network_df = pd.read_csv('Networkd_dataframe.csv', header = 0)
-
 #------- Data loading and cleaning finishes here ------- 
 
 #------- App Layout ---------------
@@ -160,9 +158,8 @@ def update_lineplot(reporter_country, partner_country):
         ))
 
     # Network graph
-    cntry = VaccinesTradeNetwork(df, country=reporter_country)
-    G = cntry.generateCountryGraph(agg=True)
-
+    G = df_cp.generateCountryGraph(agg=True)
+    
     pos = nx.layout.spring_layout(G)
 
     edge_x = []
