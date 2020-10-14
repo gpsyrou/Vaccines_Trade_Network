@@ -1,8 +1,8 @@
 # Vaccines Trade Network project
 
-Implementation of ARIMA and LSTM Neural Network models for the analysis of the global network of human vaccines for the period 2010-2019 
+Implementation of ARIMA and LSTM Neural Network models for the analysis of the global network of human vaccines for the period 2010-2019. On top of the main analysis, we are creating an interactive dashboard to present our results, via the usage of the [Dash](https://dash.plotly.com/) library.
 
-Useful links that helped me my research regarding this project:
+Useful links that helped my research while developing this project:
 
   1. https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7
   2. https://medium.com/plotly/introducing-dash-5ecf7191b503
