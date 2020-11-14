@@ -186,8 +186,6 @@ class VaccinesTradeNetwork:
             timeframe: 'month' or 'year'
         '''
         
-        #y_tick_pos = [x for x in range(1000000, 18000000, 1000000)]
-        
         np.random.seed(42)
         self.timeframe = timeframe
         
