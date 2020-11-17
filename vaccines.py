@@ -178,11 +178,16 @@ from sklearn.model_selection import train_test_split
 
 train, test = tnf.split_test_train(united_kingdom_ts['Trade Value (US$)'], num_months_test=12)
 
-hwes_model = ExponentialSmoothing(train)
-model_fit = hwes_model.fit()
+hwes_model = ExponentialSmoothing(train, seasonal='mul', seasonal_periods=12)
+hwes_model_fit = hwes_model.fit()
 
-yhat = model_fit.predict(start=len(train), end=len(train))
+yhat = hwes_model_fit.predict(start=test.index[0], end=test.index[-1])
 print(yhat)
+
+
+
+
+
 
 # ARIMA
 from pandas.tools.plotting import autocorrelation_plot, lag_plot

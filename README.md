@@ -13,3 +13,5 @@ Useful links that helped my research while developing this project:
   7. https://nwfsc-timeseries.github.io/atsa-labs/sec-tslab-correlation-within-and-among-time-series.html
   8. https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
   9. https://www.curiousily.com/posts/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python/
+  10. https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+  
