@@ -184,8 +184,10 @@ hwes_model_fit = hwes_model.fit()
 yhat = hwes_model_fit.predict(start=test.index[0], end=test.index[-1])
 print(yhat)
 
-
-
+plt.plot(train.index, train, label='Train')
+plt.plot(test.index, test, label='Test')
+plt.plot(yhat.index, yhat, label='Holt-Winters')
+plt.legend(loc='best')
 
 
 
