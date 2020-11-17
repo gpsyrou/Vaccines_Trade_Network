@@ -8,19 +8,15 @@
 -------------------------------------------------------------------
 """
 
-# Import dependencies
 import os
 import pandas as pd
 import numpy as np
 
-
-
-# Plotting and graphs
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 project_dir = r'D:\GitHub\Projects\Comtrade_Network'
-os.chdir(project_dir)# Read the csv file
+os.chdir(project_dir)
 
 # Custom packages
 from utilities import trade_network_functions as tnf
@@ -174,6 +170,19 @@ united_kingdom.plotTimeSeries(partner_list=['USA'], col='Trade Value (US$)',
 united_kingdom_ts.shape
 # (120, 7)
 
+
+
+# Holt Winter's Exponential Smoothing (HWES)
+from statsmodels.tsa.holtwinters import ExponentialSmoothing
+from sklearn.model_selection import train_test_split
+
+train, test = tnf.split_test_train(united_kingdom_ts['Trade Value (US$)'], num_months_test=12)
+
+hwes_model = ExponentialSmoothing(train)
+model_fit = hwes_model.fit()
+
+yhat = model_fit.predict(start=len(train), end=len(train))
+print(yhat)
 
 # ARIMA
 from pandas.tools.plotting import autocorrelation_plot, lag_plot
