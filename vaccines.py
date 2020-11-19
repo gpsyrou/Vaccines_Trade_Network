@@ -15,7 +15,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-project_dir = r'D:\GitHub\Projects\Comtrade_Network'
+#project_dir = r'D:\GitHub\Projects\Comtrade_Network'
+project_dir = r'/Users/georgiosspyrou/Desktop/GitHub/Projects/Comtrade_Network/Vaccines_Trade_Network'
 os.chdir(project_dir)
 
 # Custom packages
