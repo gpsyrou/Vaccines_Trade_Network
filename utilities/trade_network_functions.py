@@ -196,8 +196,7 @@ def stationarity_checking(df, window, figsize=(10,6)):
         results_ts['Critical Value (%s)'%key] = value
     print(results_ts)
     
-    
-    
+
 def split_into_samples(seq, n_steps_past, n_steps_future):
     """Create a function that splits a Univariate series into
     multiple samples of the form [x1,x2,x3] --> [x4]
@@ -225,3 +224,14 @@ def split_into_samples(seq, n_steps_past, n_steps_future):
         Y_Series.append(seq.values[val_past:val_fwd])
 
     return np.array(X_Series), np.array(Y_Series)
+
+
+def compute_RMSE(true_val, predicted_val) -> float:
+    '''
+    Compute the Root Mean Squared Error (RMSE) for two series - one describing
+    the real values and the other the predicted.
+    '''
+    from sklearn.metrics import mean_squared_error
+    rms = np.sqrt(mean_squared_error(np.array(true_val), predicted_val))
+    print('RMSE: {0}'.format(rms))
+    return rms
