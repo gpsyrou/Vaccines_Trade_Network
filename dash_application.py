@@ -6,6 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 import dash
+import dash_table
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
@@ -115,7 +116,10 @@ app.layout = html.Div([
     ]),
 
      # Network plot
-    dcc.Graph(id='network_plot')   
+    dcc.Graph(id='network_plot'), 
+
+    # Data table
+    dash_table.DataTable(id='table')
 
 ])
 #-------- Callback --------
@@ -123,7 +127,9 @@ app.layout = html.Div([
 @app.callback(
     [Output(component_id='imports_between_two_countries_value', component_property='figure'),
      Output(component_id='imports_between_two_countries_kg', component_property='figure'),
-     Output(component_id='network_plot', component_property='figure')],
+     Output(component_id='network_plot', component_property='figure'),
+     Output(component_id='table', component_property='data'),
+     Output(component_id='table', component_property='columns')],
     [Input(component_id='reporter_dropdown', component_property='value'),
     Input(component_id='partner_dropdown', component_property='value')]
 )
@@ -232,9 +238,11 @@ def update_lineplot(reporter_country, partner_country):
                             color="#7f7f7f"
         ))
 
+    # Data Table
+    columns=[{"name": i, "id": i} for i in df_cp.filtered_df.columns]
+    data = df_cp.filtered_df.to_dict(orient='records')
 
-
-    return fig_lineplot_val, fig_lineplot_kg, fig_network
+    return fig_lineplot_val, fig_lineplot_kg, fig_network, data, columns
 
 
 if __name__ == '__main__':
