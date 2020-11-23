@@ -239,8 +239,8 @@ def update_lineplot(reporter_country, partner_country):
         ))
 
     # Data Table
-    columns=[{"name": i, "id": i} for i in df_cp.filtered_df.columns]
-    data = df_cp.filtered_df.to_dict(orient='records')
+    columns=[{"name": i, "id": i} for i in df_as_timeseries.columns]
+    data = df_as_timeseries.to_dict(orient='records')
 
     return fig_lineplot_val, fig_lineplot_kg, fig_network, data, columns
 
