@@ -93,6 +93,9 @@ def groupNodesAndAggregate(df, how='year', compute_value_per_kg=True)  -> pd.cor
     elif how == 'month':
         dff = df.groupby(['Reporter','Partner','Trade Flow','Period']).agg(
             {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
+    elif how == 'overall':
+        dff = df.groupby(['Reporter','Partner','Trade Flow']).agg(
+            {'Trade Value (US$)':'sum','Netweight (kg)':'sum'}).reset_index()
     else:
         raise ValueError('Incorrect timeframe - Please pick \'month\' or \'year\'')
 
