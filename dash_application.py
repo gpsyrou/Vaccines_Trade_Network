@@ -120,9 +120,19 @@ app.layout = html.Div([
 
     # Data table
     dash_table.DataTable(
-        id='table', 
+        id='table',
+        style_table={
+            'maxHeight': '50ex',
+            'overflowY': 'auto',
+            'width': '80%',
+            'minWidth': '95%',
+            'margin-left': '80px',
+            'margin-right': '80px'
+        },
+
         style_cell={'textAlign': 'left'}, 
-        style_table={'width': '80%'},
+
+        fixed_rows={'headers': True},
         style_data_conditional=[
             {
                 'if': {'row_index': 'odd'},
