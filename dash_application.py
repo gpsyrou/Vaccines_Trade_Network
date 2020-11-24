@@ -210,7 +210,9 @@ def update_lineplot(reporter_country, partner_country):
         ))
 
     # Network graph
-    G = df_cp.generateCountryGraph(agg=True)
+    df_grouped = tnf.groupNodesAndAggregate(df, how='overall', compute_value_per_kg=True)
+    reporter_obj = VaccinesTradeNetwork(df, country=reporter_country)
+    G = reporter_obj.generateCountryGraph(agg=True)
     
     pos = nx.layout.spring_layout(G)
 
@@ -239,10 +241,11 @@ def update_lineplot(reporter_country, partner_country):
     node_y = []
     node_text = []
     for node in G.nodes():
-        x, y = pos[node]
-        node_x.append(x)
-        node_y.append(y)
-        node_text.append(node)
+        if node != reporter_country:
+            x, y = pos[node]
+            node_x.append(x)
+            node_y.append(y)
+            node_text.append(node + ': ' + str(G.edges[node, reporter_country]['Trade Value (US$)']))
 
     # Set up the Nodes
     node_trace = go.Scatter(
