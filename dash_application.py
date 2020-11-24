@@ -119,7 +119,20 @@ app.layout = html.Div([
     dcc.Graph(id='network_plot'), 
 
     # Data table
-    dash_table.DataTable(id='table')
+    dash_table.DataTable(
+        id='table', 
+        style_cell={'textAlign': 'left'}, 
+        style_table={'width': '80%'},
+        style_data_conditional=[
+            {
+                'if': {'row_index': 'odd'},
+                'backgroundColor': 'rgb(248, 248, 248)'
+            }
+        ],
+        style_header={
+            'backgroundColor': 'rgb(230, 230, 230)',
+            'fontWeight': 'bold'
+        })
 
 ])
 #-------- Callback --------
@@ -145,22 +158,45 @@ def update_lineplot(reporter_country, partner_country):
 
     # Lineplot for Trade Value
     fig_lineplot_val = go.Figure()
-    fig_lineplot_val.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'], name='Trade Value (US$)',
-                         line=dict(color='royalblue', width=2), mode='lines+markers'))
-    fig_lineplot_val.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', title='Change of Trade Value', font=dict(
-                            family="'Oswald', sans-serif",
-                            size=12,
-                            color="#7f7f7f"
+
+    fig_lineplot_val.add_trace(go.Scatter(
+        x=df_as_timeseries['Period'],
+        y=df_as_timeseries['Trade Value (US$)'],
+        name='Trade Value (US$)',
+        line=dict(color='royalblue', width=2),
+        mode='lines+markers'))
+
+    fig_lineplot_val.update_layout(
+        xaxis_title='Period',
+        yaxis_title='Trade Value',
+        title='Monthly Change of Trade Value in US$',
+        title_x=0.10,
+        title_y=0.85, 
+        font=dict(
+            family="'Oswald', sans-serif",
+            size=12,
+            color="#7f7f7f"
         ))
 
     # Lineplot for Value per Kg
     fig_lineplot_kg = go.Figure()
-    fig_lineplot_kg.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Value_Per_Kg'], name='Value Per Kg',
-                        line=dict(color='firebrick', width=2), mode='lines+markers'))
-    fig_lineplot_kg.update_layout(xaxis_title='Period', yaxis_title='Value_Per_Kg', title='Change of Value per Kg', font=dict(
-                            family="'Oswald', sans-serif",
-                            size=12,
-                            color="#7f7f7f"
+    fig_lineplot_kg.add_trace(go.Scatter(
+        x=df_as_timeseries['Period'],
+        y=df_as_timeseries['Value_Per_Kg'],
+        name='Value Per Kg',
+        line=dict(color='firebrick', width=2),
+        mode='lines+markers'))
+
+    fig_lineplot_kg.update_layout(
+        xaxis_title='Period',
+        yaxis_title='Value_Per_Kg',
+        title='Change of Value per Kilogram in US$',
+        title_x=0.10,
+        title_y=0.85,  
+        font=dict(
+            family="'Oswald', sans-serif",
+            size=12,
+            color="#7f7f7f"
         ))
 
     # Network graph
@@ -230,7 +266,7 @@ def update_lineplot(reporter_country, partner_country):
                     )
 
     fig_network.update_layout(title_text=f'<b><br>Network of imports for {reporter_country}</b>', 
-                    title_x=0.5,
+                    title_x=0.05,
                     title_y=1.0,    
                     font=dict(
                             family="'Oswald', sans-serif",
