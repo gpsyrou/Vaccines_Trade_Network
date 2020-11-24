@@ -6,6 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 import dash
+import dash_table
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
@@ -115,7 +116,33 @@ app.layout = html.Div([
     ]),
 
      # Network plot
-    dcc.Graph(id='network_plot')   
+    dcc.Graph(id='network_plot'), 
+
+    # Data table
+    dash_table.DataTable(
+        id='table',
+        style_table={
+            'maxHeight': '50ex',
+            'overflowY': 'auto',
+            'width': '80%',
+            'minWidth': '95%',
+            'margin-left': '80px',
+            'margin-right': '80px'
+        },
+
+        style_cell={'textAlign': 'left'}, 
+
+        fixed_rows={'headers': True},
+        style_data_conditional=[
+            {
+                'if': {'row_index': 'odd'},
+                'backgroundColor': 'rgb(248, 248, 248)'
+            }
+        ],
+        style_header={
+            'backgroundColor': 'rgb(230, 230, 230)',
+            'fontWeight': 'bold'
+        })
 
 ])
 #-------- Callback --------
@@ -123,7 +150,9 @@ app.layout = html.Div([
 @app.callback(
     [Output(component_id='imports_between_two_countries_value', component_property='figure'),
      Output(component_id='imports_between_two_countries_kg', component_property='figure'),
-     Output(component_id='network_plot', component_property='figure')],
+     Output(component_id='network_plot', component_property='figure'),
+     Output(component_id='table', component_property='data'),
+     Output(component_id='table', component_property='columns')],
     [Input(component_id='reporter_dropdown', component_property='value'),
     Input(component_id='partner_dropdown', component_property='value')]
 )
@@ -139,27 +168,57 @@ def update_lineplot(reporter_country, partner_country):
 
     # Lineplot for Trade Value
     fig_lineplot_val = go.Figure()
-    fig_lineplot_val.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Trade Value (US$)'], name='Trade Value (US$)',
-                         line=dict(color='royalblue', width=2), mode='lines+markers'))
-    fig_lineplot_val.update_layout(xaxis_title='Period', yaxis_title='Trade Value (US$)', title='Change of Trade Value', font=dict(
-                            family="'Oswald', sans-serif",
-                            size=12,
-                            color="#7f7f7f"
+
+    fig_lineplot_val.add_trace(go.Scatter(
+        x=df_as_timeseries['Period'],
+        y=df_as_timeseries['Trade Value (US$)'],
+        name='Trade Value (US$)',
+        line=dict(color='royalblue', width=2),
+        mode='lines+markers'))
+
+    fig_lineplot_val.update_layout(
+        xaxis_title='Period',
+        yaxis_title='Trade Value',
+        title='Monthly Change of Trade Value in US$',
+        title_x=0.10,
+        title_y=0.85, 
+        font=dict(
+            family="'Oswald', sans-serif",
+            size=12,
+            color="#7f7f7f"
         ))
 
     # Lineplot for Value per Kg
     fig_lineplot_kg = go.Figure()
-    fig_lineplot_kg.add_trace(go.Scatter(x=df_as_timeseries['Period'], y=df_as_timeseries['Value_Per_Kg'], name='Value Per Kg',
-                        line=dict(color='firebrick', width=2), mode='lines+markers'))
-    fig_lineplot_kg.update_layout(xaxis_title='Period', yaxis_title='Value_Per_Kg', title='Change of Value per Kg', font=dict(
-                            family="'Oswald', sans-serif",
-                            size=12,
-                            color="#7f7f7f"
+    fig_lineplot_kg.add_trace(go.Scatter(
+        x=df_as_timeseries['Period'],
+        y=df_as_timeseries['Value_Per_Kg'],
+        name='Value Per Kg',
+        line=dict(color='firebrick', width=2),
+        mode='lines+markers'))
+
+    fig_lineplot_kg.update_layout(
+        xaxis_title='Period',
+        yaxis_title='Value_Per_Kg',
+        title='Change of Value per Kilogram in US$',
+        title_x=0.10,
+        title_y=0.85,  
+        font=dict(
+            family="'Oswald', sans-serif",
+            size=12,
+            color="#7f7f7f"
         ))
 
     # Network graph
-    G = df_cp.generateCountryGraph(agg=True)
-    
+    df_grouped = tnf.groupNodesAndAggregate(df, how='overall', compute_value_per_kg=True)
+    reporter_obj = VaccinesTradeNetwork(df, country=reporter_country)
+    G = reporter_obj.generateCountryGraph(agg=True)
+
+    # Fake an edge for the reporter country itself 
+    # else it won't appear in the network graph
+    G.add_edge(reporter_country, reporter_country)
+    G.edges[reporter_country, reporter_country]['Trade Value (US$)'] = 0
+
     pos = nx.layout.spring_layout(G)
 
     edge_x = []
@@ -190,7 +249,10 @@ def update_lineplot(reporter_country, partner_country):
         x, y = pos[node]
         node_x.append(x)
         node_y.append(y)
-        node_text.append(node)
+        if node != reporter_country:
+            node_text.append(node + ': ' + str(G.edges[node, reporter_country]['Trade Value (US$)']))
+        else:
+            node_text.append(node)
 
     # Set up the Nodes
     node_trace = go.Scatter(
@@ -224,7 +286,7 @@ def update_lineplot(reporter_country, partner_country):
                     )
 
     fig_network.update_layout(title_text=f'<b><br>Network of imports for {reporter_country}</b>', 
-                    title_x=0.5,
+                    title_x=0.05,
                     title_y=1.0,    
                     font=dict(
                             family="'Oswald', sans-serif",
@@ -232,9 +294,11 @@ def update_lineplot(reporter_country, partner_country):
                             color="#7f7f7f"
         ))
 
+    # Data Table
+    columns=[{"name": i, "id": i} for i in df_as_timeseries.columns]
+    data = df_as_timeseries.to_dict(orient='records')
 
-
-    return fig_lineplot_val, fig_lineplot_kg, fig_network
+    return fig_lineplot_val, fig_lineplot_kg, fig_network, data, columns
 
 
 if __name__ == '__main__':
