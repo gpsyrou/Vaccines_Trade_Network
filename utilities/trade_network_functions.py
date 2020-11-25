@@ -229,12 +229,13 @@ def split_into_samples(seq, n_steps_past, n_steps_future):
     return np.array(X_Series), np.array(Y_Series)
 
 
-def compute_RMSE(true_val, predicted_val) -> float:
+def compute_RMSE(true_val, predicted_val, p_output=True) -> float:
     '''
     Compute the Root Mean Squared Error (RMSE) for two series - one describing
     the real values and the other the predicted.
     '''
     from sklearn.metrics import mean_squared_error
     rms = np.sqrt(mean_squared_error(np.array(true_val), predicted_val))
-    print('RMSE: {0}'.format(rms))
+    if p_output:
+        print('RMSE: {0}'.format(rms))
     return rms
