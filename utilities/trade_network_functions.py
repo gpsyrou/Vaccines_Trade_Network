@@ -168,7 +168,7 @@ def split_test_train(df, num_months_test = 1):
     return train_set, test_set
 
 # Function that calculates the rolling mean and standard deviation, as well as performing the Dickey-Fuller Test
-def stationarity_checking(df, window, figsize=(10,6)):
+def check_stationarity(df, window, figsize=(10,6)):
     """
     Function that calculates the rolling mean and standard deviation, 
     as well as performing the Dickey-Fuller Test
