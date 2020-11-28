@@ -29,20 +29,20 @@ class VaccinesTradeNetwork:
 
 
     def createCountrySpecificDF(self) -> pd.core.frame.DataFrame:
-        '''
+        """
         Filter the main dataframe to specific country. The dataframe will contain
         data where the 'Reporter' = country or 'Partner' = country.
         
         Returns:
         -------
             country_df: Filtered dataframe for a specified country.
-        '''
+        """
         self.country_df = self.df[(self.df['Reporter']==self.country) | (self.df['Partner']==self.country) ]
         return self.country_df
 
 
     def createFlowDF(self, tradeflow='Imports', source='Reporter', target='Partner'):
-        '''
+        """
         Creates  a dataframe on the trade flow, and the source and target
         node directions for the directed graph. Each edge represents a country (Node A) that is either
         importing or exporting to another country (Node B).
@@ -63,7 +63,7 @@ class VaccinesTradeNetwork:
             tradeflow: 'Imports' or 'Exports' -> Indicating the flow of interest for the base node (NodeA)
             source: Default is 'Reporter'. It can change to 'Partner' if we want to change the direction.
             target: Default is 'Partner'. It can change to 'Reporter' if we want to change the direction.
-        '''
+        """
         self.tradeflow  = tradeflow
         self.source = source
         self.target = target
@@ -89,12 +89,12 @@ class VaccinesTradeNetwork:
         return self.filtered_df
 
     def generateCountryGraph(self, agg: bool) -> nx.classes.digraph.DiGraph:
-        '''
+        """
         Generates a graph object for a specified country
         Returns:
         -------
             CountryGraph: nx.classes.digraph.DiGraph object containing the graph of the network.
-        '''
+        """
         self.filtered_df = self.createFlowDF(tradeflow='Imports', source='Reporter', target='Partner')
         self.agg = agg
 
@@ -135,7 +135,7 @@ class VaccinesTradeNetwork:
                   fontsize=16)
         
     def generateTimeSeries(self, partner_country='all', timeframe='month') -> pd.core.frame.DataFrame:
-        '''
+        """
         Create a dataframe containing data for a specific partner country and 
         for a predefined timeframe which can be either 'year' or 'month'.
         
@@ -150,8 +150,7 @@ class VaccinesTradeNetwork:
         -------
             df: Dataframe containing data either for all Partner countries or a subset.
                 The returned dataframe used a 'Period' column as the index for the time series.
-        '''
-        
+        """
         self.filtered_df = self.createFlowDF(tradeflow='Imports', source='Reporter', target='Partner')
 
         self.timeframe = timeframe
@@ -176,7 +175,7 @@ class VaccinesTradeNetwork:
     
     def plotTimeSeries(self, partner_list: List[str], col='Trade Value (US$)',
                        timeframe='month', figsize=(10,6)) -> None:
-        '''
+        """
         Generate a Time Series plot for a single or a set of Partner countries.
         
         Args:
@@ -184,8 +183,7 @@ class VaccinesTradeNetwork:
             partner_list: List of strings indicating the partner countries of interest
             col: Name of the column that we want to plot the time series against
             timeframe: 'month' or 'year'
-        '''
-        
+        """
         np.random.seed(42)
         self.timeframe = timeframe
         
