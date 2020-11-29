@@ -20,7 +20,7 @@ from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 from statsmodels.tsa.arima_model import ARIMA
 
 
-def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
+def getAggregateStatistics(df: pd.core.frame.DataFrame, feature: str,
                      kind: str, year: str) -> pd.core.frame.DataFrame:
     """
     Given a dataframe and a feature column (numerical), identify the top
