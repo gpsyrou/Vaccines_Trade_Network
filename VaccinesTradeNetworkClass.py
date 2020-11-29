@@ -41,7 +41,7 @@ class VaccinesTradeNetwork:
         return self.country_df
 
 
-    def createFlowDF(self, tradeflow='Imports', source='Reporter', target='Partner'):
+    def create_trade_flow_df(self, tradeflow='Imports', source='Reporter', target='Partner') -> pd.core.frame.DataFrame:
         """
         Creates  a dataframe on the trade flow, and the source and target
         node directions for the directed graph. Each edge represents a country (Node A) that is either
@@ -95,7 +95,7 @@ class VaccinesTradeNetwork:
         -------
             CountryGraph: nx.classes.digraph.DiGraph object containing the graph of the network.
         """
-        self.filtered_df = self.createFlowDF(tradeflow='Imports', source='Reporter', target='Partner')
+        self.filtered_df = self.create_trade_flow_df(tradeflow='Imports', source='Reporter', target='Partner')
         self.agg = agg
 
         if agg  is True:
@@ -151,7 +151,7 @@ class VaccinesTradeNetwork:
             df: Dataframe containing data either for all Partner countries or a subset.
                 The returned dataframe used a 'Period' column as the index for the time series.
         """
-        self.filtered_df = self.createFlowDF(tradeflow='Imports', source='Reporter', target='Partner')
+        self.filtered_df = self.create_trade_flow_df(tradeflow='Imports', source='Reporter', target='Partner')
 
         self.timeframe = timeframe
         
@@ -197,5 +197,4 @@ class VaccinesTradeNetwork:
         plt.title(f'Monthly Trade Value of Imports of Vaccines of {self.country} from {partner}')
         plt.xlabel('Year')
         plt.ylabel(f'{col}')
-        #plt.yticks(y_tick_pos)
         plt.show()
