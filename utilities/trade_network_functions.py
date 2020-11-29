@@ -178,7 +178,7 @@ def check_stationarity(df, window, figsize=(10,6)):
     window: size of the rolling average window
     
     """ 
-    # Calculating rolling mean and standard deviation:
+    # Calculating rolling mean and standard deviation
     rolling_mn = df.rolling(window).mean()
     rolling_std = df.rolling(window).std()
     
