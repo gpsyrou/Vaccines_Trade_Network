@@ -20,7 +20,7 @@ from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 from statsmodels.tsa.arima_model import ARIMA
 
 
-def getAggStatistics(df: pd.core.frame.DataFrame, feature: str,
+def getAggregateStatistics(df: pd.core.frame.DataFrame, feature: str,
                      kind: str, year: str) -> pd.core.frame.DataFrame:
     """
     Given a dataframe and a feature column (numerical), identify the top
@@ -109,7 +109,6 @@ def groupNodesAndAggregate(df, how='year', compute_value_per_kg=True)  -> pd.cor
     return dff
 
 
-# Create a lag plot of a Time Series
 def create_lag_plot(series_name, lag = 1):
     """
     Plot a lag-plot for a time series for a chosen number of lags
@@ -126,8 +125,8 @@ def create_lag_plot(series_name, lag = 1):
     plt.ylim(min(series_name), max(series_name))
     lag_plot(series_name, lag = lag)
     plt.show()
-    
-# Plot ACF or PACF of a Time Series
+
+
 def plot_acf_pacf(df, lag = 1, kind = 'acf'):
     """
     Plot either Autocorrelation plot(acf) or Partial Autocorrelation plot(pacf)
@@ -168,7 +167,7 @@ def split_test_train(df, num_months_test = 1):
     return train_set, test_set
 
 # Function that calculates the rolling mean and standard deviation, as well as performing the Dickey-Fuller Test
-def stationarity_checking(df, window, figsize=(10,6)):
+def check_stationarity(df, window, figsize=(10,6)):
     """
     Function that calculates the rolling mean and standard deviation, 
     as well as performing the Dickey-Fuller Test
@@ -179,7 +178,7 @@ def stationarity_checking(df, window, figsize=(10,6)):
     window: size of the rolling average window
     
     """ 
-    # Calculating rolling mean and standard deviation:
+    # Calculating rolling mean and standard deviation
     rolling_mn = df.rolling(window).mean()
     rolling_std = df.rolling(window).std()
     
@@ -201,7 +200,8 @@ def stationarity_checking(df, window, figsize=(10,6)):
     
 
 def split_into_samples(seq, n_steps_past, n_steps_future):
-    """Create a function that splits a Univariate series into
+    """
+    Create a function that splits a Univariate series into
     multiple samples of the form [x1,x2,x3] --> [x4]
     
     Parameters:
@@ -230,10 +230,10 @@ def split_into_samples(seq, n_steps_past, n_steps_future):
 
 
 def compute_RMSE(true_val, predicted_val, p_output=True) -> float:
-    '''
+    """
     Compute the Root Mean Squared Error (RMSE) for two series - one describing
     the real values and the other the predicted.
-    '''
+    """
     from sklearn.metrics import mean_squared_error
     rms = np.sqrt(mean_squared_error(np.array(true_val), predicted_val))
     if p_output:
