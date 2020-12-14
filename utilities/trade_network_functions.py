@@ -55,7 +55,7 @@ def getAggregateStatistics(df: pd.core.frame.DataFrame, feature: str,
 def barplotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
                       topn: int, kind: str, year: str, figsize=(12,6)) -> None:
     """
-    Create a bar plot of the top-N countries compared to an aggregated column.        
+    Create a bar plot of the top-N countries based on an aggregated column.        
     """
     if kind != 'Import' and kind != 'Export':
         raise ValueError('Trade flow is not set to Import or Export')
@@ -65,7 +65,7 @@ def barplotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
                     palette='muted')
 
     if topn > 5 and topn <= 10:
-        rot = 40
+        rot = 0
     elif topn > 10:
         rot = 75
     else:
@@ -74,9 +74,9 @@ def barplotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
     g.set_xticklabels(g.get_xticklabels(), rotation=rot)
     plt.ticklabel_format(style='plain', axis='y')
     if year == 'all':
-        plt.title(f'Top-{topn} {kind}ers of vaccines around the globe')
+        plt.title(f'Top-{topn} {kind}ers of vaccines around the globe', fontweight='bold')
     else:
-        plt.title(f'Top-{topn} {kind}ers of vaccines in {year}')
+        plt.title(f'Top-{topn} {kind}ers of vaccines around the globe in {year}', fontweight='bold')
     plt.xlabel(f'{kind}er Country')
     if feature == 'Trade Value (US$)':
         plt.ylabel(f'Total amount of {kind}s in US$')
