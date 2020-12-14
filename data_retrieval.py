@@ -32,9 +32,9 @@ rg ='all'
 api_call_string = f'http://comtrade.un.org/api/get?max={max_rec}&type={trade_type}&freq={frequency}&px={px}&ps=year&r=reporter&p={partner}&rg={rg}&cc={cc}&fmt={output_fmt}'
 
 
-def getDataCall(api_string: str, reporterid: str, reportername: str, year: int, out_folder: str) -> None:
+def collect_data(api_string: str, reporterid: str, reportername: str, year: int, out_folder: str) -> None:
     """
-    Create a .csv file that contains the monthly data as received from  https://comtrade.un.org/Data/, for a specific year.
+    Create a CSV file that contains the monthly data as received from  https://comtrade.un.org/Data/, for a specified year.
 
     Args:
     ----
@@ -43,7 +43,7 @@ def getDataCall(api_string: str, reporterid: str, reportername: str, year: int, 
         year: Specify year of interest.
     Returns:
     -------
-        None: The output is a .csv file that contains the data for a specified year.
+        None: The output is a .csv file that contains the data for a specified country/year.
     """
     csv_by_year_out_loc = os.path.join(out_folder, f'{year}')
     if not os.path.exists(csv_by_year_out_loc):
@@ -82,14 +82,14 @@ reporters_list = [rep for rep in json_data['results']]
 years_ls = [2009]
 outputFilesFolder = f'CSVFiles\\'
 
-for api_check, repd in enumerate(reporters_list):
+for api_check, reporter in enumerate(reporters_list):
     # Need to make the script to sleep every 100 calls, as the API is blocking us for an hour for every 100 calls.
-    if api_check !=0 and api_check % 90 == 0:
+    if api_check !=0 and api_check % 100 == 0:
         time.sleep(3600)
-    countryname = repd['text']
-    c_id = repd['id']
+    countryname = reporter['text']
+    country_id = reporter['id']
     print(f'\nCountry..: {countryname}')
     for year in years_ls:
         print(f'\nReceiving the data for {year} from https://comtrade.un.org/...\n')
-        getDataCall(api_call_string, reporterid=c_id, reportername=countryname, year=year, out_folder=outputFilesFolder)
+        collect_data(api_call_string, reporterid=country_id, reportername=countryname, year=year, out_folder=outputFilesFolder)
         time.sleep(6)

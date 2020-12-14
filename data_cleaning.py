@@ -27,10 +27,10 @@ year = str(sys.argv[1])
 csv_loc = os.path.join(dirname, 'CSVFiles', year)
 
 
-def sniffValidCSV(csv_name: str, csv_folder: str) -> None:
+def valid_csv_sniffer(csv_name: str, csv_folder: str) -> None:
     """
-    Sniff a csv file to check if it contains valid data.
-    The csv files that are not valid will not have a string 'HS' as their first value of the 'Classification' column.
+    Check a CSV file to understand if it contains valid data.
+    The CSV files that are not valid will not have a string 'HS' as their first value of the 'Classification' column.
 
     Args:
     ----
@@ -38,9 +38,9 @@ def sniffValidCSV(csv_name: str, csv_folder: str) -> None:
         csv_folder: Path to the folder that contains all the csv files.
     """
     try:
-        sniffDf = pd.read_csv(os.path.join(csv_folder, csv_name), delimiter=',', nrows=1, header=[0])
+        sniffed_df = pd.read_csv(os.path.join(csv_folder, csv_name), delimiter=',', nrows=1, header=[0])
         try:
-            if sniffDf['Classification'][0] != 'HS':
+            if sniffed_df['Classification'][0] != 'HS':
                 print(f'The file {csv_name} does not contain valid data! Deleting file from directory..\n')
                 os.remove(os.path.join(csv_folder, csv_name))
             else:
@@ -54,7 +54,7 @@ def sniffValidCSV(csv_name: str, csv_folder: str) -> None:
         os.remove(os.path.join(csv_folder, csv_name))
 
 
-def readDataFrame(filepath):
+def read_dataframe(filepath):
     try:
         df = pd.read_csv(os.path.join(filepath), encoding='utf-8')
     except UnicodeDecodeError:
@@ -64,10 +64,10 @@ def readDataFrame(filepath):
 
 # Run the process to delete the files that do not contain relevant data for our analysis
 for file in os.listdir(csv_loc):
-    sniffValidCSV(file, csv_loc)
+    valid_csv_sniffer(file, csv_loc)
 
 # Merge the clean CSV files to a unique csv file.
-combined_csvs = pd.concat([readDataFrame(os.path.join(csv_loc, f)) for f in os.listdir(csv_loc)])
+combined_csvs = pd.concat([read_dataframe(os.path.join(csv_loc, f)) for f in os.listdir(csv_loc)])
 
 # Create a csv file
 if not os.path.exists(os.path.join(dirname, 'Merged_CSVs')):
