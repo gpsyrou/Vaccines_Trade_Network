@@ -24,7 +24,8 @@ def getAggregateStatistics(df: pd.core.frame.DataFrame, feature: str,
                      kind: str, year: str) -> pd.core.frame.DataFrame:
     """
     Given a dataframe and a feature column (numerical), identify the top
-    importers/exporters.
+    importers/exporters by aggregating on feature and return a sorted dataframe based
+    on this feature.
     
     Args:
     ----
