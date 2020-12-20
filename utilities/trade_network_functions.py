@@ -52,7 +52,7 @@ def getAggregateStatistics(df: pd.core.frame.DataFrame, feature: str,
     return df_sorted
 
 
-def barplotTopnCountries(df: pd.core.frame.DataFrame, feature: str,
+def barplot_topn_countries(df: pd.core.frame.DataFrame, feature: str,
                       topn: int, kind: str, year: str, figsize=(12,6)) -> None:
     """
     Create a bar plot of the top-N countries based on an aggregated column.        
@@ -168,23 +168,23 @@ def split_test_train(df, num_months_test = 1):
     return train_set, test_set
 
 # Function that calculates the rolling mean and standard deviation, as well as performing the Dickey-Fuller Test
-def check_stationarity(df, window, figsize=(10,6)):
+def check_stationarity(time_series, window, figsize=(10,6)):
     """
     Function that calculates the rolling mean and standard deviation, 
     as well as performing the Dickey-Fuller Test
     
     Parameters:
     
-    df: Time Series object
+    time_series: Time Series object
     window: size of the rolling average window
     
     """ 
     # Calculating rolling mean and standard deviation
-    rolling_mn = df.rolling(window).mean()
-    rolling_std = df.rolling(window).std()
+    rolling_mn = time_series.rolling(window).mean()
+    rolling_std = time_series.rolling(window).std()
     
     plt.figure(figsize=figsize)
-    plt.plot(df, color = 'blue',label = 'Original TS')
+    plt.plot(time_series, color = 'blue',label = 'Original TS')
     plt.plot(rolling_mn, color = 'red', label = 'Rolling Mean')
     plt.plot(rolling_std, color = 'black', label = 'Rolling St.Dev.')
     plt.legend(loc = 'best')
@@ -193,7 +193,7 @@ def check_stationarity(df, window, figsize=(10,6)):
     
     # Dickey-Fuller test:
     print('Results of Dickey-Fuller Test:')
-    fuller_test = adfuller(df, autolag = 'AIC')
+    fuller_test = adfuller(time_series, autolag = 'AIC')
     results_ts = pd.Series(fuller_test[0:4], index = ['Test Statistic','P-value','#Lags Used','Number of Observations Used'])
     for key,value in fuller_test[4].items():
         results_ts['Critical Value (%s)'%key] = value
