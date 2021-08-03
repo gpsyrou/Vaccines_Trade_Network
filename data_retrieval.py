@@ -9,14 +9,22 @@
 """
 
 # Import dependencies
+from typing import List
 import requests
 import csv
 import json
 import time
 import os
+import argparse
+
+parser = argparse.ArgumentParser(description='Provided list of years to retrieve data for')
+
+# Provide as input a list of years
+parser.add_argument('-years', '--arg', nargs='+', type=int, dest='years')
+args = parser.parse_args()
+print('List of years provided {}\n\n Initiating data retrieval process...\n\n'.format(args.years))
 
 # Get the data as separate csv files, each for every year of interest
-years_ls = [2020]
 outputFilesFolder = f'CSVFiles\\'
 
 # Setting up the parameters for the API calls to receive the data
@@ -90,7 +98,7 @@ for api_check, reporter in enumerate(reporters_list):
     countryname = reporter['text']
     country_id = reporter['id']
     print(f'\nCountry..: {countryname}')
-    for year in years_ls:
+    for year in args.years:
         print(f'\nReceiving the data for {year} from https://comtrade.un.org/...\n')
         collect_data(api_call_string, reporterid=country_id, reportername=countryname, year=year, out_folder=outputFilesFolder)
         time.sleep(6)
