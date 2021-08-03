@@ -15,6 +15,10 @@ import json
 import time
 import os
 
+# Get the data as separate csv files, each for every year of interest
+years_ls = [2020]
+outputFilesFolder = f'CSVFiles\\'
+
 # Setting up the parameters for the API calls to receive the data
 # Reference: https://comtrade.un.org/data/doc/api/#DataAvailabilityRequests
 
@@ -78,9 +82,6 @@ reporters_resp = requests.get(url=reporters_url, verify=False)
 json_data = json.loads(reporters_resp.text)
 
 reporters_list = [rep for rep in json_data['results']]
-# Get the data as separate csv files, each for every year of interest
-years_ls = [2009]
-outputFilesFolder = f'CSVFiles\\'
 
 for api_check, reporter in enumerate(reporters_list):
     # Need to make the script to sleep every 100 calls, as the API is blocking us for an hour for every 100 calls.
