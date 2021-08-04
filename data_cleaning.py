@@ -14,6 +14,7 @@ import os
 import sys
 import csv
 import pandas as pd
+import argparse
 
 # Some files received contain no data, as no recorded data exist for all countries.
 # Before we merge the files to a unique file that will contain the clean data,
@@ -22,9 +23,11 @@ import pandas as pd
 # Relative folder path to the executable dataCleaning.py file
 dirname = os.path.dirname(__file__)
 
-year = str(sys.argv[1])
+parser = argparse.ArgumentParser(description='Parses for year of interest')
+parser.add_argument('year', type=str, help='A required integer positional argumentn defining year of interest')
+args = parser.parse_args()
 
-csv_loc = os.path.join(dirname, 'CSVFiles', year)
+csv_loc = os.path.join(dirname, 'CSVFiles', args.year)
 
 
 def valid_csv_sniffer(csv_name: str, csv_folder: str) -> None:
@@ -73,4 +76,4 @@ combined_csvs = pd.concat([read_dataframe(os.path.join(csv_loc, f)) for f in os.
 if not os.path.exists(os.path.join(dirname, 'Merged_CSVs')):
     os.mkdir(os.path.join(dirname, 'Merged_CSVs'))
 
-combined_csvs.to_csv(f"Merged_CSVs\\Comtrade_Vacciness_Data_{year}", index=False)
+combined_csvs.to_csv(f"Merged_CSVs\\Comtrade_Vacciness_Data_{args.year}", index=False)
