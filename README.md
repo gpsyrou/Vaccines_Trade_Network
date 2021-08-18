@@ -20,7 +20,7 @@ Guide/Steps:
 
   1. Use the _data\_retrieval.py_ from the command line, and when prompted, provide a list of the years of interest for which you want to retrieve monthly data for.
         ``` 
-        python data_retrieval.py 2019 2020
+        python data_retrieval.py -years 2019 2020
         ```
   This process will create a separate CSV file per country.
 
