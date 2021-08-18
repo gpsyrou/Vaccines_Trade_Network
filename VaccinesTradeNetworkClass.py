@@ -26,7 +26,7 @@ class VaccinesTradeNetwork:
     def __init__(self, df, country: str):
         self.df = df
         self.country = country
-
+        self.available_years = sorted(list(df.Year.unique()), reverse=False)
 
     def createCountrySpecificDF(self) -> pd.core.frame.DataFrame:
         """
@@ -193,6 +193,7 @@ class VaccinesTradeNetwork:
             ts = temp[col]
             ts.plot(marker='.', color = np.random.rand(len(partner_list),3),
                           grid=True, linewidth=1, label=f'{partner}')
+        #plt.xticks(np.arange(min(self.available_years), max(self.available_years)+1, 1.0))
         plt.legend(loc='best', shadow=True, fontsize='medium')
         plt.title(f'Monthly Trade Value of Imports of Vaccines of {self.country} from {partner}')
         plt.xlabel('Year')
